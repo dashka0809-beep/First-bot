@@ -1,0 +1,13 @@
+# Хувийн орчуулгын кэш — push хийхгүй
+translations.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
