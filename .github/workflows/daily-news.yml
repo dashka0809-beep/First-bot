@@ -26,14 +26,6 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Cache translations
-        uses: actions/cache@v4
-        with:
-          path: translations.json
-          key: translations-${{ github.run_id }}
-          restore-keys: |
-            translations-
-
       - name: Install dependencies
         run: pip install --quiet feedparser deep-translator Pillow
 
@@ -44,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/index.html news.html
+          git add docs/index.html news.html translations.json
           if git diff --cached --quiet; then
             echo "No news changes today."
           else

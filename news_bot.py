@@ -9,6 +9,7 @@ import subprocess
 import importlib
 import html
 import json
+import time
 import webbrowser
 from datetime import datetime, timezone
 from pathlib import Path
@@ -140,6 +141,10 @@ OUTPUT_FILE = Path(__file__).parent / "news.html"
 CACHE_FILE = Path(__file__).parent / "translations.json"
 TARGET_LANG = "mn"
 
+TRANSLATE_DELAY_SEC = 0.25
+TRANSLATE_RETRIES = 3
+TRANSLATE_BACKOFF_SEC = 8
+
 
 def is_mongolian_source(url: str) -> bool:
     """URL домэйн .mn-ээр төгсвөл монгол гэж үзнэ (орчуулга алгасна)."""
@@ -236,12 +241,33 @@ def save_cache(cache: dict) -> None:
     )
 
 
+def _translate_with_retry(translator, text: str) -> str | None:
+    """Rate limit-д орвол 3 удаа хойшлон retry хийнэ. Бүтэлгүй бол None."""
+    if not text:
+        return ""
+    for attempt in range(1, TRANSLATE_RETRIES + 1):
+        try:
+            return translator.translate(text)
+        except Exception as e:
+            msg = str(e).lower()
+            is_rate_limit = "too many requests" in msg or "429" in msg
+            if attempt < TRANSLATE_RETRIES and is_rate_limit:
+                wait = TRANSLATE_BACKOFF_SEC * attempt
+                print(
+                    f"\n  … rate limit — {wait} секунд хүлээгээд retry ({attempt}/{TRANSLATE_RETRIES - 1})"
+                )
+                time.sleep(wait)
+                continue
+            raise
+
+
 def translate_all(data: list[dict], cache: dict) -> tuple[int, int, int]:
     """
     Бүх мэдээний title + summary-г монгол руу орчуулна.
     - Монгол эх сурвалж (.mn) — орчуулахгүй, эхээр нь үлдээнэ.
     - Кэшэд байгаа мэдээ — дахин орчуулахгүй.
-    - Алдаатай мэдээ — англиараа үлдээнэ (кэшэд хадгалахгүй, дараа дахин оролдоно).
+    - Google Translate rate limit-д хүрэхээс сэргийлж request хоорондоо
+      богино delay + rate limit гарвал backoff retry хийнэ.
     Буцаах: (шинээр орчуулсан, бүтэлгүй, монгол алгассан).
     """
     all_items = [it for cat in data for it in cat["items"]]
@@ -259,7 +285,6 @@ def translate_all(data: list[dict], cache: dict) -> tuple[int, int, int]:
         )
 
         if it["source_lang"] == "mn":
-            # Монгол эх — орчуулахгүй, гарчгийг эхээрээ үлдээнэ
             it["title_mn"] = it["title"]
             it["summary_mn"] = it["summary"]
             mn_count += 1
@@ -273,10 +298,10 @@ def translate_all(data: list[dict], cache: dict) -> tuple[int, int, int]:
             continue
 
         try:
-            title_mn = translator.translate(it["title"]) or it["title"]
-            summary_mn = (
-                translator.translate(it["summary"]) if it["summary"] else ""
-            ) or it["summary"]
+            title_mn = _translate_with_retry(translator, it["title"]) or it["title"]
+            time.sleep(TRANSLATE_DELAY_SEC)
+            summary_mn = _translate_with_retry(translator, it["summary"]) or it["summary"]
+            time.sleep(TRANSLATE_DELAY_SEC)
             it["title_mn"] = title_mn
             it["summary_mn"] = summary_mn
             cache[link] = {"title": title_mn, "summary": summary_mn}
