@@ -248,10 +248,12 @@ def _is_rate_limited(err: Exception) -> bool:
     return "too many requests" in msg or "429" in msg
 
 
-def _translate_with_retry(primary, fallback, text: str) -> str | None:
+def _translate_once(primary, fallback, text: str) -> str | None:
     """
-    Эхлээд Google Translate ашиглана. Rate limit гарвал MyMemory руу шилжинэ,
-    тэр нь мөн бүтэлгүй бол Google-д богино backoff-той retry хийнэ. Бүтэлгүй бол None.
+    Эхлээд Google Translate. Rate limit гарвал нэг л удаа MyMemory-т шилжинэ.
+    Аль аль нь бүтэлгүй бол алдаа raise хийнэ (дуудагч англиар үлдээнэ).
+    Хурдтай fail-хэх нь чухал — Actions runner-ийн IP аль аль сервистэй нэн даруй
+    блоклогдож болзошгүй тул удаан retry хийвэл workflow timeout-д ордог.
     """
     if not text:
         return ""
@@ -261,18 +263,7 @@ def _translate_with_retry(primary, fallback, text: str) -> str | None:
     except Exception as e:
         if not _is_rate_limited(e):
             raise
-    for attempt in range(1, TRANSLATE_RETRIES + 1):
-        try:
-            return fallback.translate(truncated)
-        except Exception as fe:
-            if attempt < TRANSLATE_RETRIES and _is_rate_limited(fe):
-                wait = TRANSLATE_BACKOFF_SEC * attempt
-                print(
-                    f"\n  … MyMemory rate limit — {wait} секунд хүлээгээд retry ({attempt}/{TRANSLATE_RETRIES - 1})"
-                )
-                time.sleep(wait)
-                continue
-            raise
+    return fallback.translate(truncated)
 
 
 def translate_all(data: list[dict], cache: dict) -> tuple[int, int, int]:
@@ -313,9 +304,9 @@ def translate_all(data: list[dict], cache: dict) -> tuple[int, int, int]:
             continue
 
         try:
-            title_mn = _translate_with_retry(translator, fallback, it["title"]) or it["title"]
+            title_mn = _translate_once(translator, fallback, it["title"]) or it["title"]
             time.sleep(TRANSLATE_DELAY_SEC)
-            summary_mn = _translate_with_retry(translator, fallback, it["summary"]) or it["summary"]
+            summary_mn = _translate_once(translator, fallback, it["summary"]) or it["summary"]
             time.sleep(TRANSLATE_DELAY_SEC)
             it["title_mn"] = title_mn
             it["summary_mn"] = summary_mn
