@@ -1,0 +1,846 @@
+{
+  "https://arxiv.org/abs/2605.08419": {
+    "title": "Эвристикгүйгээр детерминист бүрэн статик бүтэн хоёртын орчуулга",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://github.com/FULU-Foundation/OrcaSlicer-bambulab": {
+    "title": "Bambu Lab принтерийн BambuNetwork-ийн бүрэн дэмжлэгийг сэргээнэ үү",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://lpar.ATH0.com/posts/2026/05/the-vi-family/": {
+    "title": "vi гэр бүл",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://googlebook.google/": {
+    "title": "Googlebook",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://github.com/cactus-compute/needle": {
+    "title": "HN шоу: Зүү: Бид Gemini багажийг 26М загварт нэрлэсэн",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/": {
+    "title": "SecurityBaseline.eu",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260510030950.htm": {
+    "title": "\"Тайлбарлах боломжгүй\" - Шинэ хэт зэвэрдэггүй ган судлаачдыг гайхшруулж байна",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT": {
+    "title": "\"Би пап лам болох хүсэлт гаргасан\"",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://typesetinthefuture.com/2016/02/18/futuristic/": {
+    "title": "Текстээ хэрхэн ирээдүйтэй харагдуулах вэ (2016)",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem": {
+    "title": "Kraftwerk-ийн 1976 оны радикал зам",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise": {
+    "title": "Ахлах хөгжүүлэгчид яагаад өөрсдийн туршлагаа хуваалцдаггүй вэ?",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html": {
+    "title": "CERT нь dnsmasq дахь аюулгүй байдлын ноцтой эмзэг байдлын үүднээс зургаан CVE-г гаргаж байна",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://github.com/tracewayapp/traceway": {
+    "title": "Traceway: MIT-ийн лицензтэй ажиглалтын стекийг та ~90-ээд онд өөрөө зохион байгуулж болно",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://blogsystem5.substack.com/p/no-basic-in-endbasic": {
+    "title": "EndBASIC дээр BASIC байхгүй байсан бол яах вэ? - Хулио Мерино",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/": {
+    "title": "Миний төгсөлтийн малгай Rust ажилладаг",
+    "summary": "Сэтгэгдэл"
+  },
+  "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/": {
+    "title": "Medicare-ийн төлбөрийн шинэ загвар нь хиймэл оюун ухаанд зориулагдсан бөгөөд технологийн ертөнцийн ихэнх нь ямар ч ойлголтгүй байдаг",
+    "summary": "Өвчтөнийг очих хооронд хянадаг, бүртгүүлэхээр дууддаг, орон сууцны зуучлалын ажлыг зохицуулдаг, эсвэл хэн нэгэн эмийг нь авахыг баталгаажуулдаг хиймэл оюун ухааны төлөөлөгчийн төлбөрийг төлөх төрийн механизм байдаггүй. ACCESS энэ механизмыг анх удаа бүтээж байна."
+  },
+  "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/": {
+    "title": "Кевин Хартзын A* гурав дахь сангаа 450 сая доллараар хаалаа",
+    "summary": "Тус фирм нь хиймэл оюун ухааны хэрэглээ, финтек, эрүүл мэнд, аюулгүй байдал зэрэг төрөл бүрийн компаниудад дэмжлэг үзүүлж, ерөнхий хандлагыг баримталдаг. Энэ сангийн дундаж чекийн хэмжээ 3 сая доллараас 5 сая долларын хооронд байх бөгөөд дор хаяж 30 гарааны бизнесийг дэмжих зорилготой."
+  },
+  "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/": {
+    "title": "Tesla компанийн захирал, Heron Power компанийн гүйцэтгэх захирал асан Дрю Баглино дулааны насосыг үүсгэн байгуулжээ",
+    "summary": "Sadi Thermal Machines нь Дрю Баглиногийн 2024 онд Теслаг орхисноос хойшхи хоёр дахь гарааны бизнес юм."
+  },
+  "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/": {
+    "title": "Маск OpenAI-г хүүхдүүддээ өгөх гэж бодсон гэж Алтман гэрчилжээ",
+    "summary": "OpenAI нь дэвшилтэт хиймэл оюун ухааныг ганц хүний ​​гараас хол байлгах зорилготой байсан тул Маск ашгийн төлөөх үйл ажиллагааг хянахад анхаарлаа төвлөрүүлж байсан нь түүнийг түр зогсоосон гэж Алтман хэлсэн бөгөөд Алтман нэр хүндтэй стартап хурдасгуур Y Combinator-ийг удирдаж байсан туршлагатай учраас \"үүсгэн байгуулагчдыг..."
+  },
+  "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/": {
+    "title": "Anthropic нь хөрөнгө оруулагчдад өөрийн хувьцаанд нэвтрэх боломжийг санал болгодог хоёрдогч платформоос сэрэмжлүүлдэг",
+    "summary": "\"Эдгээр фирмүүдийн санал болгож буй Anthropic хувьцааг худалдах, шилжүүлэх, эсвэл Anthropic хувьцааны аливаа сонирхол нь хүчингүй бөгөөд манай дэвтэр, бүртгэлд хүлээн зөвшөөрөгдөхгүй\" гэж компанийн дэмжлэг үзүүлэх хуудсанд бичжээ."
+  },
+  "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/": {
+    "title": "Нүх нь хотуудад олон саяын өртөгтэй: Энэ компани нь хиймэл оюун ухаан, ачааны машин ашиглан засварлаж байна",
+    "summary": "Флотын удирдлагын компани Самсара янз бүрийн төрлийн нүхийг илрүүлж, хэр хурдан муудаж байгааг хэмжих хиймэл оюун ухааны загвар зохион бүтээжээ."
+  },
+  "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/": {
+    "title": "Тайлан: Google болон SpaceX нар дата төвүүдийг тойрог замд оруулахаар ярилцаж байна",
+    "summary": "Google болон SpaceX нар хиймэл оюун ухааны тооцооллын ирээдүйн гэр орон зайг бий болгож, тойрог замд дата төвүүд байгуулахаар ярилцаж байгаа ч өнөөдөр зардал нь газрынхаас хамаагүй өндөр хэвээр байна."
+  },
+  "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/": {
+    "title": "Google-ийн Android шоун дээр Google-ийн номноос эхлээд виб-кодтой виджет хүртэл Google-н зарласан бүх зүйл",
+    "summary": "Google өөрийн шинэ хиймэл оюун ухааныг анхдагч Googlebooks зөөврийн компьютер, илүү агент Gemini функцууд, виб-кодтой Android виджетүүд, Chrome дахь Gemini, шинэчлэгдсэн Android Auto болон бусад олон зүйлийг I/O-оос өмнө танилцууллаа."
+  },
+  "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/": {
+    "title": "AI хуулийн үйлчилгээний салбар халж байна - Anthropic арга хэмжээ авч байна",
+    "summary": "Anthropic-ийн шинэ хэрэгслүүд нь хуулийн фирмүүдэд бичиг хэргийн тодорхой чиг үүргийг автоматжуулахад туслах зорилготой бөгөөд үүнд баримт хайх, хянан үзэх, хэргийн хуулийн эх сурвалж, мэдүүлгийн бэлтгэл, баримт бичиг боловсруулах болон бусад холбогдох салбарууд юм."
+  },
+  "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/": {
+    "title": "Google Gemini-ээр ажилладаг диктантыг Gboard-д нэмсэн нь диктант стартапуудын хувьд муу мэдээ байж магадгүй юм.",
+    "summary": "Google-ийн транскрипцийн онцлог нь эхлээд Samsung Galaxy болон Google Pixel утаснуудтай ажиллах болно."
+  },
+  "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/": {
+    "title": "Андройд нь таныг сүйрлийг зогсоох функцийг нэмдэг",
+    "summary": "Google-ийн шинэ Android функц болох Pause Point нь донтуулдаг гүйлгэх зуршлаас сэргийлэхийн тулд анхаарал сарниулах програмуудыг нээхээс өмнө хүлээхийг шаарддаг."
+  },
+  "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/": {
+    "title": "Google компани хиймэл оюун ухаанд суурилсан зөөврийн компьютерын шинэ цуврал болох Googlebook-ээ танилцууллаа",
+    "summary": "Тус компани энэ намар худалдаанд гарах Googlebooks нь Gemini Intelligence-д хувийн болон идэвхтэй тусламж үзүүлэх зорилгоор анхнаасаа зохион бүтээсэн анхны зөөврийн компьютерууд гэж мэдэгджээ."
+  },
+  "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/": {
+    "title": "Google-ийн \"Миний виджетийг үүсгэх\" функц нь танд өөрийн виджетийг чичиргээгээр кодлох боломжийг олгоно",
+    "summary": "Виджет үүсгэхийн тулд хэрэглэгчид байгалийн хэлээр юу хүсч байгаагаа дүрслэх боломжтой болно. Жишээлбэл, та \"долоо хоног бүр уураг ихтэй хоол бэлтгэх гурван жор санал болгох\" онцлогоос асууж, үндсэн дэлгэц дээрээ нэмж, хэмжээг нь өөрчлөх боломжтой хяналтын самбар авах боломжтой."
+  },
+  "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/": {
+    "title": "Google нь Android-д AI болон vibe кодтой виджетүүдийг авчирдаг",
+    "summary": "Gemini Intelligence нь Gboard-д суурилсан диктант болон маягт бөглөх чадварыг багтаана."
+  },
+  "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/": {
+    "title": "Google тагнуулын програмын халдлагыг илрүүлэхэд туслах шинэ Android хамгаалалтын функцийг эхлүүллээ",
+    "summary": "Халдлагын бүртгэл нь хүний ​​эрхийн төлөө тэмцэгчид, сэтгүүлчид, тэрс үзэлтнүүдийг засгийн газрын тагнуулын халдлага болон хууль сахиулах байгууллагын шүүх эмнэлгийн төхөөрөмжөөс хамгаалахад туслах зорилготой Android-ын Нарийвчилсан хамгаалалтын горимын шинэ хэсэг юм."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine": {
+    "title": "Америкийн хөдөө орон нутагт дата төвүүд ирж байна",
+    "summary": "Оргил үедээ Портландаас баруун хойд зүгт 67 милийн зайд орших Мэн мужийн Жей хотод байдаг Андроскогжин цаасны үйлдвэр 2020 онд целлюлоз боловсруулах төхөөрөмж дэлбэрч, тээрэм бүрмөсөн хаагдах хүртэл 1500 орчим хүн ажилладаг байв. 2023 онд 1.4 сая метр квадрат талбай бүхий байгууламжийг худалдаж авсан ..."
+  },
+  "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer": {
+    "title": "“Amazon&#8217;s Panos Panay Fire утасны шинэ цуурхалд хандлаа",
+    "summary": "Амазоны төхөөрөмж, үйлчилгээний дарга Панос Панай хэлэхдээ, тус компани ухаалаг гар утас гаргахаар төлөвлөөгүй ч үүнийг шууд үгүйсгэхээ больсон. Амазон компани \"Transformer\" код нэртэй Alexa-г дэмждэг хиймэл оюун ухаантай утас бүтээж байгаа талаар өмнө нь мэдээлж байсан."
+  },
+  "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs": {
+    "title": "Sony-ийн шинэ Xperia гар утас нь хоцрогдсон дахин дизайнтай боллоо",
+    "summary": "Sony-ийн Xperia 1-ийн тэргүүлэх загварууд 2020 оноос хойш бараг ижил харагдах болсон ч энэ нь эцэст нь Xperia 1 VIII-тай өөрчлөгдөж, дөрвөлжин камертай том арал руу шилжсэн. Утас нь мөн AI камерын туслахын хамт мэдэгдэхүйц сайжруулсан телефото камертай байх ёстой ..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial": {
+    "title": "Сэм Алтман индэр дээр ялалт байгуулж байсан ч энэ нь хангалтгүй байж магадгүй юм",
+    "summary": "Хоёр долоо хоногийн турш янз бүрийн гэрчүүдээс түүнийг худал хуурмаг могой гэж сонссоны эцэст тангарагтны шүүгчид худалч могойн өөрөөс нь Сэм Алтманыг сонсов. Мэдээллийн төгсгөлд түүний өмгөөлөгч Уильям Савитт түүнээс буяны үйлс хулгайлсан хэрэгт буруутгагдах нь ямар санагдаж байгааг асуув. \"Бид бүтээсэн, дамжуулан ..."
+  },
+  "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization": {
+    "title": "iOS 27 нь Камерын аппликейшнд илүү их тохиргоог нэмж болно",
+    "summary": "Apple-ийн дараагийн iOS шинэчлэлт нь утасны гэрэл зурагчдын хүсэн хүлээж байсан зүйлийг багтааж болох юм: Камерын аппликейшн дээр илүү их хяналт. Bloomberg-ийн Марк Гурманы хэлснээр Камерын програмыг iOS 27-д \"бүрэн тохируулах\" боломжтой бөгөөд хэрэглэгчид \"өөрийн хяналтын багцыг сонгох боломжтой\""
+  },
+  "https://www.theverge.com/tech/929091/meta-ai-threads-account-block": {
+    "title": "Мета нь Threads дээрх AI бүртгэлээ хаахыг танд зөвшөөрөхгүй",
+    "summary": "Мета хэрэглэгчид платформ дээрх ярианы талаархи асуулт эсвэл контекстийн хариултыг авахын тулд Meta AI дансаа таглах боломжийг олгодог Threads функцийг туршиж байгаагаа Мягмар гарагт зарлав. Хэрэв та сүүлийн үед X дээрх хариултуудыг хайж байсан бол энэ шинэ функц нь Метагийнхтай их адилхан сонсогдож байна..."
+  },
+  "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls": {
+    "title": "Өсвөр насны хүүхдүүд Instagram алгоритмдаа шинэ сонирхол нэмэх үед Мета эцэг эхчүүдэд хэлэх болно",
+    "summary": "Мягмар гарагаас эхлэн эцэг эхчүүд өсвөр насны хүүхдүүдийнхээ талаар илүү дэлгэрэнгүй мэдээллийг Instagram-аас авах боломжтой. Мета өсвөр насныхны бүртгэлдээ \"сагсан бөмбөг\", \"загвар\" гэх мэт \"өсвөр насны хүүхдүүдийн сонирхдог ерөнхий сэдвүүдийг\" харуулдаг онцлогийг нэмж байна. Мета мөн удахгүй мэдэгдэнэ гэж мэдэгджээ ..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage": {
+    "title": "Сэм Алтман хэлэхдээ, Элон Маскийн оюун ухааны тоглоомууд OpenAI-ийг гэмтээж байсан",
+    "summary": "OpenAI-ийн гүйцэтгэх захирал Сэм Алтман хэлэхдээ, Элон Маск хиймэл оюун ухааны стартапын соёлд асар их хохирол учруулсан. Маскийн OpenAI-ийн эсрэг зарга мэдүүлэх үеэр Алтман хэлэхдээ Маск OpenAI-ийн ерөнхийлөгч Грег Брокман болон ахлах эрдэмтэн асан Илья Суцкевер нараас судлаачдыг өөрсдийнх нь үндэслэлээр эрэмблэхийг шаардсан гэж ..."
+  },
+  "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all": {
+    "title": "Android Auto одоо бүгдэд тохирох нэг (дэлгэц) хэмжээтэй болсон",
+    "summary": "Энэ долоо хоногт I/O дээр Google Android Auto-д зориулсан хэд хэдэн томоохон шинэчлэлтүүдийг гаргасан бөгөөд үүнд уламжлалт бус хэлбэртэй дэлгэцийн хэмжээг сайжруулах, YouTube-ээр дамжуулан видео дамжуулах, виджетийн дэмжлэг, мэдээжийн хэрэг хиймэл оюун ухаанаар ажилладаг Gemini-ийн илүү олон функцууд багтсан болно. Тус компани мөн зарим шинэчлэлтүүдийг зарлалаа ..."
+  },
+  "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook": {
+    "title": "Google Chromebook-ээ залгамжлагч болох Googlebook-ээ зарлалаа",
+    "summary": "Google намар худалдаанд гарах Googlebooks нэртэй зөөврийн компьютерын шинэ цувралыг зарлаж байна. Google-ийн Андройд шоуны үеэр андройд зориулсан төрөл бүрийн зарлалуудын өчүүхэн хэсэг нь тул дэлгэрэнгүй мэдээлэл одоогоор ховор байна. Гэхдээ энэ нь Goo-д зориулсан зөөврийн компьютерын салбарт томоохон шинэ санаачилга гэдгийг бид мэднэ ..."
+  },
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5": {
+    "title": "Санхүүгийн үйлчилгээний агентууд - Антропик",
+    "summary": "Санхүүгийн үйлчилгээний агентууд  Антропик"
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5": {
+    "title": "Anthropic хуулийн фирмүүд, хуульчдад зориулсан Клодын хиймэл оюун ухааны хэрэгслийг өргөжүүлж байна - Ройтерс",
+    "summary": "Anthropic хуулийн фирмүүд, хуульчдад зориулсан Клодын хиймэл оюун ухааны хэрэгслийг өргөжүүлж байна  ReutersAnthropic хуульчийн хамгийн сүүлийн үеийн хэрэгслүүд нь \"инженерт хуулийн зэрэг олгохтой адил\" гэж мэдэгдэв  Бизнесийн мэдээлэл Клауд Хуулийн нээлтэд зориулж, Хуулийн технологийн ертөнцийг өөрчлөх  Хиймэл хуульч"
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xYmItWjc3dW9jYkpsVEJ2R0E5YlFOR1BFTWR0cExDSFlDa3FXbVdTaHcweENTYmx0MmpSVWxGY2NuRnFoQVFTRDlCWVViaTBObmI1bk1yckF3aV91VC1zNmRYVmNtQ1RyMHplMlYza1ZnRVhtaGlSMXYxSno0X0U?oc=5": {
+    "title": "Anthropic's Claude Mythos үнэхээр кибер аюулгүй байдлын эрсдэл мөн үү? - Нью Йорк Таймс",
+    "summary": "Anthropic's Claude Mythos үнэхээр кибер аюулгүй байдлын эрсдэл мөн үү?  The New York Times"
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxORERpY2xtVlNQcVFRaGVIV01lX2tTM1ItVGtpcXBITU8wYUJyQU43RkJDYllPUVlCRkd5SUNKSVQzWnR3OXZwcjRxajB4X2F5cERNZWN5OEJHQ3VteWhNWkJjeGIza093U0hyUU1xSThBOWtZS3VzV2ZDaEUtckVJRGdIYXk0STNoY2g2ag?oc=5": {
+    "title": "Klaude-г SAP Business AI платформд оруулах SAP болон Anthropic төлөвлөгөө - SAP News Center",
+    "summary": "Klaude-г SAP Business AI платформд авчрах SAP болон Anthropic төлөвлөгөө  SAP News төвд"
+  },
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmZxSGR3dWhwMkRBNVgwSl91ZFVRLVptdTVhUERmcmF3dVROU21WT2hTeGExWldvNDBpN2RaNDY5MmxEa1llWGozcGRsZmNOeFJVLUFhVXoyYTlKMFhmWjc1dmRIckEyZVk4aTlGUk1jNGpuc2ZrMkhMN2xYRDM1dzBfWXN1SmtsRjRxaXJmYWtsMFJCb01UcEJkOWs2NEZGdWVhUjhmaktkLURIS0pnRzRham9JTldWNUREVmRLRERVNG1CLU5pSlBHbks2QQ?oc=5": {
+    "title": "AWS дээрх Клод платформыг танилцуулж байна: Anthropic-ийн төрөлх платформ, таны AWS дансаар дамжуулан - Amazon Web Services (AWS)",
+    "summary": "AWS дээрх Клод платформыг танилцуулж байна: Anthropic-ийн төрөлх платформ, таны AWS бүртгэл   Amazon Web Services (AWS)-ээр дамжуулан"
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakhxU1N2OXVZcjgyN2dmb280ZktzYWJwZXU5OWVjOEIwUFhMcV96WVA5b0g1OHFNQnBnMVlVMTVTcFVEc1JTQ1ZFd2NydkczakR3ZENtZU1SY3IycjZ6Q1p6dWUzU1pkbVJ5ZjNWQ2ZVTVpHY2djY3gzMWQtaHVMUHgtOWhlMVZPY0J5WXR6UGdDb0VNczVFaU1ZZ0VuLVhwcHdJZkdMYXVZWTZVelRjNW5NVXZSYzcxZkVB?oc=5": {
+    "title": "Anthropic компани хиймэл оюун ухаан нь яагаад инженерүүдийг шантаажилж байсныг мэдэж байгаа гэж мэдэгдэв - Euronews.com",
+    "summary": "Anthropic компани хиймэл оюун ухаан нь яагаад инженерүүдийг   Euronews.com руу харлуулж байсныг мэдэж байгаа гэжээ"
+  },
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGFjVnlsNW5zRnRWbmZuTFZnVm5zaHR0LXhqVFpObk81Rk9xdTN2cXQwREhQMXJmd2xYSVRtSFp0d3pZU2o1eWhobUs4MTJVVVVuS3JVS1dHUVpGQmdjNW44YUtSQlF5NU9zbkRpQV9lMHBnMnZUZU1taWdrc0hDa29NeVJYSHVfZUppMEc2R3Uteng2MG55OUFaRnlnUEp4MTlEUDJVZw?oc=5": {
+    "title": "Антропик яагаад Клодыг идэвхгүй болгоно гэж заналхийлсэн үед зохиомол захирлыг харлуулж байсныг тайлбарлав - Business Insider",
+    "summary": "Антропик яагаад Клодыг идэвхгүй болгоно гэж заналхийлсэн үед зохиомол захирлыг харлуулж байсныг тайлбарлав  Business Insider"
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0tDeC01TDd2eklVb0p3SlRSamZzWkI0M2ZCTGFsdjVRck85aHFIVVN2VEQ4ZGU4N2pvbVFSMHFfRWNwa3BkakYwWW1NUDlSTk5zNHpMWldFTXlrUkdYalh0LXdMQ3lRbl83a0RTM28zNDlKWEZmZzBtb0dVNGpTTEdmRjdsUEtmbDdIRUVUekw5R3ZxVlhOWHhsZ1lLUFN6M1Uta3VoaFo5akpHUExwVmgyS1E1WTlWaWVn?oc=5": {
+    "title": "Антропик нь хиймэл оюун ухааны \"муу\" дүр төрх нь Клодын шантаажлах оролдлогуудад хариуцлага хүлээсэн гэж хэлэв - TechCrunch",
+    "summary": "Антропик \"Хиймэл оюун ухааны \"муу\" дүр төрх нь Клодын шантаажлах оролдлогуудад хариуцлага хүлээсэн гэж мэдэгджээ  TechCrunch"
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV2lFY2FDYzRZM2M4V2owTERVZ003aEpNd1ZPNC1DUV9laXBRTVIyVFlzelh5QWc4LW9CLXhwTVZLQVp3OXJUbWZPaWtNSFZhM3NNNEtoc09BOUdCRDBEcHJXUm12Y3FiVndMeDdXRHA0OU9Pakd2eHNTQ1FIV1pxbFpZcW5qRnJaRUl3YUZ0Y1lIRWM?oc=5": {
+    "title": "Chrome дээр Claude Code эсвэл Claude ажиллуулж байна уу? Энд таны аюулгүй байдлын стек алддаг сохор цэг бүрийн аудитын матриц байна - VentureBeat",
+    "summary": "Chrome дээр Claude Code эсвэл Claude ажиллуулж байна уу? Энд таны аюулгүй байдлын стекийн орхигдуулсан сохор цэг бүрийн аудитын матриц байна  VentureBeat"
+  },
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXBVbnpHcmRiZEN0Z3VVeklKYS04RWZTUHN5Wk9MZHJrWDVjby1LelQzdFRSZWRlVlNhRXFfWjFjaGZmMHpZLW9UMHhrYU0wS1A5bVpsQ1FGWHIxLVpxZkEtUGlSWHlTUUJNVWRkcmR2emRhMWNCM3RuYnlHY1dNZXJibjU2dC04ZXhRaFBLcw?oc=5": {
+    "title": "Антропийн инженер AI агентын гаралтад Markdown ба HTML-ийн хэрэглээг мэтгэлцэж байна - Thurrott.com",
+    "summary": "Антропикийн инженер AI агентын гаралт дахь Markdown ба HTML-ийн хэрэглээг мэтгэлцэж байна  Thurrott.com"
+  },
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DcmdPTVkwYVNaUVhFeGp6TnktQU1oV0dlZEU3SllBalg1eWd4cF9JWE5JWnY1T0x6R3RjR3JtdUI4RjdJRjZHWWk2Z1oxMkNVOXdVc0VrTU1pUUczNWFaT3dlRFVhdlR6dFRiUHRiUDV6OWl1SzZj?oc=5": {
+    "title": "Дизайн нь ид эрин үе рүүгээ орлоо - Fast Company",
+    "summary": "Дизайн   Хурдан компанийхаа эрин үе рүү орж байна"
+  },
+  "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS0VhVmVTNmhPQXV2X3ZMbjI1dzE3dnhYZVdtclV4anZTMXhGdEJfYnpNb2xiMEtIU3l0SU92ek1aaDJSTTJ5Si1UR0s3NVhXdUszTTZib1pHWnI2c1Jld24wVzYtSUFzclBfeUtFNlB3NnN4XzNpV1AwYmpXSlp6N0w0QkhhRzNSN3NWbVZFcC1xQkl4ZWtrYllORVB6cE1Gc1Zxdlg4T1dXUExVZ3dvSmtCNEpvbkJzZWpydmVxa25wVHc3TVhfM01FUkdMSWFud3dmcG5Ya05EckNudEMweHp6bm1BU1pXOGItZnhfeWZlRzBmajF0SFFR?oc=5": {
+    "title": "Anthropic хэлэхдээ Клодын унтахын өмнөх сануулга нь зүгээр л \"зан чанарын тэмдэг\" боловч хиймэл оюун ухаан болон бидний талаар илүү том зүйлийг илчилдэг - TechRadar",
+    "summary": "Anthropic хэлэхдээ Клодын унтахын өмнөх сануулгууд нь зүгээр л \"зан чанарын шинж\" боловч хиймэл оюун ухаан болон бидний талаар илүү том зүйлийг илчилдэг  TechRadar"
+  },
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWNiRk1NeVVLYVoweTUxMzhNc3gzeXJMYkpkM01kbVdkT20xVnY4OEpncm44LVc5aWEtUUd1dXVhajhwZGJFNThsT0RCeXNkdnRMOUhSZzB4bzdaQ3d2ZDVDREx0cFMwYUluMkJSWF9xSjZUc3c0QWd2Uzg4aF9BZjlxdHpaWGl4SlhESHRXWXJ4SDA5aVFMYjJvTzZfWEV4SzgySg?oc=5": {
+    "title": "Anthropic нь OpenAI, Google-ийн ашигладаг хөгжүүлэгчийн хэрэглүүрийг худалдаж авахаар ярилцаж байна - Мэдээлэл",
+    "summary": "Anthropic in Talks to Buy Developer Tools Startup Used by OpenAI, Google  The Information"
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXlYUDFLdEJoaFFQTktLaFJiUkNtY3dLa3NMc2ktVmE5ODM4alJtd0lQd0VaSVM0UHBtNk03V3VobnBUM3lveV9oTnA5TXdBRTJTQ2M3cnplNlFaZEJtZ2tqa3pPWU1oenE5Q3E4LTEzUGRkVmd3ZTROVlFueC1RZ29qdGVSM1hGMDk2ZnJFWmNlQ3ZJ?oc=5": {
+    "title": "Антропик компани санхүүжилтээ 950 тэрбум доллараар нэмэгдүүлэхээр ярьж байна - The New York Times",
+    "summary": "Антропик 950 тэрбум долларын үнэлгээтэй санхүүжилтээ нэмэгдүүлэхээр ярилцаж байна The New York Times"
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFFIUXNiOUJTckdfbVdPaTZTTlFkcE91N1NEOExmb0V6M2Uzai0zNzhFVG5JRmtha05OUDRqTUdVQjl0OHVFSExUUTdvcEJ0cVZuYXliSlRBbUhpTmFPcDVBaFMtZHRpMnNBdXF4RktvTjVLQWlmd3BaTS1SZTM3aDRySUg1czVFRTBZdldYT2JNNk9za08teVdCYWxxV3ZxTl9VZXA0bDF3MWpQeEdPTXc4dkVPb1hFVmc?oc=5": {
+    "title": "Anthropic хөрөнгө оруулагчдад хоёрдогч зах зээлийн зарим худалдагчаас зайлсхийхийг анхааруулж байна - Bloomberg.com",
+    "summary": "Anthropic хөрөнгө оруулагчдад хоёрдогч зах зээлийн зарим худалдагчаас зайлсхийхийг анхааруулж байна  Bloomberg.com"
+  },
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE05dFliTGFLTVp3Ukg5YXRWcEl0bTJ0RVVUNnQ1VjlmTVc3WnFfTmJBdGFUV0RfTktkLTRmLWdxZEJ3MWdCd1JCcnNFYzcwU180RGhHcGRLMEZla25ORmFnbVhRM2VCQWgzUnJsUHI2OTg?oc=5": {
+    "title": "Anthropic's Claude Platform нь AWS - The New Stack дээр ирдэг",
+    "summary": "Anthropic's Claude Platform нь AWS  The New Stack дээр ирдэг"
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUy1RaUw5R1BhNXF4ZXdjVUFPNjMzMHJjNXhnWnBvX3ZyVzJNc2ZnbzQ4eExrSVczUGdmZ1ZQOUVicFI1a2UtY0ZhRDlUVUVNN3I3TjNkVXA3eHhJOE5XUUotUExQYnl0Ty1Va09NSVpfRnNGMXVoYUFlR1lmb0w1VXg0RXc3VlJWeUdmeXFKa1VGenhta3E5aUdFZ1pOWTJyMW5IRGU4c0d3aWZQRkNwcTc2dkowT2g1RloydnAxajE1UQ?oc=5": {
+    "title": "Anthropic нь Клод, Legal Tech Integrations-д зориулсан хууль зүйн практикийн нэмэлт өргөтгөлүүдийг зарлалаа - Law.com",
+    "summary": "Anthropic Claude, Legal Tech Integrations-д зориулсан хууль зүйн практикийн нэмэлт өргөтгөлүүдийг зарлалаа  Law.com"
+  },
+  "https://www.bloomberg.com/news/audio/2026-05-13/trump-headed-to-beijing-repeats-war-threats-against-iran-more": {
+    "title": "Трамп Бээжинг зорьж, Ираны эсрэг дайны заналхийллийг давтлаа",
+    "summary": "Эх сурвалж: Bloomberg, 6:11"
+  },
+  "https://www.bloomberg.com/news/audio/2026-05-13/stock-movers-intertek-abn-amro-adecco-podcast": {
+    "title": "Хувьцааны зөөгч: Intertek, ABN Amro, Adecco (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 4:17"
+  },
+  "https://www.bloomberg.com/news/audio/2026-05-13/bnef-tier-1-lists-the-mark-of-credibility-podcast": {
+    "title": "BNEF 1-р түвшний жагсаалт: Итгэмжлэлийн тэмдэг (Подкаст)",
+    "summary": "BloombergNEF-ийн 1-р түвшний жагсаалт нь цэвэр эрчим хүчний салбарын тодорхойлогч шинж чанар болсон. Төслийн ашиглалтын бодит өгөгдөл дээр тулгуурлан тэдгээр нь саяхан санхүүжүүлсэн томоохон төслүүдэд аль үйлдвэрлэгчийн бүтээгдэхүүнийг бодитоор ашиглаж байгааг хянаж, зах зээл рүү шилжих ил тод арга замыг санал болгодог ..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/nissan-forecasts-profit-in-early-sign-restructuring-is-working": {
+    "title": "Ниссан тэмдэгтийн бүтцийн өөрчлөлтөөс ашиг орлого олно гэж таамаглаж байна",
+    "summary": "Ниссан Мотор компани үйл ажиллагааны ашгийг зөвшилцсөн тооцооноос хамаагүй дээгүүр таамаглаж байгаа нь зардлаа бууруулах арга хэмжээнүүд нь автомашин үйлдвэрлэгчийн бэлэн мөнгөний хомсдолд орсон санхүүгийн байдлыг бууруулахад тусалж байгааг харуулж байна."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-05-13/nvidia-chief-s-appearance-thrusts-tech-into-spotlight-as-trump-visits-china": {
+    "title": "Трамп Хятадад айлчлах үеэр Nvidia-ийн тэргүүний сүүлийн минутад гарсан дүр төрх нь технологийн анхаарлын төвд байна.",
+    "summary": "Барьж ав."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/blackstone-drops-4-billion-new-world-deal-over-control-clash": {
+    "title": "Блэкстоун хяналтын мөргөлдөөний улмаас 4 тэрбум долларын шинэ ертөнцийн гэрээ байгууллаа",
+    "summary": "Блэкстоун компани New World Development Co-той 4 тэрбум долларын гэрээ байгуулах саналаас татгалзсан тул үл хөдлөх хөрөнгө эзэмшигч нь эрх мэдлээ хүлээлгэж өгөхөөс татгалзсан гэж энэ талаар сайн мэддэг хүмүүс мэдэгдэв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/japan-s-regional-bank-merger-wave-to-create-74-billion-lender": {
+    "title": "74 тэрбум долларын зээлдүүлэгчийг бий болгох Японы бүс нутгийн банк M&A давалгаа",
+    "summary": "Удаан хүлээгдэж буй салбарын нэгдэл хурдацтай явагдаж байгаа тул Японы төвийн бүс нутгийн хоёр банк үйл ажиллагаагаа нэгтгэхээр төлөвлөж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-05-13/starmer-clings-on-french-unemployment-jumps-more": {
+    "title": "Стармер наалдан, Францын ажилгүйдэл үсэрч, илүү их",
+    "summary": "Эх сурвалж: Bloomberg, 00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/strait-of-hormuz-shipping-standoff-hits-world-s-most-vulnerable-farmers": {
+    "title": "Персийн булангийн усан онгоцны зогсолт нь дэлхийн хамгийн эмзэг тариаланчдад нөлөөлж байна",
+    "summary": "Малави бол Ираны дайны улмаас бордооны зах зээлд гарсан үймээний улмаас хүнсний аюулгүй байдалд хэрхэн нөлөөлсөний тод жишээ юм."
+  },
+  "https://www.bloomberg.com/news/audio/2026-05-13/stock-movers-vistry-intertek-siemens-podcast": {
+    "title": "Хувьцааны зөөгч: Vistry, Intertek, Siemens (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 3:47"
+  },
+  "https://designverse.ai/blog": {
+    "title": "AI стартап нь Евро агаарын тээврийн системийг сайжруулж, 5.5 сая доллар цуглуулдаг",
+    "summary": "Нийтлэлийн URL: https://designverse.ai/blog Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=48119422 Оноо: 2 # Сэтгэгдэл: 3"
+  },
+  "https://comuniq.xyz/post?t=1069": {
+    "title": "Apple-ийн сэтгэлгээг ашиглан хэрхэн илүү сайн гарааны бүтээгдэхүүн бий болгох вэ",
+    "summary": "Нийтлэлийн URL: https://comuniq.xyz/post?t=1069 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=48118615 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://hirelikeapro.app/": {
+    "title": "Гарааны бизнесийг үүсгэн байгуулагчдад зориулсан хиймэл оюун ухааныг үнэгүй ажилд авах хэрэгсэл",
+    "summary": "Нийтлэлийн URL: https://hirelikeapro.app/ Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=48118538 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://nameclaim.xyz": {
+    "title": "Эхлүүлэх нэрс байгаа эсэхийг шалгана уу",
+    "summary": "Нийтлэлийн URL: https://nameclaim.xyz Сэтгэгдэл URL: https://news.ycombinator.com/item?id=48114521 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://ittech-pulse.com/news/grego-ai-prevents-27-7million-attack-with-ai-reasoning-breakthrough/": {
+    "title": "AI эхлүүлэх нь 27.7 сая долларын дайралтаас сэргийлдэг",
+    "summary": "Нийтлэлийн URL: https://ittech-pulse.com/news/grego-ai-prevents-27-7million-attack-with-ai-reasoning-breakthrough/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=48110838 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html": {
+    "title": "Нүцгэн металл STM32: вектор хүснэгт, холбогч скрипт, эхнээс нь эхлүүлэх код",
+    "summary": "Нийтлэлийн URL: https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html Сэтгэгдэл URL: https://news.ycombinator.com/item?id=48109270 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://old.reddit.com/r/Superframeworks/comments/1taj878/startup_roundup_may_11_gusto_hits_1b_revenue_vidi/": {
+    "title": "Тавдугаар сарын 11: Эхлэлийн тойм",
+    "summary": "Нийтлэлийн URL: https://old.reddit.com/r/Superframeworks/comments/1taj878/startup_roundup_may_11_gusto_hits_1b_revenue_vidi/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=48104914 Оноо: 2 # Сэтгэгдэл"
+  },
+  "https://www.lesecretairedefernand.co/en/entrepreneurship/can-startups-share-value-more-fairly-without-scaring-investors/": {
+    "title": "Эрт гарааны ажилчид хэзээ шударга хувь хүртэх вэ?",
+    "summary": "Нийтлэлийн URL: https://www.lesecretairedefernand.co/en/entrepreneurship/can-startups-share-value-more-fairly-without-scaring-investors/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=48097068 Оноо: 3 # Сэтгэгдэл: 1"
+  },
+  "https://www.tectonicdefense.com/exclusive-heaviside-emerges-from-stealth-with-28m-series-a/": {
+    "title": "Харааны зэвсгийн эхлэл, Heaviside, үл мэдэгдэх байдлаар – 28 сая долларын A Series",
+    "summary": "Нийтлэлийн URL: https://www.tectonicdefense.com/exclusive-heaviside-emerges-from-stealth-with-28m-series-a/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=48096340 Оноо: 3 # Сэтгэгдэл: 1"
+  },
+  "https://internals-for-interns.com/posts/linux-kernel-startup/": {
+    "title": "Линуксийн цөмийн эхлэл",
+    "summary": "Нийтлэлийн URL: https://internals-for-interns.com/posts/linux-kernel-startup/ Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=48092729 Оноо: 4 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/growing-a-business/5-tax-strategies-smart-founders-use-to-protect-their-profits/501764": {
+    "title": "Ухаалаг үүсгэн байгуулагчдын ашгаа хамгаалахын тулд ашигладаг татварын 5 стратеги",
+    "summary": "Борлуулалтын татварыг дагаж мөрдөхөөс эхлээд аж ахуйн нэгжийн бүтэц, жилийн эцсийн төлөвлөлт хүртэл эдгээр нийтлэг татварын алдаа нь ашиг орлогыг чимээгүйхэн шавхаж, өсч буй бизнесүүдэд үнэтэй асуудал үүсгэдэг."
+  },
+  "https://www.entrepreneur.com/growing-a-business/the-5-essential-stages-of-an-effective-sales-process/504103": {
+    "title": "Ирээдүйг үйлчлүүлэгчид болгон хувиргадаг 5 үе шаттай борлуулалтын үйл явц",
+    "summary": "Бизнес эрхлэгч бүр борлуулалтад системтэй хандах хэрэгтэй. Эндээс эхлэх хэрэгтэй."
+  },
+  "https://www.entrepreneur.com/leadership/3-lessons-an-nba-team-taught-me-that-shape-how-i-lead-today/504086": {
+    "title": "NBA-ын багт ажиллах нь миний карьерын манлайллын хамгийн чухал 3 хичээлийг надад хэрхэн зааж өгсөн бэ?",
+    "summary": "NBA-ын багт ажиллах нь надад сахилга бат, дарамт шахалт дор хэрхэн тоглохыг заасан. Би Гүйцэтгэх захирал болсныхоо дараа эдгээр сургамжуудыг ажил хэрэг болгосон."
+  },
+  "https://www.entrepreneur.com/growing-a-business/how-to-win-the-sale-before-the-customer-even-visits-your/504189": {
+    "title": "AI одоо хэрэглэгчид аль брэндийг хамгийн түрүүнд харахыг шийддэг - Таных тэдний нэг мөн үү?",
+    "summary": "Хиймэл оюун ухаан нь хүмүүс бүтээгдэхүүнээ олж, харьцуулдаг шинэ газар болж байгаа тул бизнес эрхлэгчид үйлчлүүлэгчид төлбөр тооцоо хийх хуудас руу орохоос өмнө хиймэл оюун ухаанд суурилсан шийдвэрийг оновчтой болгох хэрэгтэй."
+  },
+  "https://www.entrepreneur.com/starting-a-business/what-it-really-takes-to-build-an-authentic-brand/504078": {
+    "title": "Брэндийн жинхэнэ байдлыг хэрхэн зөв бий болгох вэ, мөн харилцагчдад хүрэх цэг бүрт үүнийг мэдэрдэг.",
+    "summary": "Брэндийн жинхэнэ байдал нь тухайн компанийн өөрийнхөө тухай юу хэлж байгаагаас хамаарч тодорхойлогддоггүй. Энэ нь хүмүүсийн онлайнаар, физик орон зайд болон тэдгээрийн хоорондох цэг бүрт тохиолддог зүйлсийн уялдаа холбоогоор бүтээгдсэн."
+  },
+  "https://www.entrepreneur.com/leadership/why-mentoring-young-people-can-help-your-business-boom/504220": {
+    "title": "Би залуучуудад зөвлөгөө өгч эхэлсэн. Энэ нь миний бизнесийг өөрчилсөн - Эндээс харж болно.",
+    "summary": "Ментор нь үүсгэн байгуулагчдыг илүү тодорхой бодож, илүү санаатайгаар удирдан чиглүүлж, бизнесийн өдөр тутмын шаардлагаас давж өсөхөд хүргэдэг."
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/these-are-the-top-10-franchises-in-every-industry-in-2026-2": {
+    "title": "Эдгээр нь 2026 оны салбар бүрийн шилдэг 10 франчайз юм",
+    "summary": "Шилдэг франчайзын нэгийг худалдаж авахыг хайж байна уу? Энэ жагсаалт нь таны хайлтыг хөнгөвчлөх болно."
+  },
+  "https://www.entrepreneur.com/living/the-trillion-dollar-skills-gap-is-here-dont-get-caught/503946": {
+    "title": "Ганцаараа төгссөн чинь чамайг дахиж ажилд авахгүй - Энд юу болох вэ",
+    "summary": "Эрдмийн зэрэг таныг хаалганд оруулдаг ч өгөгдөлд суурилсан карьерын бэлтгэл таныг өрөөнд байлгадаг. Зөвхөн сургуулиа төгсөх хэрэггүй; мэргэжлийн системээ оновчтой болгох эсвэл скриптээр \"дахин томилогдох\" эрсдэлтэй."
+  },
+  "https://www.entrepreneur.com/leadership/leaders-not-every-decision-deserves-your-attention-this-simple-framework-tells-you-which-ones-actually-do": {
+    "title": "Удирдагчид аа, шийдвэр болгон таны анхаарлыг татах ёсгүй. Энэхүү энгийн хүрээ нь аль нь бодитойгоор ажилладагийг танд хэлэх болно.",
+    "summary": "\"Нэг талын эсрэг хоёр талын хаалга\" тогтолцоо нь удирдагчдад нарийн төвөгтэй байдлыг даван туулах, багаа чадавхжуулах, илүү хурдан, ухаалаг шийдвэр гаргахад хэрхэн тусалдаг болохыг олж мэдээрэй."
+  },
+  "https://www.entrepreneur.com/business-news/walmart-target-dollar-general-are-pouring-billions-of-dollars-into-stores": {
+    "title": "Walmart, Target, Dollar General нар бизнесийнхээ нэг гайхмаар тал руу олон тэрбум доллар зарцуулж байна",
+    "summary": "Эдгээр томоохон жижиглэнгийн худалдаачид дэлгүүрийн ирээдүйд ихээхэн хөрөнгө оруулалт хийж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/ecb-s-rehn-says-data-show-first-signs-of-stagflationary-shock": {
+    "title": "ECB-ийн Рен хэлэхдээ, стагфляцийн цочролын анхны шинж тэмдэг нь өгөгдөл юм",
+    "summary": "Европын Төв Банкны Удирдах Зөвлөлийн гишүүн Олли Рен Ираны дайны үр дагавар болон эрчим хүчний үнийн өсөлтөөс үүдэн мэдээлэл стагфляцийн эхлэл болж байгааг анхааруулав."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-12/msci-removes-stocks-linked-to-indonesia-s-richest-from-indexes": {
+    "title": "MSCI Индонезийн хамгийн баян хувьцаануудыг индексүүдээс хасав",
+    "summary": "MSCI Inc өнгөрсөн сард төвлөрсөн өмчтэй компаниудыг хасна гэж анхааруулсны дараа тус улсын хамгийн баян тэрбумтнуудтай холбоотой Индонезийн зарим хувьцааг индексээсээ хасчээ. Хувьцаа уналаа."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/copper-climbs-toward-record-high-as-global-supply-tightens": {
+    "title": "Зэс дэлхийн нийлүүлэлт хумигдсанаар дээд амжилт тогтоов",
+    "summary": "Дэлхий даяар уурхайн тасалдалаас үүдэн нийлүүлэлтийн эрсдэл нэмэгдэж байгаатай холбогдуулан зэсийн үнэ 1-р сарын сүүлчээр тонн нь 14,000 ам.доллараас давж, дээд амжилт тогтоов."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/india-hikes-gold-and-silver-import-tariffs-to-protect-economy": {
+    "title": "Энэтхэг улс рупийг хамгаалахын тулд алт, мөнгөний тарифыг хоёр дахин нэмэгдүүлэв",
+    "summary": "Энэтхэг улс валютын нөөцөө нэмэгдүүлж, Ойрхи Дорнод дахь дайны хохирлыг хязгаарлахаар уралдан мөнгөн тэмдэгтээ хамгаалахын тулд алт, мөнгөнд импортын татвараа нэмжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/raiffeisen-raises-addiko-takeover-offer-as-bidding-race-heats-up": {
+    "title": "Тендерийн уралдаан халуу оргиж байгаа тул Райффайзен Аддиког авах саналыг дэвшүүлэв",
+    "summary": "Raiffeisen Bank International AG нь Addiko Bank AG-ийг худалдан авах саналаа сайжруулж, Балканы хэрэглээний зээлийн мэргэжилтэнг худалдан авах уралдааныг эрчимжүүлэв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/china-ai-stocks-surge-as-huang-s-visit-boosts-h200-supply-bets": {
+    "title": "Хуангийн айлчлал Nvidia-н нийлүүлэлтийн бооцоог нэмэгдүүлснээр Хятадын хиймэл оюуны хувьцааны ханш өсч байна",
+    "summary": "Женсен Хуанг Ерөнхийлөгч Дональд Трампын Бээжинд хийх айлчлалд нэгдэх нь Nvidia Корпорацийн дэвшилтэт чипүүдэд нэвтрэх боломжийг нэмэгдүүлэхэд тус дөхөм болж магадгүй гэсэн бооцоотойгоор Хятадын хиймэл оюун ухааны загвар хөгжүүлэгчдийн хувьцаа өссөн байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-12/gold-holds-decline-as-us-inflation-jump-lowers-rate-cut-odds": {
+    "title": "АНУ-ын инфляци сэргэж байгаа нь ХНС-ийн өсөлтийг нэмэгдүүлэх магадлалыг нэмэгдүүлснээр алт унав",
+    "summary": "АНУ-ын хэрэглээний үнийн өсөлт нь Холбооны нөөцийн бодлогын хүүг энэ онд нэмэх магадлалыг бууруулсны дараа алтны үнэ буурчээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/india-set-to-scale-back-russian-oil-imports-if-us-waiver-lapses": {
+    "title": "АНУ-ын эрх чөлөөлөлт хүчингүй болбол Энэтхэг Оросын нефтийн импортоо багасгах болно",
+    "summary": "Энэтхэгийн газрын тос боловсруулах үйлдвэрүүд Ираны дайны үр дагавартай тэмцэж байгаа АНУ-ын хориг арга хэмжээг энэ амралтын өдрүүдээс хойш сунгахгүй бол Оросын түүхий нефтийн импортоо багасгахаас аргагүйд хүрч магадгүй юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/blackrock-says-credit-income-beats-chasing-spreads-in-volatility": {
+    "title": "Зээлийн орлого хэлбэлзлийн тархалтыг давж байна гэж BlackRock хэлэв",
+    "summary": "BlackRock Inc.-ийн хэлснээр зээлийн зах зээлд орлого олохын тулд хөрөнгө оруулалт хийх нь өнөөгийн зах зээлийн тогтворгүй байдлыг зохицуулах хамгийн сайн арга юм."
+  },
+  "https://www.ft.com/content/156bf437-b5a8-40de-98c5-1ffe47d88b70": {
+    "title": "Ши Жиньпинтэй Тайванийн зэвсгийн борлуулалтын талаар хэлэлцэх Трампын төлөвлөгөө Азийн холбоотнуудыг шуугиулж байна",
+    "summary": "Тайбэй рүү зэвсэг экспортлох талаар Бээжинтэй хэлэлцээ хийвэл АНУ-ын урт хугацааны жишгийг эвдэх болно"
+  },
+  "https://www.ft.com/content/8db82813-85e1-4f82-83fd-fc224b605565": {
+    "title": "Трамп Хятадын итгэлцлийн ханыг эсэргүүцэж байна",
+    "summary": "АНУ-ын ерөнхийлөгч 2017 онд айлчилж байсан улсаас тэс өөр улстай учирна"
+  },
+  "https://www.ft.com/content/a8f9aa9b-94f7-4188-8c53-e18b614c373f": {
+    "title": "Ираны дайн ба хямд нислэгийн ирээдүй",
+    "summary": "Шатахууны үнийн өсөлт нь тээвэрлэгч компаниудыг дахин хямралд хүргэж байгаа тул хямд өртөгтэй агаарын аялал өнгөрсөн зүйл байж магадгүй юм"
+  },
+  "https://www.ft.com/content/46d7c52d-9ef6-4a44-a241-a1eaab64a321": {
+    "title": "Өгөгдөл: байхгүй болтол танд юу байгаагаа мэдэхгүй байна",
+    "summary": "Албан ёсны статистик мэдээлэл хэрэгтэй эсэхийг шийдэхийн тулд тэд алга болоход юу болохыг хараарай"
+  },
+  "https://www.ft.com/content/8774ab60-e94e-4386-b8f9-e89caaa5d11f": {
+    "title": "Манусын хэлмэгдүүлэлтийн дараа Хятадын компаниуд Сингапур руу нүүсэн хэвээр байх уу?",
+    "summary": "Хот мужид байрлах төв оффистой хиймэл оюун ухааны эхлэлийг авахыг хориглох Бээжингийн алхам нь \"Сингапурын угаалга\" тогтвортой байдалд саад учруулж байна."
+  },
+  "https://www.ft.com/content/113ddfa2-7322-45f2-ac10-59bb1b302444": {
+    "title": "JPMorgan хөрөнгө оруулалтын банкны удирдлагуудыг өөрчлөхөөр болжээ",
+    "summary": "Дороти Блессинг, Кевин Фоли, Жаред Кэй нар дэлхийн хөрөнгө оруулалтын банкны хамтын тэргүүн болно"
+  },
+  "https://www.ft.com/content/41c4c05b-9850-44cb-ba70-029f2cadbed1": {
+    "title": "JPMorgan эцэст нь Европ дахь хэрэглэгчийн банкаа ажиллуулж байна",
+    "summary": "Их Британид Chase дижитал банкаа байгуулснаас хойш бараг таван жилийн дараа Гүйцэтгэх захирал Жейми Даймон Германтай өрсөлдөхөөр бэлдэж байна."
+  },
+  "https://www.ft.com/content/ce9a2318-287c-4c07-89ae-3d8582ed5501": {
+    "title": "BYD нь \"флаш цэнэглэх\" технологи нь Европ дахь зах зээлд эзлэх байр сууриа эзлэхэд тусална гэж мэдэгдэв",
+    "summary": "Хятадын группын технологи нь цахилгаан тээврийн хэрэгслийг таван минутын дотор цэнэглэх боломжийг олгодог"
+  },
+  "https://www.ft.com/content/adabe0fe-3418-4f06-8c08-98db21250a49": {
+    "title": "АНУ-ын технологийн галзуу дэлхий даяар тархаж байгаа энэ үед Европын цөөн тооны хиймэл оюун ухаан өсөж байна",
+    "summary": "Хөрөнгө оруулагчид Уолл Стритийн жагсаалаас олон жилийн турш хоцорч байсан зах зээл дээр ялагчдыг хайж байна"
+  },
+  "https://www.ft.com/content/cba72e03-e47d-4d59-b59b-7dc4259b1265": {
+    "title": "Хятадын томоохон технологийн бүлгүүд хиймэл оюун ухаант хөрөнгийн зах зээлийн галзуурлыг алдаж байна",
+    "summary": "Хөрөнгө оруулагчид цэвэр хиймэл оюун ухаанд анхаарлаа төвлөрүүлснээр Tencent болон Alibaba нар ардаа орхижээ"
+  },
+  "https://www.marketwatch.com/story/he-is-retired-should-my-husband-take-his-social-security-at-62-and-invest-it-c7b74368?mod=mw_rss_topstories": {
+    "title": "\"Тэр тэтгэвэрт гарсан\": Нөхөр маань 62 настайдаа Нийгмийн даатгалаа аваад хөрөнгө оруулалт хийх ёстой юу?",
+    "summary": "\"Намайг ажиллаж байх хооронд тэр хүүхдүүдтэйгээ гэртээ үлдсэн тул түүний нийгмийн даатгалын тэтгэмж сард 1600 доллар байх болно.\""
+  },
+  "https://www.marketwatch.com/story/the-stock-market-doesnt-need-fed-cuts-says-morgan-stanley-as-it-rachets-s-p-500-view-higher-d39742b0?mod=mw_rss_topstories": {
+    "title": "Morgan Stanley S&P 500-ийн зорилтыг нэмэгдүүлэв. Яагаад Майк Вилсон зах зээл хамгийн том эрсдэлд аль хэдийн үнэлэгдсэн гэж хэлсэн.",
+    "summary": "Энэ бол хөрөнгийн зах зээлийн шинэ үнийн зорилтуудын улирал бөгөөд Морган Стэнли лхагва гарагт гаргасан шинэ хэтийн төлөвөөрөө S&P 500-ийн Уолл Стритийн зорилтуудын дээд шатанд нэгдэв."
+  },
+  "https://www.marketwatch.com/story/nvidias-jensen-huang-got-the-last-air-force-one-seat-to-china-why-its-so-crucial-for-the-chipmaker-7f220dbc?mod=mw_rss_topstories": {
+    "title": "Nvidia-ийн Женсен Хуанг Хятадад хамгийн сүүлд Air Force One суудал авсан. Энэ нь чип үйлдвэрлэгчийн хувьд яагаад маш чухал вэ?",
+    "summary": "Худалдаачид Nvidia компанийн гүйцэтгэх захирлыг Air Force One зорчигчдын жагсаалтад хожуу нэмсэн нь экспортын лицензийн талаар сайн мэдээ ирж магадгүй гэсэн дохио гэж тайлбарлаж байна."
+  },
+  "https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52?mod=mw_rss_topstories": {
+    "title": "Покерын аварга асан хөрөнгө оруулалтын дасгалжуулагч Энни Дюк бидний ихэнх нь эрсдэлийн талаар буруу боддог гэж хэлсэн",
+    "summary": "'Out' номын зохиогч зах зээлийн хөөс, хөрөнгө оруулалтын өндөр өртөгтэй алдаа, хөрөнгө оруулагчид яагаад хамгийн муу үед хөлддөг талаар ярьдаг."
+  },
+  "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories": {
+    "title": "Миний тэтгэврийн сан бол миний хиймэл оюун ухаантай адил юм. Энэ нь намайг боломжгүй үед үргэлжлүүлэн ажилладаг.",
+    "summary": "\"Мөнгөдөө анхаарал тавихгүй байх нь дотоод утгаараа өөртөө анхаарал тавихгүй байх болно.\""
+  },
+  "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories": {
+    "title": "\"Би үрэлгэн мөнгө зарцуулагч биш\": Би 90,000 долларын орлоготой 70 гарсан. Би усан сантай мөрөөдлийн байшингаа төлж чадах уу?",
+    "summary": "\"Миний одоогийн байшин бүх төлбөртэй, 650,000 долларын үнэтэй.\""
+  },
+  "https://www.marketwatch.com/story/she-is-very-angry-with-me-my-daughter-has-drug-issues-should-i-take-half-the-profit-from-the-sale-of-her-house-e99a23d4?mod=mw_rss_topstories": {
+    "title": "\"Тэр надад маш их уурлаж байна\": Миний охин 30 настай, хар тамхины асуудалтай. Би түүний байшинг зарсан ашгийн талыг нь авах ёстой юу?",
+    "summary": "\"Миний бодлоор хэзээ нэгэн цагт, тэр амьдралаа зохиох үед түүний өмнөөс хөрөнгө оруулалт хийх явдал юм.\""
+  },
+  "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories": {
+    "title": "Ираны дайны бодит өртөг нь зөвхөн өндөр үнэ биш, зах зээлийн саажилт юм",
+    "summary": "Зах зээлүүд үнийн өсөлтийг даван туулж чадна. Итгэлийг няцаадаг зүйл бол хөрөнгө оруулалтыг сааруулдаг тодорхойгүй байдал юм."
+  },
+  "https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories": {
+    "title": "Хувьцааны мөнгөн дэвсгэрт болон Төрийн сангийн 5%-ийн өгөөж энд байна",
+    "summary": "Өндөр хүү нь зээлдэгчдэд өндөр зардалтай гэсэн үг боловч 5% нь Төрийн сангийн зах зээл дээр үлдэх хандлагатай түвшин биш юм."
+  },
+  "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories": {
+    "title": "AI хүч үнэхээр шинэ тос мөн үү? Удахгүй яг л бараа шиг худалдаанд гарна.",
+    "summary": "CME групп нь хөрөнгө оруулагчдад тооцоолох хүчин чадлын үнээр бооцоо тавих боломжийг олгох фьючерс гаргахаар төлөвлөж байна."
+  },
+  "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss": {
+    "title": "Арван жилийн дараа Трамп илүү хүчирхэг, илүү итгэлтэй Хятад руу буцаж ирэв",
+    "summary": "Бээжин бол АНУ-ын түүхэндээ тулгарч байсан хамгийн хүчирхэг өрсөлдөгч гэж нэг шинжээч хэлэв."
+  },
+  "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss": {
+    "title": "Австралид дэлхийн хамгийн үнэтэй байшингууд байдаг. Татварын хөнгөлөлтөөс татгалзах нь тус болох уу?",
+    "summary": "Засгийн газар шинэчлэл залуучуудыг зах зээлд нэвтрэхэд тусална гэж найдаж байгаа бол шүүмжлэгчид нийлүүлэлтийг боомилно гэж үзэж байна."
+  },
+  "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss": {
+    "title": "Гана улс цагаачдын эсрэг жагсаалын улмаас Өмнөд Африкт 300 хүнийг нүүлгэн шилжүүлэхээр болжээ",
+    "summary": "Преториа дахь элчин сайдын яаманд бүртгүүлсэн \"зовсон\" Ганаачуудыг нүүлгэн шилжүүлэхээр Гадаад хэргийн сайд мэдэгдэв."
+  },
+  "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss": {
+    "title": "Ахмедабадын ослын эцсийн тайлан гарахаас өмнө Air India компанийн хямрал гүнзгийрч байна",
+    "summary": "Онгоцны ослоос гарахын төлөө тэмцэж байгаа Air India компани манлайллын орон зайд орж, санхүүгийн алдагдал нэмэгдсээр байна."
+  },
+  "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss": {
+    "title": "NBA-гийн анхны ижил хүйстнүүдийн ил тод тоглогч Жэйсон Коллинз 47 насандаа таалал төгсөв",
+    "summary": "Коллинз өнгөрсөн оны сүүлээр тархины хорт хавдрын түрэмгий хэлбэрийн оношлогдсон гэдгээ хуваалцсан."
+  },
+  "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss": {
+    "title": "Израилийн дайралтаар 13 хүн амь үрэгдсэний хоёр нь түргэн тусламжийн эмчийг Ливан мэдэгдэв",
+    "summary": "Ливаны Эрүүл мэндийн яамнаас мэдээлснээр түргэн тусламжийн эмч нар өмнө нь нэг хүний ​​аминд хүрсэн халдлагын хариуд Набатье хотод аврах ажиллагаа явуулж байна."
+  },
+  "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss": {
+    "title": "Трампын \"Алтан бөмбөгөр\" нь 1.2 тэрбум долларын үнэтэй бөгөөд пуужингийн довтолгоог бүрэн зогсоохгүй байж магадгүй юм.",
+    "summary": "Энэ үнэ нь Трампын анхны тооцооноос бараг долоо дахин өндөр байна гэж бие даасан төсвийн алба олж тогтоожээ."
+  },
+  "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss": {
+    "title": "Украины авлигын хэргийн мөрдөн байцаалт ширүүсч байгаа энэ үед Зеленскийн Тамгын газрын дарга асан шүүх хурал дээр байна",
+    "summary": "Андрей Ермакыг Украины авлигатай тэмцэх хоёр агентлаг мөнгө угаах гэмт хэрэгт сэжигтнээр тооцсон."
+  },
+  "https://www.bbc.com/news/articles/cx213vnvxvwo?at_medium=RSS&at_campaign=rss": {
+    "title": "Хулгайч Бейонсегийн дууг машинаас хулгайлсны дараа шоронд хоригджээ",
+    "summary": "Тэр хүн машиныг мөргөж, дуучны мөр бүхий хатуу диск бүхий ачаа тээшийг хулгайлсан байна."
+  },
+  "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss": {
+    "title": "Хантавирусын дэгдэлтийн шинж тэмдэг илрээгүй гэж НҮБ-ын эрүүл мэндийн агентлаг мэдэгдэв",
+    "summary": "Нөхцөл байдал өөрчлөгдөж, илүү олон батлагдсан тохиолдол гарч болзошгүй гэж ДЭМБ-ын тэргүүн анхаарууллаа."
+  },
+  "https://www.who.int/news/item/09-05-2026-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response": {
+    "title": "ДЭМБ-ын Ерөнхий захирлын хантавирусын хариу урвалын талаар Тенерифегийн ард түмэнд илгээсэн илгээлт",
+    "summary": "Тенерифегийн ард түмэнд хандаж хэлэхэд, намайг Тедрос гэдэг бөгөөд би НҮБ-ын дэлхийн нийтийн эрүүл мэндийг хариуцдаг Дэлхийн эрүүл мэндийн байгууллагын Ерөнхий захирлаар ажилладаг. Би нэг нийгэмлэгийн хүмүүст шууд бичих нь ердийн зүйл биш боловч өнөөдөр би үүнийг мэдэрч байна ..."
+  },
+  "https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship": {
+    "title": "Аялал жуулчлалын хөлөг онгоцтой холбоотой хантавирусын тохиолдлуудад ДЭМБ-ын хариу арга хэмжээ",
+    "summary": "ДЭМБ-ын Ерөнхий захирал, доктор Тедрос Адханом Гебрейюс өнөөдөр MV Hondius хэмээх аялалын хөлөг онгоцтой холбоотой хантавирусын тохиолдлын талаар хэвлэлийнхэнд мэдээлэл хийлээ. Одоогийн байдлаар найман тохиолдол бүртгэгдсэний гурав нь нас баржээ. 8 тохиолдлын тав нь хантавирус болох нь батлагдсан. Хантавирус нь…"
+  },
+  "https://www.who.int/news/item/04-05-2026-joint-call-by-the-president-of-the-icrc--the-director-general-of-who-and-the-international-president-of-msf": {
+    "title": "ОУУЗХ-ны ерөнхийлөгч, ДЭМБ-ын ерөнхий захирал, MSF-ийн олон улсын ерөнхийлөгч нарын хамтарсан дуудлага",
+    "summary": "Арван жилийн өмнө НҮБ-ын Аюулгүйн зөвлөл зэвсэгт мөргөлдөөний үед эрүүл мэндийн тусламж үзүүлэх тухай 2286 тоот тогтоолыг санал нэгтэй баталсан. 10 жилийн өмнөхтэй харьцуулахад нөхцөл байдал бүр дордсон. Өнөөдөр бид амжилтыг биш харин бүтэлгүйтлийг тэмдэглэж байна. Эмнэлгийн байгууллага, тээвэр, хүмүүст нөлөөлж буй хүчирхийллийн хувьд…"
+  },
+  "https://www.who.int/news/item/01-05-2026-who-member-states-agree-to-extend-negotiations-on-pathogen-access-and-benefit-sharing-annex": {
+    "title": "ДЭМБ-ын гишүүн орнууд эмгэг төрүүлэгч бичил биетний хүртээмж, үр өгөөжийг хуваалцах хавсралтын талаарх хэлэлцээг сунгахаар тохиролцов",
+    "summary": "Дэлхийн Эрүүл Мэндийн Байгууллагын (ДЭМБ) гишүүн улсууд ДЭМБ-ын тахлын эсрэг хэлэлцээрийн гол хэсэг болох Эмгэг төрүүлэгчийн хүртээмж, үр өгөөжийг хуваалцах (PABS) хавсралтын ажлыг ахиулсан бөгөөд өнөөдөр илүү сайн, илүү тэгш байдлыг хангах хүрээг эцэслэхэд нэмэлт цаг шаардлагатай гэж тохиролцов."
+  },
+  "https://www.who.int/news/item/29-04-2026-australia-becomes-the-30th-country-to-eliminate-trachoma-as-a-public-health-problem": {
+    "title": "Австрали улс нь трахома өвчнийг нийгмийн эрүүл мэндийн асуудал гэж устгасан 30 дахь орон боллоо",
+    "summary": "Дэлхийн Эрүүл Мэндийн Байгууллага (ДЭМБ) Австралид трахома өвчнийг нийгмийн эрүүл мэндийн асуудал болгон устгаж, уугуул иргэдийн эрүүл мэнд болон үл тоомсорлож буй халуун орны өвчин (NTDs)-тай тэмцэх дэлхийн хүчин чармайлтад чухал ач холбогдолтой үйл явцыг тэмдэглэж байна. Дэлхийд тэргүүлэгч Трахома..."
+  },
+  "https://www.who.int/news/item/28-04-2026-efforts-to-eliminate-hepatitis-delivers-gains-but-more-action-needed-to-meet-2030-targets": {
+    "title": "Гепатитыг устгах хүчин чармайлт нь ашиг авчрах боловч 2030 он хүртэлх зорилтод хүрэхийн тулд илүү их арга хэмжээ авах шаардлагатай байна",
+    "summary": "Вируст гепатиттай тэмцэх дэлхийн хүчин чармайлт нь халдвар, нас баралтыг бууруулахад хэмжигдэхүйц ахиц дэвшил гаргаж байгаа ч энэ өвчин дэлхийн эрүүл мэндийн томоохон сорилт хэвээр байна гэж Дэлхийн Эрүүл Мэндийн Байгууллагын (ДЭМБ) өнөөдөр дэлхийн гепатитын дээд хэмжээний уулзалтын үеэр гаргасан шинэ тайланд дурджээ."
+  },
+  "https://www.who.int/news/item/27-04-2026-practicing-today-for-tomorrow-s-emergencies-who-convenes-countries-and-partners-to-simulate-response-to-major-disease-outbreak": {
+    "title": "Маргаашийн онцгой байдлын үед өнөөдөр дадлага хийх нь - ДЭМБ гол өвчний дэгдэлтийн хариу арга хэмжээг дуурайх зорилгоор улс орнууд болон түншүүдээ цуглуулдаг.",
+    "summary": "Дэлхийн Эрүүл Мэндийн Байгууллага (ДЭМБ) дэлхий даяар тархаж буй зохиомол шинэ нянгийн дэгдэлт дээр үндэслэсэн 2 өдрийн өндөр түвшний симуляцийн дасгал болох Polaris II дасгалыг дуусгалаа. 26 улс орон, 600 эрүүл мэндийн яаралтай тусламжийн мэргэжилтэн, 25 гаруй х..."
+  },
+  "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests": {
+    "title": "ДЭМБ анх удаа нярай болон нярай хүүхдэд зориулсан хумхаа өвчний эмчилгээг урьдчилан шалгаруулж, оношилгооны шинэ сорилыг нэмж орууллаа.",
+    "summary": "Дөрөвдүгээр сарын 25-нд болох хумхаа өвчинтэй тэмцэх дэлхийн өдрийг угтан Дэлхийн эрүүл мэндийн байгууллага (ДЭМБ) 2-5 кг жинтэй нярай болон нярайд тусгайлан боловсруулсан анхны эмчилгээний урьдчилсан шалгуурыг хангаснаар хумхаа өвчний эсрэг тэмцэлд чухал алхам хийхээ зарлалаа."
+  },
+  "https://www.who.int/news/item/24-04-2026-largest-catch-up-initiative-delivers-over-100-million-childhood-vaccinations": {
+    "title": "Хамгийн том гүйцэх санаачлага нь 100 сая гаруй хүүхдийн вакцинжуулалтад хүргэдэг",
+    "summary": "2023 оны Дэлхийн Дархлаажуулалтын долоо хоногийн үеэр эхлүүлсэн “Big Catch-Up” арга хэмжээ нь дэлхийн 36 орны 18.3 сая хүүхдэд 100 сая гаруй тун вакциныг хүргээд байгаа бөгөөд 12.3 сая орчим нь өмнө нь вакцин хийлгээгүй “тэг тунтай хүүхэд”, 15… сая хүүхэд байна."
+  },
+  "https://www.who.int/news/item/23-04-2026-algeria-eliminates-trachoma-as-a-public-health-problem": {
+    "title": "Алжир нь трахома өвчнийг нийгмийн эрүүл мэндийн асуудал гэж устгадаг",
+    "summary": "Дэлхийн Эрүүл Мэндийн Байгууллага (ДЭМБ) Алжир улсыг трахома өвчнийг нийгмийн эрүүл мэндийн асуудал болгон устгасан болохыг баталж, ДЭМБ-ын Африкийн бүсийн 10 дахь орон, дэлхийн хэмжээнд энэхүү чухал амжилтыг үзүүлсэн 29 дэх орон боллоо."
+  },
+  "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss": {
+    "title": "Улс орнууд хантавирусын эсрэг хэрхэн хүлээж авч байна вэ?",
+    "summary": "Их Британи, АНУ, ЕХ нь вирусын халдвар авсан MV Hondius-аас гэртээ буцаж ирсэн бүх иргэдийг зургаан долоо хоног орчим бие даан тусгаарлахыг хүсч байна."
+  },
+  "https://www.bbc.com/news/articles/cvgzegw72jlo?at_medium=RSS&at_campaign=rss": {
+    "title": "Тэтгэвэрт гарсан шүдний эмчийн өвчтөнүүд цусаар дамждаг вирус, тэр дундаа ХДХВ-ийн халдвараас сэрэмжлүүлэв",
+    "summary": "Эрх баригчид Австралийн эмнэлэгт \"халдвартай тэмцэх арга барил муу\" тул өвчтөнүүдийг шинжилгээнд хамрагдахыг уриалав."
+  },
+  "https://www.bbc.com/news/articles/cwy2e9wlvjxo?at_medium=RSS&at_campaign=rss": {
+    "title": "Таргалалтыг зогсоосны дараа жингээ барихад туслах өдөр тутмын эм",
+    "summary": "Таблет буюу orforglipron нь АНУ-д худалдаалагдаж байгаа бөгөөд удахгүй Их Британид худалдаанд гарах болно."
+  },
+  "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss": {
+    "title": "Хантавирусын талаар бид хэр санаа зовох ёстой вэ?",
+    "summary": "Хантавирусын халдвар авсан байж болзошгүй зорчигчдыг нутаг буцаах гэж байгаа тул олон нийтэд ямар эрсдэлтэй вэ?"
+  },
+  "https://www.bbc.com/news/articles/c3v2dxg79w2o?at_medium=RSS&at_campaign=rss": {
+    "title": "Их Британид архины нас баралт Ковид тахлын дараа анх удаа буурч байна",
+    "summary": "Мэргэжилтнүүдийн үзэж байгаагаар \"даруухан бууралт\" нь \"тайвшрах шалтгаан биш\" бөгөөд нас баралтыг цаашид бууруулах хүчин чармайлтыг хоёр дахин нэмэгдүүлэхийг уриалж байна."
+  },
+  "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss": {
+    "title": "Францын иргэн хантавирусын халдвар авсан хөлөг онгоцноос буцаж ирэхэд шинж тэмдэг илэрчээ",
+    "summary": "MV Hondius-ийн таван зорчигчийг \"цаашид мэдэгдэл хүртэл Парист тусгаарлана\" гэж Францын Ерөнхий сайд мэдэгдэв."
+  },
+  "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss": {
+    "title": "Хантавирус гэж юу вэ, яаж тархдаг вэ?",
+    "summary": "Хүнээс хүнд халдварлах нь ховор вирусын Андын омгийг аялалын хөлөг онгоцны зорчигчдын дунд илрүүлжээ."
+  },
+  "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss": {
+    "title": "Этиоп эмэгтэй 12 жил хүүхэдтэй болохыг хичээсний эцэст ховор таван ихэр хүүхэдтэй болсондоо баярлаж байна",
+    "summary": "35 настай эмэгтэй хүүхэд төрүүлэхийн төлөө залбирч байсан бөгөөд \"нэг дор тавтай адислагдсандаа\" маш их баярласан гэжээ."
+  },
+  "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss": {
+    "title": "Гурван хүнийг нүүлгэн шилжүүлсний дараа Канарын арлууд руу явах замдаа Хантавирусын халдвар авсан аялалын хөлөг онгоц",
+    "summary": "MV Hondius онгоцонд байхдаа шинж тэмдэг илэрсэний дараа Нидерланд руу илгээгдсэн гурван нүүлгэн шилжүүлэгчийн дунд Британи эр байна."
+  },
+  "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&at_campaign=rss": {
+    "title": "Крузын зорчигчид хантавирусын дэгдэлтийн дараа гацсан хөлөг онгоцон дээрх амьдралын талаар ярьж байна",
+    "summary": "MV Hondius онгоцонд сууж байсан зорчигчид байдал тайван байна гэж мэдэгдэж байгаа ч албаны хүмүүс өвчин тархсан байж болзошгүй гэж анхааруулж байгаа тул далайд хоноглодог."
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260512213836.htm": {
+    "title": "Хорт хавдартай тэмцэх ховор ургамлын нэгдлийг тайлсан байна",
+    "summary": "UBC Okanagan-ийн эрдэмтэд хорт хавдрын эсрэг ирээдүйтэй байгалийн ховор нэгдэл болох митрафиллиныг ургамал хэрхэн үүсгэдэгийг илрүүлжээ. Тус баг молекулын ер бусын мушгирсан бүтцийг бий болгохын тулд хамтран ажилладаг хоёр ферментийг илрүүлж, далайн эрэг дэх нууцыг тайлсан ..."
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260512202320.htm": {
+    "title": "Эрдэмтэд полиомиелит болон нийтлэг ханиадны вирусын сул цэгийг илрүүлжээ",
+    "summary": "Балтимор тойргийн Мэрилэндийн их сургуулийн эрдэмтэд саа, миокардит, энцефалит, тэр ч байтугай ханиад зэрэг өвчний цаадах бүлэг болох энтеровирусууд хүний ​​эсийн дотор үржихэд ашигладаг чухал заль мэхийг илрүүлжээ. Баг урьд өмнө хэзээ ч байгаагүй нарийвчлан барьж авав ..."
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260511213204.htm": {
+    "title": "Эрдэмтэд хөгшрөлтийн эсрэг томоохон нээлт хийж, хуучин цусны үүдэл эсийг дахин залуужуулж байна",
+    "summary": "Цусны үүдэл эсүүд хөгшрөх тусам тэдний лизосомууд хэт идэвхжиж, гэмтэж үрэвслийг өдөөж, эрүүл цус, дархлааны эсийг нөхөн сэргээх биеийн чадварыг сулруулдаг. Эрдэмтэд эсийн \"хэт ачааллыг\" тайвшруулснаар үүдэл эсийн залуу үеийн үйл ажиллагааг сэргээж, ..."
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260511213201.htm": {
+    "title": "Эрдэмтэд энэ замаг нь ундны уснаас микропластикийг зайлуулж чадна гэж мэдэгджээ",
+    "summary": "Судлаачид уснаас хуванцар бохирдлыг бараг л соронзон мэт шүүрэн авч чаддаг тусгай төрлийн замаг бүтээжээ. Замаг нь улбар шар өнгийн анхилуун үнэртэй тос болох лимоненыг үйлдвэрлэж, ус зөөлрүүлдэг микропластиктай холбогдож, арилгахад хялбар бөөгнөрөл үүсгэдэг. Урамшууллын хувьд замаг…"
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260511213154.htm": {
+    "title": "Энэхүү хачирхалтай аварга үлэг гүрвэл нь Юрийн галавын титануудын талаар бидний мэддэг зүйлийг өөрчилж магадгүй юм",
+    "summary": "Аргентинаас олдсон хачирхалтай шинэ аварга том үлэг гүрвэл нь дэлхийн бөмбөрцгийн өмнөд хагаст Юрийн галавын титанууд хэрхэн хувьсан өөрчлөгдөж байсныг палеонтологичдод шинэлэг байдлаар харуулж байна. Bicharracosaurus dionidei нь 20 орчим метр урт бөгөөд Диплодокус, Брахи хоёрын аль алинд нь харагддаг хачирхалтай шинж чанаруудыг агуулсан ..."
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260511213151.htm": {
+    "title": "НАСА-гийн Хаббл урьд өмнө хэзээ ч байгаагүй том эмх замбараагүй гараг үржүүлгийн газрыг илрүүлжээ",
+    "summary": "Хаббл одон орон судлаачдын урьд өмнө харж байгаагүй асар том гараг үүсгэгч дискийг илрүүлжээ. “Дракулагийн Чивито” хочтой энэхүү асар том байгууламж нь үймээн самуунтай, хачирхалтай нь хазайсан мэт харагдах бөгөөд зөвхөн нэг талдаа өндөр судалтай байдаг. Диск нь эрч хүч өгөх хангалттай материал агуулсан…"
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260511213146.htm": {
+    "title": "Эрдэмтэд харь гарагийн амьдралыг илчилж болох химийн нууцыг илрүүлжээ",
+    "summary": "Эрдэмтэд харь гарагийн амьдралыг агнах хүчирхэг шинэ аргыг олсон байж магадгүй бөгөөд энэ нь тодорхой молекулуудыг хайх замаар биш, харин тэдгээр молекулууд хэрхэн зохион байгуулагддаг далд хэв маягийг эрэлхийлсэн байж магадгүй юм. Судлаачид амьд систем нь нэг төрлийн химийн \"хурууны хээ\" үлдээдэг болохыг олж мэдсэн ..."
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260511213144.htm": {
+    "title": "Эрдэмтэд 4 долоо хоногийн хоолны дэглэмийг өөрчилснөөр ахмад настнуудын биологийн насыг өөрчилсөн",
+    "summary": "Дөрвөн долоо хоногийн хоолны дэглэмийг өөрчлөх нь Сиднейн их сургуулийн шинэ судалгаагаар зарим ахмад настныг биологийн хувьд залуу харагдуулахад хангалттай байв. Өөх тосны хэрэглээгээ багасгасан эсвэл илүү ургамлын гаралтай уураг руу шилжсэн оролцогчид хөгшрөлттэй холбоотой эрүүл мэндийн гол биомаркерууд сайжирсан байна. Хамгийн хүчтэй r…"
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260511213141.htm": {
+    "title": "Эрдэмтэд ясыг бэхжүүлдэг далд өөх шатаах унтраалга илрүүлжээ",
+    "summary": "МакГиллийн их сургуулийн эрдэмтэд бодисын солилцоо, жингийн хяналттай холбоотой биеийн дулаан үүсгэгч өөх тосыг илчлэг шатаах хүчтэй системийг ажиллуулдаг далд молекулын “унтраагч”-ыг илрүүлжээ. Энэ нээлт нь өөх тос үүсэх үед ялгардаг молекул болох глицерин дээр төвлөрдөг ..."
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260511213139.htm": {
+    "title": "Гайхамшигтай чулуужсан олдвор нь амьтны амьдралын гарал үүслийг сорьж байна",
+    "summary": "Бразилаас ирсэн 540 сая жилийн нууцлаг бичил чулуужсан олдворуудыг дахин судалж буй эрдэмтэд амьтдын эрт үеийн амьдралын тухай гол санааг үгүйсгэв. Өчүүхэн өттэй төстэй амьтдын үлдээсэн ул мөр гэж бодож байсан зүйл нь одоо бактери, замагны чулуужсан бүлгэмдэл гэж үздэг."
+  },
+  "https://www.nature.com/articles/s41586-026-10615-3": {
+    "title": "Зохиогчийн залруулга: Гиппокамп дахь шагналыг урьдчилан таамаглах кодчилол",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/s41586-026-10615-3Зохиогчийн залруулга: Гиппокамп дахь шагналыг урьдчилан таамаглах кодчилол"
+  },
+  "https://www.nature.com/articles/s41586-026-10618-0": {
+    "title": "Зохиогчийн засвар: Механик ратчет нь нэг талын цитокинезийг хөдөлгөдөг",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/s41586-026-10618-0Зохиогчийн засвар: Механик ратчет нь нэг талын цитокинезийг хөдөлгөдөг."
+  },
+  "https://www.nature.com/articles/d41586-026-01518-4": {
+    "title": "Аяллын хөлөг онгоцны хантавирусын кластер нь илүү өргөн бэлэн байдлын зөрүүг харуулж байна",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/d41586-026-01518-4Круз хөлөг онгоцны хантавирусын кластер нь илүү өргөн бэлэн байдлын зөрүүг илрүүлж байна."
+  },
+  "https://www.nature.com/articles/d41586-026-01334-w": {
+    "title": "Чарльз Дарвин хэрэм гэнэтийн тухай мэдээлэв",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/d41586-026-01334-w Санаанд оромгүй амьтан интоорын цэцэгсийг шимж байгаа бөгөөд зурах урлагийн үнэ цэнийг энэ долоо хоногийн Байгалийн архиваас сонгон авч үзсэн болно."
+  },
+  "https://www.nature.com/articles/d41586-026-01520-w": {
+    "title": "Их Британийн Биобанкны зөрчил нь геномикийн салбарыг нээлттэй шинжлэх ухааныг эргэн харахыг уриалж байна",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/d41586-026-01520-wUK Биобанкны зөрчил нь геномикийн салбарыг нээлттэй шинжлэх ухааныг дахин бодоход түлхэц болж байна."
+  },
+  "https://www.nature.com/articles/d41586-026-01523-7": {
+    "title": "Мөсөн гол нь дэлхийн цаг уурын хамгийн удаан үргэлжилсэн тэмдэглэлийг харуулж байна",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/d41586-026-01523-7Антарктидаас авсан мэдээлэл нь мөстлөгийн үе яагаад ийм харгис хэрцгий байсны нууцыг тайлахад тусална."
+  },
+  "https://www.nature.com/articles/d41586-026-01519-3": {
+    "title": "Амьтанд туршилт хийх хувилбарууд нь судалгааны байгууллагуудад соёлын өөрчлөлтийг шаарддаг",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/d41586-026-01519-3Амьтанд турших хувилбарууд нь судалгааны байгууллагуудад соёлын өөрчлөлт хийх шаардлагатай болно."
+  },
+  "https://www.nature.com/articles/d41586-026-01521-9": {
+    "title": "AI эрин үеийн хими",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/d41586-026-01521-9 AI эрин үеийн хими"
+  },
+  "https://www.nature.com/articles/d41586-026-01156-w": {
+    "title": "Бактери-вирусын зөрчил нь холерын хувьслыг бүрдүүлдэг",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/d41586-026-01156-wGenomics болон туршилтын мэдээллээс харахад холер үүсгэгч бактери ба тэдгээрийн вирусын махчин амьтдын хоорондох зэвсгийн эволюцийн уралдаан нь хүний ​​​​өвчлөлийг бүрдүүлдэг."
+  },
+  "https://www.nature.com/articles/d41586-026-01474-z": {
+    "title": "Шинжлэх ухаан нь эдийн засгийн өсөлтийг илүү сайн хэмжихэд манлайлах боломжтой",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 12; doi:10.1038/d41586-026-01474-zНэгдсэн Үндэстний Байгууллагаас ДНБ-ээс давсан ахиц дэвшлийн үзүүлэлтүүдийг боловсруулахад эрдэмтдэд туслахыг хүсч байна. Судлаачид боломжоо ашиглаж, өмнөх бүтэлгүйтлүүдийг мэдэж байх ёстой."
+  },
+  "https://www.designboom.com/architecture/stefanoboeriarchitetti-monastery-space-faith-science-milan/": {
+    "title": "Стефано Боери хийдийг Милан дахь итгэл, шинжлэх ухааны орон зай гэж дахин дүрсэлжээ",
+    "summary": "Гурвалжин сүм, шашны номын сан, сүсэг бишрэлийн цэцэрлэг нь Миланы оюун санааны инновацийн дүүрэгт нэгддэг. Стефано боери хийдийг Милан дахь итгэл, шинжлэх ухааны орон зай гэж дахин дүрсэлсэн нийтлэл нь designboom дээр анх гарч ирэв | архитектур, дизайны сэтгүүл."
+  },
+  "https://www.designboom.com/design/v-zug-repurpose-products/": {
+    "title": "V-ZUG-ийн зориулалтын бүтээгдэхүүнүүд нь эргэлтийн циклээс гэрийн амралт руу шилждэг",
+    "summary": "Ашиглалтаас гарсан угаалгын машинуудыг буулгаснаар V-ZUG нь механик хэрэгслийг гэрийн хэрэгцээнд зориулсан уут, ширээний цуглуулга болгон хувиргадаг. V-ZUG-ийн эргэлтийн циклээс дотоодын амралт руу шилжих шилжилтийн дараах бүтээгдэхүүнүүд designboom дээр хамгийн түрүүнд гарч ирэв | архитектур, дизайны сэтгүүл."
+  },
+  "https://www.designboom.com/architecture/reflective-steel-volumes-pour-over-dripper-kurasu-beijing-pop-up-pavilion-atelier-l/": {
+    "title": "цацруулагч ган хэмжээ нь Курасугийн Бээжингийн попап павильоны дусаагуурыг дахин тайлбарлав.",
+    "summary": "харилцан уялдаатай хоёр боть нь шар айраг исгэх, олон нийтийн харилцан үйлчлэлийг зохион байгуулдаг. Тусгал цацруулагч гангийн хэмжээ нь Курасугийн Бээжингийн павильоны цутгах дусаагуурыг дахин тайлбарлаж, designboom дээр анх гарч ирэв | архитектур, дизайны сэтгүүл."
+  },
+  "https://www.designboom.com/art/yuko-mohri-unseen-energies-people-objects-entanglements-centro-botin-interview/": {
+    "title": "Yuko mohri нь хүмүүс болон объектуудыг холбодог үл үзэгдэх эрчим хүчийг тааруулдаг",
+    "summary": "centro botín-д зураач гоожиж буй хэлхээний кинетик орчин, хийцтэй дууны ландшафт, агаар, чийгшил, хог хаягдал, тохиолдлоос шалтгаалсан мэдрэмжтэй суурилуулалтыг үе шаттайгаар гаргадаг. Юко мохри бичлэг нь хүмүүс болон объектуудыг холбосон үл үзэгдэх энергийн тухай өгүүлдэг бөгөөд дизайн дээр хамгийн түрүүнд гарч ирэв ..."
+  },
+  "https://www.designboom.com/design/jongjin-park-folded-paper-porcelain-loewe-craft-prize-2026/": {
+    "title": "jongjin park LOEWE гар урлалын шагнал 2026 оны бүтээлд зориулж нугалсан цаасыг шаазан болгон хувиргалаа",
+    "summary": "Жонжин парк нь шаазан, цаас, толбо, паалангаар хийсэн шаазан эдлэл бүхий хуурмаг давхарга бүхий 2026 оны Loewe гар урлалын шагналыг хүртлээ. Post jongjin park LOEWE гар урлалын шагналын 2026 оны атираат цаасыг шаазан болгон хувиргалаа. архитектур, дизайн…"
+  },
+  "https://www.designboom.com/design/ceramsite-panels-bentu-design-aquaculture-waste-circular-building-material-metamorphosis-of-mud/": {
+    "title": "Bentu-ийн керамзит хавтангууд нь усны аж ахуйн хог хаягдлыг дугуй хэлбэртэй барилгын материал болгон хувиргадаг",
+    "summary": "Цөөрмийн лагийг геополимер технологиор шатаагаагүй керамзит хавтан болгон хувиргадаг. Bentu-ийн үйлдвэрлэсэн шуудангийн керамзит хавтангууд нь загасны аж ахуйн хаягдлыг дугуй хэлбэртэй барилгын материал болгон хувиргадаг. архитектур, дизайны сэтгүүл."
+  },
+  "https://www.designboom.com/architecture/banyan-trees-anonym-studio-open-air-family-house-saikhoo-thailand/": {
+    "title": "Тайланд дахь нэргүй студийн задгай гэр бүлийн байшинг хос банян мод зангуу болгож байна",
+    "summary": "Банян мод, дэнж, хашаанууд нь сайхан байшингийн орон зайн онцлогийг тодорхойлдог. Тайланд дахь аноним студийн задгай гэр бүлийн байшинг зангуутай хос банян моднууд нь designboom дээр анх гарч ирэв | архитектур, дизайны сэтгүүл."
+  },
+  "https://www.designboom.com/art/maroon-mashrabiya-pavilion-performances-communal-rituals-qatar-rirkrit-tiravanija-venice-art-biennale-2026/": {
+    "title": "Рикрит Тираванижа Венецид цугларалт, үзүүлбэр, зан үйлд зориулагдсан Катарын павильоныг зохион бүтээжээ.",
+    "summary": "Риркрит Тираванижагийн зохион бүтээсэн Жаардини дахь түр цуглардаг газар нь Арабын дэлхийн өнцөг булан бүрээс дуу чимээ, хоол хүнс, кино, хамтын оролцоог нэгтгэдэг. Пост рикрит тираванижа нь Венецид цугларалт, үзүүлбэр, зан үйлд зориулсан Катарын павильоныг зохион бүтээжээ ..."
+  },
+  "https://www.designboom.com/design/maison-aetherion-carves-translucent-minerals-into-sculptural-light-objects/": {
+    "title": "maison aetherion нь тунгалаг эрдэс бодисыг уран баримлын хөнгөн объект болгон сийлдэг",
+    "summary": "Мэйсон этерионы уран баримлын объектууд нь байгалийн ховор ашигт малтмалд шингэсэн дотоод ландшафт, судал, геологийн ой санамжийг илчилдэг. Post maison aetherion нь тунгалаг ашигт малтмалыг уран баримлын гэрлийн объект болгон сийлдэг бөгөөд designboom дээр анх гарч ирэв | архитектур, дизайны сэтгүүл"
+  },
+  "https://www.designboom.com/art/melting-eyewear-glass-gold-sculpture-design-optics-venice-biennale-sini-majuri/": {
+    "title": "Шилэн болон алтаар хайлсан нүдний шил нь Венецийн биенналд уран баримал, дизайн, оптикийг бүдгэрүүлж байна",
+    "summary": "хайлж буй дүрс нь харааны тогтолцооны гажуудлыг илтгэнэ. Шил, алтаар хайлсан нүдний шил нь Венецийн биеннальд уран баримал, дизайн, оптикийг бүдгэрүүлдэг. designboom дээр анх гарч ирэв | архитектур, дизайны сэтгүүл."
+  },
+  "https://www.creativebloq.com/art/digital-art/how-to-create-a-towering-mech-in-photoshop": {
+    "title": "Photoshop дээр өндөр механикийг хэрхэн зурах вэ",
+    "summary": "JC Jongwon Park робот баатруудын тусламжтайгаар концепцийн урлагийг бүтээх хувийн ажлынхаа урсгалыг дэлгэв."
+  },
+  "https://www.creativebloq.com/tech/laptops/benq-rd280ug-tries-to-prove-that-tall-is-the-new-wide": {
+    "title": "BenQ RD280UG нь өндөр бол шинэ өргөн гэдгийг батлахыг оролддог",
+    "summary": "Кодлох зориулалттай дэлгэц нь бүгдийг хийж чадна"
+  },
+  "https://www.creativebloq.com/tech/headphones-earbuds/these-retro-bluetooth-headphones-arent-even-on-sale-but-for-usd30-just-buy-them": {
+    "title": "Эдгээр чимэг Bluetooth чихэвч худалдаанд гараагүй ч 30 доллараар худалдаж аваарай",
+    "summary": "FiiO EH11 нь гайхалтай харагдаж байгаа бөгөөд үнэхээр гайхалтай сонсогдож байна."
+  },
+  "https://www.creativebloq.com/3d/video-game-design/people-cant-believe-this-indie-game-achieved-such-realistic-faces-with-a-retro-technique": {
+    "title": "Энэхүү инди тоглоом нь ретро техникээр ийм бодит дүр төрхийг бий болгосон гэдэгт хүмүүс итгэхгүй байна",
+    "summary": "Z Gen FMV-г нээсэн."
+  },
+  "https://www.creativebloq.com/3d/video-game-design/how-to-play-the-viral-trump-iran-war-video-game": {
+    "title": "Operation Epic Furious бол Дональд Трампын Ираны дайнаас сэдэвлэсэн видео тоглоом юм",
+    "summary": "Эсэргүүцлийн урлаг нь чимэг тоглоомтой нийцдэг."
+  },
+  "https://www.creativebloq.com/tech/headphones-earbuds/these-tropical-wood-earphones-could-be-the-prettiest-small-things-you-ever-own": {
+    "title": "Эдгээр халуун орны модон чихэвч нь таны эзэмшиж байсан хамгийн хөөрхөн жижиг зүйлс байж болох юм",
+    "summary": "Гэхдээ тэд үнэ цэнэтэй юу?"
+  },
+  "https://www.creativebloq.com/entertainment/gaming/the-switch-2-price-hike-everything-you-need-to-know": {
+    "title": "Switch 2-ын үнийн өсөлт: Таны мэдэх ёстой бүх зүйл",
+    "summary": "Nintendo үнэхээр сонголтгүй байсан уу? Эсвэл хөрөнгө оруулагчдын шахалтад орсон."
+  },
+  "https://www.creativebloq.com/design/fonts-typography/gotham-variable": {
+    "title": "Дэлхийн хамгийн алдартай үсгийн хэлбэрүүдийн нэг нь шинэчлэгдсэн",
+    "summary": "Gotham Variable-д сайн уу гэж хэлээрэй."
+  },
+  "https://www.creativebloq.com/tech/samsungs-frame-tv-just-got-a-huge-price-cut-but-heres-why-id-pick-one-of-these-dedicated-art-frames-instead": {
+    "title": "Samsung-ийн Frame TV-ийн үнэ маш их хямдарсан - гэхдээ би үүний оронд эдгээр зориулалтын урлагийн жаазнуудын аль нэгийг сонгохыг хүсч байна.",
+    "summary": "Яагаад би OLED дээр тусгайлан зориулсан ePaper зургийн жааз авах ёстой гэж?"
+  },
+  "https://www.creativebloq.com/design/advertising/people-cant-work-out-the-popstar-in-this-strange-mcdonalds-ad": {
+    "title": "Хүмүүс McDonald's-ийн энэхүү хачирхалтай сурталчилгааг өдөөсөн хүнийг олж чадахгүй байна",
+    "summary": "Та хэн гэдгийг мэдэх үү?"
+  },
+  "https://www.dezeen.com/2026/05/13/larder-cupboard-inglis-hall-dezeen-showroom/": {
+    "title": "Inglis Hall-ийн том шүүгээ",
+    "summary": "Dezeen Showroom: Английн гал тогооны Inglis Hall брэнд Larder шүүгээгээ загвар зохион бүтээгч Жэй Осгербигийн өөрийн орны гал тогоонд зориулан хэний ч мэдэхгүйгээс сонгож авсан гоёмсог модон шүүгээ худалдаанд гаргалаа. Inglis Hall анх Larder шүүгээг цехийнхээ хэрэгцээт хэсэг болгон зохион бүтээжээ."
+  },
+  "https://www.dezeen.com/2026/05/13/dezeen-shortlisted-awards-bsme-aop-ppa/": {
+    "title": "Dezeen есөн салбарын шагналын жагсаалтад багтсан",
+    "summary": "Dezeen нь нэр хүндтэй BSME, AOP, PPA болон Conference and Events Awards-т шалгарсан. Нийтдээ Дэзээн салбарын тэргүүлэгч дөрвөн шагнал гардуулах ёслолын есөн шагналын жагсаалтад багтжээ. Редакцийн болон студийн багууд BSME Talent Awards-ийн гурвалсан жагсаалтад шалгарчээ."
+  },
+  "https://www.dezeen.com/2026/05/13/lex-pott-portable-lamp-ikea-ps-collection/": {
+    "title": "Лекс Потт IKEA-д зориулж \"бүх нийтийн бөгөөд мадаггүй зөв\" зөөврийн чийдэнг бүтээжээ",
+    "summary": "Нидерландын загвар зохион бүтээгч Лекс Потт IKEA-гийн хамгийн сүүлийн үеийн PS цуглуулгын нэг хэсэг болгон PS2026 зөөврийн чийдэнг бүтээсэн бөгөөд өнөөдөр нээлтээ хийх гэж байна. Цэнэглэдэг чийдэн нь Поттын 35 ширхэг PS цуглуулгад зориулан бүтээсэн дөрвөн загварын нэг бөгөөд хувиргадаг чийдэнгийн хамт..."
+  },
+  "https://www.dezeen.com/2026/05/13/miriam-peterson-and-david-hills-dezeen-awards-2026-judges/": {
+    "title": "Мириам Петерсон, Дэвид Хиллс нар Dezeen Awards 2026-ын шүүгчээр тодорчээ",
+    "summary": "Архитекторууд Мириам Петерсон, Дэвид Хиллс, дизайнерууд Мин Чен, Донна МакКолм нар Dezeen Awards 2026-ын шүүгчдийн бүрэлдэхүүнд нэгдсэн. Dezeen Awards нь Trimble-тэй хамтран дэлхийн шилдэг архитектур, интерьер, дизайныг эрэлхийлж байна. Хоёр долоо хоногоос бага хугацаа байна…"
+  },
+  "https://www.dezeen.com/2026/05/13/kitkats-break-mode-smartphone-packaging/": {
+    "title": "KitKat сав баглаа боодол нь дохиог блоклодог ухаалаг гар утасны уут болгон өөрчилдөг",
+    "summary": "Бүтээлч агентлаг Ogilvy нь KitKat-д зориулж тусгай хэвлэлийн сав баглаа боодол бүтээж, жигнэмэгийг арилгасны дараа ухаалаг гар утасны жижигхэн шорон болж, хэрэглэгчдэд хэт холбоотой амьдралаас \"амрах\" боломжийг олгодог. Ogilvy Colombia болон KitKat Panama-ийн бүтээсэн Break Mode нь…"
+  },
+  "https://www.dezeen.com/2026/05/12/jaderalmeida-new-furniture-nycxdesign-2026/": {
+    "title": "Жадералмейда Нью-Йоркт АНУ-ын тэргүүлэх байрыг нээлээ",
+    "summary": "Сурталчилгаа: Нью-Йорк дахь үзэсгэлэнгийн танхимаа нээж, ICFF-д оролцож, удахгүй болох NYCxDesign-ийн дебютээ хийснээр Бразилийн Jaderalmeida брэнд Хойд Америкийн дизайны тавцанд өөрийгөө бий болгохыг зорьж байна. Дизайнер Жадер Алмейда 2004 онд үүсгэн байгуулсан тус брэнд нь АНУ-ын анхны тэргүүлэгчээ нээсэн…"
+  },
+  "https://www.dezeen.com/2026/05/12/sla-toronto-portlands-neighborhood-car-free/": {
+    "title": "Торонто арлын хөрш Канадын \"хамгийн амбицтай\" машингүй орон зайг харуулах болно",
+    "summary": "Данийн ландшафтын студи SLA нь Торонтогийн Порт Лэндс дүүргийн нэгэн арлын хорооллын дизайнеруудын нэг бөгөөд хотын төлөвлөлтийн албан тушаалтнаас тодорхой мэдээлэл авсны дараа урагшлахаар төлөвлөж байна. Торонтогийн олон талт далайн эргийн дахин төлөвлөлтийн хамгийн сүүлийн хэсэг болох Ookwemin Min…"
+  },
+  "https://www.dezeen.com/2026/05/12/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun-dezeen-debate/": {
+    "title": "Dezeen Debate нь Мароккогийн \"зохистой шинжлэх ухааны уран зөгнөлт\" хамгийн өндөр барилга юм",
+    "summary": "Манай Dezeen мэтгэлцээний мэдээллийн товхимолын хамгийн сүүлийн дугаарт Мароккогийн хамгийн өндөр барилгын нээлтийг онцолж байна. Dezeen Debate-д яг одоо бүртгүүлээрэй. Архитектурын студи Рафаэль де Ла‑Хоз, Хаким Бенжеллоун нар саяхан 250 метр өндөр Мохаммед VI цамхгийн загварыг танилцуулсан бөгөөд энэ нь одоо Мароккогийн..."
+  },
+  "https://www.dezeen.com/2026/05/12/whistler-hideaway-bricault-design-vancouver-cabin/": {
+    "title": "Bricault Design нь Канадад \"ойролцоох оргилуудтай хэлээ хуваалцах\" зорилгоор байшинг хэлбэржүүлдэг",
+    "summary": "Канадын Bricault Design студи Канадын Бритиш Колумби дахь ой модтой талбайтайгаа уялдуулан хөгшрөхийн тулд зэргэлдээх уулын оргилуудын дагуу ногоон дээвэр, шиферээр бүрсэн бүхээгийг бүтээжээ. Whistler Hideaway гэгддэг, 1268 хавтгай дөрвөлжин метр талбайтай (118 хавтгай дөрвөлжин метр) оршин суудаг бал…"
+  },
+  "https://www.dezeen.com/2026/05/12/icff-new-york-november-2027/": {
+    "title": "Нью-Йоркийн ICFF 2027 оноос арваннэгдүгээр сар руу шилжинэ",
+    "summary": "Нью-Йоркийн тавилгын үзэсгэлэн олон улсын орчин үеийн тавилгын үзэсгэлэн 35 жилийн дараа буюу 2027 оноос эхлэн 5-р сараас 11-р сард болох гэж байна. Үзэсгэлэн яармаг 5-р сарын завгүй сарыг орхиж буйгаа зарлаж, дэлхийн худалдааны \"шахсан\" шинж чанарыг дурджээ."
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5": {
+    "title": "Яагаад Клод заах нь - Антропик",
+    "summary": "Яагаад Клод  Антропикийг зааж байна"
+  },
+  "https://www.bloomberg.com/opinion/articles/2026-05-13/eqt-buying-intertek-is-the-latest-in-private-equity-s-gutting-of-london": {
+    "title": "Лондон дахь Private Equity-ийг татан буулгах ажиллагаа үргэлжилж байна",
+    "summary": "Хэзээ нэгэн цагт Лондонд бүртгэлтэй, хувийн өмчийн сангаас худалдаж авах боломжтой компани үлдэхгүй. Их Британид хөшүүрэгтэй худалдан авалт хийх хамгийн сүүлийн оролдлого нь хэмжээнээрээ гайхалтай байж болох ч энэ нь зах зээлийг бэлэн мөнгөний тендерээр аажмаар татан буулгаж байгааг хардаг танил хэв маягтай нийцэж байна ..."
+  },
+  "https://www.bloomberg.com/news/audio/2026-05-13/bloomberg-daybreak-trump-xi-meeting-podcast": {
+    "title": "Bloomberg-ийн үүр цайх: Трамп-Сигийн уулзалт (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 17:09"
+  },
+  "https://www.bloomberg.com/news/videos/2026-05-13/orange-doubles-solar-powered-towers-in-africa": {
+    "title": "Африкт нарны эрчим хүчээр ажилладаг цамхагуудыг давхар хийдэг Улбар шар",
+    "summary": "Оранж Африк даяар нарны эрчим хүчээр ажилладаг суурь станцуудаа хоёр дахин нэмэгдүүлэхээр төлөвлөж байна. Гүйцэтгэх захирал Кристел Хейдеманн Кени улсын Найроби хотод Bloomberg-ийн Женнифер Забасажжатай ярилцлаа. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-05-13/investors-will-have-plenty-on-the-line-when-trump-meets-xi": {
+    "title": "Трамп Ситэй уулзах үед хөрөнгө оруулагчид маш их зүйл хүлээж байна",
+    "summary": "Дональд Трампын Ши Жиньпинтэй хийсэн дээд хэмжээний уулзалт зах зээлд урт хугацааны үр дагавар авчирч магадгүй юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-12/asian-stocks-under-pressure-as-us-inflation-rises-markets-wrap": {
+    "title": "Нефтийн ралли зогсонги байдалд орохын хэрээр технологийн өсөлт хувьцаагаа өсгөв: Зах зээлүүд",
+    "summary": "Чип үйлдвэрлэгчдийн рекорд эвдэрсэн ралли цааш үргэлжлэх боломж байна гэж арилжаачид бооцоо тавьж, хямд үнээр худалдан авагчид технологийн хувьцааг өсгөсөн. Ормузын хоолой хаалттай хэвээр байсан ч газрын тосны үнэ өдөрт гурван удаа нэмэгджээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-12/latest-oil-market-news-and-analysis-for-may-13": {
+    "title": "Ойрхи Дорнод мухардалд орсноор газрын тосны үнэ 107 доллар дөхөж, дэлхийн нөөц буурч байна",
+    "summary": "Ойрхи Дорнодын хурцадмал байдал намжиж, дэлхийн нөөцийн хэмжээ рекорд хурдаар багасч байгаа энэ үед нефтийн үнэ сүүлийн гурван сессийн хугацаанд 8%-ийн өсөлтөө хадгаллаа."
+  },
+  "https://www.bloomberg.com/news/videos/2026-05-11/why-modi-wants-indians-to-pause-gold-buying-video": {
+    "title": "Моди яагаад Энэтхэгчүүдийг алт худалдан авахаа зогсоохыг хүсч байна вэ?",
+    "summary": "Энэтхэгийн алтны хайр зогсолттой байж магадгүй юм. Ираны мөргөлдөөн эдийн засагт дарамт болж байгаа тул нэг жилийн хугацаанд алт худалдан авахгүй байхыг Ерөнхий сайд Нарендра Моди иргэддээ уриаллаа. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/indonesia-wealth-fund-ina-hires-mandiri-banker-ramadhana-as-ceo": {
+    "title": "Индонезийн баялгийн сан Мандири Банкир Рамадханаг гүйцэтгэх захирлаар томилов",
+    "summary": "Индонезийн Хөрөнгө оруулалтын газар нь хөрөнгө оруулалтын банкир Оки Рамадханаг гүйцэтгэх захирлаар ажилд авсан нь тус улсын анхны баялгийн сангийн удирдлагын орон зайг дүүргэсэн гэж энэ талаар сайн мэддэг хүмүүс мэдэгдэв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-13/us-firm-building-cobalt-refinery-signs-congo-supply-agreement": {
+    "title": "Кобальт боловсруулах үйлдвэр барьж буй АНУ-ын фирм Конго нийлүүлэх гэрээнд гарын үсэг зурлаа",
+    "summary": "АНУ-ын анхны томоохон хэмжээний кобальт боловсруулах үйлдвэр барихаар зорьж буй компани нь Бүгд Найрамдах Ардчилсан Конго Улсаас гар аргаар ухсан металл авах боломжтой гэрээ байгуулснаа зарлав."
+  },
+  "https://www.marketwatch.com/story/i-want-to-go-on-a-trip-this-fall-should-i-wait-until-the-iran-war-ends-to-book-my-flight-b526f5d6?mod=mw_rss_topstories": {
+    "title": "Энэ намар аялалд гармаар байна. Би нислэгээ захиалахын тулд Ираны дайн дуусахыг хүлээх ёстой юу?",
+    "summary": "\"Одоогоор Нью-Йорк хотоос авах тасалбар 1000 гаруй доллар байна.\""
+  },
+  "https://www.nature.com/articles/d41586-026-01476-x": {
+    "title": "AI нь вирус, хорт бодис болон бусад био зэвсгийг зохион бүтээх чадвартай. Бид хэр зэрэг санаа зовох ёстой вэ?",
+    "summary": "Байгаль, Онлайнаар нийтлэгдсэн: 2026 оны 5-р сарын 13; doi:10.1038/d41586-026-01476-xЭрдэмтэд аюул заналаас сэргийлэхийн тулд биологийн хиймэл оюун ухааны программ хангамжийг хязгаарлах эсэх талаар хэлэлцэж байна."
+  },
+  "https://www.designboom.com/design/how-laufen-redefines-bathrooms-through-material-innovation-at-milan-design-week-2026/": {
+    "title": "2026 оны Миланы дизайны долоо хоногт LAUFEN материаллаг шинэчлэлээр угаалгын өрөөг хэрхэн шинэчлэн тодорхойлдог",
+    "summary": "laufen нь өндөр технологийн материаллаг шинжлэх ухааныг гүн гүнзгий, хүн төвтэй өрөвдөх сэтгэлтэй хослуулан урт наслахыг дизайны зарчим болгон тогтоох ирээдүйн чиглэлийг эрэлхийлдэг. 2026 оны Миланы дизайны долоо хоногт LAUFEN угаалгын өрөөг материаллаг инноваци ашиглан хэрхэн шинэчлэн тодорхойлсон тухай нийтлэл designboom дээр анх гарчээ. ар…"
+  },
+  "https://www.dezeen.com/2026/05/13/ikea-ps-collection-furniture/": {
+    "title": "Dezeen IKEA-ийн хамгийн сүүлийн үеийн PS цуглуулгаас хамгийн их хүсэх найман бүтээгдэхүүнийг сонгов",
+    "summary": "IKEA сүүлийн 10 жилийн хугацаанд анх удаагаа \"дизайнеруудыг арай илүү зэрлэг болгодгоороо\" алдартай туршилтын PS цуглуулгынхаа шинэ хувилбарыг танилцууллаа. Энд Dezeen олонхоос 100 фунт стерлингээс бага үнэтэй найман гайхалтай бүтээлийг толилуулж байна. IKEA-н анхны PS цуглуулга..."
+  },
+  "https://www.dezeen.com/2026/05/13/mikael-axelsson-ikea-ps-adjustable-stool/": {
+    "title": "Модон эдлэлийн хавчаарууд нь IKEA-ийн өндрийг тохируулж болохуйц өтгөн сандлыг илтгэнэ",
+    "summary": "Өнөөдөр худалдаанд гарч буй IKEA-ийн PS цуглуулгын нэг хэсэг болох Шведийн дизайнер Микаэль Аксельсон хус модны \"шүд\" суурьтай сандал, хэрэглэгчдэд өндрийг тохируулах боломжтой аналог түгжээтэй сандал зохион бүтээжээ. IKEA PS 2026 сандал нь саяхан худалдаанд гарсан IKEA PS c-ийн 30 ширхэгийн нэг юм..."
+  }
+}

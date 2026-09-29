@@ -1,6 +1,3 @@
-# Хувийн орчуулгын кэш — push хийхгүй
-translations.json
-
 # Python
 __pycache__/
 *.pyc
