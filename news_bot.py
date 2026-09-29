@@ -37,7 +37,9 @@ def ensure_package(pkg_name: str, import_name: str | None = None):
 
 
 feedparser = ensure_package("feedparser")
-GoogleTranslator = ensure_package("deep-translator", "deep_translator").GoogleTranslator
+_dt = ensure_package("deep-translator", "deep_translator")
+GoogleTranslator = _dt.GoogleTranslator
+MyMemoryTranslator = _dt.MyMemoryTranslator
 
 
 CATEGORIES = [
@@ -241,20 +243,32 @@ def save_cache(cache: dict) -> None:
     )
 
 
-def _translate_with_retry(translator, text: str) -> str | None:
-    """Rate limit-д орвол 3 удаа хойшлон retry хийнэ. Бүтэлгүй бол None."""
+def _is_rate_limited(err: Exception) -> bool:
+    msg = str(err).lower()
+    return "too many requests" in msg or "429" in msg
+
+
+def _translate_with_retry(primary, fallback, text: str) -> str | None:
+    """
+    Эхлээд Google Translate ашиглана. Rate limit гарвал MyMemory руу шилжинэ,
+    тэр нь мөн бүтэлгүй бол Google-д богино backoff-той retry хийнэ. Бүтэлгүй бол None.
+    """
     if not text:
         return ""
+    truncated = text[:490]
+    try:
+        return primary.translate(truncated)
+    except Exception as e:
+        if not _is_rate_limited(e):
+            raise
     for attempt in range(1, TRANSLATE_RETRIES + 1):
         try:
-            return translator.translate(text)
-        except Exception as e:
-            msg = str(e).lower()
-            is_rate_limit = "too many requests" in msg or "429" in msg
-            if attempt < TRANSLATE_RETRIES and is_rate_limit:
+            return fallback.translate(truncated)
+        except Exception as fe:
+            if attempt < TRANSLATE_RETRIES and _is_rate_limited(fe):
                 wait = TRANSLATE_BACKOFF_SEC * attempt
                 print(
-                    f"\n  … rate limit — {wait} секунд хүлээгээд retry ({attempt}/{TRANSLATE_RETRIES - 1})"
+                    f"\n  … MyMemory rate limit — {wait} секунд хүлээгээд retry ({attempt}/{TRANSLATE_RETRIES - 1})"
                 )
                 time.sleep(wait)
                 continue
@@ -273,6 +287,7 @@ def translate_all(data: list[dict], cache: dict) -> tuple[int, int, int]:
     all_items = [it for cat in data for it in cat["items"]]
     total = len(all_items)
     translator = GoogleTranslator(source="auto", target=TARGET_LANG)
+    fallback = MyMemoryTranslator(source="en-GB", target="mn-MN")
     new_count = 0
     fail_count = 0
     mn_count = 0
@@ -298,9 +313,9 @@ def translate_all(data: list[dict], cache: dict) -> tuple[int, int, int]:
             continue
 
         try:
-            title_mn = _translate_with_retry(translator, it["title"]) or it["title"]
+            title_mn = _translate_with_retry(translator, fallback, it["title"]) or it["title"]
             time.sleep(TRANSLATE_DELAY_SEC)
-            summary_mn = _translate_with_retry(translator, it["summary"]) or it["summary"]
+            summary_mn = _translate_with_retry(translator, fallback, it["summary"]) or it["summary"]
             time.sleep(TRANSLATE_DELAY_SEC)
             it["title_mn"] = title_mn
             it["summary_mn"] = summary_mn
