@@ -487,7 +487,7 @@ def render_market_snapshot(snapshot: dict) -> str:
                 arrow = "▲" if pct >= 0 else "▼"
                 pct_html = f"{arrow} {abs(pct):.2f}%"
             rows.append(
-                f'<div class="market-row">'
+                f'<div class="market-row" data-symbol="{html.escape(it["symbol"])}" data-group="{key}">'
                 f'  <span class="market-name">{html.escape(it["name"])}</span>'
                 f'  <span class="market-price">{_format_price(it["price"], it["symbol"])}</span>'
                 f'  <span class="market-pct {pct_cls}">{pct_html}</span>'
@@ -501,7 +501,12 @@ def render_market_snapshot(snapshot: dict) -> str:
         )
     return (
         '<section class="market-snapshot">'
-        '  <h2 class="market-heading">📊 Арилжааны Snapshot</h2>'
+        '  <div class="market-header">'
+        '    <h2 class="market-heading">📊 Арилжааны үнэ</h2>'
+        '    <span class="market-updated" id="market-updated" title="Автомат шинэчлэлт 60 секунд тутам">'
+        '      🕐 <span data-updated-time>серверийн snapshot</span>'
+        '    </span>'
+        '  </div>'
         f' <div class="market-grid">{"".join(groups_html)}</div>'
         '</section>'
     )
@@ -769,10 +774,36 @@ def render_html(data: list[dict], market: dict | None = None) -> str:
     border: 1px solid var(--border);
     border-radius: 16px;
   }}
+  .market-header {{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }}
   .market-heading {{
-    margin: 0 0 16px;
+    margin: 0;
     font-size: 18px;
     color: var(--text);
+  }}
+  .market-updated {{
+    font-size: 12px;
+    color: var(--muted);
+    background: rgba(255,255,255,.05);
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-variant-numeric: tabular-nums;
+  }}
+  .market-price.flash-up   {{ animation: flash-green .8s ease-out; }}
+  .market-price.flash-down {{ animation: flash-red   .8s ease-out; }}
+  @keyframes flash-green {{
+    0%   {{ background-color: rgba(16,185,129,.35); }}
+    100% {{ background-color: transparent; }}
+  }}
+  @keyframes flash-red {{
+    0%   {{ background-color: rgba(239,68,68,.35); }}
+    100% {{ background-color: transparent; }}
   }}
   .market-grid {{
     display: grid;
@@ -902,6 +933,124 @@ def render_html(data: list[dict], market: dict | None = None) -> str:
         window.scrollTo({{ top: 0, behavior: 'smooth' }});
       }});
     }});
+
+    // ─── Real-time market updates ─────────────────────────────────
+    // Server-side snapshot нь build хийсэн үеийнх. App нээлттэй үед
+    // 60 сек тутам client-side-ээс шинэ үнэ татаж, DOM-г шинэчилнэ.
+    const CORS_PROXY = 'https://corsproxy.io/?';
+
+    function fmtPrice(v) {{
+      if (v == null || isNaN(v)) return '—';
+      const abs = Math.abs(v);
+      if (abs >= 1000) return v.toLocaleString('en-US', {{ minimumFractionDigits: 2, maximumFractionDigits: 2 }});
+      if (abs >= 1) return v.toFixed(2);
+      return v.toFixed(4);
+    }}
+
+    function updateRow(symbol, price, prev) {{
+      const row = document.querySelector(`.market-row[data-symbol="${{symbol}}"]`);
+      if (!row || price == null) return;
+      const priceEl = row.querySelector('.market-price');
+      const pctEl = row.querySelector('.market-pct');
+      const oldTxt = priceEl.textContent.replace(/,/g, '');
+      const oldNum = parseFloat(oldTxt);
+      priceEl.textContent = fmtPrice(price);
+      let pct = null;
+      if (prev && prev !== 0) pct = (price - prev) / prev * 100;
+      pctEl.classList.remove('up','down','flat');
+      if (pct == null) {{
+        pctEl.classList.add('flat');
+        pctEl.textContent = '—';
+      }} else {{
+        pctEl.classList.add(pct >= 0 ? 'up' : 'down');
+        const arrow = pct >= 0 ? '▲' : '▼';
+        pctEl.textContent = `${{arrow}} ${{Math.abs(pct).toFixed(2)}}%`;
+      }}
+      // Flash animation on price change
+      if (!isNaN(oldNum) && Math.abs(price - oldNum) > 0.0001) {{
+        priceEl.classList.remove('flash-up','flash-down');
+        void priceEl.offsetWidth;
+        priceEl.classList.add(price >= oldNum ? 'flash-up' : 'flash-down');
+      }}
+    }}
+
+    async function fetchJson(url, timeoutMs = 8000) {{
+      const ctrl = new AbortController();
+      const t = setTimeout(() => ctrl.abort(), timeoutMs);
+      try {{
+        const r = await fetch(url, {{ signal: ctrl.signal }});
+        if (!r.ok) throw new Error(`HTTP ${{r.status}}`);
+        return await r.json();
+      }} finally {{ clearTimeout(t); }}
+    }}
+
+    async function refreshCrypto() {{
+      // Binance CORS-friendly, real-time
+      const map = {{ 'BTC-USD': 'BTCUSDT', 'ETH-USD': 'ETHUSDT', 'SOL-USD': 'SOLUSDT' }};
+      const symbols = JSON.stringify(Object.values(map));
+      try {{
+        const data = await fetchJson(`https://api.binance.com/api/v3/ticker/24hr?symbols=${{encodeURIComponent(symbols)}}`);
+        for (const [ours, bn] of Object.entries(map)) {{
+          const item = data.find(d => d.symbol === bn);
+          if (item) updateRow(ours, parseFloat(item.lastPrice), parseFloat(item.openPrice));
+        }}
+      }} catch (e) {{ console.warn('crypto refresh:', e.message); }}
+    }}
+
+    async function refreshForex() {{
+      // open.er-api.com CORS-friendly, free, no key
+      try {{
+        const data = await fetchJson('https://open.er-api.com/v6/latest/USD');
+        const r = data.rates || {{}};
+        const usdMnt = r.MNT;
+        if (usdMnt) {{
+          updateRow('MNT=X', usdMnt, null);
+          if (r.EUR) updateRow('EURMNT=X', usdMnt / r.EUR, null);
+          if (r.JPY) updateRow('JPYMNT=X', usdMnt / r.JPY, null);
+          if (r.GBP) updateRow('GBPMNT=X', usdMnt / r.GBP, null);
+        }}
+      }} catch (e) {{ console.warn('forex refresh:', e.message); }}
+    }}
+
+    async function refreshYahoo(symbol) {{
+      // Yahoo (CORS proxy-оор) — хувьцаа болон түүхий эд
+      const url = CORS_PROXY + encodeURIComponent(
+        `https://query1.finance.yahoo.com/v8/finance/chart/${{symbol}}?interval=1d&range=2d`
+      );
+      try {{
+        const data = await fetchJson(url, 10000);
+        const meta = data?.chart?.result?.[0]?.meta;
+        if (meta) updateRow(symbol, meta.regularMarketPrice, meta.chartPreviousClose ?? meta.previousClose);
+      }} catch (e) {{ console.warn(`yahoo ${{symbol}}:`, e.message); }}
+    }}
+
+    async function refreshMarkets() {{
+      const stamp = document.querySelector('[data-updated-time]');
+      if (stamp) stamp.textContent = 'татаж байна…';
+      await Promise.allSettled([
+        refreshCrypto(),
+        refreshForex(),
+        refreshYahoo('%5EGSPC'),
+        refreshYahoo('%5EIXIC'),
+        refreshYahoo('%5EDJI'),
+        refreshYahoo('GC%3DF'),
+        refreshYahoo('CL%3DF'),
+        refreshYahoo('SI%3DF'),
+      ]);
+      if (stamp) {{
+        const now = new Date();
+        stamp.textContent = 'шинэчилсэн ' + now.toLocaleTimeString('mn-MN', {{ hour: '2-digit', minute: '2-digit', second: '2-digit' }});
+      }}
+    }}
+
+    if (document.querySelector('.market-snapshot')) {{
+      refreshMarkets();
+      setInterval(refreshMarkets, 60000);
+      // Дэлгэц идэвхжихэд шууд шинэчилнэ (app-ыг олон цаг хойш нээхэд)
+      document.addEventListener('visibilitychange', () => {{
+        if (!document.hidden) refreshMarkets();
+      }});
+    }}
 
     // PWA service worker — offline-д ажиллах + автомат шинэчлэлт
     if ('serviceWorker' in navigator) {{

@@ -4,7 +4,7 @@
 //   - Bусад (icon, manifest): cache-first (хурдан ачаалах)
 //
 // CACHE_NAME-ыг өөрчилбөл хуучин кэшийг бүгдийг устгана.
-const CACHE_NAME = "morning-news-v1";
+const CACHE_NAME = "morning-news-v2";
 const PRECACHE = [
   "./",
   "./index.html",
@@ -40,6 +40,11 @@ self.addEventListener("fetch", (event) => {
   if (req.method !== "GET") return;
 
   const url = new URL(req.url);
+
+  // Cross-origin request-ыг (Binance, Yahoo, exchange rate API гэх мэт)
+  // огт cache хийхгүй — real-time шинэ өгөгдөл хэрэгтэй.
+  if (url.origin !== self.location.origin) return;
+
   const isHTML =
     req.mode === "navigate" ||
     url.pathname.endsWith("/") ||
