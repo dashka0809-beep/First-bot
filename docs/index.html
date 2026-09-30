@@ -215,10 +215,36 @@
     border: 1px solid var(--border);
     border-radius: 16px;
   }
+  .market-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
   .market-heading {
-    margin: 0 0 16px;
+    margin: 0;
     font-size: 18px;
     color: var(--text);
+  }
+  .market-updated {
+    font-size: 12px;
+    color: var(--muted);
+    background: rgba(255,255,255,.05);
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-variant-numeric: tabular-nums;
+  }
+  .market-price.flash-up   { animation: flash-green .8s ease-out; }
+  .market-price.flash-down { animation: flash-red   .8s ease-out; }
+  @keyframes flash-green {
+    0%   { background-color: rgba(16,185,129,.35); }
+    100% { background-color: transparent; }
+  }
+  @keyframes flash-red {
+    0%   { background-color: rgba(239,68,68,.35); }
+    100% { background-color: transparent; }
   }
   .market-grid {
     display: grid;
@@ -325,7 +351,7 @@
       </div>
     </header>
 
-    <section class="market-snapshot">  <h2 class="market-heading">📊 Арилжааны Snapshot</h2> <div class="market-grid"><div class="market-group" style="--mc: #f7931a">  <h3><span class="market-icon">₿</span> Крипто</h3>  <div class="market-body"><div class="market-row">  <span class="market-name">Bitcoin (BTC/USD)</span>  <span class="market-price">83,357.60</span>  <span class="market-pct down">▼ 0.32%</span></div><div class="market-row">  <span class="market-name">Ethereum (ETH/USD)</span>  <span class="market-price">2,669.35</span>  <span class="market-pct down">▼ 0.28%</span></div><div class="market-row">  <span class="market-name">Solana (SOL/USD)</span>  <span class="market-price">119.31</span>  <span class="market-pct up">▲ 0.21%</span></div></div></div><div class="market-group" style="--mc: #7aa2ff">  <h3><span class="market-icon">📈</span> Индекс</h3>  <div class="market-body"><div class="market-row">  <span class="market-name">S&amp;P 500</span>  <span class="market-price">7,670.84</span>  <span class="market-pct down">▼ 0.94%</span></div><div class="market-row">  <span class="market-name">NASDAQ</span>  <span class="market-price">26,797.54</span>  <span class="market-pct down">▼ 1.00%</span></div><div class="market-row">  <span class="market-name">Dow Jones</span>  <span class="market-price">51,349.92</span>  <span class="market-pct down">▼ 0.92%</span></div></div></div><div class="market-group" style="--mc: #f59e0b">  <h3><span class="market-icon">🛢</span> Түүхий эд</h3>  <div class="market-body"><div class="market-row">  <span class="market-name">Алт (унц, USD)</span>  <span class="market-price">4,202.00</span>  <span class="market-pct up">▲ 0.81%</span></div><div class="market-row">  <span class="market-name">Газрын тос WTI (баррель)</span>  <span class="market-price">89.75</span>  <span class="market-pct down">▼ 3.08%</span></div><div class="market-row">  <span class="market-name">Мөнгө (унц, USD)</span>  <span class="market-price">61.46</span>  <span class="market-pct up">▲ 0.39%</span></div></div></div><div class="market-group" style="--mc: #10b981">  <h3><span class="market-icon">💱</span> Форекс</h3>  <div class="market-body"><div class="market-row">  <span class="market-name">USD → MNT</span>  <span class="market-price">3,595.52</span>  <span class="market-pct up">▲ 0.00%</span></div><div class="market-row">  <span class="market-name">EUR → MNT</span>  <span class="market-price">4,081.22</span>  <span class="market-pct down">▼ 0.03%</span></div><div class="market-row">  <span class="market-name">JPY → MNT</span>  <span class="market-price">22.95</span>  <span class="market-pct up">▲ 0.31%</span></div><div class="market-row">  <span class="market-name">GBP → MNT</span>  <span class="market-price">4,760.82</span>  <span class="market-pct down">▼ 0.01%</span></div></div></div></div></section>
+    <section class="market-snapshot">  <div class="market-header">    <h2 class="market-heading">📊 Арилжааны үнэ</h2>    <span class="market-updated" id="market-updated" title="Автомат шинэчлэлт 60 секунд тутам">      🕐 <span data-updated-time>серверийн snapshot</span>    </span>  </div> <div class="market-grid"><div class="market-group" style="--mc: #f7931a">  <h3><span class="market-icon">₿</span> Крипто</h3>  <div class="market-body"><div class="market-row" data-symbol="BTC-USD" data-group="crypto">  <span class="market-name">Bitcoin (BTC/USD)</span>  <span class="market-price">83,477.02</span>  <span class="market-pct down">▼ 0.18%</span></div><div class="market-row" data-symbol="ETH-USD" data-group="crypto">  <span class="market-name">Ethereum (ETH/USD)</span>  <span class="market-price">2,673.01</span>  <span class="market-pct down">▼ 0.14%</span></div><div class="market-row" data-symbol="SOL-USD" data-group="crypto">  <span class="market-name">Solana (SOL/USD)</span>  <span class="market-price">119.71</span>  <span class="market-pct up">▲ 0.55%</span></div></div></div><div class="market-group" style="--mc: #7aa2ff">  <h3><span class="market-icon">📈</span> Индекс</h3>  <div class="market-body"><div class="market-row" data-symbol="^GSPC" data-group="indices">  <span class="market-name">S&amp;P 500</span>  <span class="market-price">7,670.84</span>  <span class="market-pct down">▼ 0.94%</span></div><div class="market-row" data-symbol="^IXIC" data-group="indices">  <span class="market-name">NASDAQ</span>  <span class="market-price">26,797.54</span>  <span class="market-pct down">▼ 1.00%</span></div><div class="market-row" data-symbol="^DJI" data-group="indices">  <span class="market-name">Dow Jones</span>  <span class="market-price">51,349.92</span>  <span class="market-pct down">▼ 0.92%</span></div></div></div><div class="market-group" style="--mc: #f59e0b">  <h3><span class="market-icon">🛢</span> Түүхий эд</h3>  <div class="market-body"><div class="market-row" data-symbol="GC=F" data-group="commodities">  <span class="market-name">Алт (унц, USD)</span>  <span class="market-price">4,202.10</span>  <span class="market-pct up">▲ 0.81%</span></div><div class="market-row" data-symbol="CL=F" data-group="commodities">  <span class="market-name">Газрын тос WTI (баррель)</span>  <span class="market-price">89.62</span>  <span class="market-pct down">▼ 3.22%</span></div><div class="market-row" data-symbol="SI=F" data-group="commodities">  <span class="market-name">Мөнгө (унц, USD)</span>  <span class="market-price">61.38</span>  <span class="market-pct up">▲ 0.25%</span></div></div></div><div class="market-group" style="--mc: #10b981">  <h3><span class="market-icon">💱</span> Форекс</h3>  <div class="market-body"><div class="market-row" data-symbol="MNT=X" data-group="forex">  <span class="market-name">USD → MNT</span>  <span class="market-price">3,595.52</span>  <span class="market-pct up">▲ 0.00%</span></div><div class="market-row" data-symbol="EURMNT=X" data-group="forex">  <span class="market-name">EUR → MNT</span>  <span class="market-price">4,079.45</span>  <span class="market-pct down">▼ 0.07%</span></div><div class="market-row" data-symbol="JPYMNT=X" data-group="forex">  <span class="market-name">JPY → MNT</span>  <span class="market-price">22.95</span>  <span class="market-pct up">▲ 0.34%</span></div><div class="market-row" data-symbol="GBPMNT=X" data-group="forex">  <span class="market-name">GBP → MNT</span>  <span class="market-price">4,760.59</span>  <span class="market-pct down">▼ 0.01%</span></div></div></div></div></section>
 
     
             <section data-category="ai-tech" class="source" style="--accent: #7aa2ff">
@@ -392,14 +418,14 @@
             
 
             <article class="card">
-              <h3><a href="https://hereticpleb.vercel.app/blog/needed-one-plus-one/" target="_blank" rel="noopener">1+1 шаардлагатай, функциональ програмчлалын хэлийг бий болгосон</a></h3>
-              <p class="title-en">Needed 1+1, built a functional programming language</p>
+              <h3><a href="https://america.gov/" target="_blank" rel="noopener">America.gov</a></h3>
+              
               <p class="summary">Сэтгэгдлүүд</p>
               <p class="summary-en">Comments</p>
               <div class="meta">
                 <span class="source-tag">Hacker News</span>
-                <span class="date">2026-09-29 16:18 UTC</span>
-                <a class="read-more" href="https://hereticpleb.vercel.app/blog/needed-one-plus-one/" target="_blank" rel="noopener">Унших →</a>
+                <span class="date">2026-09-29 14:04 UTC</span>
+                <a class="read-more" href="https://america.gov/" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -418,19 +444,6 @@
             
 
             <article class="card">
-              <h3><a href="https://america.gov/" target="_blank" rel="noopener">America.gov</a></h3>
-              
-              <p class="summary">Сэтгэгдлүүд</p>
-              <p class="summary-en">Comments</p>
-              <div class="meta">
-                <span class="source-tag">Hacker News</span>
-                <span class="date">2026-09-29 14:04 UTC</span>
-                <a class="read-more" href="https://america.gov/" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
               <h3><a href="https://spectrum.ieee.org/delhi-electricity-loss" target="_blank" rel="noopener">Дели цахилгааны алдагдлыг 50-5 хувь хүртэл хэрхэн бууруулсан бэ?</a></h3>
               <p class="title-en">How Delhi cut electricity loss from 50 to 5 percent</p>
               <p class="summary">Сэтгэгдлүүд</p>
@@ -444,14 +457,27 @@
             
 
             <article class="card">
-              <h3><a href="https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation" target="_blank" rel="noopener">Бид харанхуй ямар мэдрэмжийн санааг мартаж байна</a></h3>
-              <p class="title-en">We’re forgetting what darkness feels like</p>
+              <h3><a href="https://hereticpleb.vercel.app/blog/needed-one-plus-one/" target="_blank" rel="noopener">1+1 шаардлагатай, функциональ програмчлалын хэлийг бий болгосон</a></h3>
+              <p class="title-en">Needed 1+1, built a functional programming language</p>
               <p class="summary">Сэтгэгдлүүд</p>
               <p class="summary-en">Comments</p>
               <div class="meta">
                 <span class="source-tag">Hacker News</span>
-                <span class="date">2026-09-29 18:22 UTC</span>
-                <a class="read-more" href="https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation" target="_blank" rel="noopener">Унших →</a>
+                <span class="date">2026-09-29 16:18 UTC</span>
+                <a class="read-more" href="https://hereticpleb.vercel.app/blog/needed-one-plus-one/" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763" target="_blank" rel="noopener">Тосны үнэ өсөхөд мөнгө хаашаа явдаг вэ?</a></h3>
+              <p class="title-en">When oil prices spike, where does the money go?</p>
+              <p class="summary">Сэтгэгдлүүд</p>
+              <p class="summary-en">Comments</p>
+              <div class="meta">
+                <span class="source-tag">Hacker News</span>
+                <span class="date">2026-09-29 04:14 UTC</span>
+                <a class="read-more" href="https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -756,14 +782,14 @@
             
 
             <article class="card">
-              <h3><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZOUN3YlBVMkVMVGkzNXQ0R0F4T181Z0dPSWd4QnpnMnR1M0FzckZnUDNqZ09JcG1OSUFwc2s0WkdIRTRGZlg0S015NnZjem9oUWF6MzYyYkpvTUU1OWlMZGxtbHQ?oc=5" target="_blank" rel="noopener">«AI-аас чи юу хүсэж байна вэ?» - Антропик</a></h3>
-              <p class="title-en">What Do You Want from AI? - Anthropic</p>
-              <p class="summary">Энтропик гэж юу вэ?</p>
-              <p class="summary-en">What Do You Want from AI?  Anthropic</p>
+              <h3><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ?oc=5" target="_blank" rel="noopener">GLM-5.3 болон дэвшилтэт кибер чадамжуудын тархалт - Антропик</a></h3>
+              <p class="title-en">GLM-5.3 and the spread of advanced cyber capabilities - Anthropic</p>
+              <p class="summary">GLM-5.3 болон дэвшилтэт кибер чадамжуудын тархалт Антропик</p>
+              <p class="summary-en">GLM-5.3 and the spread of advanced cyber capabilities  Anthropic</p>
               <div class="meta">
                 <span class="source-tag">Anthropic / Claude</span>
-                <span class="date">2026-09-29 16:39 UTC</span>
-                <a class="read-more" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZOUN3YlBVMkVMVGkzNXQ0R0F4T181Z0dPSWd4QnpnMnR1M0FzckZnUDNqZ09JcG1OSUFwc2s0WkdIRTRGZlg0S015NnZjem9oUWF6MzYyYkpvTUU1OWlMZGxtbHQ?oc=5" target="_blank" rel="noopener">Унших →</a>
+                <span class="date">2026-09-29 15:46 UTC</span>
+                <a class="read-more" href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ?oc=5" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -782,27 +808,14 @@
             
 
             <article class="card">
-              <h3><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5" target="_blank" rel="noopener">Клод: Данс түр хугацаагаар баталгаажуулж чаддаггүйн учир</a></h3>
-              <p class="title-en">Claude down: Why it says account temporarily unable to authenticate - Mashable</p>
-              <p class="summary">Клод: Данс түр хугацаагаар Mashable-ийг баталгаажуулж чаддаггүйн учир</p>
-              <p class="summary-en">Claude down: Why it says account temporarily unable to authenticate  Mashable</p>
+              <h3><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzZmVllHd3ZISlAtUEZSa0xkaExzZ1RfNl9LU2dGZUdiU0xNb1FLZlNlMldSc2pFWnFVbEhPbDRKbG50bXlNVVRqcEpOUEl0VTdhZXpabFg0N29fbXVMYlM5TlVSU1hDZFU1NUxnd2N3SzNVb0dvMlRQbmJtSnVDcQ?oc=5" target="_blank" rel="noopener">Антропик Клодын Sonnet 5.5 хувилбарууд: Дэлгэрэнгүй, үнэ, хэрхэн туршиж үзэх вэ - mashable.com</a></h3>
+              <p class="title-en">Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it - mashable.com</p>
+              <p class="summary">Антропик Клодын Sonnet 5.5 хувилбарууд: Дэлгэрэнгүй, үнэ, үүнийг хэрхэн туршиж үзэх талаар mashable.com</p>
+              <p class="summary-en">Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it  mashable.com</p>
               <div class="meta">
                 <span class="source-tag">Anthropic / Claude</span>
-                <span class="date">2026-09-29 15:40 UTC</span>
-                <a class="read-more" href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2l6M0lzLXZOampyMGFyal9PSk9WSm9TMU1ZSFVDVUgxNjFGV2tnYThqTm05RjRqOGRZaF9IeXBTRlZjNVNZd19fclVvNy1wVGE1bzM1NDl5RnZjWHpTTDBadllvejB2UDcyRWZ1bFdJem5TbnVwbkdJeldwOW5RbzhoUkZwZ2JULXE5Q25xUm9qX0RIakZESWJySThneFVzZTIwOGVUaWhzVS1HbWNjVjBGakhGazJ0a0RvczlZTmw?oc=5" target="_blank" rel="noopener">Энтропик хувилбарууд Sonnet 5.5 нь харьцангуй хямд, илүү хурдан ажиллах түнш гэж нэрлэдэг - TechCrunch</a></h3>
-              <p class="title-en">Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner - TechCrunch</p>
-              <p class="summary">Антропик хувилбарууд Sonnet 5.5 нь харьцангуй хямд, илүү хурдан ажиллах түнш  TechCrunch гэж нэрлэдэг</p>
-              <p class="summary-en">Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner  TechCrunch</p>
-              <div class="meta">
-                <span class="source-tag">Anthropic / Claude</span>
-                <span class="date">2026-09-28 18:00 UTC</span>
-                <a class="read-more" href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2l6M0lzLXZOampyMGFyal9PSk9WSm9TMU1ZSFVDVUgxNjFGV2tnYThqTm05RjRqOGRZaF9IeXBTRlZjNVNZd19fclVvNy1wVGE1bzM1NDl5RnZjWHpTTDBadllvejB2UDcyRWZ1bFdJem5TbnVwbkdJeldwOW5RbzhoUkZwZ2JULXE5Q25xUm9qX0RIakZESWJySThneFVzZTIwOGVUaWhzVS1HbWNjVjBGakhGazJ0a0RvczlZTmw?oc=5" target="_blank" rel="noopener">Унших →</a>
+                <span class="date">2026-09-28 19:16 UTC</span>
+                <a class="read-more" href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzZmVllHd3ZISlAtUEZSa0xkaExzZ1RfNl9LU2dGZUdiU0xNb1FLZlNlMldSc2pFWnFVbEhPbDRKbG50bXlNVVRqcEpOUEl0VTdhZXpabFg0N29fbXVMYlM5TlVSU1hDZFU1NUxnd2N3SzNVb0dvMlRQbmJtSnVDcQ?oc=5" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -822,9 +835,9 @@
 
             <article class="card">
               <h3><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5PaktoTFJRQmpxNmpyTFFReF9SVkdFUzl1bzYwOWdHbkUzdmtOVGlqbnd2cld4Uzc5R2FpNndieDg2STV1RlJDZ2ZsQ01sNkViazhwZ3hPZk5nU3lfSFQ3UVRIRS1vRnFPWFNUdkVJdFI0aWxIQWRCdGE4TldmQmVQeERyc3NOZ1RaMGRjekJnQ3A5dlk2Vi1MYzFRdw?oc=5" target="_blank" rel="noopener">Энтропик хэлэхдээ, хиймэл оюун ухаан нь хүн төрөлхтөнд &quot;сүйрлийн аюултай эсвэл оршин тогтнох эрсдэл&quot; учруулж болзошгүй нь хараат бус IPO - The Independent</a></h3>
-              <p class="title-en">Anthropic says AI may pose ‘catastrophic or existential risks to humanity’ as it launches IPO - The Independent</p>
+              <p class="title-en">Anthropic says AI may pose ‘catastrophic or existential risks to humanity’ as it launches IPO - independent.co.uk</p>
               <p class="summary">Антропик хэлэхдээ хиймэл оюун ухаан нь &quot;хүн төрөлхтөнд сүйрэлтэй эсвэл оршин тогтнох эрсдэл&quot; учруулж болзошгүй гэсэн байдаг тул IPO Бие даасан</p>
-              <p class="summary-en">Anthropic says AI may pose ‘catastrophic or existential risks to humanity’ as it launches IPO  The Independent</p>
+              <p class="summary-en">Anthropic says AI may pose ‘catastrophic or existential risks to humanity’ as it launches IPO  independent.co.uk</p>
               <div class="meta">
                 <span class="source-tag">Anthropic / Claude</span>
                 <span class="date">2026-09-29 14:51 UTC</span>
@@ -858,6 +871,19 @@
               </div>
             </article>
             
+
+            <article class="card">
+              <h3><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZOUN3YlBVMkVMVGkzNXQ0R0F4T181Z0dPSWd4QnpnMnR1M0FzckZnUDNqZ09JcG1OSUFwc2s0WkdIRTRGZlg0S015NnZjem9oUWF6MzYyYkpvTUU1OWlMZGxtbHQ?oc=5" target="_blank" rel="noopener">«AI-аас чи юу хүсэж байна вэ?» - Антропик</a></h3>
+              <p class="title-en">What Do You Want from AI? - Anthropic</p>
+              <p class="summary">Энтропик гэж юу вэ?</p>
+              <p class="summary-en">What Do You Want from AI?  Anthropic</p>
+              <div class="meta">
+                <span class="source-tag">Anthropic / Claude</span>
+                <span class="date">2026-09-29 16:39 UTC</span>
+                <a class="read-more" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZOUN3YlBVMkVMVGkzNXQ0R0F4T181Z0dPSWd4QnpnMnR1M0FzckZnUDNqZ09JcG1OSUFwc2s0WkdIRTRGZlg0S015NnZjem9oUWF6MzYyYkpvTUU1OWlMZGxtbHQ?oc=5" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
               </div>
             </section>
             
@@ -873,6 +899,32 @@
               <div class="grid">
                 
             <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/audio/2026-09-30/court-lets-3rd-country-deportations-resume-ai-self-policing" target="_blank" rel="noopener">Шүүх гуравдахь улс орны буулгалтыг дахин эхлүүлэх, AI Self-Policing-ийг зөвшөөрдөг</a></h3>
+              <p class="title-en">Court Lets 3rd-Country Deportations Resume, AI Self-Policing</p>
+              <p class="summary">Эх сурвалж: Блүүмберг, 0:00</p>
+              <p class="summary-en">Source: Bloomberg, 0:00</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Business</span>
+                <span class="date">2026-09-30 01:41 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/audio/2026-09-30/court-lets-3rd-country-deportations-resume-ai-self-policing" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/arcelormittal-weighs-960-million-expansion-of-brazil-steel-mill" target="_blank" rel="noopener">ArcelorMittal Бразилын ган үйлдвэрийн $ 960 сая долларын жинтэй</a></h3>
+              <p class="title-en">ArcelorMittal Weighs $960 Million Expansion of Brazil Steel Mill</p>
+              <p class="summary">Өмнөд Америкийн улсад компанийн үйл ажиллагааны албаны дарга АрселорМитал ФН нь жилийн эцэст Бразилд Пекемийн ган тээрмийг 5 тэрбум реал ($ 961 сая) өргөтгөхөд хөрөнгө оруулалтын эцсийн шийдвэр гаргах зорилготой байна.</p>
+              <p class="summary-en">ArcelorMittal SA is aiming to make a final investment decision on a 5 billion-real ($961 million) expansion of its Pecém steel mill in Brazil by the end of the year, according to the head of the company’s operations in the South American country.</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Business</span>
+                <span class="date">2026-09-30 01:27 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/arcelormittal-weighs-960-million-expansion-of-brazil-steel-mill" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
               <h3><a href="https://www.bloomberg.com/news/audio/2026-09-30/court-allows-third-country-deportation-trump-ai-leaders-meet" target="_blank" rel="noopener">Шүүх гуравдагч улсыг албадан хорихыг зөвшөөрдөг, Трамп-АИ-ийн удирдагчид уулзах</a></h3>
               <p class="title-en">Court Allows Third Country Deportation, Trump-AI Leaders Meet</p>
               <p class="summary">Эх сурвалж: Блүүмберг, 0:00</p>
@@ -881,19 +933,6 @@
                 <span class="source-tag">Bloomberg Business</span>
                 <span class="date">2026-09-30 01:00 UTC</span>
                 <a class="read-more" href="https://www.bloomberg.com/news/audio/2026-09-30/court-allows-third-country-deportation-trump-ai-leaders-meet" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/kim-jong-un-s-sister-slams-seoul-s-mine-blast-probe-as-farce" target="_blank" rel="noopener">Ким Жонг Юн эгч Сөүлийн уурхайн тэсэлгээний датчикийг &quot;Алс&quot;гэж гаргав</a></h3>
-              <p class="title-en">Kim Jong Un’s Sister Slams Seoul’s Mine Blast Probe as ‘Farce’</p>
-              <p class="summary">Хойд Солонгосын удирдагч Ким Жонг Юн-ийн дүү Өмнөд Солонгосын мөрдөн байцаалтыг хил хязгаарын ойролцоо 21-р газрын уурхайн тэсрэлтийг цуцалж, Хойд Солонгосын хариуцлагаас татгалзажээ.</p>
-              <p class="summary-en">Kim Yo Jong, sister of North Korean leader Kim Jong Un, rejected South Korea’s investigation into a Sept. 21 land mine explosions near the border and denied North Korean responsibility, state media said.</p>
-              <div class="meta">
-                <span class="source-tag">Bloomberg Business</span>
-                <span class="date">2026-09-30 00:54 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/kim-jong-un-s-sister-slams-seoul-s-mine-blast-probe-as-farce" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -985,19 +1024,6 @@
                 <span class="source-tag">Bloomberg Business</span>
                 <span class="date">2026-09-29 22:11 UTC</span>
                 <a class="read-more" href="https://www.bloomberg.com/news/audio/2026-09-29/big-take-china-s-epic-tax-grab-podcast" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/newsletters/2026-09-29/is-canada-investable-again-a-top-economist-says-the-answer-s-on-his-head" target="_blank" rel="noopener">Канад дахин хөрөнгө оруулалт хийх үү? Дээд эдийн засагч хариултыг тэргүүнээ гэж үздэг</a></h3>
-              <p class="title-en">Is Canada Investable Again? A Top Economist Says the Answer’s on His Head</p>
-              <p class="summary">Мөн: Канадын LNG өргөтгөлийг Shell Greenlights</p>
-              <p class="summary-en">Plus: Shell greenlights the LNG Canada expansion</p>
-              <div class="meta">
-                <span class="source-tag">Bloomberg Business</span>
-                <span class="date">2026-09-29 21:56 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/newsletters/2026-09-29/is-canada-investable-again-a-top-economist-says-the-answer-s-on-his-head" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -1276,6 +1302,45 @@
               <div class="grid">
                 
             <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/patriarch-says-listing-may-limit-tata-sons-role-as-backstop" target="_blank" rel="noopener">Tata Heir нь бүлэгийн нурууны нэгжүүдийн нөөцлөх чадварыг жагсаасан хязгаарлалтыг харав</a></h3>
+              <p class="title-en">Tata Heir Sees Listing Limit Group’s Ability to Backstop Units</p>
+              <p class="summary">Тата группын үүсгэн байгуулагч гэр бүлийн патриарх Ноел Тата хэлэхдээ олон нийтийн жагсаалтад Tata Sons Pvt-ийг түгшүүртэй нэгжийг дэмжих чадварыг хязгаарлаж, нэг томоохон коммунатуудын нэг нь суухаас хойш хэдэн долоо хоногийн дараа удирдах зөвлөлийн танхимд энэ хэргийг ховор ярилцлага хийх боломжтой гэжээ.</p>
+              <p class="summary-en">Noel Tata, patriarch of Tata Group’s founding family, said a public listing could limit Tata Sons Pvt.’s ability to support troubled units, making the case in a rare interview weeks after a boardroom fight erupted at one of India’s largest conglomerates.</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Markets</span>
+                <span class="date">2026-09-29 16:23 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-29/patriarch-says-listing-may-limit-tata-sons-role-as-backstop" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/china-factory-activity-returns-to-expansion-as-outlook-brightens" target="_blank" rel="noopener">Хятадын үйлдвэрийн үйл ажиллагаа нь Outlook Brightens зэрэг өргөжин тэлэлтэд буцаж ирдэг</a></h3>
+              <p class="title-en">China Factory Activity Returns to Expansion as Outlook Brightens</p>
+              <p class="summary">Хятадын үйлдвэрийн үйл ажиллагаа 6 сараас хойш анх удаа өргөжиж, бодлого боловсруулагчид эдийн засгийг дэмжих шинэ арга хэмжээ авахаар нүүж, тод тэмдэглэлд гурав дахь улирлыг дуусгав.</p>
+              <p class="summary-en">China’s factory activity expanded for the first time since June, ending the third quarter on a bright note as policymakers moved to deploy new measures to support the economy.</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Markets</span>
+                <span class="date">2026-09-30 01:34 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/china-factory-activity-returns-to-expansion-as-outlook-brightens" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/record-quarter-primes-india-ipo-market-for-blockbuster-year" target="_blank" rel="noopener">Blockbuster Year-д зориулсан Энэтхэгийн IPO-н улирлын корпорацийн зах зээл</a></h3>
+              <p class="title-en">Record Quarter Primes India IPO Market for Blockbuster Year</p>
+              <p class="summary">Энэтхэгийн анхны олон нийтэд санал болгох зах зээл нь гурав дахь дараалан блокчэйн жил рүү явж байгаа бөгөөд энэ нь блокбустерийн хэлэлцээрээрээр хучигдсан хоолойг гурав дахь улиралдаа бэхжүүлэн барих зорилготойгоор ажиллаж байна.</p>
+              <p class="summary-en">India’s initial public offering market is heading toward a third consecutive blockbuster year, with a packed pipeline to build on its third-quarter momentum, punctuated by blockbuster deals.</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Markets</span>
+                <span class="date">2026-09-30 01:30 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/record-quarter-primes-india-ipo-market-for-blockbuster-year" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
               <h3><a href="https://www.bloomberg.com/news/videos/2026-09-30/china-s-launches-mini-stimulus-to-counter-slowdown-video" target="_blank" rel="noopener">Хятад задралын эсрэг &quot;Mini Stimulus&quot; -ийг гаргалаа</a></h3>
               <p class="title-en">China’s Launches ‘Mini Stimulus’ to Counter Slowdown</p>
               <p class="summary">БНХАУ-ын хамгийн сүүлийн үеийн эдийн засгийн урамшууллын багц нь эдийн засгийн өсөлтийг өргөн хүрээнд сэргээхээс илүүтэйгээр, улс орны үндсэн эрэлт сул талыг үлдээх зорилготой юм. Bloomberg&#x27;s Minmin Low арга хэмжээнүүдийг нураана. (Эх сурвалж: Bloomberg)</p>
@@ -1341,10 +1406,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/gold-fields-said-to-weigh-sweetening-northern-star-bid-with-cash" target="_blank" rel="noopener">Gold Fields Said to Mull Sweeter Northern Star Bid With Cash</a></h3>
-              
-              <p class="summary">Gold Fields Ltd. is considering a sweetened takeover bid for Northern Star Resources Ltd., according to people familiar with the matter, as the South African miner seeks to overcome resistance to a deal that would create the world’s second-largest gold producer.</p>
-              
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/gold-fields-said-to-weigh-sweetening-northern-star-bid-with-cash" target="_blank" rel="noopener">Алтны талбарууд Мөлхөгчид Нордерын Оддын Тендер Бэлэн мөнгөтэй</a></h3>
+              <p class="title-en">Gold Fields Said to Mull Sweeter Northern Star Bid With Cash</p>
+              <p class="summary">Өмнөд Африкийн олборлогч дэлхийд хоёр дахь том алтны үйлдвэрлэгч бий болгох хэлэлцээрийг эсэргүүцэх оролдлого хийхийг эрмэлзэж буй тул энэхүү асуудалд мэддэг хүмүүс Умард Стар Ресурс ХХК-д амттай оролцох хүсэлтийг бодож байна.</p>
+              <p class="summary-en">Gold Fields Ltd. is considering a sweetened takeover bid for Northern Star Resources Ltd., according to people familiar with the matter, as the South African miner seeks to overcome resistance to a deal that would create the world’s second-largest gold producer.</p>
               <div class="meta">
                 <span class="source-tag">Bloomberg Markets</span>
                 <span class="date">2026-09-29 19:18 UTC</span>
@@ -1354,10 +1419,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/videos/2026-09-30/can-treasury-yields-hit-6-video" target="_blank" rel="noopener">Can Treasury Yields Hit 6%?</a></h3>
-              
-              <p class="summary">Bloomberg MLIV strategist Mark Cranfield warns 10-year Treasury yields could climb to 6% as Federal Reserve policy, elevated oil prices, and geopolitical tensions maintain upward pressure. (Source: Bloomberg)</p>
-              
+              <h3><a href="https://www.bloomberg.com/news/videos/2026-09-30/can-treasury-yields-hit-6-video" target="_blank" rel="noopener">Сангийн талбайг 6% хит гэж хэлж болох уу?</a></h3>
+              <p class="title-en">Can Treasury Yields Hit 6%?</p>
+              <p class="summary">Bloomberg MLIV стратегийн мэргэжилтэн Марк Крэнфилд 10 жилийн сангийн бүтээмж Холбооны нөөцийн бодлого, газрын тосны өндөр үнэ, газрын геополитикийн хурцадмал байдал зэрэг 6% хүртэл өсөх магадлалтай гэж анхааруулсан. (Эх сурвалж: Bloomberg)</p>
+              <p class="summary-en">Bloomberg MLIV strategist Mark Cranfield warns 10-year Treasury yields could climb to 6% as Federal Reserve policy, elevated oil prices, and geopolitical tensions maintain upward pressure. (Source: Bloomberg)</p>
               <div class="meta">
                 <span class="source-tag">Bloomberg Markets</span>
                 <span class="date">2026-09-30 00:27 UTC</span>
@@ -1367,49 +1432,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30" target="_blank" rel="noopener">Latest Oil Market News and Analysis for Sept. 30</a></h3>
-              
-              <p class="summary">Oil steadied after its biggest drop in more than a week on signs Middle East supply has risen to near pre-war levels after Saudi Arabia resumed flows through a pipeline that avoids the Strait of Hormuz.</p>
-              
-              <div class="meta">
-                <span class="source-tag">Bloomberg Markets</span>
-                <span class="date">2026-09-29 22:02 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight" target="_blank" rel="noopener">Dollar Powers to Best Month Since June on Fed’s Inflation Fight</a></h3>
-              
-              <p class="summary">The dollar is wrapping up its best month since June after the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.</p>
-              
-              <div class="meta">
-                <span class="source-tag">Bloomberg Markets</span>
-                <span class="date">2026-09-30 00:18 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/commodity-boom-pushes-mongolian-stocks-to-world-beating-quarter" target="_blank" rel="noopener">Mongolia’s Stocks Beat Everybody This Quarter on Commodity Boom</a></h3>
-              
-              <p class="summary">Mongolia is on course to be the world’s best stock market this quarter, as the landlocked North Asian country rides a commodity boom that insulates it from the volatile AI trade.</p>
-              
-              <div class="meta">
-                <span class="source-tag">Bloomberg Markets</span>
-                <span class="date">2026-09-30 00:04 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/commodity-boom-pushes-mongolian-stocks-to-world-beating-quarter" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1" target="_blank" rel="noopener">US 30-year Treasury yield hits highest since 2002</a></h3>
-              
-              <p class="summary">Government debt extends decline as inflation and surging oil prices weigh on market</p>
-              
+              <h3><a href="https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1" target="_blank" rel="noopener">2002 оноос хойшхи 30 жилийн сангийн гарц хамгийн өндөр цохилттой</a></h3>
+              <p class="title-en">US 30-year Treasury yield hits highest since 2002</p>
+              <p class="summary">Төрийн өрийн сунгалт нь инфляци болон зах зээл дээр газрын тосны үнийн нэмэгдэлтийн хэмжээгээр буурдаг</p>
+              <p class="summary-en">Government debt extends decline as inflation and surging oil prices weigh on market</p>
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 20:13 UTC</span>
@@ -1419,10 +1445,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1" target="_blank" rel="noopener">Bond investors become oil traders as Iran war drives yields</a></h3>
-              
-              <p class="summary">Bond investors watch Iran conflict and crude price for signs as to where government borrowing costs will go</p>
-              
+              <h3><a href="https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1" target="_blank" rel="noopener">Иран дайн хөтлөгчөөр хөрөнгө оруулагчид тосны наймаачин болдог</a></h3>
+              <p class="title-en">Bond investors become oil traders as Iran war drives yields</p>
+              <p class="summary">Бондын хөрөнгө оруулагчид засгийн газрын зээлдэгчийн зардлыг хаана төлөх тухай тэмдэг тэмдгүүдэд Иран зөрчил, түүхий үнийг хардаг</p>
+              <p class="summary-en">Bond investors watch Iran conflict and crude price for signs as to where government borrowing costs will go</p>
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 04:00 UTC</span>
@@ -1432,10 +1458,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1" target="_blank" rel="noopener">Trump praises tech bosses’ ‘tremendous self-regulation’ of AI</a></h3>
-              
-              <p class="summary">President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders</p>
-              
+              <h3><a href="https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1" target="_blank" rel="noopener">Трамп технологийн дарга нарт AI-ийн &quot;асар их өөрийгөө зохицуулах&quot; магтаж байна</a></h3>
+              <p class="title-en">Trump praises tech bosses’ ‘tremendous self-regulation’ of AI</p>
+              <p class="summary">Ерөнхийлөгч өдрийн дараа салбарын удирдагчидтай хийсэн &quot;ёс суртахууны хувьд дагаж мөрдөх&quot; баримтыг гарын үсэг зурсан гэж мэдэгджээ</p>
+              <p class="summary-en">President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders</p>
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 23:13 UTC</span>
@@ -1445,23 +1471,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/f537987f-e88e-4f60-93bf-74e838235b2d?syn-25a6b1a6=1" target="_blank" rel="noopener">Starbucks scales back ESG goals and fires sustainability staff</a></h3>
-              
-              <p class="summary">Early corporate champion of climate action scales back or reviews targets to halve emissions, waste and water use</p>
-              
-              <div class="meta">
-                <span class="source-tag">Financial Times</span>
-                <span class="date">2026-09-29 04:00 UTC</span>
-                <a class="read-more" href="https://www.ft.com/content/f537987f-e88e-4f60-93bf-74e838235b2d?syn-25a6b1a6=1" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.ft.com/content/7b9df85a-59ed-4863-9682-1c5b868fd3af?syn-25a6b1a6=1" target="_blank" rel="noopener">A Republican midterm defeat will not be an earthquake</a></h3>
-              
-              <p class="summary">Democrats are likely to make gains in Congress but divided government is unlikely to derail Trump’s agenda</p>
-              
+              <h3><a href="https://www.ft.com/content/7b9df85a-59ed-4863-9682-1c5b868fd3af?syn-25a6b1a6=1" target="_blank" rel="noopener">Бүгд найрамдах насанд ялагдсан ч газар хөдлөлт болохгүй</a></h3>
+              <p class="title-en">A Republican midterm defeat will not be an earthquake</p>
+              <p class="summary">Ардчилал Конгресст олз болох магадлалтай ч хуваагдан захиргаа нь Трампын хөтөлбөрийг бууруулах магадлалгүй</p>
+              <p class="summary-en">Democrats are likely to make gains in Congress but divided government is unlikely to derail Trump’s agenda</p>
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 11:16 UTC</span>
@@ -1471,10 +1484,23 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1" target="_blank" rel="noopener">Altman says OpenAI will delay its IPO until it overcomes safety concerns</a></h3>
-              
-              <p class="summary">ChatGPT maker launches a new AI personal assistant as it faces a challenge from Meta’s Muse</p>
-              
+              <h3><a href="https://www.ft.com/content/d2916f8b-c53b-4c64-a9f8-37807bf5383f?syn-25a6b1a6=1" target="_blank" rel="noopener">Австрали хэдэн арван жилийн татвараас хойш тамхи татдаг хар зах зээлтэй тулалдаж байна</a></h3>
+              <p class="title-en">Australia battles black market for cigarettes after decade of tax rises</p>
+              <p class="summary">Байгуулагдсан гэмт хэргийн хувьд олон тэрбум долларын боломжийг хэрхэн бий болгосон бэ?</p>
+              <p class="summary-en">How policy created a multibillion dollar opportunity for organised crime</p>
+              <div class="meta">
+                <span class="source-tag">Financial Times</span>
+                <span class="date">2026-09-29 21:00 UTC</span>
+                <a class="read-more" href="https://www.ft.com/content/d2916f8b-c53b-4c64-a9f8-37807bf5383f?syn-25a6b1a6=1" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1" target="_blank" rel="noopener">Алтман хэлэхдээ, OpenAI нь аюулгүй байдлын асуудлыг даван туулах хүртэл IPO-г хойшлуулах болно</a></h3>
+              <p class="title-en">Altman says OpenAI will delay its IPO until it overcomes safety concerns</p>
+              <p class="summary">ChatGPT үйлдвэрлэгч Meta&#x27;s Muse-аас сорилттой тулгарч байгаа тул шинэ хиймэл оюун ухааны хувийн туслах ажиллуулдаг</p>
+              <p class="summary-en">ChatGPT maker launches a new AI personal assistant as it faces a challenge from Meta’s Muse</p>
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 21:56 UTC</span>
@@ -1484,10 +1510,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1" target="_blank" rel="noopener">Nvidia turns to insurers to spread the risk of AI build-out</a></h3>
-              
-              <p class="summary">World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom</p>
-              
+              <h3><a href="https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1" target="_blank" rel="noopener">Nvidia хиймэл оюун ухаан бий болох эрсдлийг даатгагчдад эргэдэг</a></h3>
+              <p class="title-en">Nvidia turns to insurers to spread the risk of AI build-out</p>
+              <p class="summary">Дэлхийн хамгийн том жагсаасан компани нь Уолл Стрийтийг хиймэл оюун ухааны өсөлт санхүүжилтэд нэвтрүүлэх шинэ арга замыг хайж байна</p>
+              <p class="summary-en">World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom</p>
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 04:04 UTC</span>
@@ -1497,10 +1523,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1" target="_blank" rel="noopener">Pentagon awards Boeing $20bn contract for Navy stealth fighter jet</a></h3>
-              
-              <p class="summary">Virginia-headquartered company marks a revival of its role with the defence department</p>
-              
+              <h3><a href="https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1" target="_blank" rel="noopener">Пентагон нь Тэнгисийн цэргийн тийрэлтэт онгоцонд зориулж Боинг $ 20 тэрбум долларын гэрээ байгуулсан.</a></h3>
+              <p class="title-en">Pentagon awards Boeing $20bn contract for Navy stealth fighter jet</p>
+              <p class="summary">Виржиниа тэргүүнтэй компани нь батлан хамгаалах хэлтсийн үүргийн сэргээн босголтыг тохиож байна</p>
+              <p class="summary-en">Virginia-headquartered company marks a revival of its role with the defence department</p>
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-30 00:31 UTC</span>
@@ -1510,10 +1536,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/1199468e-dbe5-4581-b039-3d57985291ac?syn-25a6b1a6=1" target="_blank" rel="noopener">Hegseth to slash top US military officer roles by 20%</a></h3>
-              
-              <p class="summary">Generals’ and admirals’ positions will be cut as part of the defence secretary’s wide-ranging overhaul of the armed services</p>
-              
+              <h3><a href="https://www.ft.com/content/1199468e-dbe5-4581-b039-3d57985291ac?syn-25a6b1a6=1" target="_blank" rel="noopener">Хейгсет АНУ-ын цэргийн албан тушаалтны үүргийг 20% -иар ээр аажуутгана</a></h3>
+              <p class="title-en">Hegseth to slash top US military officer roles by 20%</p>
+              <p class="summary">Зэвсэгт үйлчилгээний батлан хамгаалах нарийн бичгийн даргын өргөн хүрээний шинэчлэлийн нэг хэсэг болох &quot;болон танин мэдэхүйн албан тушаалууд&quot; -ыг бууруулна.</p>
+              <p class="summary-en">Generals’ and admirals’ positions will be cut as part of the defence secretary’s wide-ranging overhaul of the armed services</p>
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 20:56 UTC</span>
@@ -1523,10 +1549,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/e9b18367-5144-4775-8ddd-d1d133672db0?syn-25a6b1a6=1" target="_blank" rel="noopener">Suspect in RAF Fairford incident called 999 shortly before arrest</a></h3>
-              
-              <p class="summary">Motive for the emergency call is unclear, as police continue to investigate incident at air base used by US bombers</p>
-              
+              <h3><a href="https://www.ft.com/content/e9b18367-5144-4775-8ddd-d1d133672db0?syn-25a6b1a6=1" target="_blank" rel="noopener">RAF Fairford-ийн хэргийн сэжигтэнийг баривчлахаас өмнөх 999 гэж нэрлэдэг</a></h3>
+              <p class="title-en">Suspect in RAF Fairford incident called 999 shortly before arrest</p>
+              <p class="summary">Яаралтай дуудлагын зорилго тодорхойгүй тул цагдаа нар АНУ-ын бөмбөгдөгчдийн ашигладаг агаарын бөмбөгдөлтөнд гарсан тохиолдлыг мөрдөн байцаалтыг үргэлжлүүлэн судалж байна</p>
+              <p class="summary-en">Motive for the emergency call is unclear, as police continue to investigate incident at air base used by US bombers</p>
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 20:19 UTC</span>
@@ -1536,10 +1562,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?</a></h3>
-              
-              <p class="summary">“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories" target="_blank" rel="noopener">‘Би 400,000 $ өмчтэй’: Би 80 настай. Эсвэл олон мянган хүнийг шинэчлэх үү?</a></h3>
+              <p class="title-en">‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?</p>
+              <p class="summary">&quot;Ер нь миний уншсан зөвлөгөөг би хямд хүүтэй орон сууцны зээлтэй тул зарахгүй байхыг хэллээ.&quot;</p>
+              <p class="summary-en">“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-30 01:00 UTC</span>
@@ -1549,10 +1575,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?</a></h3>
-              
-              <p class="summary">“When my paycheck lands, it takes a detour through bitcoin.”</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories" target="_blank" rel="noopener">&quot;Би хэзээ ч зардаггүй&quot;: Би 47 настай. Би галзуурч байна уу?</a></h3>
+              <p class="title-en">‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?</p>
+              <p class="summary">&quot;Миний цалингийн хуудсыг газардуулахад энэ нь Википедиа-ээр дэсгэрдэг.&quot;</p>
+              <p class="summary-en">“When my paycheck lands, it takes a detour through bitcoin.”</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-30 00:30 UTC</span>
@@ -1562,10 +1588,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories" target="_blank" rel="noopener">I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?</a></h3>
-              
-              <p class="summary">“I am a retired senior citizen living check-to-check.”</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories" target="_blank" rel="noopener">Би 77 настай, түрээсийн төлбөрөө төлж, Нийгмийн даатгалаас хол амьдардаг ч орон гэргүй хүмүүст тусалж байна. Яагаад тийм олон хүн өлсөж байна вэ?</a></h3>
+              <p class="title-en">I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?</p>
+              <p class="summary">&quot;Би тэтгэвэрт гарсан ахмад иргэн юм.&quot;</p>
+              <p class="summary-en">“I am a retired senior citizen living check-to-check.”</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-29 23:30 UTC</span>
@@ -1575,10 +1601,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories" target="_blank" rel="noopener">‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?</a></h3>
-              
-              <p class="summary">“As a country, we have grown dangerously comfortable.”</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories" target="_blank" rel="noopener">«Би пастороороо 30 000 $ олдож, одоо ч тэтгэвэртээ гарсан. Яагаад ингэж хэлж болохгүй гэж?</a></h3>
+              <p class="title-en">‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?</p>
+              <p class="summary">&quot;Бид улс орон учраас аюултай тав тухтай болж байна.&quot;</p>
+              <p class="summary-en">“As a country, we have grown dangerously comfortable.”</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-29 23:03 UTC</span>
@@ -1588,10 +1614,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?</a></h3>
-              
-              <p class="summary">“We have an ironclad prenup.”</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories" target="_blank" rel="noopener">&quot;Би Балид байдаг далайн эргийн эрэг дээр байна&quot;: Нөхөр маань $ 8 сая цэвэр хөрөнгөө уучилдаг. Тэтгэвэрт гарсан хойноо би төлөх ёстой юу?</a></h3>
+              <p class="title-en">‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?</p>
+              <p class="summary">&quot;Төмрийн хувцасны будаг бий.&quot;</p>
+              <p class="summary-en">“We have an ironclad prenup.”</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-29 22:00 UTC</span>
@@ -1601,10 +1627,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories" target="_blank" rel="noopener">Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout</a></h3>
-              
-              <p class="summary">The Paramount financing will be a closely watched barometer of dealmaking appetite despite rising borrowing costs in 2026.</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories" target="_blank" rel="noopener">Холливудын том өрийн гэрээ нь их хэмжээний ургацын ханыг их хэмжээгээр даван туулж байна. Warner Bros buyout</a></h3>
+              <p class="title-en">Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout</p>
+              <p class="summary">Мөнгө зээлэх нь 2026 онд нэмэгдэж буй зардлыг үл харгалзан суурь санхүүжилт нь нарийн төвөгтэй юм.</p>
+              <p class="summary-en">The Paramount financing will be a closely watched barometer of dealmaking appetite despite rising borrowing costs in 2026.</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-29 21:56 UTC</span>
@@ -1614,10 +1640,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories" target="_blank" rel="noopener">Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.</a></h3>
-              
-              <p class="summary">The recent Starship launch helps SpaceX with a number of priorities that could help its stock reach $900 over the long run, an analyst says.</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories" target="_blank" rel="noopener">SpaceX өдөрт 12 их наяд $ үнэтэй байж болох уу? Сити хэлэхдээ Starship эгнээндээ ойртов.</a></h3>
+              <p class="title-en">Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.</p>
+              <p class="summary">Саяхан нэг шинжээч хэлэхдээ SpaceX-ийг удаан хугацаанд 900 $ хүрэхэд тус болох хэд хэдэн чухал зүйлийг хийхэд тусална.</p>
+              <p class="summary-en">The recent Starship launch helps SpaceX with a number of priorities that could help its stock reach $900 over the long run, an analyst says.</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-29 21:53 UTC</span>
@@ -1627,10 +1653,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories" target="_blank" rel="noopener">The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think</a></h3>
-              
-              <p class="summary">AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories" target="_blank" rel="noopener">AMD-ийн 8 тэрбум $ Дэлхийн Лабораторийн худалдан авах жинхэнэ шагнал нь таны бодож байсан зүйл биш юм</a></h3>
+              <p class="title-en">The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think</p>
+              <p class="summary">AMD нь орон зайн цацраг идэвхит загваруудыг зүсэх үйл ажиллагаа явуулж байгаа боловч хамгийн чухал нь, дээд авъяас чадварыг сонгон шалгаруулж, дэлхий дахины AI програмуудыг анхаарч авчрахад тусалж чадах удирдагч юм.</p>
+              <p class="summary-en">AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-29 21:52 UTC</span>
@@ -1640,10 +1666,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories" target="_blank" rel="noopener">Target’s price cuts are a sign of strength, some analysts say. Investors disagree.</a></h3>
-              
-              <p class="summary">A Jefferies analyst sees Target “prioritizing the health of the franchise over short-term profit optimization.”</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories" target="_blank" rel="noopener">Зорилтот үнийн бууралт нь бат бөх байдлын шинж тэмдэг юм гэж зарим шинжээчид хэлдэг.</a></h3>
+              <p class="title-en">Target’s price cuts are a sign of strength, some analysts say. Investors disagree.</p>
+              <p class="summary">Жефферсийн шинжээч &quot;богино хугацааны ашиг оновчтой болгохын тулд франчерийн эрүүл мэндийг тэргүүлэх зорилтыг&quot; гэж үзсэн.</p>
+              <p class="summary-en">A Jefferies analyst sees Target “prioritizing the health of the franchise over short-term profit optimization.”</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-29 21:33 UTC</span>
@@ -1653,10 +1679,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?</a></h3>
-              
-              <p class="summary">“The only debts were utility and credit-card bills, which we will pay off.”</p>
-              
+              <h3><a href="https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories" target="_blank" rel="noopener">: &quot;Би түүнийг бардам болгоно&quot; гэж: Ээж минь, салалтаар нас барсан. Би сорилтын зорилгоор файл хийх хэрэгтэй юу?</a></h3>
+              <p class="title-en">‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?</p>
+              <p class="summary">&quot;Бидний төлөх цорын ганц өр төлбөр бол хэрэгсэл, кредит картын төлбөр байсан юм.&quot;</p>
+              <p class="summary-en">“The only debts were utility and credit-card bills, which we will pay off.”</p>
               <div class="meta">
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-29 21:30 UTC</span>
@@ -1679,10 +1705,10 @@
               <div class="grid">
                 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Spain announces ban on evictions after protests over 87-year-old woman&#x27;s removal from flat</a></h3>
-              
-              <p class="summary">The ban is part of a number of proposals that must be approved in parliament within 30 days.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Испани улс 87 настай эмэгтэйг хавтгайаас нь гаргасан эсэргүүцлийн дараа нүүлгэхийг хориглосныг зарлаж байна</a></h3>
+              <p class="title-en">Spain announces ban on evictions after protests over 87-year-old woman&#x27;s removal from flat</p>
+              <p class="summary">Энэ хоригийг 30 хоногийн дотор УИХ-д батлах ёстой хэд хэдэн саналуудын нэг хэсэг нь юм.</p>
+              <p class="summary-en">The ban is part of a number of proposals that must be approved in parliament within 30 days.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 16:23 UTC</span>
@@ -1692,10 +1718,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Chinese AI tool told researchers how to make bioweapons</a></h3>
-              
-              <p class="summary">Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer&#x27;s safety limits.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">БНХАУ-ын хиймэл оюун ухааны багаж биоэпоныг хэрхэн яаж бий болгох талаар судлаачдад мэдээлсэн</a></h3>
+              <p class="title-en">Chinese AI tool told researchers how to make bioweapons</p>
+              <p class="summary">Долдугаар сард Кими K2.6, K3 Swarm загвар хөгжүүлэгчийн аюулгүй байдлын хязгаарлалтаас зайлсхийж болохыг Mindgard мэдэгдсэн.</p>
+              <p class="summary-en">Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer&#x27;s safety limits.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 23:15 UTC</span>
@@ -1705,10 +1731,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">South Africa to clean up high-risk areas after 12 women killed</a></h3>
-              
-              <p class="summary">The deaths sparked a national outcry about the scale of violence against women in the country.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Өмнөд Африк 12 эмэгтэй амиа алдсаны дараа өндөр эрсдэлтэй газрыг цэвэрлэх</a></h3>
+              <p class="title-en">South Africa to clean up high-risk areas after 12 women killed</p>
+              <p class="summary">Үхэл нь улс орны эмэгтэйчүүдийн эсрэг хүчирхийллийн цар хүрээг даван туулах талаар улсын хэмжээнд хашхирчээ.</p>
+              <p class="summary-en">The deaths sparked a national outcry about the scale of violence against women in the country.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 22:33 UTC</span>
@@ -1718,10 +1744,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries</a></h3>
-              
-              <p class="summary">The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Олон зуун хүний тархи гэмтсэний дараа X2 rollercoaster-ийг унтраасан зургаан далбаа</a></h3>
+              <p class="title-en">Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries</p>
+              <p class="summary">Энэ зарлалаас хойш олон тооны хэргүүд, зуу зуун морьтон тархины гэмтэл авсан X2 нь 360 градус эргэдэг суудалтай суудалтай явахаас үүдэлтэй гэж мэдэгджээ.</p>
+              <p class="summary-en">The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 22:33 UTC</span>
@@ -1731,10 +1757,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">&#x27;I was lured into a trap&#x27;: Evan Gershkovich on moment that led to 16 months in Russian jail</a></h3>
-              
-              <p class="summary">The US journalist says he realised he was a &quot;a pawn in a greater game&quot; when he was not interrogated or tortured by FSB agents.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">«Эван Гершкович оросын шоронд 16 сар болтлоо»</a></h3>
+              <p class="title-en">&#x27;I was lured into a trap&#x27;: Evan Gershkovich on moment that led to 16 months in Russian jail</p>
+              <p class="summary">АНУ - ын сэтгүүлч түүнийг FSB-ийн төлөөлөгчдийг байцааж, тамлан зовоож үзээгүй үед «илүү том тоглолтон дээр гардаг» байсныг ухаарчээ.</p>
+              <p class="summary-en">The US journalist says he realised he was a &quot;a pawn in a greater game&quot; when he was not interrogated or tortured by FSB agents.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 12:43 UTC</span>
@@ -1744,10 +1770,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Israeli settlers attack West Bank village and block Palestinian family&#x27;s return home</a></h3>
-              
-              <p class="summary">Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Израиль суурьчид Вест-Санкийн тосгон руу довтолж, Палестины гэр бүлд буцаж очихыг хориглодог</a></h3>
+              <p class="title-en">Israeli settlers attack West Bank village and block Palestinian family&#x27;s return home</p>
+              <p class="summary">Аль-Тубаси гэр бүлийнхний хоёр байшинг шатааж, израйлын аюулгүй байдлын арми түр суурьшигчид бас байцаагдсан.</p>
+              <p class="summary-en">Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 12:39 UTC</span>
@@ -1757,10 +1783,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">More than 400 detained as France student protests escalate</a></h3>
-              
-              <p class="summary">Students have been protesting conditions and resources in high schools since last week.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Франц дахь сурагчдын эсэргүүцэл улам ширүүсэхэд 400 гаруй хүн баривчилжээ</a></h3>
+              <p class="title-en">More than 400 detained as France student protests escalate</p>
+              <p class="summary">Сурагчид өнгөрсөн долоо хоногоос хойш ахлах сургуулийн нөхцөл байдал, нөөц бололцоог эсэргүүцэж байна.</p>
+              <p class="summary-en">Students have been protesting conditions and resources in high schools since last week.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 21:55 UTC</span>
@@ -1770,10 +1796,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">First female prime minister named in Morocco after winning elections</a></h3>
-              
-              <p class="summary">Her appointment by the king makes her only the second woman to lead a government in the Arab world.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Мароккод сонгуулийн дараах анхны эмэгтэй ерөнхий сайд</a></h3>
+              <p class="title-en">First female prime minister named in Morocco after winning elections</p>
+              <p class="summary">Хаанаар томилогдсон тэрбээр Арабын ертөнцөд төр засгийг хоёр дахь эмэгтэй л хариуцуулжээ.</p>
+              <p class="summary-en">Her appointment by the king makes her only the second woman to lead a government in the Arab world.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 17:14 UTC</span>
@@ -1783,10 +1809,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Dutch police arrest suspected member of group that claimed FBI hack</a></h3>
-              
-              <p class="summary">The suspect, 24, was arrested before the alleged cyber attack took place.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Голландын цагдаа нар FBI hack гэж нэрлэсэн бүлгийн сэжигтэн гишүүн баривчлав</a></h3>
+              <p class="title-en">Dutch police arrest suspected member of group that claimed FBI hack</p>
+              <p class="summary">Гэж сэжигтэн, 24 настай тэр кибер халдлага болохоос өмнө баривчлагджээ.</p>
+              <p class="summary-en">The suspect, 24, was arrested before the alleged cyber attack took place.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 15:40 UTC</span>
@@ -1796,10 +1822,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Estonia blames Russia for arson at defence company supplying Ukraine</a></h3>
-              
-              <p class="summary">Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Эстони Украинд олгож буй харуул хамгаалалтын компани болох Оросыг буруутгадаг</a></h3>
+              <p class="title-en">Estonia blames Russia for arson at defence company supplying Ukraine</p>
+              <p class="summary">ОХУ Украинд тусалж ирсэн Европын НАТО-гийн хэд хэдэн оронд сүйтгэх халдлагад өртсөн гэж буруутгаж байна.</p>
+              <p class="summary-en">Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.</p>
               <div class="meta">
                 <span class="source-tag">BBC World</span>
                 <span class="date">2026-09-29 19:36 UTC</span>
@@ -1822,10 +1848,10 @@
               <div class="grid">
                 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health" target="_blank" rel="noopener">WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health</a></h3>
-              
-              <p class="summary">The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the strong partnership between WHO and Jordan across the areas of universal health cover…</p>
-              
+              <h3><a href="https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health" target="_blank" rel="noopener">ДЭМБ-ын ерөнхий захирал Жорданаас эрүүл мэндийн тогтолцооны хүргэлт, яаралтай тусламж үзүүлэх, сэтгэцийн эрүүл мэндийг ахиулах хүчтэй хамтын ажиллагааг таньж мэдэхээр очсон</a></h3>
+              <p class="title-en">WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health</p>
+              <p class="summary">Дэлхийн Эрүүл Мэндийн Байгууллагын ерөнхий захирал, Др. Тедрос Адханом Гебрийзсус, өнөөдөр хоёр хоногийн улсын айлчлалынхаа эхний өдөр Иорданы Хашимит Хаанчлалд очиж, ДЭМБ, Йордан улсын эрүүл мэндийн хамрах бүс нутагт хүчтэй хамтын ажиллагааг онцлон харуулав.</p>
+              <p class="summary-en">The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the strong partnership between WHO and Jordan across the areas of universal health cover…</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2026-02-25 18:06 UTC</span>
@@ -1835,10 +1861,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states" target="_blank" rel="noopener">WHO statement on notification of withdrawal of the United States</a></h3>
-              
-              <p class="summary">WHO regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February…</p>
-              
+              <h3><a href="https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states" target="_blank" rel="noopener">АНУ-ын зарлагын талаархи ДЭМБ-ын мэдэгдэл</a></h3>
+              <p class="title-en">WHO statement on notification of withdrawal of the United States</p>
+              <p class="summary">ДЭМБ-ын зарлалд харамсдаг. Гарах тухай мэдэгдэл нь ДЭМБ-ын Гүйцэтгэх зөвлөлөөс хоёрдугаар сарын 2-ны өдрөөс эхлэн тогтмол хурал дээр авч үзэх асуудлуудыг гаргалаа...</p>
+              <p class="summary-en">WHO regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February…</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2026-01-24 20:09 UTC</span>
@@ -1848,10 +1874,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro" target="_blank" rel="noopener">Paying tribute to David Nabarro</a></h3>
-              
-              <p class="summary">Tribute to Dr David Nabarro</p>
-              
+              <h3><a href="https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro" target="_blank" rel="noopener">Давид Набарро руу хүндэтгэл үзүүлэх нь</a></h3>
+              <p class="title-en">Paying tribute to David Nabarro</p>
+              <p class="summary">Давид Набарро хүндэтгэл</p>
+              <p class="summary-en">Tribute to Dr David Nabarro</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2025-07-30 08:56 UTC</span>
@@ -1861,10 +1887,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who" target="_blank" rel="noopener">Timor-Leste certified malaria-free by WHO</a></h3>
-              
-              <p class="summary">The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002.“WHO congratulates the people and govern…</p>
-              
+              <h3><a href="https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who" target="_blank" rel="noopener">Тимор-Лестийг ДЭМБ-аас ангид тахир дутуу болохыг баталгаажуулсан</a></h3>
+              <p class="title-en">Timor-Leste certified malaria-free by WHO</p>
+              <p class="summary">Дэлхийн Эрүүл Мэндийн Байгууллага (ДЭМБ) нь 2002 онд тусгаар тогтнолоо олж авснаас хойш удалгүй үндэсний хэмжээнд хамрагдсан концерт хариу арга хэмжээ авсан Маларигүй Тимор-Лестийг баталгаажуулсан.“Ард түмэнд мэнд хүргэж, удирддаг...</p>
+              <p class="summary-en">The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002.“WHO congratulates the people and govern…</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2025-07-23 10:07 UTC</span>
@@ -1874,10 +1900,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa" target="_blank" rel="noopener">African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa</a></h3>
-              
-              <p class="summary">The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement r…</p>
-              
+              <h3><a href="https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa" target="_blank" rel="noopener">Африкийн Холбооны болон Дэлхийн Эрүүл Мэндийн Байгууллага Африкт үзүүлэх нөлөөллийг бий болгож, эрүүл мэндийн тогтолцоог бэхжүүлэх стратегийн түншлэлийг шинэчлэх</a></h3>
+              <p class="title-en">African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa</p>
+              <p class="summary">Дэлхийн Эрүүл Мэндийн Байгууллага (ДЭМБ), Африкийн Холбооны (AU) комисс нь Женевийн 78 дэх Дэлхийн Эрүүл Мэндийн Ассамблейн 78 дахь эрүүл мэндийн чуулганы талаарх шинэчилсэн ойлголтын санамж бичиг (МОУ) -г гарын үсэг зурж өнөөдрийн байдлаар урт хугацааны стратегийн хамтын ажиллагаагаа сэргээв. Энэхүү шинэчилсэн гэрээний дагуу…</p>
+              <p class="summary-en">The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement r…</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2025-05-24 17:47 UTC</span>
@@ -1887,10 +1913,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/19-05-2025-who-s-strategic-engagement-with-philanthropies-advancing-global-health-and-resilient-health-systems" target="_blank" rel="noopener">WHO’s strategic engagement with philanthropies: advancing global health and resilient health systems</a></h3>
-              
-              <p class="summary">Philanthropic support plays a vital role in enabling countries to build stronger health systems and advance towards health equity. From vaccine equity and pandemic preparedness to primary health care, the contributions of philanthropic partners help drive progress across WHO’s ke…</p>
-              
+              <h3><a href="https://www.who.int/news/item/19-05-2025-who-s-strategic-engagement-with-philanthropies-advancing-global-health-and-resilient-health-systems" target="_blank" rel="noopener">ДЭМБ-ын сайн үйлстэй стратегийн оролцоо: дэлхийн эрүүл мэнд, уян хатан эрүүл мэндийн тогтолцоог дэвшүүлэх</a></h3>
+              <p class="title-en">WHO’s strategic engagement with philanthropies: advancing global health and resilient health systems</p>
+              <p class="summary">ФИЛАНТРОПЫН ДЭЛГЭРҮҮЛЭГЧ нь эрүүл мэндийн тогтолцоог бэхжүүлэх, эрүүл мэндийн өмчлөлд ахиц дэвшил гаргахад чухал үүрэг гүйцэтгэдэг. Вакцины өмч, цар тахлын бэлтгэлээс анхдагч эрүүл мэндийн тусламж хүртэлх хувь нэмрээ оруулах нь буяны хамтрагчдын хувь нэмэр нь ДЭМБ-ын KE хүрээнд ахиц дэвшил гаргахад тусалдаг...</p>
+              <p class="summary-en">Philanthropic support plays a vital role in enabling countries to build stronger health systems and advance towards health equity. From vaccine equity and pandemic preparedness to primary health care, the contributions of philanthropic partners help drive progress across WHO’s ke…</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2025-05-19 11:53 UTC</span>
@@ -1900,10 +1926,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/10-04-2025-worldwide-rally-for-maternal-and-newborn-health-marks-world-health-day-2025" target="_blank" rel="noopener">Worldwide rally for maternal and newborn health marks World Health Day 2025</a></h3>
-              
-              <p class="summary">On the occasion of the World Health Day 2025 dedicated to the theme of Healthier beginnings, hopeful futures, over 100 global WHO offices have organized wide-ranging public advocacy actions in collaboration with Member States, communities, health workers, partner and donor agenci…</p>
-              
+              <h3><a href="https://www.who.int/news/item/10-04-2025-worldwide-rally-for-maternal-and-newborn-health-marks-world-health-day-2025" target="_blank" rel="noopener">Ээж, нярайн эрүүл мэндэд зориулсан дэлхий дахины чуулган Дэлхийн эрүүл мэндийн өдөр 2025 он</a></h3>
+              <p class="title-en">Worldwide rally for maternal and newborn health marks World Health Day 2025</p>
+              <p class="summary">2025 Дэлхийн эрүүл мэндийн өдрийг дэлхийн 100 гаруй улс орон, иргэд, эрүүл мэнд, хамтын нийгэм, эрүүл мэндийн ажилтан, хамтрагч, хандивлагчийн агенситэй хамтран олон нийтийн өргөн хүрээнд сурталчилгааны арга хэмжээ зохион байгууллаа.</p>
+              <p class="summary-en">On the occasion of the World Health Day 2025 dedicated to the theme of Healthier beginnings, hopeful futures, over 100 global WHO offices have organized wide-ranging public advocacy actions in collaboration with Member States, communities, health workers, partner and donor agenci…</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2025-04-10 15:02 UTC</span>
@@ -1913,10 +1939,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/06-03-2025-strengthening-public-health-across-lebanon-with-eib-global" target="_blank" rel="noopener">Strengthening public health across Lebanon with EIB Global</a></h3>
-              
-              <p class="summary">Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Luxembourg and signed an agreement for a €10 million grant to strengthen public he…</p>
-              
+              <h3><a href="https://www.who.int/news/item/06-03-2025-strengthening-public-health-across-lebanon-with-eib-global" target="_blank" rel="noopener">Ливан даяар буй олон нийтийн эрүүл мэндийг EIB Global-тэй бэхжүүлэх</a></h3>
+              <p class="title-en">Strengthening public health across Lebanon with EIB Global</p>
+              <p class="summary">Дэлхийн Эрүүл Мэндийн Байгууллагын Ерөнхий захирал (ДЭМБ), Европын хөрөнгө оруулалтын банкны (EIB Global) дэд ерөнхийлөгч Томас Тедрос Адханом Гебрийзус Люксембург хотод EIB группын форумд уулзаж олон нийтийг бэхжүүлэх зорилгоор 10 сая € тэтгэлэгт гэрээнд гарын үсэг зурав...</p>
+              <p class="summary-en">Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Luxembourg and signed an agreement for a €10 million grant to strengthen public he…</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2025-04-01 11:55 UTC</span>
@@ -1926,10 +1952,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/11-03-2025-frank--in-depth-discussion-as-belgium-and-who-map-ahead-priorities-for-collaboration" target="_blank" rel="noopener">Frank, in-depth discussion as Belgium and WHO map ahead priorities for collaboration</a></h3>
-              
-              <p class="summary">In a three-day strategic dialogue, Belgium and WHO reviewed progress in their longstanding partnership, and agreed to further boost their collaboration on universal health coverage, health-systems strengthening and equitable access to essential vaccines, medicines and health tech…</p>
-              
+              <h3><a href="https://www.who.int/news/item/11-03-2025-frank--in-depth-discussion-as-belgium-and-who-map-ahead-priorities-for-collaboration" target="_blank" rel="noopener">Франк, Бельги зэрэг гүнзгий хэлэлцүүлэг болон хамтын ажиллагааны тэргүүлэх чиглэлийг газрын зураг</a></h3>
+              <p class="title-en">Frank, in-depth discussion as Belgium and WHO map ahead priorities for collaboration</p>
+              <p class="summary">Гурван өдрийн стратегийн хэлэлцүүлэгт Бельги олон жилийн турш хамтран ажиллахдаа ахиц дэвшлийг хянаж, нийтлэг эрүүл мэндийн хамрах хүрээ, эрүүл мэндийн тогтолцоо нь чухал вакцин, эм, эрүүл мэндийн технологийн талаархи хамтын ажиллагааг сайжруулахаар тохиролцсон....</p>
+              <p class="summary-en">In a three-day strategic dialogue, Belgium and WHO reviewed progress in their longstanding partnership, and agreed to further boost their collaboration on universal health coverage, health-systems strengthening and equitable access to essential vaccines, medicines and health tech…</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2025-03-11 08:49 UTC</span>
@@ -1939,10 +1965,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.who.int/news/item/07-03-2025-who-and-switzerland-cement-cooperation-until-2028" target="_blank" rel="noopener">WHO and Switzerland cement cooperation until 2028</a></h3>
-              
-              <p class="summary">WHO and Switzerland have announced the renewal of their cooperation strategy for the period 2024-2028. In 2013, Switzerland became the first high-income country in the WHO European Region to pilot a cooperation strategy with WHO (hereafter referred to as the WHO-Switzerland Coope…</p>
-              
+              <h3><a href="https://www.who.int/news/item/07-03-2025-who-and-switzerland-cement-cooperation-until-2028" target="_blank" rel="noopener">ДЭМБ, Швейцарийн цементийн хамтын ажиллагаа 2028 он хүртэл</a></h3>
+              <p class="title-en">WHO and Switzerland cement cooperation until 2028</p>
+              <p class="summary">ДЭМБ, Швейцарь хоёр 2024-2028 он хүртэлх хугацаанд хамтын ажиллагааны стратегиа шинэчлэхээ зарлав. 2013 онд Швейцарь нь ДЭМБ-ын Европын бүс нутагт хамгийн өндөр орлоготой орон болж, ДЭМБ-ыг хамтын ажиллагааны стратегийг туршихаар болсон (цаашид ДЭМБ-Свейцарь Короп гэж нэрлэдэг) …</p>
+              <p class="summary-en">WHO and Switzerland have announced the renewal of their cooperation strategy for the period 2024-2028. In 2013, Switzerland became the first high-income country in the WHO European Region to pilot a cooperation strategy with WHO (hereafter referred to as the WHO-Switzerland Coope…</p>
               <div class="meta">
                 <span class="source-tag">WHO News</span>
                 <span class="date">2025-03-07 12:38 UTC</span>
@@ -1952,10 +1978,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Hidden habits that make your social anxiety worse - and how to break them</a></h3>
-              
-              <p class="summary">Social anxiety is more common than many think. Here&#x27;s what you need to know about the condition.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Нийгэмд санаа зовохгүй байхад тусалдаг нууц дадал зуршлаа засаж, яаж эвдэх вэ?</a></h3>
+              <p class="title-en">Hidden habits that make your social anxiety worse - and how to break them</p>
+              <p class="summary">Нийгэмд санаа зовох нь олон хүний бодсоноос ч илүү түгээмэл байдаг. Нөхцлийн талаар та мэдэх хэрэгтэй зүйлээ энд орууллаа.</p>
+              <p class="summary-en">Social anxiety is more common than many think. Here&#x27;s what you need to know about the condition.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-30 00:44 UTC</span>
@@ -1965,10 +1991,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Burnham vows to end existing pension triple lock in 2030 to help fund care</a></h3>
-              
-              <p class="summary">The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Burnham нь 2030 онд одоо байгаа тэтгэврийн тэтгэврийн гурвалсан түгжээг халамжлахад нь туслах тангараглаж байна.</a></h3>
+              <p class="title-en">Burnham vows to end existing pension triple lock in 2030 to help fund care</p>
+              <p class="summary">Заримдаа PM нь бага хурал дээр илтгэлийнхээ үеэр сэтгэл хөдлөм байсан бөгөөд энэ нь Их Британид зориулсан урт хугацааны төлөвлөгөөгөө тусгасан юм.</p>
+              <p class="summary-en">The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-29 17:39 UTC</span>
@@ -1978,10 +2004,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Scrapping pensions triple lock &#x27;morally wrong&#x27;, says union boss</a></h3>
-              
-              <p class="summary">Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">&quot;Ёс суртахууны буруу&quot; гэсэн тэтгэвэрийг таслан зогсоохыг хүсч байна.</a></h3>
+              <p class="title-en">Scrapping pensions triple lock &#x27;morally wrong&#x27;, says union boss</p>
+              <p class="summary">Энди Бринхам Хөдөлмөрийн чуулганд анх илтгэлдээ нийгмийн тусламж, үнэ төлбөргүй тогтолцоог бий болгох санаагаа ерөнхий сайдаар томилохыг хүсч байна.</p>
+              <p class="summary-en">Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-29 09:10 UTC</span>
@@ -1991,10 +2017,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/c83v4qe70r0ko?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">New NHS-style social care system could take decades, Dilnot says</a></h3>
-              
-              <p class="summary">Sir Andrew Dilnot, who proposed reforms 15 years ago, says the cost of such a scheme would be &quot;very substantial&quot;.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/c83v4qe70r0ko?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">ЭМС-ийн шинэ загварын нийгмийн тусламжийн тогтолцоо хэдэн арван жил үргэлжилж болно гэж Дилнев хэлэв</a></h3>
+              <p class="title-en">New NHS-style social care system could take decades, Dilnot says</p>
+              <p class="summary">15 жилийн өмнө шинэчлэл хийхийг санал болгосон Сэр Эндрю Дилнегийн зардлыг «маш чухал» гэж тайлбарлажээ.</p>
+              <p class="summary-en">Sir Andrew Dilnot, who proposed reforms 15 years ago, says the cost of such a scheme would be &quot;very substantial&quot;.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-28 12:10 UTC</span>
@@ -2004,10 +2030,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">&#x27;Broken social care will in the end break the NHS,&#x27; says Burnham</a></h3>
-              
-              <p class="summary">Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">&#x27;ЭМС-ыг эвдэрсэн бол нийгмийн халамж эвдэрнэ&#x27; гэж Бурнхам хэлэв</a></h3>
+              <p class="title-en">&#x27;Broken social care will in the end break the NHS,&#x27; says Burnham</p>
+              <p class="summary">Энди Бёрхам санал болгосон тусламжийн үйлчилгээг дараагийн ерөнхий сонгуулийн үеэр нарийн нягтлан үзэж саналаа өгсөн байна.</p>
+              <p class="summary-en">Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-27 09:52 UTC</span>
@@ -2017,10 +2043,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Ten NHS staff removed over Noah Woods data breach</a></h3>
-              
-              <p class="summary">East Suffolk and North Essex NHS Foundation Trust says it has launched an &quot;urgent&quot; investigation.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Ноа Модс өгөгдлийн зөрчлийг арилгасан NHS-ийн арван ажилтан</a></h3>
+              <p class="title-en">Ten NHS staff removed over Noah Woods data breach</p>
+              <p class="summary">Зүүн Саффолк, Хойд Эсекс NHS сангийн Trust нар &quot;яаралтай&quot; судалгааг эхлүүлсэн гэсэн байна.</p>
+              <p class="summary-en">East Suffolk and North Essex NHS Foundation Trust says it has launched an &quot;urgent&quot; investigation.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-28 08:04 UTC</span>
@@ -2030,10 +2056,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">NHS to suspend staff suspected of snooping on patient records</a></h3>
-              
-              <p class="summary">There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Өвчтөний бүртгэлд хяналт тавих сэжигтэй ажилтнуудыг түдгэлзүүлэхийн тулд NHS</a></h3>
+              <p class="title-en">NHS to suspend staff suspected of snooping on patient records</p>
+              <p class="summary">Английн NHS-ийн тэргүүн хэлэхдээ, өвчтөнд итгэх итгэлийг нь доромжилсон ажилтнуудын маш олон тохиолдол байсан бөгөөд хангалттай.</p>
+              <p class="summary-en">There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-25 12:47 UTC</span>
@@ -2043,10 +2069,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training</a></h3>
-              
-              <p class="summary">Gyms are booming, solitary cardio is out - how workouts are changing.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Үхэлд хүргэх гүйлтийн зам: Жен З яагаад зүрхээ сэлгэх хэрэгтэй вэ?</a></h3>
+              <p class="title-en">Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training</p>
+              <p class="summary">Хөвгүүд томорч, цорын ганц зүрх судас гарч, дасгал хөдөлгөөн хэрхэн өөрчлөгдөж байна.</p>
+              <p class="summary-en">Gyms are booming, solitary cardio is out - how workouts are changing.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-24 23:46 UTC</span>
@@ -2056,10 +2082,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">From weeks to hours - the rapid new test transforming brain tumour diagnosis</a></h3>
-              
-              <p class="summary">The test means patients can start treatment sooner and are spared weeks of uncertainty.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Долоо хоногоос цаг хүртэл - тархины хавдарын оношийг хурдацтай өөрчилдөг шинэ шинжилгээ</a></h3>
+              <p class="title-en">From weeks to hours - the rapid new test transforming brain tumour diagnosis</p>
+              <p class="summary">Туршилт гэдэг нь өвчтөнүүд эмчилгээг түргэн шуурхай эхлүүлж, хэдэн долоо хоногийн тодорхойгүй байдлаас ангид байж болзошгүй гэсэн үг юм.</p>
+              <p class="summary-en">The test means patients can start treatment sooner and are spared weeks of uncertainty.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-24 23:44 UTC</span>
@@ -2069,10 +2095,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bbc.co.uk/news/articles/cm207yn1124zo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">NHS staff investigated over access to dead teenager&#x27;s medical records</a></h3>
-              
-              <p class="summary">Oliver McGowan, who died in 2016, may have had his medical records accessed inappropriately after his death by NHS staff in Bristol.</p>
-              
+              <h3><a href="https://www.bbc.co.uk/news/articles/cm207yn1124zo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">NHS-ийн ажилтнууд өсвөр насны нас барсан эрүүл мэндийн бүртгэлд нэвтрэх талаар судалсан</a></h3>
+              <p class="title-en">NHS staff investigated over access to dead teenager&#x27;s medical records</p>
+              <p class="summary">2016 онд нас барсан Оливер МакГован Брристол дахь NHS ажилтнуудын нас барсны дараа эмчилгээний бүртгэлээ зохисгүй байдлаар хандсан байж магадгүй юм.</p>
+              <p class="summary-en">Oliver McGowan, who died in 2016, may have had his medical records accessed inappropriately after his death by NHS staff in Bristol.</p>
               <div class="meta">
                 <span class="source-tag">BBC Health</span>
                 <span class="date">2026-09-24 05:00 UTC</span>
@@ -2095,10 +2121,10 @@
               <div class="grid">
                 
             <article class="card">
-              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260929053528.htm" target="_blank" rel="noopener">The ice blasting from Saturn&#x27;s moon Enceladus is stranger than scientists realized</a></h3>
-              
-              <p class="summary">Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for or…</p>
-              
+              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260929053528.htm" target="_blank" rel="noopener">Saturn&#x27;s moon Enceladus-ийн мөсний тэсэлгээний тухай эрдэмтэд мэдсэнээс гадуур юм</a></h3>
+              <p class="title-en">The ice blasting from Saturn&#x27;s moon Enceladus is stranger than scientists realized</p>
+              <p class="summary">Энкеладус нь байгалийн жамаар тусгаарлаж, нуугдмал далайгаасаа химийн бодисуудыг баяжуулж, дусал дуслаар удаан хөлдөж, замдаа зугтдаг. Энэ үйл явц нь Кассинигийн гэнэтийн мөсний хими, ирээдүйн сансрын хөлөгийг эрэлхийлэх, эсвэл…</p>
+              <p class="summary-en">Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for or…</p>
               <div class="meta">
                 <span class="source-tag">Science Daily</span>
                 <span class="date">2026-09-29 09:58 UTC</span>
@@ -2108,10 +2134,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260928100540.htm" target="_blank" rel="noopener">Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet</a></h3>
-              
-              <p class="summary">Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilometers beneath our feet.</p>
-              
+              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260928100540.htm" target="_blank" rel="noopener">Дэлхийн өдөр яг 24 цаг байдаггүй. Дэлхийд ч гэсэн гүнзгий байж болно</a></h3>
+              <p class="title-en">Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet</p>
+              <p class="summary">Эрдэмтэд дэлхийн өдөр хэдэн миллисекундын урт удаан байгааг яагаад шийдсэн байж болох юм. Дотор төвийн далд ээлжит шилжилт нь зуурмаган дээр татагдан, гайхмаар эрч хүчтэй ертөнцийг бидний хөлийн доогуур мянга мянган км зайд илчилдэг.</p>
+              <p class="summary-en">Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilometers beneath our feet.</p>
               <div class="meta">
                 <span class="source-tag">Science Daily</span>
                 <span class="date">2026-09-29 05:08 UTC</span>
@@ -2121,10 +2147,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260928100534.htm" target="_blank" rel="noopener">NASA’s Crew-13 could go from Florida to the ISS in under 9 hours</a></h3>
-              
-              <p class="summary">NASA and SpaceX could launch four astronauts to the International Space Station on October 1, with the Dragon spacecraft reaching orbiting outpost less than nine hours after liftoff. Crew-13 will join Expedition 75 after teams complete a final round of intensive launch-readiness…</p>
-              
+              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260928100534.htm" target="_blank" rel="noopener">НАСА-гийн шар айраг-13 нь Флоридагаас ОУСС руу 9 цагийн дотор явж болно</a></h3>
+              <p class="title-en">NASA’s Crew-13 could go from Florida to the ISS in under 9 hours</p>
+              <p class="summary">НАСА-гийн болон SpaceX нар 4 сансрын нисгэгчийг 10-р сарын 1-ний өдөр Олон улсын сансрын станц руу явуулж, Драгон сансрын хөлөг нь эдэлгээг явуулснаас хойш 9 цагийн дараа тойрог замд хүрч очдог байв. Crew-13 нь эрчимтэй ажиллуулахад сүүлчийн шатыг дуусгасны дараа Экспедиц 75 -д нэгдэх болно.</p>
+              <p class="summary-en">NASA and SpaceX could launch four astronauts to the International Space Station on October 1, with the Dragon spacecraft reaching orbiting outpost less than nine hours after liftoff. Crew-13 will join Expedition 75 after teams complete a final round of intensive launch-readiness…</p>
               <div class="meta">
                 <span class="source-tag">Science Daily</span>
                 <span class="date">2026-09-29 04:38 UTC</span>
@@ -2134,10 +2160,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260927225041.htm" target="_blank" rel="noopener">Is the universe infinite? The answer gets weird fast</a></h3>
-              
-              <p class="summary">Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a small patch of a much larger curved universe. Space could even be flat while wrap…</p>
-              
+              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260927225041.htm" target="_blank" rel="noopener">Орчлонт ертөнц хязгааргүй гэж үү? Хариулт нь хачин</a></h3>
+              <p class="title-en">Is the universe infinite? The answer gets weird fast</p>
+              <p class="summary">Сансрын бичил долгионы эртний гэрлийн хэмжүүр нь орчлонт ертөнц хавтгай болж байгааг харуулдаг. Учир нь ажиглагдахуйц орон зай нь ердөө л том муруй орчлонт ертөнцийн цөөхөн хэсэг байж болох юм. Боодолтой байх зайнаас ч хавтгай байж болно...</p>
+              <p class="summary-en">Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a small patch of a much larger curved universe. Space could even be flat while wrap…</p>
               <div class="meta">
                 <span class="source-tag">Science Daily</span>
                 <span class="date">2026-09-28 03:18 UTC</span>
@@ -2147,10 +2173,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260927225034.htm" target="_blank" rel="noopener">This suitcase-sized spacecraft could hear the universe before stars existed</a></h3>
-              
-              <p class="summary">CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic dark ages ended and how dark matter helped build the first gala…</p>
-              
+              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260927225034.htm" target="_blank" rel="noopener">Энэхүү чемодан хэмжээтэй сансрын хөлөг од бий болохоос өмнө орчлонт ертөнцийг сонсож чадсан</a></h3>
+              <p class="title-en">This suitcase-sized spacecraft could hear the universe before stars existed</p>
+              <p class="summary">CosmoCube нь сарны холын талд дэлхийн радиогийн дуу хоолойн бамбай болж анхны од гарахаас өмнө орчлонт ертөнцөөс ухаан алдсан дохиог хайх болно. Чемодан хэмжээтэй хиймэл дагуул сансар огторгуйн харанхуй үеүүд хэрхэн дууссан, анхны гала-г бүтээхэд хэрхэн харанхуй зүйл тусалсныг илчилж чадна...</p>
+              <p class="summary-en">CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic dark ages ended and how dark matter helped build the first gala…</p>
               <div class="meta">
                 <span class="source-tag">Science Daily</span>
                 <span class="date">2026-09-29 03:45 UTC</span>
@@ -2160,10 +2186,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260927225032.htm" target="_blank" rel="noopener">Scientists expected these Galápagos sea turtles to wander. They stayed put</a></h3>
-              
-              <p class="summary">Yellow-morph green sea turtles in the Galápagos surprised scientists by staying remarkably close to home instead of making the long journeys typically associated with sea turtles. Satellite tracking showed that none left the marine reserve during the study, revealing just how imp…</p>
-              
+              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260927225032.htm" target="_blank" rel="noopener">Эрдэмтэд эдгээр Галапагосыг тэнгисийн яст мэлхий нураахыг хүсдэг байв.</a></h3>
+              <p class="title-en">Scientists expected these Galápagos sea turtles to wander. They stayed put</p>
+              <p class="summary">Галапагос дахь шар шилбэний ногоон далайн яст мэлхий эрдэмтэд далайн ястнуудтай ихэвчлэн холбоотой урт аялал хийхийн оронд гэртээ маш ойрхон байж эрдэмтэд гайхаж байв. Хиймэл дагуулын мониторинг нь судалгааны явцад далайн нөөцөөс хэн ч үлдээгүйг харуулж, яаж imp...</p>
+              <p class="summary-en">Yellow-morph green sea turtles in the Galápagos surprised scientists by staying remarkably close to home instead of making the long journeys typically associated with sea turtles. Satellite tracking showed that none left the marine reserve during the study, revealing just how imp…</p>
               <div class="meta">
                 <span class="source-tag">Science Daily</span>
                 <span class="date">2026-09-29 03:12 UTC</span>
@@ -2173,10 +2199,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260927225030.htm" target="_blank" rel="noopener">Blood tests reveal why astronauts get constipated in space</a></h3>
-              
-              <p class="summary">Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an important concern for fut…</p>
-              
+              <h3><a href="https://www.sciencedaily.com/releases/2026/09/260927225030.htm" target="_blank" rel="noopener">Цусны шинжилгээгээр сансрын нисгэгчид яагаад сансарт тууштай байдгийг илтгэнэ</a></h3>
+              <p class="title-en">Blood tests reveal why astronauts get constipated in space</p>
+              <p class="summary">Spaceflight нь хэдэн долоо хоногийн дотор гэдэсийг эрс өөрчилж, хоол хүнс гэдэсийг дамжин аажмаар задалдаг тул бактери нь илүү уураг задалдаг. Шилжилт нь сансрын нисгэгчийн өтгөн хаталтыг тайлбарлахад тусалж болох бөгөөд эрүүл мэндэд илүү өргөн нөлөө үзүүлж болох бөгөөд энэ нь fut-д чухал ач холбогдолтой...</p>
+              <p class="summary-en">Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an important concern for fut…</p>
               <div class="meta">
                 <span class="source-tag">Science Daily</span>
                 <span class="date">2026-09-28 12:49 UTC</span>
@@ -2771,6 +2797,19 @@
               <div class="grid">
                 
             <article class="card">
+              <h3><a href="https://ikon.mn/n/3qo3" target="_blank" rel="noopener">ҮЙЛ ЯВДАЛ: Их далайн салхи тал нутагт Рафаэл ба Бернини тусгай үзэсгэлэнгийн нээлт болно</a></h3>
+              
+              <p class="summary">Чингис хаан Үндэсний музейн 9 давхарт 11:40 цагт  “Их далайн салхи тал нутагт: Рафаэл ба Бернини” тусгай үзэсгэлэнгийн нээлт болно.  АҮЭБЯ-ны хурлын танхимд 14:00 цагт Ерөнхий сайдын захирамжаар байгуулагдсан шатахууны шуурхай штаб ээлжит мэдээлэл хийнэ. </p>
+              
+              <div class="meta">
+                <span class="source-tag">iKon.mn</span>
+                <span class="date">2026-09-30 01:35 UTC</span>
+                <a class="read-more" href="https://ikon.mn/n/3qo3" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
               <h3><a href="https://ikon.mn/n/3qo5" target="_blank" rel="noopener">“Оскар”-ын урьдчилсан шалгаруулалтад Монголыг төлөөлөн оролцох бүтээлээр “Тусгаар тогтнол: Бошиг сахигч” кино сонгогджээ</a></h3>
               
               <p class="summary">Монголын үндэсний кино урлагийн зөвлөлөөс “Академи авардс” буюу 99 дэх удаагийн “Оскар”-ын шагнал гардуулах ёслолын арга хэмжээний урьдчилсан шалгаруулалтад Монгол Улсыг төлөөлөн оролцох кино бүтээлийг шалгаруулсан талаараа мэдээлжээ. Тус мэдээлэлд: “Академи Авардс”-ын “Олон улсы…</p>
@@ -2883,19 +2922,6 @@
                 <span class="source-tag">iKon.mn</span>
                 <span class="date">2026-09-29 13:51 UTC</span>
                 <a class="read-more" href="https://ikon.mn/n/3qny" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://ikon.mn/n/3qnu" target="_blank" rel="noopener">АЙЧИ НАГОЯ 2026: Байт харваачид тэмцээнээ өндөрлүүлэв</a></h3>
-              
-              <p class="summary">Японд үргэлжилж байгаа Азийн наадмын байт харвааны төрөлд манай тамирчдын тэмцээн өндөрлөлөө. Энэ сарын 27-нд эхэлсэн уг төрөлд өнөөдөр рекувр харвааны эмэгтэйчүүдийн ганцаарчилсанд Б.Урантунгалаг Энэтхэгийн Моход Кумкун Анильд дийлдлээ. Мөн Б.Оюун-Эрдэнэ Казахстаны Александра Жэ…</p>
-              
-              <div class="meta">
-                <span class="source-tag">iKon.mn</span>
-                <span class="date">2026-09-29 08:21 UTC</span>
-                <a class="read-more" href="https://ikon.mn/n/3qnu" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -3437,7 +3463,7 @@
             
 
     <footer>
-      Үүсгэсэн: 2026-09-30 09:43:29 ·
+      Үүсгэсэн: 2026-09-30 02:04:29 ·
       Олон ангилалт мэдээний bot
     </footer>
   </div>
@@ -3455,6 +3481,124 @@
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
     });
+
+    // ─── Real-time market updates ─────────────────────────────────
+    // Server-side snapshot нь build хийсэн үеийнх. App нээлттэй үед
+    // 60 сек тутам client-side-ээс шинэ үнэ татаж, DOM-г шинэчилнэ.
+    const CORS_PROXY = 'https://corsproxy.io/?';
+
+    function fmtPrice(v) {
+      if (v == null || isNaN(v)) return '—';
+      const abs = Math.abs(v);
+      if (abs >= 1000) return v.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      if (abs >= 1) return v.toFixed(2);
+      return v.toFixed(4);
+    }
+
+    function updateRow(symbol, price, prev) {
+      const row = document.querySelector(`.market-row[data-symbol="${symbol}"]`);
+      if (!row || price == null) return;
+      const priceEl = row.querySelector('.market-price');
+      const pctEl = row.querySelector('.market-pct');
+      const oldTxt = priceEl.textContent.replace(/,/g, '');
+      const oldNum = parseFloat(oldTxt);
+      priceEl.textContent = fmtPrice(price);
+      let pct = null;
+      if (prev && prev !== 0) pct = (price - prev) / prev * 100;
+      pctEl.classList.remove('up','down','flat');
+      if (pct == null) {
+        pctEl.classList.add('flat');
+        pctEl.textContent = '—';
+      } else {
+        pctEl.classList.add(pct >= 0 ? 'up' : 'down');
+        const arrow = pct >= 0 ? '▲' : '▼';
+        pctEl.textContent = `${arrow} ${Math.abs(pct).toFixed(2)}%`;
+      }
+      // Flash animation on price change
+      if (!isNaN(oldNum) && Math.abs(price - oldNum) > 0.0001) {
+        priceEl.classList.remove('flash-up','flash-down');
+        void priceEl.offsetWidth;
+        priceEl.classList.add(price >= oldNum ? 'flash-up' : 'flash-down');
+      }
+    }
+
+    async function fetchJson(url, timeoutMs = 8000) {
+      const ctrl = new AbortController();
+      const t = setTimeout(() => ctrl.abort(), timeoutMs);
+      try {
+        const r = await fetch(url, { signal: ctrl.signal });
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return await r.json();
+      } finally { clearTimeout(t); }
+    }
+
+    async function refreshCrypto() {
+      // Binance CORS-friendly, real-time
+      const map = { 'BTC-USD': 'BTCUSDT', 'ETH-USD': 'ETHUSDT', 'SOL-USD': 'SOLUSDT' };
+      const symbols = JSON.stringify(Object.values(map));
+      try {
+        const data = await fetchJson(`https://api.binance.com/api/v3/ticker/24hr?symbols=${encodeURIComponent(symbols)}`);
+        for (const [ours, bn] of Object.entries(map)) {
+          const item = data.find(d => d.symbol === bn);
+          if (item) updateRow(ours, parseFloat(item.lastPrice), parseFloat(item.openPrice));
+        }
+      } catch (e) { console.warn('crypto refresh:', e.message); }
+    }
+
+    async function refreshForex() {
+      // open.er-api.com CORS-friendly, free, no key
+      try {
+        const data = await fetchJson('https://open.er-api.com/v6/latest/USD');
+        const r = data.rates || {};
+        const usdMnt = r.MNT;
+        if (usdMnt) {
+          updateRow('MNT=X', usdMnt, null);
+          if (r.EUR) updateRow('EURMNT=X', usdMnt / r.EUR, null);
+          if (r.JPY) updateRow('JPYMNT=X', usdMnt / r.JPY, null);
+          if (r.GBP) updateRow('GBPMNT=X', usdMnt / r.GBP, null);
+        }
+      } catch (e) { console.warn('forex refresh:', e.message); }
+    }
+
+    async function refreshYahoo(symbol) {
+      // Yahoo (CORS proxy-оор) — хувьцаа болон түүхий эд
+      const url = CORS_PROXY + encodeURIComponent(
+        `https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?interval=1d&range=2d`
+      );
+      try {
+        const data = await fetchJson(url, 10000);
+        const meta = data?.chart?.result?.[0]?.meta;
+        if (meta) updateRow(symbol, meta.regularMarketPrice, meta.chartPreviousClose ?? meta.previousClose);
+      } catch (e) { console.warn(`yahoo ${symbol}:`, e.message); }
+    }
+
+    async function refreshMarkets() {
+      const stamp = document.querySelector('[data-updated-time]');
+      if (stamp) stamp.textContent = 'татаж байна…';
+      await Promise.allSettled([
+        refreshCrypto(),
+        refreshForex(),
+        refreshYahoo('%5EGSPC'),
+        refreshYahoo('%5EIXIC'),
+        refreshYahoo('%5EDJI'),
+        refreshYahoo('GC%3DF'),
+        refreshYahoo('CL%3DF'),
+        refreshYahoo('SI%3DF'),
+      ]);
+      if (stamp) {
+        const now = new Date();
+        stamp.textContent = 'шинэчилсэн ' + now.toLocaleTimeString('mn-MN', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+      }
+    }
+
+    if (document.querySelector('.market-snapshot')) {
+      refreshMarkets();
+      setInterval(refreshMarkets, 60000);
+      // Дэлгэц идэвхжихэд шууд шинэчилнэ (app-ыг олон цаг хойш нээхэд)
+      document.addEventListener('visibilitychange', () => {
+        if (!document.hidden) refreshMarkets();
+      });
+    }
 
     // PWA service worker — offline-д ажиллах + автомат шинэчлэлт
     if ('serviceWorker' in navigator) {
