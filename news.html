@@ -207,6 +207,67 @@
     text-align: center; color: var(--muted); font-size: 13px;
   }
 
+  /* === Арилжааны Snapshot === */
+  .market-snapshot {
+    margin: 8px 0 32px;
+    padding: 20px 22px 22px;
+    background: linear-gradient(180deg, rgba(122,162,255,.05), rgba(236,72,153,.03));
+    border: 1px solid var(--border);
+    border-radius: 16px;
+  }
+  .market-heading {
+    margin: 0 0 16px;
+    font-size: 18px;
+    color: var(--text);
+  }
+  .market-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+  }
+  .market-group {
+    background: rgba(0,0,0,.2);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    border-top: 3px solid var(--mc);
+  }
+  .market-group h3 {
+    margin: 0 0 10px;
+    font-size: 14px;
+    display: flex; align-items: center; gap: 8px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: .5px;
+  }
+  .market-icon { font-size: 16px; }
+  .market-row {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: 10px;
+    align-items: baseline;
+    padding: 6px 0;
+    border-bottom: 1px dashed rgba(255,255,255,.05);
+    font-size: 13px;
+  }
+  .market-row:last-child { border-bottom: none; }
+  .market-name { color: var(--text); }
+  .market-price {
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    color: var(--text);
+  }
+  .market-pct {
+    font-variant-numeric: tabular-nums;
+    font-size: 12px;
+    font-weight: 600;
+    min-width: 70px;
+    text-align: right;
+  }
+  .market-pct.up   { color: #10b981; }
+  .market-pct.down { color: #ef4444; }
+  .market-pct.flat { color: var(--muted); }
+
   /* === Mobile-first responsive === */
   @media (max-width: 768px) {
     .container { padding: 16px 14px 60px; }
@@ -258,11 +319,13 @@
   <div class="container">
     <header class="top">
       <h1>Өглөөний мэдээ</h1>
-      <p>2026 оны 09 сарын 30, Wednesday · Нийт 190 мэдээ · 8 ангилал</p>
+      <p>2026 оны 09 сарын 30, Wednesday · Нийт 230 мэдээ · 9 ангилал</p>
       <div class="filters">
-        <button class="filter-btn active" data-filter="all"><span class="nav-icon all-icon">★</span> Бүгд <span class="count">190</span></button><button class="filter-btn" data-filter="ai-tech" style="--c: #7aa2ff"><span class="nav-icon">AI</span> AI / Tech <span class="count">40</span></button><button class="filter-btn" data-filter="business" style="--c: #10b981"><span class="nav-icon">БИ</span> Бизнес / Стартап <span class="count">30</span></button><button class="filter-btn" data-filter="finance" style="--c: #f59e0b"><span class="nav-icon">ФИ</span> Финанс / Хөрөнгө оруулалт <span class="count">30</span></button><button class="filter-btn" data-filter="world" style="--c: #3b82f6"><span class="nav-icon">ДЭ</span> Дэлхийн мэдээ <span class="count">10</span></button><button class="filter-btn" data-filter="health" style="--c: #ef4444"><span class="nav-icon">ЭМ</span> Эрүүл мэнд <span class="count">20</span></button><button class="filter-btn" data-filter="science" style="--c: #a855f7"><span class="nav-icon">ШУ</span> Шинжлэх ухаан <span class="count">20</span></button><button class="filter-btn" data-filter="culture" style="--c: #ec4899"><span class="nav-icon">СО</span> Соёл / Дизайн / Арт <span class="count">30</span></button><button class="filter-btn" data-filter="mongolia" style="--c: #06b6d4"><span class="nav-icon">МН</span> Монголын мэдээ <span class="count">10</span></button>
+        <button class="filter-btn active" data-filter="all"><span class="nav-icon all-icon">★</span> Бүгд <span class="count">230</span></button><button class="filter-btn" data-filter="ai-tech" style="--c: #7aa2ff"><span class="nav-icon">AI</span> AI / Tech <span class="count">40</span></button><button class="filter-btn" data-filter="business" style="--c: #10b981"><span class="nav-icon">БИ</span> Бизнес / Стартап <span class="count">30</span></button><button class="filter-btn" data-filter="finance" style="--c: #f59e0b"><span class="nav-icon">ФИ</span> Финанс / Хөрөнгө оруулалт <span class="count">30</span></button><button class="filter-btn" data-filter="world" style="--c: #3b82f6"><span class="nav-icon">ДЭ</span> Дэлхийн мэдээ <span class="count">10</span></button><button class="filter-btn" data-filter="health" style="--c: #ef4444"><span class="nav-icon">ЭМ</span> Эрүүл мэнд <span class="count">20</span></button><button class="filter-btn" data-filter="science" style="--c: #a855f7"><span class="nav-icon">ШУ</span> Шинжлэх ухаан <span class="count">20</span></button><button class="filter-btn" data-filter="culture" style="--c: #ec4899"><span class="nav-icon">СО</span> Соёл / Дизайн / Арт <span class="count">30</span></button><button class="filter-btn" data-filter="mongolia" style="--c: #06b6d4"><span class="nav-icon">МН</span> Монголын мэдээ <span class="count">10</span></button><button class="filter-btn" data-filter="crypto" style="--c: #f7931a"><span class="nav-icon">₿</span> Крипто арилжаа <span class="count">40</span></button>
       </div>
     </header>
+
+    <section class="market-snapshot">  <h2 class="market-heading">📊 Арилжааны Snapshot</h2> <div class="market-grid"><div class="market-group" style="--mc: #f7931a">  <h3><span class="market-icon">₿</span> Крипто</h3>  <div class="market-body"><div class="market-row">  <span class="market-name">Bitcoin (BTC/USD)</span>  <span class="market-price">83,357.60</span>  <span class="market-pct down">▼ 0.32%</span></div><div class="market-row">  <span class="market-name">Ethereum (ETH/USD)</span>  <span class="market-price">2,669.35</span>  <span class="market-pct down">▼ 0.28%</span></div><div class="market-row">  <span class="market-name">Solana (SOL/USD)</span>  <span class="market-price">119.31</span>  <span class="market-pct up">▲ 0.21%</span></div></div></div><div class="market-group" style="--mc: #7aa2ff">  <h3><span class="market-icon">📈</span> Индекс</h3>  <div class="market-body"><div class="market-row">  <span class="market-name">S&amp;P 500</span>  <span class="market-price">7,670.84</span>  <span class="market-pct down">▼ 0.94%</span></div><div class="market-row">  <span class="market-name">NASDAQ</span>  <span class="market-price">26,797.54</span>  <span class="market-pct down">▼ 1.00%</span></div><div class="market-row">  <span class="market-name">Dow Jones</span>  <span class="market-price">51,349.92</span>  <span class="market-pct down">▼ 0.92%</span></div></div></div><div class="market-group" style="--mc: #f59e0b">  <h3><span class="market-icon">🛢</span> Түүхий эд</h3>  <div class="market-body"><div class="market-row">  <span class="market-name">Алт (унц, USD)</span>  <span class="market-price">4,202.00</span>  <span class="market-pct up">▲ 0.81%</span></div><div class="market-row">  <span class="market-name">Газрын тос WTI (баррель)</span>  <span class="market-price">89.75</span>  <span class="market-pct down">▼ 3.08%</span></div><div class="market-row">  <span class="market-name">Мөнгө (унц, USD)</span>  <span class="market-price">61.46</span>  <span class="market-pct up">▲ 0.39%</span></div></div></div><div class="market-group" style="--mc: #10b981">  <h3><span class="market-icon">💱</span> Форекс</h3>  <div class="market-body"><div class="market-row">  <span class="market-name">USD → MNT</span>  <span class="market-price">3,595.52</span>  <span class="market-pct up">▲ 0.00%</span></div><div class="market-row">  <span class="market-name">EUR → MNT</span>  <span class="market-price">4,081.22</span>  <span class="market-pct down">▼ 0.03%</span></div><div class="market-row">  <span class="market-name">JPY → MNT</span>  <span class="market-price">22.95</span>  <span class="market-pct up">▲ 0.31%</span></div><div class="market-row">  <span class="market-name">GBP → MNT</span>  <span class="market-price">4,760.82</span>  <span class="market-pct down">▼ 0.01%</span></div></div></div></div></section>
 
     
             <section data-category="ai-tech" class="source" style="--accent: #7aa2ff">
@@ -285,19 +348,6 @@
                 <span class="source-tag">Hacker News</span>
                 <span class="date">2026-09-29 22:36 UTC</span>
                 <a class="read-more" href="https://github.com/ninjahawk/livenerf" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart" target="_blank" rel="noopener">НАСА нууц дахин эхлүүлэхэд туслахын тулд SR-71A-ийн хэд хэдэн ажилтнуудаас асуув</a></h3>
-              <p class="title-en">NASA asked several former SR-71A staffers to help secret restart</p>
-              <p class="summary">Сэтгэгдлүүд</p>
-              <p class="summary-en">Comments</p>
-              <div class="meta">
-                <span class="source-tag">Hacker News</span>
-                <span class="date">2026-09-29 10:10 UTC</span>
-                <a class="read-more" href="https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -329,19 +379,6 @@
             
 
             <article class="card">
-              <h3><a href="https://enigma.design" target="_blank" rel="noopener">HN харуулах: Enigma машины ажлын 3D загвар</a></h3>
-              <p class="title-en">Show HN: A working 3D model of an Enigma machine</p>
-              <p class="summary">Сэтгэгдлүүд</p>
-              <p class="summary-en">Comments</p>
-              <div class="meta">
-                <span class="source-tag">Hacker News</span>
-                <span class="date">2026-09-29 17:15 UTC</span>
-                <a class="read-more" href="https://enigma.design" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
               <h3><a href="https://openai.com/index/introducing-gpt-6-1-sol/" target="_blank" rel="noopener">GPT 6.1 Сол: Австрагийн ойролцоо үнийн тавны нэгийг тооцоолох</a></h3>
               <p class="title-en">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</p>
               <p class="summary">Сэтгэгдлүүд</p>
@@ -350,6 +387,19 @@
                 <span class="source-tag">Hacker News</span>
                 <span class="date">2026-09-29 17:06 UTC</span>
                 <a class="read-more" href="https://openai.com/index/introducing-gpt-6-1-sol/" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://hereticpleb.vercel.app/blog/needed-one-plus-one/" target="_blank" rel="noopener">1+1 шаардлагатай, функциональ програмчлалын хэлийг бий болгосон</a></h3>
+              <p class="title-en">Needed 1+1, built a functional programming language</p>
+              <p class="summary">Сэтгэгдлүүд</p>
+              <p class="summary-en">Comments</p>
+              <div class="meta">
+                <span class="source-tag">Hacker News</span>
+                <span class="date">2026-09-29 16:18 UTC</span>
+                <a class="read-more" href="https://hereticpleb.vercel.app/blog/needed-one-plus-one/" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -394,14 +444,27 @@
             
 
             <article class="card">
-              <h3><a href="https://hereticpleb.vercel.app/blog/needed-one-plus-one/" target="_blank" rel="noopener">1+1 шаардлагатай, функциональ програмчлалын хэлийг бий болгосон</a></h3>
-              <p class="title-en">Needed 1+1, built a functional programming language</p>
+              <h3><a href="https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation" target="_blank" rel="noopener">Бид харанхуй ямар мэдрэмжийн санааг мартаж байна</a></h3>
+              <p class="title-en">We’re forgetting what darkness feels like</p>
               <p class="summary">Сэтгэгдлүүд</p>
               <p class="summary-en">Comments</p>
               <div class="meta">
                 <span class="source-tag">Hacker News</span>
-                <span class="date">2026-09-29 16:18 UTC</span>
-                <a class="read-more" href="https://hereticpleb.vercel.app/blog/needed-one-plus-one/" target="_blank" rel="noopener">Унших →</a>
+                <span class="date">2026-09-29 18:22 UTC</span>
+                <a class="read-more" href="https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://github.com/ntfargo/Relapse-Exploit" target="_blank" rel="noopener">PS5 Relapse Exploit</a></h3>
+              
+              <p class="summary">Сэтгэгдлүүд</p>
+              <p class="summary-en">Comments</p>
+              <div class="meta">
+                <span class="source-tag">Hacker News</span>
+                <span class="date">2026-09-29 15:44 UTC</span>
+                <a class="read-more" href="https://github.com/ntfargo/Relapse-Exploit" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -810,6 +873,32 @@
               <div class="grid">
                 
             <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/audio/2026-09-30/court-allows-third-country-deportation-trump-ai-leaders-meet" target="_blank" rel="noopener">Шүүх гуравдагч улсыг албадан хорихыг зөвшөөрдөг, Трамп-АИ-ийн удирдагчид уулзах</a></h3>
+              <p class="title-en">Court Allows Third Country Deportation, Trump-AI Leaders Meet</p>
+              <p class="summary">Эх сурвалж: Блүүмберг, 0:00</p>
+              <p class="summary-en">Source: Bloomberg, 0:00</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Business</span>
+                <span class="date">2026-09-30 01:00 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/audio/2026-09-30/court-allows-third-country-deportation-trump-ai-leaders-meet" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/kim-jong-un-s-sister-slams-seoul-s-mine-blast-probe-as-farce" target="_blank" rel="noopener">Ким Жонг Юн эгч Сөүлийн уурхайн тэсэлгээний датчикийг &quot;Алс&quot;гэж гаргав</a></h3>
+              <p class="title-en">Kim Jong Un’s Sister Slams Seoul’s Mine Blast Probe as ‘Farce’</p>
+              <p class="summary">Хойд Солонгосын удирдагч Ким Жонг Юн-ийн дүү Өмнөд Солонгосын мөрдөн байцаалтыг хил хязгаарын ойролцоо 21-р газрын уурхайн тэсрэлтийг цуцалж, Хойд Солонгосын хариуцлагаас татгалзажээ.</p>
+              <p class="summary-en">Kim Yo Jong, sister of North Korean leader Kim Jong Un, rejected South Korea’s investigation into a Sept. 21 land mine explosions near the border and denied North Korean responsibility, state media said.</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Business</span>
+                <span class="date">2026-09-30 00:54 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/kim-jong-un-s-sister-slams-seoul-s-mine-blast-probe-as-farce" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
               <h3><a href="https://www.bloomberg.com/news/audio/2026-09-29/court-allows-rapid-3rd-country-deportations-ai-accord-signed" target="_blank" rel="noopener">Шүүх нь 3-р улсын түргэн шилжүүлэлтийг зөвшөөрдөг, AI Accord гарын үсэг зурсан</a></h3>
               <p class="title-en">Court Allows Rapid 3rd Country Deportations, AI Accord Signed</p>
               <p class="summary">Эх сурвалж: Блүүмберг, 0:00</p>
@@ -914,32 +1003,6 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/newsletters/2026-09-29/tuesday-was-a-bad-day-for-bonds-and-stocks-alike-evening-briefing-americas" target="_blank" rel="noopener">Мягмар гаригт бонд, хувьцаа ногдуулах муу өдөр байсан.</a></h3>
-              <p class="title-en">Tuesday Was a Bad Day for Bonds and Stocks Alike: Evening Briefing Americas</p>
-              <p class="summary">Баригдана уу.</p>
-              <p class="summary-en">Get caught up.</p>
-              <div class="meta">
-                <span class="source-tag">Bloomberg Business</span>
-                <span class="date">2026-09-29 21:53 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/newsletters/2026-09-29/tuesday-was-a-bad-day-for-bonds-and-stocks-alike-evening-briefing-americas" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/newsletters/2026-09-29/openai-targets-30-billion-in-new-funding-round-ahead-of-ipo" target="_blank" rel="noopener">НээлттэйAI IPO-ийн өмнөх 30 тэрбум $ санхүүжилтийн бүхэл бүтэн хувийг чиглүүлдэг</a></h3>
-              <p class="title-en">OpenAI Targets $30 Billion in New Funding Round Ahead of IPO</p>
-              <p class="summary">Баригдана уу.</p>
-              <p class="summary-en">Get caught up.</p>
-              <div class="meta">
-                <span class="source-tag">Bloomberg Business</span>
-                <span class="date">2026-09-29 21:35 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/newsletters/2026-09-29/openai-targets-30-billion-in-new-funding-round-ahead-of-ipo" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
               <h3><a href="https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/" target="_blank" rel="noopener">AMD нь Дэлхийн Лабораторийн AI стартап авах, Nvidia-ийн эсрэг хоцролтыг давна</a></h3>
               <p class="title-en">AMD acquires World Labs AI startup, upping the ante against Nvidia</p>
               <p class="summary">Артикулын URL: https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49901672 Оноо: 3 # Сэтгэгдэл: 0</p>
@@ -968,7 +1031,7 @@
             <article class="card">
               <h3><a href="https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd" target="_blank" rel="noopener">AMD компани Fei-Fei Ли-ийн AI стартапыг $ 8B худалдан авах</a></h3>
               <p class="title-en">AMD to buy Fei-Fei Li&#x27;s AI startup for $8B</p>
-              <p class="summary">Артикулын URL: https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49884163 Оноо: 3 # Сэтгэгдэл: 1</p>
+              <p class="summary">Архивын URL: https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49884163 Оноо: 4 # Сэтгэгдэл: 1</p>
               <p class="summary-en">Article URL: https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd Comments URL: https://news.ycombinator.com/item?id=49884163 Points: 4 # Comments: 1</p>
               <div class="meta">
                 <span class="source-tag">HN Startups</span>
@@ -1213,6 +1276,58 @@
               <div class="grid">
                 
             <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/videos/2026-09-30/china-s-launches-mini-stimulus-to-counter-slowdown-video" target="_blank" rel="noopener">Хятад задралын эсрэг &quot;Mini Stimulus&quot; -ийг гаргалаа</a></h3>
+              <p class="title-en">China’s Launches ‘Mini Stimulus’ to Counter Slowdown</p>
+              <p class="summary">БНХАУ-ын хамгийн сүүлийн үеийн эдийн засгийн урамшууллын багц нь эдийн засгийн өсөлтийг өргөн хүрээнд сэргээхээс илүүтэйгээр, улс орны үндсэн эрэлт сул талыг үлдээх зорилготой юм. Bloomberg&#x27;s Minmin Low арга хэмжээнүүдийг нураана. (Эх сурвалж: Bloomberg)</p>
+              <p class="summary-en">China&#x27;s latest economic stimulus package is designed to keep economic growth on target rather than deliver a broad revival, leaving the country&#x27;s underlying demand weakness largely unaddressed. Bloomberg&#x27;s Minmin Low breaks down the measures. (Source: Bloomberg)</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Markets</span>
+                <span class="date">2026-09-30 01:11 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/videos/2026-09-30/china-s-launches-mini-stimulus-to-counter-slowdown-video" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates" target="_blank" rel="noopener">Азийн нөөц нэмэгдэж, PCE өгөгдлийн өмнө тогтвортой бонд: Зах зээлийн бооно</a></h3>
+              <p class="title-en">Asian Stocks Rise, Bonds Steady Before PCE Data: Markets Wrap</p>
+              <p class="summary">Газрын тосны зах зээлийг хөнгөвчлөх зэрэг гурван сессид анх удаа Азийн хувьцаа олж авсан нь АНУ-ын чухал инфляцийн уншихаас өмнө няцлах бондыг бий болгоход тусалсан. Зургадугаар сараас хойш долларын хамгийн сайн сар болох нь тогтоогдов.</p>
+              <p class="summary-en">Asian stocks gained for the first time in three sessions as easing oil-market concerns helped stem a bruising bond selloff ahead of a crucial US inflation reading. The dollar was set for its best month since June.</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Markets</span>
+                <span class="date">2026-09-29 22:12 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/stock-analyst-hiring-boom-in-india-defies-wall-street-s-pullback" target="_blank" rel="noopener">Энэтхэгийн Уолл гудамж дахь өсөлтийг ажилд авах нь Pullback Defies</a></h3>
+              <p class="title-en">Stock Analyst Hiring Boom in India Defies Wall Street’s Pullback</p>
+              <p class="summary">Хөрөнгийн шинжээчдийн хувьд ховор цөөн тооны хувьцааг нэмэгдүүлэхийн тулд уралдааны брокерууд уралдаанд тулгуурлан Энэтхэгт гарч ирж байна.</p>
+              <p class="summary-en">A rare hiring boom for equity analysts is emerging in India as brokerages race to increase coverage of soaring small-cap stocks.</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Markets</span>
+                <span class="date">2026-09-30 01:00 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/stock-analyst-hiring-boom-in-india-defies-wall-street-s-pullback" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/funds-buy-australian-bonds-on-signal-rate-hikes-are-nearing-end" target="_blank" rel="noopener">Хөрөнгө худалдаж авах Австралийн бонд Дохионы ханшийн хурдаар хөдлөх төгсгөл ойртож байна</a></h3>
+              <p class="title-en">Funds Buy Australian Bonds on Signal Rate Hikes Are Nearing End</p>
+              <p class="summary">Хөрөнгө оруулагчид Австралийн бондыг гадагш харуулж байна. Нөөцийн банк 15 жилийн өндөр өртөгтэй зээлсний дараа хурдтай мөчлөгийн төгсгөл ойртож байна гэж үзнэ.</p>
+              <p class="summary-en">Investors are starting to snap up Australian bonds, betting that the Reserve Bank is nearing the end of its rate-hike cycle after lifting borrowing costs to a 15-year high.</p>
+              <div class="meta">
+                <span class="source-tag">Bloomberg Markets</span>
+                <span class="date">2026-09-30 00:56 UTC</span>
+                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/funds-buy-australian-bonds-on-signal-rate-hikes-are-nearing-end" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
               <h3><a href="https://www.bloomberg.com/news/videos/2026-09-30/blackrock-s-hambro-sees-new-commodity-cycle-video" target="_blank" rel="noopener">BlackRock&#x27;s Hambro шинэ түүхий эдийн цикл харагдана</a></h3>
               <p class="title-en">BlackRock&#x27;s Hambro Sees New Commodity Cycle</p>
               <p class="summary">BlackRock-ийн Evy Hambro нь бараа бүтээгдэхүүн нь хиймэл оюун ухаан, электролиз, жилийн нийлүүлэлтийн хөрөнгө оруулалтаар хөтлөгдөж байгаа шинэ мөчлөгт орж байна гэж үзэж байна. Тэр хатуу хангамжийн урт хугацаанд үнийг дэмжинэ гэж үзэж байна. (Эх сурвалж: Bloomberg)</p>
@@ -1226,10 +1341,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/gold-fields-said-to-weigh-sweetening-northern-star-bid-with-cash" target="_blank" rel="noopener">Алтны талбарууд Мөлхөгчид Нордерын Оддын Тендер Бэлэн мөнгөтэй</a></h3>
-              <p class="title-en">Gold Fields Said to Mull Sweeter Northern Star Bid With Cash</p>
-              <p class="summary">Өмнөд Африкийн олборлогч дэлхийд хоёр дахь том алтны үйлдвэрлэгч бий болгох хэлэлцээрийг эсэргүүцэх оролдлого хийхийг эрмэлзэж буй тул энэхүү асуудалд мэддэг хүмүүс Умард Стар Ресурс ХХК-д амттай оролцох хүсэлтийг бодож байна.</p>
-              <p class="summary-en">Gold Fields Ltd. is considering a sweetened takeover bid for Northern Star Resources Ltd., according to people familiar with the matter, as the South African miner seeks to overcome resistance to a deal that would create the world’s second-largest gold producer.</p>
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/gold-fields-said-to-weigh-sweetening-northern-star-bid-with-cash" target="_blank" rel="noopener">Gold Fields Said to Mull Sweeter Northern Star Bid With Cash</a></h3>
+              
+              <p class="summary">Gold Fields Ltd. is considering a sweetened takeover bid for Northern Star Resources Ltd., according to people familiar with the matter, as the South African miner seeks to overcome resistance to a deal that would create the world’s second-largest gold producer.</p>
+              
               <div class="meta">
                 <span class="source-tag">Bloomberg Markets</span>
                 <span class="date">2026-09-29 19:18 UTC</span>
@@ -1239,10 +1354,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/videos/2026-09-30/can-treasury-yields-hit-6-video" target="_blank" rel="noopener">Сангийн талбайг 6% хит гэж хэлж болох уу?</a></h3>
-              <p class="title-en">Can Treasury Yields Hit 6%?</p>
-              <p class="summary">Bloomberg MLIV стратегийн мэргэжилтэн Марк Крэнфилд 10 жилийн сангийн бүтээмж Холбооны нөөцийн бодлого, газрын тосны өндөр үнэ, газрын геополитикийн хурцадмал байдал зэрэг 6% хүртэл өсөх магадлалтай гэж анхааруулсан. (Эх сурвалж: Bloomberg)</p>
-              <p class="summary-en">Bloomberg MLIV strategist Mark Cranfield warns 10-year Treasury yields could climb to 6% as Federal Reserve policy, elevated oil prices, and geopolitical tensions maintain upward pressure. (Source: Bloomberg)</p>
+              <h3><a href="https://www.bloomberg.com/news/videos/2026-09-30/can-treasury-yields-hit-6-video" target="_blank" rel="noopener">Can Treasury Yields Hit 6%?</a></h3>
+              
+              <p class="summary">Bloomberg MLIV strategist Mark Cranfield warns 10-year Treasury yields could climb to 6% as Federal Reserve policy, elevated oil prices, and geopolitical tensions maintain upward pressure. (Source: Bloomberg)</p>
+              
               <div class="meta">
                 <span class="source-tag">Bloomberg Markets</span>
                 <span class="date">2026-09-30 00:27 UTC</span>
@@ -1252,10 +1367,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30" target="_blank" rel="noopener">9-р сарын 30-ны өдрийн хамгийн сүүлийн үеийн тосны зах зээлийн мэдээ болон шинжилгээ</a></h3>
-              <p class="title-en">Latest Oil Market News and Analysis for Sept. 30</p>
-              <p class="summary">Тос нь Ойрхи Дорнодын бэлдмэлийг долоо хоног гаруй хугацаанд хамгийн том дусал хийсний дараа Саудын Араб Хормузын хоолойн усаас зайлсхийх урсгалыг эхлүүлсний дараа ойролцоо өссөн байна.</p>
-              <p class="summary-en">Oil steadied after its biggest drop in more than a week on signs Middle East supply has risen to near pre-war levels after Saudi Arabia resumed flows through a pipeline that avoids the Strait of Hormuz.</p>
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30" target="_blank" rel="noopener">Latest Oil Market News and Analysis for Sept. 30</a></h3>
+              
+              <p class="summary">Oil steadied after its biggest drop in more than a week on signs Middle East supply has risen to near pre-war levels after Saudi Arabia resumed flows through a pipeline that avoids the Strait of Hormuz.</p>
+              
               <div class="meta">
                 <span class="source-tag">Bloomberg Markets</span>
                 <span class="date">2026-09-29 22:02 UTC</span>
@@ -1265,10 +1380,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight" target="_blank" rel="noopener">Федийн инфляцитэй тэмцсэнээр зургаан сараас хойш хамгийн сайн сар хүртэлх долларын эрх мэдэл</a></h3>
-              <p class="title-en">Dollar Powers to Best Month Since June on Fed’s Inflation Fight</p>
-              <p class="summary">Доллар нь 6-р сараас эхлэн хамгийн сайн сараа боох болж байгаа Холбооны Нөөцийн шинэчилсэн инфляци дээр анхаарлаа төвлөрүүлснээр хүүний түвшний хүлээлтийг түргэсгэж, АНУ-ын бондыг дээд хэмжээгээр өгдөг.</p>
-              <p class="summary-en">The dollar is wrapping up its best month since June as the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.</p>
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight" target="_blank" rel="noopener">Dollar Powers to Best Month Since June on Fed’s Inflation Fight</a></h3>
+              
+              <p class="summary">The dollar is wrapping up its best month since June after the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.</p>
+              
               <div class="meta">
                 <span class="source-tag">Bloomberg Markets</span>
                 <span class="date">2026-09-30 00:18 UTC</span>
@@ -1278,23 +1393,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates" target="_blank" rel="noopener">Технологийн тэргүүлэх, Фокусын бонд: Маркетууд бооно</a></h3>
-              <p class="title-en">Asian Stocks Rise as Tech Leads, Bonds in Focus: Markets Wrap</p>
-              <p class="summary">Техник технологитой хуваалцах явцад Азийн хувьцаа нь анх удаа гурван сессээр олж авсан. АНУ-ын инфляцийн чухал уншихаас өмнө бонд анхаарлаа төвлөрүүлсээр байв.</p>
-              <p class="summary-en">Asian stocks gained for the first time in three sessions as technology shares advanced. Bonds remained in focus ahead of a crucial US inflation reading.</p>
-              <div class="meta">
-                <span class="source-tag">Bloomberg Markets</span>
-                <span class="date">2026-09-29 22:12 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/commodity-boom-pushes-mongolian-stocks-to-world-beating-quarter" target="_blank" rel="noopener">Барааны Boom нь дэлхийн зах зээлд ногдох хувьцааг Монголын зах зээлд хөнгөлөлттэй улиралд санал болгож байна</a></h3>
-              <p class="title-en">Commodity Boom Pushes Mongolian Stocks to World-Beating Quarter</p>
-              <p class="summary">Энэ улиралд Монгол Улс дэлхийн хамгийн шилдэг хөрөнгийн зах зээл болох сургалтанд явагдаж байгаа учир Хойд Азийн нуугдмал орон нь тогтворгүй хиймэл оюун ухааны арилжаанаас тусгаарласан түүхий эдийн өсөлтийг унаж явдаг.</p>
-              <p class="summary-en">Mongolia is on course to be the world’s best stock market this quarter, as the landlocked North Asian country rides a commodity boom that insulates it from the volatile AI trade.</p>
+              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/commodity-boom-pushes-mongolian-stocks-to-world-beating-quarter" target="_blank" rel="noopener">Mongolia’s Stocks Beat Everybody This Quarter on Commodity Boom</a></h3>
+              
+              <p class="summary">Mongolia is on course to be the world’s best stock market this quarter, as the landlocked North Asian country rides a commodity boom that insulates it from the volatile AI trade.</p>
+              
               <div class="meta">
                 <span class="source-tag">Bloomberg Markets</span>
                 <span class="date">2026-09-30 00:04 UTC</span>
@@ -1304,49 +1406,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-30/korean-stocks-face-early-end-to-40-billion-buyback-support" target="_blank" rel="noopener">БНСУ-ын хувьцаа эрт дуусахаас $ 40 тэрбум буцаан худалдаж авах дэмжлэг үзүүлэх</a></h3>
-              <p class="title-en">Korean Stocks Face Early End to $40 Billion Buyback Support</p>
-              <p class="summary">Өмнөд Солонгосын хувьцаа нь хүлээгдэж байснаас эрт эх үүсвэрээ алдах гэж байна, зах зээл дээр шийдвэртэй түлхэхийн тулд тэмцэхийн зэрэгцээ.</p>
-              <p class="summary-en">South Korean stocks are about to lose a key source of support earlier than expected, just as the market struggles to push decisively higher.</p>
-              <div class="meta">
-                <span class="source-tag">Bloomberg Markets</span>
-                <span class="date">2026-09-30 00:00 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-30/korean-stocks-face-early-end-to-40-billion-buyback-support" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/gold-steady-as-traders-weigh-lower-oil-against-higher-yields" target="_blank" rel="noopener">Алт тууштай, худалдаачид өндөрлөгөөс тосыг жинлэнэ</a></h3>
-              <p class="title-en">Gold Steady as Traders Weigh Lower Oil Against Higher Yields</p>
-              <p class="summary">Алт нь мягмар гаригт ахиц гарсаны дараа худалдаачид өндөр үр дүнд эрчим хүчний удирдлагын инфляцийг бууруулсан газрын тосны үнэ буурчээ.</p>
-              <p class="summary-en">Gold steadied, after advancing on Tuesday, as traders weighed a decline in oil prices that eased concerns over energy-led inflation against elevated Treasury yields.</p>
-              <div class="meta">
-                <span class="source-tag">Bloomberg Markets</span>
-                <span class="date">2026-09-29 23:58 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-29/gold-steady-as-traders-weigh-lower-oil-against-higher-yields" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.bloomberg.com/news/articles/2026-09-29/morgan-stanley-bank-analyst-graseck-to-retire-after-40-years" target="_blank" rel="noopener">Морган Стэнли банкны шинжээч 40 жилийн дараа тэтгэвэрт гарна</a></h3>
-              <p class="title-en">Morgan Stanley Bank Analyst Graseck to Retire After 40 Years</p>
-              <p class="summary">Морган Стэнли банкны шинжээч Бетси Грайк ажил мэргэжлийнхээ хүрээнд 4 арван жил үргэлжилсэн бөгөөд дараагийн жилээс эхлэн тэтгэвэртээ гаргахаар төлөвлөжээ.</p>
-              <p class="summary-en">Morgan Stanley bank analyst Betsy Graseck, whose career at the firm has spanned four decades, plans to retire early next year.</p>
-              <div class="meta">
-                <span class="source-tag">Bloomberg Markets</span>
-                <span class="date">2026-09-29 22:59 UTC</span>
-                <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-09-29/morgan-stanley-bank-analyst-graseck-to-retire-after-40-years" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1" target="_blank" rel="noopener">2002 оноос хойшхи 30 жилийн сангийн гарц хамгийн өндөр цохилттой</a></h3>
-              <p class="title-en">US 30-year Treasury yield hits highest since 2002</p>
-              <p class="summary">Төрийн өрийн сунгалт нь инфляци болон зах зээл дээр газрын тосны үнийн нэмэгдэлтийн хэмжээгээр буурдаг</p>
-              <p class="summary-en">Government debt extends decline as inflation and surging oil prices weigh on market</p>
+              <h3><a href="https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1" target="_blank" rel="noopener">US 30-year Treasury yield hits highest since 2002</a></h3>
+              
+              <p class="summary">Government debt extends decline as inflation and surging oil prices weigh on market</p>
+              
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 20:13 UTC</span>
@@ -1356,10 +1419,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1" target="_blank" rel="noopener">Иран дайн хөтлөгчөөр хөрөнгө оруулагчид тосны наймаачин болдог</a></h3>
-              <p class="title-en">Bond investors become oil traders as Iran war drives yields</p>
-              <p class="summary">Бондын хөрөнгө оруулагчид засгийн газрын зээлдэгчийн зардлыг хаана төлөх тухай тэмдэг тэмдгүүдэд Иран зөрчил, түүхий үнийг хардаг</p>
-              <p class="summary-en">Bond investors watch Iran conflict and crude price for signs as to where government borrowing costs will go</p>
+              <h3><a href="https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1" target="_blank" rel="noopener">Bond investors become oil traders as Iran war drives yields</a></h3>
+              
+              <p class="summary">Bond investors watch Iran conflict and crude price for signs as to where government borrowing costs will go</p>
+              
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 04:00 UTC</span>
@@ -1369,10 +1432,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1" target="_blank" rel="noopener">Трамп технологийн дарга нарт AI-ийн &quot;асар их өөрийгөө зохицуулах&quot; магтаж байна</a></h3>
-              <p class="title-en">Trump praises tech bosses’ ‘tremendous self-regulation’ of AI</p>
-              <p class="summary">Ерөнхийлөгч өдрийн дараа салбарын удирдагчидтай хийсэн &quot;ёс суртахууны хувьд дагаж мөрдөх&quot; баримтыг гарын үсэг зурсан гэж мэдэгджээ</p>
-              <p class="summary-en">President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders</p>
+              <h3><a href="https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1" target="_blank" rel="noopener">Trump praises tech bosses’ ‘tremendous self-regulation’ of AI</a></h3>
+              
+              <p class="summary">President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders</p>
+              
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 23:13 UTC</span>
@@ -1382,10 +1445,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/f537987f-e88e-4f60-93bf-74e838235b2d?syn-25a6b1a6=1" target="_blank" rel="noopener">Starbucks нь БОНБ-ын зорилгыг буцааж хэмжиж, тогтвортой байдлын ажилтнуудыг галладаг</a></h3>
-              <p class="title-en">Starbucks scales back ESG goals and fires sustainability staff</p>
-              <p class="summary">Уур амьсгалын үйл ажиллагааны эрт үеийн аварга эсвэл утаа, хог хаягдал, усны хэрэглээг багасгах зорилтыг хянах</p>
-              <p class="summary-en">Early corporate champion of climate action scales back or reviews targets to halve emissions, waste and water use</p>
+              <h3><a href="https://www.ft.com/content/f537987f-e88e-4f60-93bf-74e838235b2d?syn-25a6b1a6=1" target="_blank" rel="noopener">Starbucks scales back ESG goals and fires sustainability staff</a></h3>
+              
+              <p class="summary">Early corporate champion of climate action scales back or reviews targets to halve emissions, waste and water use</p>
+              
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 04:00 UTC</span>
@@ -1395,10 +1458,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/7b9df85a-59ed-4863-9682-1c5b868fd3af?syn-25a6b1a6=1" target="_blank" rel="noopener">Бүгд найрамдах насанд ялагдсан ч газар хөдлөлт болохгүй</a></h3>
-              <p class="title-en">A Republican midterm defeat will not be an earthquake</p>
-              <p class="summary">Ардчилал Конгресст олз болох магадлалтай ч хуваагдан захиргаа нь Трампын хөтөлбөрийг бууруулах магадлалгүй</p>
-              <p class="summary-en">Democrats are likely to make gains in Congress but divided government is unlikely to derail Trump’s agenda</p>
+              <h3><a href="https://www.ft.com/content/7b9df85a-59ed-4863-9682-1c5b868fd3af?syn-25a6b1a6=1" target="_blank" rel="noopener">A Republican midterm defeat will not be an earthquake</a></h3>
+              
+              <p class="summary">Democrats are likely to make gains in Congress but divided government is unlikely to derail Trump’s agenda</p>
+              
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 11:16 UTC</span>
@@ -1408,10 +1471,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1" target="_blank" rel="noopener">Алтман хэлэхдээ, OpenAI нь аюулгүй байдлын асуудлыг даван туулах хүртэл IPO-г хойшлуулах болно</a></h3>
-              <p class="title-en">Altman says OpenAI will delay its IPO until it overcomes safety concerns</p>
-              <p class="summary">ChatGPT үйлдвэрлэгч Meta&#x27;s Muse-аас сорилттой тулгарч байгаа тул шинэ хиймэл оюун ухааны хувийн туслах ажиллуулдаг</p>
-              <p class="summary-en">ChatGPT maker launches a new AI personal assistant as it faces a challenge from Meta’s Muse</p>
+              <h3><a href="https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1" target="_blank" rel="noopener">Altman says OpenAI will delay its IPO until it overcomes safety concerns</a></h3>
+              
+              <p class="summary">ChatGPT maker launches a new AI personal assistant as it faces a challenge from Meta’s Muse</p>
+              
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 21:56 UTC</span>
@@ -1421,10 +1484,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1" target="_blank" rel="noopener">Nvidia хиймэл оюун ухаан бий болох эрсдлийг даатгагчдад эргэдэг</a></h3>
-              <p class="title-en">Nvidia turns to insurers to spread the risk of AI build-out</p>
-              <p class="summary">Дэлхийн хамгийн том жагсаасан компани нь Уолл Стрийтийг хиймэл оюун ухааны өсөлт санхүүжилтэд нэвтрүүлэх шинэ арга замыг хайж байна</p>
-              <p class="summary-en">World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom</p>
+              <h3><a href="https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1" target="_blank" rel="noopener">Nvidia turns to insurers to spread the risk of AI build-out</a></h3>
+              
+              <p class="summary">World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom</p>
+              
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 04:04 UTC</span>
@@ -1434,10 +1497,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1" target="_blank" rel="noopener">Пентагон нь Тэнгисийн цэргийн тийрэлтэт онгоцонд зориулж Боинг $ 20 тэрбум долларын гэрээ байгуулсан.</a></h3>
-              <p class="title-en">Pentagon awards Boeing $20bn contract for Navy stealth fighter jet</p>
-              <p class="summary">Виржиниа тэргүүнтэй компани нь батлан хамгаалах хэлтсийн үүргийн сэргээн босголтыг тохиож байна</p>
-              <p class="summary-en">Virginia-headquartered company marks a revival of its role with the defence department</p>
+              <h3><a href="https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1" target="_blank" rel="noopener">Pentagon awards Boeing $20bn contract for Navy stealth fighter jet</a></h3>
+              
+              <p class="summary">Virginia-headquartered company marks a revival of its role with the defence department</p>
+              
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-30 00:31 UTC</span>
@@ -1447,10 +1510,10 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/1199468e-dbe5-4581-b039-3d57985291ac?syn-25a6b1a6=1" target="_blank" rel="noopener">Хейгсет АНУ-ын цэргийн албан тушаалтны үүргийг 20% -иар ээр аажуутгана</a></h3>
-              <p class="title-en">Hegseth to slash top US military officer roles by 20%</p>
-              <p class="summary">Зэвсэгт үйлчилгээний батлан хамгаалах нарийн бичгийн даргын өргөн хүрээний шинэчлэлийн нэг хэсэг болох &quot;болон танин мэдэхүйн албан тушаалууд&quot; -ыг бууруулна.</p>
-              <p class="summary-en">Generals’ and admirals’ positions will be cut as part of the defence secretary’s wide-ranging overhaul of the armed services</p>
+              <h3><a href="https://www.ft.com/content/1199468e-dbe5-4581-b039-3d57985291ac?syn-25a6b1a6=1" target="_blank" rel="noopener">Hegseth to slash top US military officer roles by 20%</a></h3>
+              
+              <p class="summary">Generals’ and admirals’ positions will be cut as part of the defence secretary’s wide-ranging overhaul of the armed services</p>
+              
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
                 <span class="date">2026-09-29 20:56 UTC</span>
@@ -1460,14 +1523,27 @@
             
 
             <article class="card">
-              <h3><a href="https://www.ft.com/content/8d7f90d6-8d3a-4b11-8b51-090265278a31?syn-25a6b1a6=1" target="_blank" rel="noopener">Man City found to have artificially boosted finances by more than £900mn</a></h3>
+              <h3><a href="https://www.ft.com/content/e9b18367-5144-4775-8ddd-d1d133672db0?syn-25a6b1a6=1" target="_blank" rel="noopener">Suspect in RAF Fairford incident called 999 shortly before arrest</a></h3>
               
-              <p class="summary">Independent commission said Premier League football club arranged ‘sham’ commercial deals to disguise sources of funding</p>
+              <p class="summary">Motive for the emergency call is unclear, as police continue to investigate incident at air base used by US bombers</p>
               
               <div class="meta">
                 <span class="source-tag">Financial Times</span>
-                <span class="date">2026-09-29 18:42 UTC</span>
-                <a class="read-more" href="https://www.ft.com/content/8d7f90d6-8d3a-4b11-8b51-090265278a31?syn-25a6b1a6=1" target="_blank" rel="noopener">Унших →</a>
+                <span class="date">2026-09-29 20:19 UTC</span>
+                <a class="read-more" href="https://www.ft.com/content/e9b18367-5144-4775-8ddd-d1d133672db0?syn-25a6b1a6=1" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories" target="_blank" rel="noopener">‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?</a></h3>
+              
+              <p class="summary">“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”</p>
+              
+              <div class="meta">
+                <span class="source-tag">MarketWatch</span>
+                <span class="date">2026-09-30 01:00 UTC</span>
+                <a class="read-more" href="https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -1585,19 +1661,6 @@
                 <span class="source-tag">MarketWatch</span>
                 <span class="date">2026-09-29 21:30 UTC</span>
                 <a class="read-more" href="https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories" target="_blank" rel="noopener">Унших →</a>
-              </div>
-            </article>
-            
-
-            <article class="card">
-              <h3><a href="https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories" target="_blank" rel="noopener">Microsoft’s stock is on track to post its biggest quarterly gain in 28 years</a></h3>
-              
-              <p class="summary">Amid a “flight to quality,” Microsoft’s stock has stood out as an AI winner, according to one analyst</p>
-              
-              <div class="meta">
-                <span class="source-tag">MarketWatch</span>
-                <span class="date">2026-09-29 21:18 UTC</span>
-                <a class="read-more" href="https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -2708,6 +2771,58 @@
               <div class="grid">
                 
             <article class="card">
+              <h3><a href="https://ikon.mn/n/3qo5" target="_blank" rel="noopener">“Оскар”-ын урьдчилсан шалгаруулалтад Монголыг төлөөлөн оролцох бүтээлээр “Тусгаар тогтнол: Бошиг сахигч” кино сонгогджээ</a></h3>
+              
+              <p class="summary">Монголын үндэсний кино урлагийн зөвлөлөөс “Академи авардс” буюу 99 дэх удаагийн “Оскар”-ын шагнал гардуулах ёслолын арга хэмжээний урьдчилсан шалгаруулалтад Монгол Улсыг төлөөлөн оролцох кино бүтээлийг шалгаруулсан талаараа мэдээлжээ. Тус мэдээлэлд: “Академи Авардс”-ын “Олон улсы…</p>
+              
+              <div class="meta">
+                <span class="source-tag">iKon.mn</span>
+                <span class="date">2026-09-30 01:10 UTC</span>
+                <a class="read-more" href="https://ikon.mn/n/3qo5" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://ikon.mn/n/3qo4" target="_blank" rel="noopener">Өмнөд Солонгосын боомт Пусан хотын сувагт гацсан аварга загасыг үзэхээр долоо хоногийн дотор 600,000 орчим хүн иржээ</a></h3>
+              
+              <p class="summary">Өмнөд Солонгосын хамгийн том далайн боомт хотын нарийн сувагт долоо хоног гаруй хугацаанд гацсан аварга загас санамсаргүй жуулчдыг татах томоохон үзвэр болжээ. Пусан хотын хойд боомтын (North Port) нэрээр &quot;Букан-и&quot; хэмээн нэрлэгдсэн 3.5 метр урт биетэй аварга загас есдүгээр сарын…</p>
+              
+              <div class="meta">
+                <span class="source-tag">iKon.mn</span>
+                <span class="date">2026-09-30 01:02 UTC</span>
+                <a class="read-more" href="https://ikon.mn/n/3qo4" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://ikon.mn/n/3qnv" target="_blank" rel="noopener">Дэлхийд анхдагч AI Network Firewall-ыг Check Point компани MNSEC 2026 арга хэмжээн дээр танилцууллаа</a></h3>
+              
+              <p class="summary">  Хиймэл оюун ухаан буюу AI нь бидний өдөр тутмын хэрэглээнээс эхлээд байгууллагын үйл ажиллагааны салшгүй хэсэг болж байна. Ажилтнууд ChatGPT болон бусад AI хэрэгслийг мэдээлэл боловсруулах, тайлан бэлтгэх, код бичих, судалгаа хийх зэрэгт ашиглаж байгаа бол байгууллагууд өөрсдий…</p>
+              
+              <div class="meta">
+                <span class="source-tag">iKon.mn</span>
+                <span class="date">2026-09-30 00:57 UTC</span>
+                <a class="read-more" href="https://ikon.mn/n/3qnv" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://ikon.mn/n/3qnw" target="_blank" rel="noopener">Ураны салбарын ирээдүйг бэлтгэх “Бадрах Энержи Академи”-ийн анхны төгсөгчид</a></h3>
+              
+              <p class="summary">Мэргэжлээрээ ажиллах мөрөөдөлд хөтөлсөн “Бадрах Энержи Академи” Долдугаар ангид сурч байхдаа Эрдэнэт хотод очиж, Уулын баяжуулах “Эрдэнэт үйлдвэр”-тэй танилцсан сурагч Ц.Төгсхүслэн Монголын хамгийн том уурхайг үзсэндээ бахархсангүй. Харин түүний сэтгэлийг үйлдвэрлэлээс хаягдал бо…</p>
+              
+              <div class="meta">
+                <span class="source-tag">iKon.mn</span>
+                <span class="date">2026-09-30 00:55 UTC</span>
+                <a class="read-more" href="https://ikon.mn/n/3qnw" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
               <h3><a href="https://ikon.mn/n/3qo2" target="_blank" rel="noopener">Эстони улс Украинд байлдааны техник нийлүүлдэг үйлдвэрт гал тавьсан хэрэгт Оросын тусгай албадыг буруутгав</a></h3>
               
               <p class="summary">Мягмар гарагт Эстонийн эрх баригчид Украиныг цэргийн техник хэрэгслээр хангадаг батлан ​​хамгаалахын компанийн үйлдвэрт наймдугаар сарын дундуур гарсан галыг Оросын аюулгүй байдлын албадын захиалсан хорлон сүйтгэх ажиллагаа байсан гэж дүгнэснээ зарлажээ. Гадаад хэргийн сайд Маргу…</p>
@@ -2784,55 +2899,536 @@
               </div>
             </article>
             
-
+              </div>
+            </section>
+            
+            <section data-category="crypto" class="source" style="--accent: #f7931a">
+              <header class="source-head">
+                <div class="source-icon">₿</div>
+                <div>
+                  <h2>Крипто арилжаа</h2>
+                  <p class="source-url">CoinDesk, Cointelegraph, Decrypt, Bitcoin Magazine</p>
+                </div>
+                <div class="badge">40 мэдээ</div>
+              </header>
+              <div class="grid">
+                
             <article class="card">
-              <h3><a href="https://ikon.mn/n/3qns" target="_blank" rel="noopener">Монгол, Японы эдийн засгийн түншлэлийн хэлэлцээрийн үр өгөөжийг нэмэгдүүлнэ</a></h3>
+              <h3><a href="https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders" target="_blank" rel="noopener">Robinhood adds AI agents, perps and weekend trading in push to win active traders</a></h3>
               
-              <p class="summary">  Гэрэл зургийг MPA агентлагийн онцгой зөвшөөрөлтэйгөөр ашиглав Монгол Улсын Ерөнхий сайд Н.Учрал Япон Улсад хийж буй албан ёсны айлчлалынхаа хүрээнд /2026.09.29/ Япон Улсын Парламентын Төлөөлөгчдийн танхимын дарга Э.Морид бараалхаж, хоёр орны харилцаа, парламент хоорондын хамтын…</p>
+              
               
               <div class="meta">
-                <span class="source-tag">iKon.mn</span>
-                <span class="date">2026-09-29 08:05 UTC</span>
-                <a class="read-more" href="https://ikon.mn/n/3qns" target="_blank" rel="noopener">Унших →</a>
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 23:00 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
 
             <article class="card">
-              <h3><a href="https://ikon.mn/n/3qnr" target="_blank" rel="noopener">Философич С.Молор-Эрдэнэд хилийн хориг тавьж, суллах шийдвэр гаргалаа</a></h3>
+              <h3><a href="https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal" target="_blank" rel="noopener">Cboe, S&amp;P Dow Jones may explore tokenized options contracts under extended licensing deal</a></h3>
               
-              <p class="summary">Философич С.Молор-Эрдэнийг есдүгээр сарын 2-ны өдрөөс Эрүүгийн хуулийн тусгай ангид заасан “Үндэсний эв нэгдлийг бусниулах” гэмт хэрэгт холбогдуулан цагдан хориод буй.  Тэгвэл өнөөдөр С.Молор-Эрдэнийн өмгөөлөгчдийн гаргасан хүсэлтийн дагуу Улаанбаатар хотын нутаг дэвсгэрээс гарч…</p>
+              
               
               <div class="meta">
-                <span class="source-tag">iKon.mn</span>
-                <span class="date">2026-09-29 07:50 UTC</span>
-                <a class="read-more" href="https://ikon.mn/n/3qnr" target="_blank" rel="noopener">Унших →</a>
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 18:21 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
 
             <article class="card">
-              <h3><a href="https://ikon.mn/n/3qnq" target="_blank" rel="noopener">Төсвийн урсгал зардлын бүтэц, зориулалт, нэгж өртөг, тоо хэмжээг нийтэд ил тод болгох агуулгатай хуулийн төсөл өргөн барив</a></h3>
+              <h3><a href="https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years" target="_blank" rel="noopener">Ethereum users get another way to pay privately as zk.money returns after three years</a></h3>
               
-              <p class="summary">Төсвийн тухай хуульд нэмэлт, өөрчлөлт оруулах тухай хуулийн төслийг УИХ-ын 30 гишүүн боловсруулсныг өнөөдөр (2026.09.29) С.Цэнгүүн, Ч.Анар, Г.Лувсанжамц, Б.Мөнхсоёл, Г.Хосбаяр нарын гишүүд УИХ-ын дэд дарга Ж.Бат-Эрдэнэд өргөн мэдүүлжээ. Үндсэн хуулиар Улсын Их Хуралд олгогдсон тө…</p>
+              
               
               <div class="meta">
-                <span class="source-tag">iKon.mn</span>
-                <span class="date">2026-09-29 07:44 UTC</span>
-                <a class="read-more" href="https://ikon.mn/n/3qnq" target="_blank" rel="noopener">Унших →</a>
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 16:00 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
 
             <article class="card">
-              <h3><a href="https://ikon.mn/n/3qnp" target="_blank" rel="noopener">Д.Даваабаяр: БНХАУ-аас шатахуун импортлоход төмөр замын өргөн, нарийн царигаас шалтгаалж шилжүүлэн ачихад удаж байна</a></h3>
+              <h3><a href="https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act" target="_blank" rel="noopener">Democrats killed the Clarity Act</a></h3>
               
-              <p class="summary">Ерөнхий сайдын захирамжаар байгуулагдсан шатахууны шуурхай штаб өнөөдрийн хурлаар хэлэлцсэн асуудлаа танилцуулж, мэдээлэл өглөө.  Энэ үеэр АМГТГ-ын хэлтсийн дарга Д.Даваабаяр &quot;Манай улс өнөөдөр түлш, шатахууныхаа хэрэглээг 100 хувь импортоор хангадаг. Есдүгээр сарын 28-ны байдлаа…</p>
+              
               
               <div class="meta">
-                <span class="source-tag">iKon.mn</span>
-                <span class="date">2026-09-29 07:03 UTC</span>
-                <a class="read-more" href="https://ikon.mn/n/3qnp" target="_blank" rel="noopener">Унших →</a>
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 14:08 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play" target="_blank" rel="noopener">Bitcoin surging to $100,000 may be in play, after outperforming gold</a></h3>
+              
+              
+              
+              <div class="meta">
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 11:34 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan" target="_blank" rel="noopener">Zcash developers begin moving Tachyon code into faster private-payment software</a></h3>
+              
+              
+              
+              <div class="meta">
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 11:15 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields" target="_blank" rel="noopener">Aave leads DeFi higher as crypto shrugs off surging bond market</a></h3>
+              
+              
+              
+              <div class="meta">
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 10:28 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady" target="_blank" rel="noopener">Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges</a></h3>
+              
+              
+              
+              <div class="meta">
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 10:14 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation" target="_blank" rel="noopener">Blockchain.com targets $500 million IPO this year at up to $6 billion valuation</a></h3>
+              
+              
+              
+              <div class="meta">
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 10:13 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge" target="_blank" rel="noopener">Bitcoin is on track to shatter a major decade-long streak as September gains surge</a></h3>
+              
+              
+              
+              <div class="meta">
+                <span class="source-tag">CoinDesk</span>
+                <span class="date">2026-09-29 09:45 UTC</span>
+                <a class="read-more" href="https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Trump accord calls for tech firms to ‘self police’ their own frontier AI</a></h3>
+              
+              <p class="summary">The voluntary accord puts much of the responsibility for managing frontier AI risks on developers.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-30 00:28 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation</a></h3>
+              
+              <p class="summary">Seven commissioner seats at the SEC and CFTC will be empty after Friday, leaving only a few leaders at financial regulators to oversee aspects of the $3 trillion crypto industry.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-29 19:59 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">OpenAI valuation could hit $1.4T in new funding round: Report</a></h3>
+              
+              <p class="summary">OpenAI is reportedly seeking another $30 billion from investors as the ChatGPT developer pushes its long-awaited public market debut into 2027.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-29 19:55 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks</a></h3>
+              
+              <p class="summary">Kakaopay Securities is working with Dinari and Ondo Finance to explore tokenizing Korean-listed equities and expanding their availability to investors in international markets.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-29 19:49 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Here’s what happened in crypto today</a></h3>
+              
+              <p class="summary">Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-29 19:42 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Bitwise launches first US spot NEAR ETF after token’s recent surge</a></h3>
+              
+              <p class="summary">Bitwise’s NEAR ETF begins trading on NYSE Arca as the token rallies more than 160% over the past month and activity on NEAR Intents grows.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-29 17:14 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Bitcoin gives back gains as long-term holder supply keeps $85K out of reach</a></h3>
+              
+              <p class="summary">Bitcoin failed to make another run at $85,000 as sellers held the line above current levels, while surging US bond yields weighed on stocks and precious metals.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-29 16:26 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach</a></h3>
+              
+              <p class="summary">Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for Bitget’s security breach, noting that only a small percentage of funds had been frozen or recovered.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-29 16:18 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’</a></h3>
+              
+              <p class="summary">An October pullback could offer a buying opportunity before Bitcoin’s next cycle peak, which Brandt expects between $300,000 and $600,000. He’s not sold on “fool coin” XRP.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-29 13:30 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Bitcoin ETF inflows leave institutional demand unclear: CoinShares</a></h3>
+              
+              <p class="summary">CoinShares says IBIT offers clues to institutional buying, but basis trades mean inflows are not necessarily bets on rising Bitcoin prices.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Cointelegraph</span>
+                <span class="date">2026-09-29 12:40 UTC</span>
+                <a class="read-more" href="https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money" target="_blank" rel="noopener">Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money</a></h3>
+              
+              <p class="summary">Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 21:46 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379619/cboes-sp-deal-tokenized-options" target="_blank" rel="noopener">Cboe&#x27;s New S&amp;amp;P Deal Opens the Door to Tokenized Options</a></h3>
+              
+              <p class="summary">The renewed agreement preserves Cboe&#x27;s exclusive rights to S&amp;P 500 index options through 2051 while opening the door to pairing the flagship benchmark with blockchain infrastructure.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 21:16 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379619/cboes-sp-deal-tokenized-options" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379612/bitwise-launches-first-spot-near-etf" target="_blank" rel="noopener">Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August</a></h3>
+              
+              <p class="summary">Bitwise&#x27;s NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 20:36 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379612/bitwise-launches-first-spot-near-etf" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion" target="_blank" rel="noopener">Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion</a></h3>
+              
+              <p class="summary">The company&#x27;s IPO prospectus shows revenue up twelvefold, a $518 billion spending plan, and a risk section warning that its own AI could pose existential risks to humanity.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 20:06 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership" target="_blank" rel="noopener">Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games</a></h3>
+              
+              <p class="summary">Linear Fox founder Nathan Fargo released a public jailbreak for the PS5, dubbed Relapse, while Sony argues in court that players don&#x27;t own their digital games.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 19:31 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced" target="_blank" rel="noopener">OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here&#x27;s Everything It Announced</a></h3>
+              
+              <p class="summary">OpenAI&#x27;s DevDay launched dots, always-on AI agents with their own computers, plus a cheaper GPT-6.1 Sol and a $500 speed tier. Here&#x27;s every announcement, explained for people who don&#x27;t speak AI.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 18:55 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion" target="_blank" rel="noopener">Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days</a></h3>
+              
+              <p class="summary">Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off in a big way.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 18:18 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good" target="_blank" rel="noopener">BBC Director-General Deems AI-Generated Doctor Who Episode &#x27;Pretty Good&#x27;</a></h3>
+              
+              <p class="summary">Matt Brittin, who joined the BBC from Google, argued that &quot;not all creativity is bad,&quot; while noting that the technology won&#x27;t replace humans.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 17:31 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record" target="_blank" rel="noopener">Is the Red September Curse Over? Bitcoin Set for Best September on Record</a></h3>
+              
+              <p class="summary">Bitcoin is up 7.33% in September, edging past 2024 as the best September on record, with one day left before the monthly candle closes.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 16:50 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs" target="_blank" rel="noopener">Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs</a></h3>
+              
+              <p class="summary">Analysts point to crude prices capping non-yielding assets, while spot ETFs have taken money in for eight sessions running.</p>
+              
+              <div class="meta">
+                <span class="source-tag">Decrypt</span>
+                <span class="date">2026-09-29 14:07 UTC</span>
+                <a class="read-more" href="https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/news/bitget-customers-withdraw-4000-bitcoins" target="_blank" rel="noopener">Bitget Customers Withdraw Over 4,000 Bitcoins in One Hour Following $388M Hack</a></h3>
+              
+              <p class="summary">Bitcoin Magazine Bitget Customers Withdraw Over 4,000 Bitcoins in One Hour Following $388M Hack Bitget this week resumed customer withdrawals and within one hour, users had taken over 4,000 bitcoins off the exchange. This post Bitget Customers Withdraw Over 4,000 Bitcoins in One…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 21:14 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/news/bitget-customers-withdraw-4000-bitcoins" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/videos/bitwise-head-of-research-sovereigns-selling-gold-for-bitcoin-ryan-rasmussen" target="_blank" rel="noopener">Bitwise Head of Research: Sovereigns Selling Gold for Bitcoin | Ryan Rasmussen</a></h3>
+              
+              <p class="summary">Bitcoin Magazine Bitwise Head of Research: Sovereigns Selling Gold for Bitcoin | Ryan Rasmussen Bitwise’s Ryan Rasmussen breaks down institutional crypto adoption, revealing why pensions and sovereign funds bought the dip from $125K to $60K. This post Bitwise Head of Research: So…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 20:54 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/videos/bitwise-head-of-research-sovereigns-selling-gold-for-bitcoin-ryan-rasmussen" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/videos/tracy-shuchart-btc-the-commodities-supercycle" target="_blank" rel="noopener">Tracy Shuchart: BTC &amp; the Commodities Supercycle</a></h3>
+              
+              <p class="summary">Bitcoin Magazine Tracy Shuchart: BTC &amp; the Commodities Supercycle Tracy Shuchart breaks down Strait of Hormuz oil disruptions, warning that GCC output losses and crack spreads signal a worsening winter energy pinch. This post Tracy Shuchart: BTC &amp; the Commodities Supercycle first…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 20:49 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/videos/tracy-shuchart-btc-the-commodities-supercycle" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/videos/dan-tapiero-weve-begun-a-bull-phase-in-bitcoin" target="_blank" rel="noopener">Dan Tapiero: “We’ve Begun a Bull Phase” in Bitcoin</a></h3>
+              
+              <p class="summary">Bitcoin Magazine Dan Tapiero: “We’ve Begun a Bull Phase” in Bitcoin Dan Tapiero reveals why a new bull phase has begun, pointing to core revenue growth across stablecoins, tokenization, and Hyperliquid. This post Dan Tapiero: “We’ve Begun a Bull Phase” in Bitcoin first appeared o…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 20:42 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/videos/dan-tapiero-weve-begun-a-bull-phase-in-bitcoin" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/news/hanetf-debuts-bitcoin-euro-etf" target="_blank" rel="noopener">HANetf Debuts Euro-Hedged Bitcoin Fund in World First</a></h3>
+              
+              <p class="summary">Bitcoin Magazine HANetf Debuts Euro-Hedged Bitcoin Fund in World First European BTC investors can typically be exposed to both volatile swings in the cryptocurrency’s price as well as the dollar’s move against the euro. A new fund aims to fix that. This post HANetf Debuts Euro-He…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 19:08 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/news/hanetf-debuts-bitcoin-euro-etf" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/news/stretched-profits-pause-bitcoin-rally" target="_blank" rel="noopener">Stretched Profits and Cooling Demand Put Bitcoin Rally on Pause — For Now: Report</a></h3>
+              
+              <p class="summary">Bitcoin Magazine Stretched Profits and Cooling Demand Put Bitcoin Rally on Pause — For Now: Report A new report from CryptoQuant still declares a bitcoin bull market but says a “healthy correction” could be coming. This post Stretched Profits and Cooling Demand Put Bitcoin Rally…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 18:05 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/news/stretched-profits-pause-bitcoin-rally" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/news/alkanes-drove-61-of-bitcoin-transactions-for-90-days-subfrost-data-shows" target="_blank" rel="noopener">Alkanes Asian Market Drove 61% of Bitcoin Transactions for 90 Days, SUBFROST Data Shows</a></h3>
+              
+              <p class="summary">Bitcoin Magazine Alkanes Asian Market Drove 61% of Bitcoin Transactions for 90 Days, SUBFROST Data Shows SUBFROST said Alkanes made up 61.1% of all Bitcoin transactions from June 23 to Sept. 20 — about 59.9 million txs across blocks 954,917–967,918. This post Alkanes Asian Market…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 17:40 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/news/alkanes-drove-61-of-bitcoin-transactions-for-90-days-subfrost-data-shows" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/news/morgan-stanley-digital-asset-lab" target="_blank" rel="noopener">Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report</a></h3>
+              
+              <p class="summary">Bitcoin Magazine Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report Morgan Stanley has a special lab where it tests products that use Bitcoin’s underlying tech, according to a Bloomberg interview. This post Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 16:00 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/news/morgan-stanley-digital-asset-lab" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/videos/andre-dragosch-why-bitcoins-fair-value-is-197000" target="_blank" rel="noopener">André Dragosch: Why Bitcoin’s Fair Value is $197,000</a></h3>
+              
+              <p class="summary">Bitcoin Magazine André Dragosch: Why Bitcoin’s Fair Value is $197,000 Bitwise’s André Dragosch breaks down rising 10-year yields, why rapid moves trigger stock market drops, and how a Fed pivot launches Bitcoin. This post André Dragosch: Why Bitcoin’s Fair Value is $197,000 first…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 13:32 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/videos/andre-dragosch-why-bitcoins-fair-value-is-197000" target="_blank" rel="noopener">Унших →</a>
+              </div>
+            </article>
+            
+
+            <article class="card">
+              <h3><a href="https://bitcoinmagazine.com/videos/solari-capital-founder-scaramucci-betting-on-bitcoin-exponential-technology" target="_blank" rel="noopener">Solari Capital Founder Scaramucci: Betting on Bitcoin &amp; Exponential Technology</a></h3>
+              
+              <p class="summary">Bitcoin Magazine Solari Capital Founder Scaramucci: Betting on Bitcoin &amp; Exponential Technology AJ Scaramucci reveals Solari Capital’s $350M launch and breaks down his “programmable reality” thesis across AI, biotech, and Bitcoin debasement. This post Solari Capital Founder Scara…</p>
+              
+              <div class="meta">
+                <span class="source-tag">Bitcoin Magazine</span>
+                <span class="date">2026-09-29 13:27 UTC</span>
+                <a class="read-more" href="https://bitcoinmagazine.com/videos/solari-capital-founder-scaramucci-betting-on-bitcoin-exponential-technology" target="_blank" rel="noopener">Унших →</a>
               </div>
             </article>
             
@@ -2841,7 +3437,7 @@
             
 
     <footer>
-      Үүсгэсэн: 2026-09-30 00:58:59 ·
+      Үүсгэсэн: 2026-09-30 09:43:29 ·
       Олон ангилалт мэдээний bot
     </footer>
   </div>

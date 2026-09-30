@@ -14,6 +14,8 @@ import webbrowser
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
+from urllib.request import Request, urlopen
+from urllib.error import URLError
 
 # Windows console-д кирилл үсэг гаргахын тулд UTF-8 болгоно
 try:
@@ -135,7 +137,43 @@ CATEGORIES = [
             {"name": "News.mn", "url": "https://news.mn/feed"},
         ],
     },
+    {
+        "key": "crypto",
+        "name": "Крипто арилжаа",
+        "color": "#f7931a",
+        "icon": "₿",
+        "sources": [
+            {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"},
+            {"name": "Cointelegraph", "url": "https://cointelegraph.com/rss"},
+            {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+            {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+        ],
+    },
 ]
+
+
+MARKET_SYMBOLS = [
+    ("crypto",      "BTC-USD",   "Bitcoin (BTC/USD)"),
+    ("crypto",      "ETH-USD",   "Ethereum (ETH/USD)"),
+    ("crypto",      "SOL-USD",   "Solana (SOL/USD)"),
+    ("indices",     "^GSPC",     "S&P 500"),
+    ("indices",     "^IXIC",     "NASDAQ"),
+    ("indices",     "^DJI",      "Dow Jones"),
+    ("commodities", "GC=F",      "Алт (унц, USD)"),
+    ("commodities", "CL=F",      "Газрын тос WTI (баррель)"),
+    ("commodities", "SI=F",      "Мөнгө (унц, USD)"),
+    ("forex",       "MNT=X",     "USD → MNT"),
+    ("forex",       "EURMNT=X",  "EUR → MNT"),
+    ("forex",       "JPYMNT=X",  "JPY → MNT"),
+    ("forex",       "GBPMNT=X",  "GBP → MNT"),
+]
+
+MARKET_GROUPS = {
+    "crypto":      {"title": "Крипто",   "icon": "₿",  "color": "#f7931a"},
+    "indices":     {"title": "Индекс",   "icon": "📈", "color": "#7aa2ff"},
+    "commodities": {"title": "Түүхий эд", "icon": "🛢", "color": "#f59e0b"},
+    "forex":       {"title": "Форекс",   "icon": "💱", "color": "#10b981"},
+}
 
 
 MAX_ITEMS_PER_SOURCE = 10
@@ -224,6 +262,64 @@ def fetch_category(category: dict) -> list[dict]:
     for source in category["sources"]:
         items.extend(fetch_source(source))
     return items
+
+
+def _fetch_yahoo_quote(symbol: str) -> dict | None:
+    """Yahoo Finance v8 chart endpoint-с одоогийн үнэ, өмнөх хаалт татна."""
+    url = (
+        f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
+        "?interval=1d&range=2d"
+    )
+    req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    try:
+        with urlopen(req, timeout=8) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    except (URLError, TimeoutError, json.JSONDecodeError) as e:
+        print(f"    ! {symbol}: {e}")
+        return None
+
+    result = data.get("chart", {}).get("result")
+    if not result:
+        return None
+    meta = result[0].get("meta") or {}
+    price = meta.get("regularMarketPrice")
+    prev = meta.get("chartPreviousClose") or meta.get("previousClose")
+    if price is None:
+        return None
+    change_pct = None
+    if prev:
+        try:
+            change_pct = (price - prev) / prev * 100
+        except ZeroDivisionError:
+            change_pct = None
+    return {
+        "price": price,
+        "prev": prev,
+        "change_pct": change_pct,
+        "currency": meta.get("currency", ""),
+    }
+
+
+def fetch_market_snapshot() -> dict:
+    """Бүх symbol-уудын live үнийг татаад бүлэглэж буцаана."""
+    print("[market] Live үнэ татаж байна...")
+    snapshot = {key: [] for key in MARKET_GROUPS}
+    for group, symbol, name in MARKET_SYMBOLS:
+        q = _fetch_yahoo_quote(symbol)
+        if q is None:
+            continue
+        snapshot[group].append(
+            {
+                "symbol": symbol,
+                "name": name,
+                "price": q["price"],
+                "change_pct": q["change_pct"],
+            }
+        )
+        time.sleep(0.15)
+    fetched = sum(len(v) for v in snapshot.values())
+    print(f"[market] {fetched}/{len(MARKET_SYMBOLS)} symbol амжилттай")
+    return snapshot
 
 
 def load_cache() -> dict:
@@ -363,9 +459,58 @@ def render_card(it: dict) -> str:
             """
 
 
-def render_html(data: list[dict]) -> str:
+def _format_price(v: float, symbol: str) -> str:
+    if v is None:
+        return "—"
+    if abs(v) >= 1000:
+        return f"{v:,.2f}"
+    if abs(v) >= 1:
+        return f"{v:.2f}"
+    return f"{v:.4f}"
+
+
+def render_market_snapshot(snapshot: dict) -> str:
+    if not snapshot or not any(snapshot.values()):
+        return ""
+    groups_html = []
+    for key, meta in MARKET_GROUPS.items():
+        items = snapshot.get(key) or []
+        if not items:
+            continue
+        rows = []
+        for it in items:
+            pct = it["change_pct"]
+            if pct is None:
+                pct_cls, pct_html = "flat", "—"
+            else:
+                pct_cls = "up" if pct >= 0 else "down"
+                arrow = "▲" if pct >= 0 else "▼"
+                pct_html = f"{arrow} {abs(pct):.2f}%"
+            rows.append(
+                f'<div class="market-row">'
+                f'  <span class="market-name">{html.escape(it["name"])}</span>'
+                f'  <span class="market-price">{_format_price(it["price"], it["symbol"])}</span>'
+                f'  <span class="market-pct {pct_cls}">{pct_html}</span>'
+                f'</div>'
+            )
+        groups_html.append(
+            f'<div class="market-group" style="--mc: {meta["color"]}">'
+            f'  <h3><span class="market-icon">{meta["icon"]}</span> {meta["title"]}</h3>'
+            f'  <div class="market-body">{"".join(rows)}</div>'
+            f'</div>'
+        )
+    return (
+        '<section class="market-snapshot">'
+        '  <h2 class="market-heading">📊 Арилжааны Snapshot</h2>'
+        f' <div class="market-grid">{"".join(groups_html)}</div>'
+        '</section>'
+    )
+
+
+def render_html(data: list[dict], market: dict | None = None) -> str:
     today = datetime.now().strftime("%Y оны %m сарын %d, %A")
     total = sum(len(cat["items"]) for cat in data)
+    market_html = render_market_snapshot(market or {})
 
     # Шүүлтүүрийн товчнууд
     filter_buttons = [
@@ -616,6 +761,67 @@ def render_html(data: list[dict]) -> str:
     text-align: center; color: var(--muted); font-size: 13px;
   }}
 
+  /* === Арилжааны Snapshot === */
+  .market-snapshot {{
+    margin: 8px 0 32px;
+    padding: 20px 22px 22px;
+    background: linear-gradient(180deg, rgba(122,162,255,.05), rgba(236,72,153,.03));
+    border: 1px solid var(--border);
+    border-radius: 16px;
+  }}
+  .market-heading {{
+    margin: 0 0 16px;
+    font-size: 18px;
+    color: var(--text);
+  }}
+  .market-grid {{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+  }}
+  .market-group {{
+    background: rgba(0,0,0,.2);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    border-top: 3px solid var(--mc);
+  }}
+  .market-group h3 {{
+    margin: 0 0 10px;
+    font-size: 14px;
+    display: flex; align-items: center; gap: 8px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: .5px;
+  }}
+  .market-icon {{ font-size: 16px; }}
+  .market-row {{
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: 10px;
+    align-items: baseline;
+    padding: 6px 0;
+    border-bottom: 1px dashed rgba(255,255,255,.05);
+    font-size: 13px;
+  }}
+  .market-row:last-child {{ border-bottom: none; }}
+  .market-name {{ color: var(--text); }}
+  .market-price {{
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    color: var(--text);
+  }}
+  .market-pct {{
+    font-variant-numeric: tabular-nums;
+    font-size: 12px;
+    font-weight: 600;
+    min-width: 70px;
+    text-align: right;
+  }}
+  .market-pct.up   {{ color: #10b981; }}
+  .market-pct.down {{ color: #ef4444; }}
+  .market-pct.flat {{ color: var(--muted); }}
+
   /* === Mobile-first responsive === */
   @media (max-width: 768px) {{
     .container {{ padding: 16px 14px 60px; }}
@@ -672,6 +878,8 @@ def render_html(data: list[dict]) -> str:
         {''.join(filter_buttons)}
       </div>
     </header>
+
+    {market_html}
 
     {''.join(sections)}
 
@@ -737,8 +945,10 @@ def main():
         save_cache(cache)
         print(f"[cache] Хадгалсан: {CACHE_FILE.name} ({len(cache)} мэдээ)")
 
+    market = fetch_market_snapshot()
+
     print("\n[render] HTML файл үүсгэж байна...")
-    output = render_html(data)
+    output = render_html(data, market)
     OUTPUT_FILE.write_text(output, encoding="utf-8")
     elapsed = (datetime.now() - start).total_seconds()
     print(f"[done] Үүсгэгдсэн: {OUTPUT_FILE}")
