@@ -1410,5 +1410,313 @@
   "https://www.sciencedaily.com/releases/2026/09/260927225030.htm": {
     "title": "Цусны шинжилгээгээр сансрын нисгэгчид яагаад сансарт тууштай байдгийг илтгэнэ",
     "summary": "Spaceflight нь хэдэн долоо хоногийн дотор гэдэсийг эрс өөрчилж, хоол хүнс гэдэсийг дамжин аажмаар задалдаг тул бактери нь илүү уураг задалдаг. Шилжилт нь сансрын нисгэгчийн өтгөн хаталтыг тайлбарлахад тусалж болох бөгөөд эрүүл мэндэд илүү өргөн нөлөө үзүүлж болох бөгөөд энэ нь fut-д чухал ач холбогдолтой..."
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/": {
+    "title": "Gemini 4 Argon",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.thespacereview.com/article/4951/1": {
+    "title": "УРСАЛА, Ракел, Фарра хиймэл дагуулууд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/": {
+    "title": "Тархины дотоод үйл ажиллагааг харуулдаг үнэхээрийн төвөгтэй долгион",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/edgcpp/compiler": {
+    "title": "EDG C++ Compiler нээлттэй эх үүсвэр",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://twitter.com/tuakdotsol/status/2105105417760391258": {
+    "title": "Сингапурын govt dating app нь Gale-Shapley тогтвортой гэрлэлтийн алгоритмыг ашигладаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://edgcpp.org/#transition": {
+    "title": "EDG C++ урд төгсгөл олон нийтэд нээлттэй байдаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age": {
+    "title": "Хүрэл үе нурсаны учир",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/magnitudedev/magnitude": {
+    "title": "HN-ийг ажиллуулах: Хүчирхэг (YC S25) – агентуудад зориулсан өөртөө нэвтрүүлэх хөдөлгүүр",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://56k.rip/": {
+    "title": "56k.rip – 1996 он хүртэлх интернэтийн туршлага",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.netlify.com/blog/edge-functions-firecracker-microvms/": {
+    "title": "5х Илүү хурдан ирмэгийн функц: V8 нь Firecracker MicroVMs руу тусгаарлагддаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/": {
+    "title": "Google Gemini 4 Аргоныг гаргадаг хараахан хамгийн хүчирхэг загвар гэж нэрлэдэг",
+    "summary": "Google өөрийн хамгийн сүүлийн үеийн Gemini загвараа гаргасан бөгөөд үүнийг кодлох, кибер аюулгүй байдлыг хангах ажилд зориулсан ажлын байр болгон маркетинг хийнэ."
+  },
+  "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/": {
+    "title": "Пентагон Елон Маск, Палмер Луки хоёр цэрэгт юу хийх ёстойг шийдэхэд тусална",
+    "summary": "Батлан хамгаалахын нарийн бичгийн дарга Пит Хеггет Елон Муск, Палмер Луки, Ньют Гингрих нарын удирдуулсан дайны ирээдүйн талаар 120 хоногийн судалгаа хийлээ. Үүнийг удирдлагадаа ач холбогдолтойгоор шүүмжлэгчид Муск, Лабтай компаниудыг аль хэдийн зарж байгаа гэж онцлон тэмдэглэжээ."
+  },
+  "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/": {
+    "title": "Valor, Atreides, Sequoia буцах хиймэл оюун ухааны гарааны урсгалын инженерчлэл $ 750м үнэлгээтэй",
+    "summary": "AI агентуудыг тоног төхөөрөмжийн загвар гаргахад авчирдаг урсгалын инженерчлэл нь мөн Роелоф Бота нь тэнгэр элч хөрөнгө оруулагч, ТУЗ-ийн гишүүнээр буув."
+  },
+  "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/": {
+    "title": "Үйлдвэрийн гүйцэтгэх захирал дөнгөж VC ТУЗ-ийн зөвлөхийг танин мэдэхүйн тагнуулаар буруутгав",
+    "summary": "VC Chris Degnan болон Factory AI-ийн удирдах зөвлөлийн асан зөвлөх нь өрсөлдөгч танихад орлогын ерөнхий захиралаар ажилд оруулсан бөгөөд хүн бүр X-ий тухай маргалдаж байна."
+  },
+  "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/": {
+    "title": "Нико Эрүүл мэндийн биеийн шинжилгээ үнэ цэнэтэй юу? Спотиф тэрбумтан стартап Америкт боллоо",
+    "summary": "Спотиф үүсгэн байгуулагч Даниел ЕК-ийн Нико Эрүүл мэнд таны биед скан хийх бизнес бий болгохын тулд 700 сая $ гарсан боловч энэ нь зөвхөн урьдчилан сэргийлэх шинэ эрүүл мэндийн талаархи маршрутыг төвлөрүүлж байгаа компани биш юм. Midjourney нь өөрийн биеийн сканнерыг барьж байгаа бол Функц Эрүүл мэнд нь..."
+  },
+  "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/": {
+    "title": "Хакерууд сар бүрийн хугацаанд АНУ-ын цэргийн албаны сая сая бүртгэлийг хулгайлсан",
+    "summary": "Батлан хамгаалахын яам олон сая одоогийн болон хуучин АНУ-ын цэргийн ажилтанд тэдний хувийн мэдээллийг хэдэн сарын турш хулгайлсан гэж мэдэгдэв."
+  },
+  "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/": {
+    "title": "Драйоны стратеги газар дээр эхлэв",
+    "summary": "Хаалганы зориулалтаар жил бүр Даш Форвард 2026 арга хэмжээндээ шинэ дрон хүргэлтийн бизнест ашиглах зургаан борлуулагч онгоцыг танилцуулав."
+  },
+  "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/": {
+    "title": "BMW нь ижил машиныг хий, цахилгаанаар бүтээсэн. EV нь 4 400 $ хямд байна.",
+    "summary": "BMW 3 шинэ цуврал нь EV-ийн үнэтэй чулуужсан түлшний тээврийн хэрэгсэлд хэр хурдан өртсөнийг харуулж байна."
+  },
+  "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/": {
+    "title": "OpenAI-ийн Jev Clone нь ирмэгийн лабораторид нь далайцтай агентуудаа зогсооход тусалж чадна",
+    "summary": "OpenAI-ийн \"Шийдвэрийн API\" нь хурдан, хямд оюун ухааны ач холбогдлыг баталсан Jev клон юм."
+  },
+  "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/": {
+    "title": "AI voice startup ElevenLabs нь $ 22B-ийн үнэлгээг хоёр дахин нэмэгдүүлдэг",
+    "summary": "300 сая $ ажилтанын тендерийг Веллингтон, Т. Роувигийн үнэтэй хамтран хийсэн."
+  },
+  "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai": {
+    "title": "Elon Musk‘s Grokipedia нь \"шинээр шинэчлэгдсэн\" загвартай",
+    "summary": "Grokipedia, SpaceXAI-ийн Википедиа-д ажилладаг хиймэл оюун ухаанаар ажилладаг өрсөлдөгч, саяхан засварлах ажил эхэлсэн бөгөөд өнөөдөр v0.3 шинэчлэлтийн нэг хэсэг болох дизайны зарим тохиргоог авсан бөгөөд үүнд шинэ лого оруулаад нүүр хуудас руу нь сэргээж, амьд засварлах хуудас орно. дизайны SpaceXAI дарга Бенжи Тейлор дуудаж байна..."
+  },
+  "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez": {
+    "title": "Шинэ болон тэврэлттэй Paramount нь шинэ хамтран гүйцэтгэх захиралтай.",
+    "summary": "Paramount нь Warner Bros-тэй 110 тэрбум $ нэгдэхээс өмнө шинэ хамтран гүйцэтгэх газрыг томилж байна. Discovery. Маттелийн ерөнхийлөгч, гүйцэтгэх захирлын өмнө Юнон Крейз Параменттай хамт ерөнхийлөгч, гүйцэтгэх захирал Дэвид Эллисонтай хамт явна. Paramount-ийн дагуу \"Эллисон фокусаа..."
+  },
+  "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie": {
+    "title": "Неон үүнийг A24-тэй Creative Commons SCP Foundation киног зарласнаар",
+    "summary": "A24 нь НСС-ийн сангийн кино дээр ажиллаж байгаагаа зарлаж байхдаа интернетийн хамгийн том аймшгийн нийгэмлэгийн нэгийг өрөвдсөн ч SCP Wiki багтай холбоо тогтооход төвөгтэй байсан бололтой, мөн ингэснээр Creative Commons-ийн лицензийн дагуу зарлах үүрэг хүлээсэнгүй. Амархан харах…"
+  },
+  "https://www.theverge.com/tech/1002980/google-gemini-4-argon": {
+    "title": "Google Gemini 4-ийг зарлаж, \"итгэмжлэгдсэн кибер хамгаалагчид\" зөвхөн үүнийг яг одоо авах боломжтой гэж хэлсэн",
+    "summary": "Өнөөдөр Google компани Gemini 4 Argon хэмээх дараагийн хиймэл оюун ухааны хилийн загварыг илчилсэн. Шинэ загвар нь бодит дэлхий даяар програм хангамжийн инженерчлэлийн цогц ажлын урсгалд \"хил дамнасан гүйцэтгэл, аж ахуйн нэгжийн мэдлэг нь хууль эрх зүйн болон санхүүжилт, кибер аюулгүй байдлын хамгаалалт\" -ын дагуу..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices": {
+    "title": "AI Tamagotchis ирж байна",
+    "summary": "AI нь хүмүүсийн гар утас, компьютерт маш их анхаарал тавьж байсан ч энэ нь ихэвчлэн зориулалтын төхөөрөмжүүдэд амжилтгүй болсон. Харин ирэх жилийн хугацаанд Мета, OpenAI гэсэн хоёр томоохон хиймэл оюун ухааны компани үүнийг өөрчлөхийг оролдоно. Мөн тэд ижил төстэй зам дээр мөрий тавьдаг бололтой: ph-ийн хоолны дуршилыг турших..."
+  },
+  "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping": {
+    "title": "Reddit нь хиймэл оюун ухааны ботуудын улмаас \"Хуучин Reddit\" руу нэвтрэх эрхийг багасгах хэрэгтэй гэж хэлсэн",
+    "summary": "Reddit нь хуйх, автомат хөдөлгөөнтэй тэмцэхийн тулд \"Хуучин Reddit\" туршлагыг ашиглаж болох хүмүүсийг хязгаарлаж байна. Саяхан Reddit хэрэглэгчид Хуучин Reddit ашиглах боломжтой болохын тулд нэвтэрч орох аргагүй болсон боловч \"ирэх хэдэн сард\" компани нь таныг байх ёстой гэж..."
+  },
+  "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy": {
+    "title": "Амазоны хүргэлтийн жолоочийн ухаалаг шил нь зурагнуудыг \"бараг л тогтмол\" авах болно",
+    "summary": "Амазоны хүргэлт удахгүй шинэ баригдаж болно: Хүргэлтийн жолоочийн ухаалаг шил нь ажил дээрээ үзэж буй бүх зүйлийн зургийг, тэр дундаа хүмүүс, хувийн өмчийг оруулна. Блумберг нүдний шилийг «ганцхан d дотор хэдэн мянга барьж болно» гэж мэдээлсэн байна..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments": {
+    "title": "Трампын шинэ аюулгүй байдлын төлөвлөгөөний талаар AI удирдагчид юу гэж хэлснийг энд дурдав",
+    "summary": "Мягмар гаригт том технологийн удирдагчидтай хамт хоол идсэнийхээ дараа сэтгүүлчдийн сонирхолтой мэдээнийх нь талаархи асуултад Дональд Трамп хариулжээ. Тэрээр Өмнө нь хиймэл оюун ухааны аюулгүй байдалд айдас учруулах айдас нь демократуудаар бэлтгэсэн \"Hoax\" гэж хэлсэн..."
+  },
+  "https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health": {
+    "title": "Энэ блог нь таныг илүү сайн болгоход тусалж чадна",
+    "summary": "Энэ бол Optimizer, Долоо хоног тутмын сонин бөгөөд таны амьдралыг өөрчлөх гэж тангараглаж буй хамгийн сүүлийн үеийн сажим, шавьжийг задлан шингээж хэлдэг Виктория дуунаас илгээсэн сонин юм. Оновчтой байхыг энд сонгоно уу. \"Би чиний өгзөгийг энэ Poopmaxxer pesto-ээр дэлгэх болно,\" cal..."
+  },
+  "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing": {
+    "title": "Asus АНУ-ын чиглүүлэгчийн хоригоос хэрхэн зугтсаныг хэлэхгүй",
+    "summary": "Энэ хавар, Америкийн Нэгдсэн Улс ирээдүйн бүх гадаадын хэрэглэгчдийн чиглүүлэгчид буюу ирээдүйн бүх чиглүүлэгчдийг үр дүнтэйгээр хориглосон - тэдний үйлдвэрлэгчид 1) АНУ-ын засгийн газрыг үндэсний аюулгүй байдлын заналхийлэлгүй гэж итгүүлэхээс бусад тохиолдолд, 2) \"Үндэсний аюулгүй байдлын аюул занал, аюул заналыг бий болгох, өргөжүүлэх цаг хугацааны холбоотой төлөвлөгөө..."
+  },
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWTNtMXgtdWtVVEVOMFNNSll4UHpvS3h6Um9ld3FGVTA2SzF6UnZrWXo0QmdOaWVyV0ttQnc2OGRXSHozWkxMa1B0MlBIT3hhMEN5TkNmdVJMSUJOVXB1N2p3LVI4S0dJdVhZR3pma2JaclMxMTUtS0pneDU0YlRoWlA3Yk1HcGlyd0xLUExTUmtrYVAya1RrNzJkaEZFNmRxNXg3eHB2WWp1V0JyeFIzMDBCaEJGNmh0d2VUXzRTNmo1Wk9seFR6ODRURC04RmV0WDNDWEsyYw?oc=5": {
+    "title": "Сөүл, Сингапурт бүс нутагт нөлөөлөх зорилгоор Amazon Bedrock дээрх антропик загваруудыг танилцуулах | Хиймэл оюун ухаан - Amazon Web Services (AWS)",
+    "summary": "Сөүл, Сингапурт бүс нутагт нөлөөлөх зорилгоор Amazon Bedrock дээрх антропик загваруудыг танилцуулах | Artificial Intelligence  Amazon Web Services (AWS)"
+  },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tNVFxRF9QcUV3dDAyTlJOY25nOGFSU01NRmtUZjF2SEpoSE5ieXdCMGl6akVNaVZwT3RMUldDYjJxa2xFTmsza2NPV0xNbjhXS1FPR2x5eFdrVTlERFY5c1RUMlh2b3hRR2hSWms0NHhTblV2a3NURw?oc=5": {
+    "title": "Хятадын AI ард байна. Түүний хамгийн өндөр Labs 190 сая асуултад Клодод руу явуулжээ (Өсөлт Dragons",
+    "summary": "Хятадын AI ард байна. Түүний хамгийн өндөр Labs 190 сая асуултад Клодод руу илгээв."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-01/trump-says-powell-should-resign-flydubai-attack-investigation": {
+    "title": "Трамп хэлэхдээ хүчирхэг гүрэн гарч, FlyDubai довтолгооны мөрдөн байцаах ёстой гэж байна",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-09-30/trump-calls-for-powell-s-resignation-flydubai-crash-averted": {
+    "title": "Трамп Powell-ыг огцруулахыг уриалж, FlyDubai осол уруудав",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-30/australia-bans-card-surcharges-home-prices-slide-private-credit-slump-deepens": {
+    "title": "Австрали улсад хориглосон картын нэмэлт, гэрийн үнэ слайд, хувийн зээлийн Slump Deepens",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-09-30/trump-powell-should-be-forced-to-resign-flydubai-incident": {
+    "title": "Трамп: Пауэль, FlyDubai тохиолдлоо орхих хүчийг албадан хүлээлгэх ёстой",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-09-30/trump-calls-for-powell-to-resign-flydubai-pilot-attack-probe": {
+    "title": "Дубай дахь нисгэгчийн довтолгооны довтолгоонд өртөхөөс татгалзах хүч шаардсан нь",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-30/september-ends-on-a-grim-market-note-evening-briefing-americas": {
+    "title": "9-р сарын зах зээлийн тэмдэглэл дээр дуусна: Оройн довтолгооны Америк",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-30/first-quantum-shares-fall-most-since-1997-on-cobre-panama-report": {
+    "title": "Эхний Квантын хувьцаа Кобр Панамын тайланд 1997 оноос эхлэн хамгийн их уналт",
+    "summary": "Нэмэлт: АНУ-ын дизель экспортын хориглох нөөцлөх төлөвлөгөө"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-30/passengers-avert-crash-on-flight-from-dubai-to-tel-aviv": {
+    "title": "Дубайгаас Тель Авив руу нислэгт ослын үеэр",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-09-30/bloomberg-businessweek-daily-pce-curbs-fed-bets-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: PCE Curbs Fed Bets (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-09-30/bloomberg-businessweek-daily-hpe-boosts-forecast-podcast": {
+    "title": "Bloomberg Businessweek Daily: HPE нь урьдчилсан таамаглалыг нэмэгдүүлдэг (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.reuters.com/world/asia-pacific/drone-startup-tied-trump-sons-aims-bring-ukrainian-tech-us-2026-09-30/": {
+    "title": "Трампын хөвгүүдтэй холбоотой дрон стартап нь Украины технологийг АНУ руу авчрах зорилготой",
+    "summary": "Артикулын URL: https://www.reuters.com/world/asia-pacific/drone-startup-tied-trump-sons-aims-bring-ukrainian-tech-us-2026-09-30/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49912719 Оноо: 5 # Сэтгэгдэл: 0"
+  },
+  "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah": {
+    "title": "Эхлэх нь Юта дахь нийтийн газар дээр цөмийн хүчирхэг дата төв барихыг хүсч байна",
+    "summary": "Артикулын URL: https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49910765 Оноо: 2 # Сэтгэгдэл: 1"
+  },
+  "https://www.asahi.com/ajw/articles/16925398": {
+    "title": "Японы хайлуулах эрчим хүчний гарааны эхлүүлэгч 2027 онд туршилтын реакторын хүч дамжуулах туршилтыг эхлүүлэх",
+    "summary": "Артикулын URL: https://www.asahi.com/ajw/articles/16925398 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49906354 Оноо: 4 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/building-a-business/3-ways-founders-can-protect-margins-when-growth-slows": {
+    "title": "3 Үүсгэн байгуулагчид өсөлтийн удаашралыг хамгаалдаг",
+    "summary": "Эдгээр гурван стратегийн тусламжтайгаар масштабын өртөг, нарийн төвөгтэй байдлыг бууруулна."
+  },
+  "https://www.entrepreneur.com/building-a-business/heres-what-it-takes-to-become-an-industry-leader-and-stay-there": {
+    "title": "Аж үйлдвэрийн манлайлагч болъё гэвэл яах хэрэгтэй вэ?",
+    "summary": "Та дэлгэрүүлэхдээ уулын оргилд гарахад бэлэн үү?"
+  },
+  "https://www.entrepreneur.com/building-a-business/how-businesses-can-reduce-operational-downtime-without-sacrificing-safety-or-quality": {
+    "title": "Бизнес эрхлэгчид аюулгүй байдал, чанарыг золиослохгүйгээр үйл ажиллагааны хугацааг хэрхэн багасгаж болох вэ?",
+    "summary": "Үүний оронд яах хэрэгтэй вэ?"
+  },
+  "https://www.entrepreneur.com/business-news/the-role-earned-media-plays-in-the-new-age-of-ai-search": {
+    "title": "Оюун Ухааны Шинэ эрин үед Олж авсан хэвлэл мэдээллийн тоглолтын үүрэг",
+    "summary": "AI нь мэдээллийг нэгтгэн дүгнэсэн боловч үүнийг олж авахын тулд итгэмжлэгдсэн эх үүсвэрүүд дээр тулгуурладаг. Олсон хэвлэл мэдээллийн хэрэгсэл нь эдгээр эх сурвалжуудыг өгдөг бөгөөд ингэснээр хиймэл оюун ухааны эрэл хайгуулын эрэлхэг шинэ ертөнцөд брэндийн үзэгдэх нь маш чухал юм."
+  },
+  "https://www.entrepreneur.com/entrepreneurs/opening-a-brick-and-mortar-business-address-these-7-risks-before-customers-walk-through-the-door": {
+    "title": "Тоосгон-ба-Мортарын бизнес нээх үү? Хаалгаар дамжин явахаас өмнө эдгээр 7 эрсдэлийг хаяглана уу.",
+    "summary": "Хөшиг болон галдаас гарах аюулаас эхлээд, шинэ тоосго ба портар эзэд нээлттэй өдрийн өмнө шалгах хэрэгтэй байна."
+  },
+  "https://www.entrepreneur.com/business-news/pop-tarts-boozy-buzzballz-cocktails-fizzle-out-after-a-month-heres-why-mars-regrets-the-partnership": {
+    "title": "Сарын дараа ’Boozy BuzzBallz Cocktails Fizzle гарлаа — Энд Марс ‘түншлэлээ харамсахын учир",
+    "summary": "Ангараг BuzzBallz-ийн хамтын ажиллагааг эхлүүлж, шүүмжлэгчид хөөрхөн ундаа нь хүүхдүүдэд татагдаж болзошгүй гэж мэдэгджээ."
+  },
+  "https://www.entrepreneur.com/business-news/dartmouth-professor-used-ai-to-write-an-article-about-the-dangers-of-ai-hypocrisy": {
+    "title": "Энэхүү Ivy League профессор AI-ийг хиймэл оюун ухааны залилангийн аюулын тухай нийтлэл бичихэд ашигласан. Оюутнууд «хоёр нүүр гаргахаас» татгалздаг.",
+    "summary": "Тэрээр хиймэл оюун ухааны детектор 100% AI үйлдвэрлэсэн ажлыг нь далбаатайгаар тэмдэглэсний дараа олон нийтэд уучлалт гуйсан."
+  },
+  "https://www.entrepreneur.com/business-news/six-flags-pulls-the-plug-on-the-x2-roller-coaster-linked-to-100-brain-injury-claims-its-the-right-thing-to-do": {
+    "title": "100+ тархины гэмтэлтэй холбогдсон X2 Roller Coaster дээрх залгуурыг зургаан туг татна: ‘Үүнийг хийх нь зөв зүйл’",
+    "summary": "Magic Mountain нь хэд хэдэн хэргийн хэрэг гарсаны дараа алдартай морьоо тэтгэж байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/business-plan/ai-just-told-a-customer-something-false-about-your-company-now-what": {
+    "title": "AI нь танай компаний талаар худал зүйл хэлсэн.",
+    "summary": "Туслах хүн таны бизнесийн талаар худал мэдээ ярьдаг үед засаж залруулах ширээ байдаггүй. Таван арга зам нь хиймэл оюун ухаан нь компаниудыг буруугаар хүлээн авч, урд талын засварыг тус бүрт хүргэнэ."
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/diners-are-back-in-restaurants-but-popeyes-and-buffalo-wild-wings-still-want-a-spot-in-your-pantry": {
+    "title": "Зоог нь ресторанд буцаж очсон боловч Попиес, Баффало зэрлэг далавч ч таны хоолны газартай байхыг хүсдэг",
+    "summary": "Франчайзын 500 гинж нь Рестораны зарцуулалтын ойлтын хувьд ч Pringles-ийг гулсуулж, гэртээ жигнэмэг барьж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/stock-market-today-dow-s-p-live-updates": {
+    "title": "Азийн бонд нь эрдэнэсийг богиносгох, намар уналт: Зах зээлийн бооно",
+    "summary": "Азийн бонд буурч, газрын тосны үнэ өссөн тул эрдэнэсийн гарз хохирол амсаж, үнийн өсөлт нь үнийн өсөлт нь амьд байсаар байв. Ихэнх бүс нутгийн хувьцаа унасан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/china-s-property-crisis-from-evergrande-collapse-to-beijing-s-latest-measures": {
+    "title": "Хятадын үл хөдлөх хөрөнгийн хямрал: Evergrande нуран унахаас Бээжингийн хамгийн сүүлийн үеийн арга хэмжээ хүртэл",
+    "summary": "Тус улсын томоохон өсөлтийн нэг жолооч нарын нэг болоход Хятадын хөрөнгийн зах зээл таван жилийн турш доошоо эргэлдэж байна. Үл хөдлөх хөрөнгийн үнэ цэнэ буурсаар байна, санхүүгийн асуудалтай өрхүүд үл хөдлөх хөрөнгө зарахаас өөр аргагүй болж, асар их гачигдалтай орон сууцны хөгжүүлэгчид..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/gina-rinehart-backed-lynas-to-buy-rare-earths-miner-meteoric": {
+    "title": "Жилийн ховор газар нутгийг худалдаж авахын тулд Гина Ринехарт Линнасыг дэмжиж байсан",
+    "summary": "Австралийн Линас Ховор Дэлхий ХХК нь Бразил дахь чухал ашигт малтмалын шинэ хадгаламж авахын тулд A$ 968 сая ($ 672 сая) -ийн бүхий л хувьцаа бүхий үнэтэй хэлэлцээрт Meteoric Resources Ltd-г олж авах болно."
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/latest-oil-market-news-and-analysis-for-oct-1": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ ба дүн шинжилгээ (10-р сарын 1)",
+    "summary": "Ойрхи Дорнодын нөхөн сэргээлтийг үргэлжлүүлж чадах эсэх талаар тодорхойгүй байсаны дараа өмнөх хуралдаан дээр тосыг үл тоомсорлосон."
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/passengers-avert-crash-tackling-pilot-video": {
+    "title": "Зорчигчид хуралдсан нисгэгчийг ослоор осолджээ",
+    "summary": "Тель Авив хот руу 170 гаруй зорчигч унасан тийрэлтэт нисгэгч хамтрагчаа дуудаж, Израилийн Ерөнхий сайд Бенжамин Нетаниаху ноцтой аюулгүй байдлын ослыг тэмдэглэхэд онгоцыг сүйрүүлэхийг оролдсон байна. Блумберг-ийн Бенедикт Каммел илүү их байна. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/gold-steady-as-softer-inflation-data-tempers-fed-rate-hike-bets": {
+    "title": "Софт инфляцийн өгөгдлийн сангаас алтны тогтвортой байдал Тэжээлийн ханштай ижил төстэй мөрүүд",
+    "summary": "Алт нь инфляцийн өгөгдлийг зөөлөн бетоноор онгойлгосон бөгөөд Federal Reserve нь дараагийн уулзалтаараа хүүг нэмэгдүүлэх бөгөөд өндөр бондын ургацыг шинэчлэхийн тулд хаалгыг онгойлгов."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/rbi-s-success-on-dollar-flows-raises-stakes-in-inflation-fight": {
+    "title": "Долларын урсгалын амжилт Инфляцитай тэмцэж байна",
+    "summary": "Хэдхэн сарын өмнө Энэтхэгийн төв банк гадаад валютын нөөцөө бэхжүүлж, рупигийн хамгаалалтад зориулж доллараар татан авах бүх зогсолтыг зогсоосон. Хүчтэй хүлээгдэж буй үер баялаг нь мөнгөний бодлогын илүү бат бөх байдлын хувьд хэргийг нэмж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/cftc-secures-30-million-judgment-tied-to-alleged-crypto-scam": {
+    "title": "CFTC нь криптовалютын зальтай холбоотой $ 30 сая шүүлтийг баталгаажуулдаг",
+    "summary": "Флоридагийн Холбооны шүүгч хоёр хүнд крипто валют, үнэт металлын оролцоотойгоор 9,000 гаруй хүнийг хууран мэхэлж, шийтгэлийн төлөө 30 сая $ нөхөн төлбөр төлөхийг тушаав. АНУ-ын Худалдааны Фьючерсийн Комисс мэдэгдэлд дурджээ. Бид..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/ccc-debt-turns-distressed-for-first-time-since-2023-bank-crisis": {
+    "title": "CCC өрийн эргэлт 2023 оны хямралаас хойш анх удаа дарамт болж байна",
+    "summary": "АНУ-ын хамгийн эрсдэлтэй корпорацийн бондын тархалт нь 2023 онд бүс нутгийн банкны хямралаас хойш анх удаа эрдэнэсийн талаарх 1000 гаруй үндсэн цэгийг даван туулж ирсэн. Ийм эрсдэлийн дээд зэргийн түвшин нь ихэвчлэн анхдагч, засварлах, алдах магадлал өндөр байгааг илэрхийлдэг."
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/hedge-funds-diameter-redwood-purchased-nuveen-s-brightline-debt": {
+    "title": "Хеджийн сангийн диаметр, Redwood Bought Nuveen Brightline Авлага",
+    "summary": "Түгшүүртэй өрийн хеджийн сан Диаметр Капитал Түнш, Редвуд Капитал, ДөрвөнСикс гуравдугаар капитал энэ долоо хоногт Нювений хотын холбооноос 190 сая $ худалдан авсан нь энэхүү асуудалд танил хүмүүс байжээ."
+  },
+  "https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2?syn-25a6b1a6=1": {
+    "title": "АНУ-ын засгийн газрын өрийн чиглүүлэлт нь зарах ‘хор хөнөөлтэй гогцоо’ үүсгэдэг",
+    "summary": "Дөрвөн жилийн хугацаанд хамгийн муу сарын хугацаанд 10 жилийн эрдэнэсийн судасны хагас хувь"
+  },
+  "https://www.ft.com/content/c05f3ba5-e24e-4c88-86ed-04f4b229cd15": {
+    "title": "Бүү нуугдаж, нөөцөөр болгоомжтой байгаарай",
+    "summary": "Балансын орны даавуу ухаалаг бус болж, өсөлт нь ч үр дагаварт хүрч болзошгүй"
+  },
+  "https://www.ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1": {
+    "title": "90 секундэд 18,000 фут: Flydubai-ийн ойролцоо катастрофе дотор",
+    "summary": "Дубайгаас Тель Авив хүртэл явсан гамшгаас өөр нэг нисгэгч мөргөлдөөд"
+  },
+  "https://www.ft.com/content/cd4611e7-c0ee-4acf-b0dd-e820b067a9f6?syn-25a6b1a6=1": {
+    "title": "Flydubai Израиль руу зугтаж ирснийг бид мэдэх билээ",
+    "summary": "Онгоцонд аймшигт тулаан болсны дараа онгоц Саудын Арабад яаралтай бууж ирэв"
+  },
+  "https://www.ft.com/content/08109881-f33c-43e0-9dc6-fc3a00d4e35b?syn-25a6b1a6=1": {
+    "title": "АНЭУ хэрхэн Израильчуудад очих болсон бэ?",
+    "summary": "Тель Авив онгоцоор нисэх онгоцны аюулгүй байдал Израильчуудад аюулгүй хоргодох газар болох Арабын улсад эргэлзэж байна"
+  },
+  "https://www.ft.com/content/78431eef-50ee-4ec9-9ca6-af801da1e617?syn-25a6b1a6=1": {
+    "title": "Федериго мониторингийн үеэр биеэ авч явах явдлыг хажуу тийш нь арилгасны дараа Поулл огцрох хэрэгтэй гэж Трамп хэлэв",
+    "summary": "Хянагчийн ерөнхий $ 2.5bn засварын төслийн менежментийн \"дутагдлыг\" өгүүлсэн боловч эрүүгийн гэмт хэргийн нотолгоо олдсонгүй"
+  },
+  "https://www.ft.com/content/baa261b7-681d-41b7-b41a-d704858cd0b2?syn-25a6b1a6=1": {
+    "title": "Warner Bros гэрээг хаах харагдах тул Paramount нэр Маттел дарга хамтран гүйцэтгэгч ҮЦК",
+    "summary": "Ynon Kreiz зугаа цэнгэлийн компани хамгийн тогтсон зугаа цэнгэлийн хоёр студийг нэгтгэх хандлагатай байна"
+  },
+  "https://www.ft.com/content/188ab0ab-e39d-4221-9730-0610fbc22ee9?syn-25a6b1a6=1": {
+    "title": "Парамент нь Warner Bros гэрээг санхүүжүүлэхийн тулд зээл олгох өндөр зардлыг овоолдог",
+    "summary": "Хөрөнгө оруулагчид 9% орчим ургац хуримтлагдсан $ 52bn санхүүжилтийн багцыг хуримтлуулсан"
+  },
+  "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1": {
+    "title": "Google хамгийн сүүлийн үеийн Gemini AI загварыг гаргадаг",
+    "summary": "\"Аргон\" технологийн аварга шалгаруулах найдвар нь хиймэл оюун ухааны хил дээр дахин босгоход тусална"
+  },
+  "https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1": {
+    "title": "АНУ-ын өрсөлдөөний watchdog нь антропик ба OpenAI-ийн мөрдөн байцаалтыг өргөжүүлэв",
+    "summary": "Холбооны Худалдааны Комисс нь мэдээлэл авахыг шаардаж, тэргүүлэх AI компаниудын гүйцэтгэх захирлуудын гэрчлэлийг эрэлхийлнэ."
+  },
+  "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories": {
+    "title": "Би 71 настай ч ажиллаж байна. Би жилд 108,000 $ авдаг. Би зөв юм хийж байна уу?",
+    "summary": "\"Надад IRA болон Roth дансанд 152,000 $ байна.\""
+  },
+  "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories": {
+    "title": "Гоогле үүнийг AI уралдаанаас хараахан гараагүй байгааг харуулж байна",
+    "summary": "Компанийн Gemini 4 Аргоны мэдэгдэл нь Google-ийн тэжээлийн хиймэл оюун ухааны загваруудыг зүсэх үед буцаж ирдэгийг харуулж байна."
   }
 }
