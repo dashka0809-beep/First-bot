@@ -1718,5 +1718,305 @@
   "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories": {
     "title": "Гоогле үүнийг AI уралдаанаас хараахан гараагүй байгааг харуулж байна",
     "summary": "Компанийн Gemini 4 Аргоны мэдэгдэл нь Google-ийн тэжээлийн хиймэл оюун ухааны загваруудыг зүсэх үед буцаж ирдэгийг харуулж байна."
+  },
+  "https://earendil.com/posts/pi-1-0/": {
+    "title": "Pi 1.0",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://lwn.net/Articles/1097401/": {
+    "title": "Линукс цөмт эмзэг байдал илэрсэн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.cloudflare.com/clef-decision-models/": {
+    "title": "ШУУРХАЙ: Нээлттэй жинтэй шийдвэрийн загварууд, RL нарийн тааруулах тавцан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://svelte.dev/blog/sveltekit-3-is-here": {
+    "title": "SvelteKit 3",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://news.ycombinator.com/item?id=49922569": {
+    "title": "ХН: Хэн ажилд авах вэ? (2026 оны 10-р сар)",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.cssbed.com": {
+    "title": "CSS Ор: Вэб хөгжүүлэлтийн эхлэх цэг болгон ашиглах Classless CSS сэдэв",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/Vibra-Ingenn/Janus": {
+    "title": "ХН: Жанус – GGUF загварыг AMD/Intel/Nvidia дээр Вулканаар ажиллуулдаг Go binary",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness": {
+    "title": "Опус 5.5-ийг ашиглан DODO-ийн шинэ гэрчийг нээж олох",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://earendil.com/posts/pi-durable/": {
+    "title": "Пи удаан эдэлгээтэй",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/streetcomplete/StreetComplete/issues/5421": {
+    "title": "Тагийн StreetComplete нь одоо олон нийтийн бета дээр байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/": {
+    "title": "Роботакси операторууд эхний хариулагчдыг хориглоход торгууль төлнө",
+    "summary": "Калифорнийн шинэ хууль нь бие даасан тээврийн хэрэгслийн операторуудын талаар шинэ дүрмийг байрлуулдаг"
+  },
+  "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/": {
+    "title": "TechCrunch-ийн үндэслэгчийн хөтөч 2026 алдагдсан: Таны мэдэх ёстой бүх зүйл",
+    "summary": "2026 оныг тасалдуулах TechCrunch нь нэг асуултыг хэрхэн бүрдүүлдэг вэ? Бидний програмчлал, чанга яригч нь үүний нэг баталгаа юм."
+  },
+  "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/": {
+    "title": "Lyft нь 272.5M $ төлж, жолооч нар хэрхэн ангилсан талаар шүүхийн шийдвэр гаргахад төлдөг",
+    "summary": "Өнөөдөр gig эдийн засгийн жолоочуудыг гэрээт байгууллагаар ангилдаг. Энэхүү сеттлмент нь 2020 оноос хараахан хариулаагүй асуудал хэвээр байсан хэргийг тогтооно."
+  },
+  "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/": {
+    "title": "Кевин Мандийн шинэ \"агент солигдох\" аюулгүй байдлын гарааны Armadin 2.5B долларын үнэлгээтэй $ 255.5 сая ам .долларыг нэмэгдүүлдэг",
+    "summary": "Мандиантыг үүсгэн байгуулагч гэж нэрлэдэг Кевин Мандиа аж ахуйн нэгжүүдийг туршиж, хамгаалахад туслах шинэ гарааны бизнесийг ашигладаг."
+  },
+  "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/": {
+    "title": "Мускийн AI чатбот Грок Трамп Венесуэлийн ерөнхийлөгчийг авахыг уриалсан гэж мэдээлж байна",
+    "summary": "Ерөнхийлөгч Трамп Венесуэлийг довтолж, Николас Мадурогийг эзлэн авахын өмнө Грокийн саналыг асуужээ."
+  },
+  "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/": {
+    "title": "ChatGPT нь таны хувьд бараг хувцасыг туршиж болно",
+    "summary": "OpenAI нь ChatGPT-д зориулсан шинэ худалдааны функцуудыг оруулж, хэрэглэгчид өөрсдийн зургийг ашиглан хувцас, дагалдах хэрэгсэл дээр туршиж, дуртай номын санд дуртай бүтээгдэхүүнийг хадгалах боломжийг олгодог."
+  },
+  "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/": {
+    "title": "Google SpaceX-ийн Starship нь газар дээрээс гарахын өмнө 1,800 дахин эхлүүлэх хэрэгтэй гэж үздэг",
+    "summary": "Google-ийн анхны дэвшилтэт чипийг тойрог замдаа сансрын мэдээллийн төвийн замыг бий болгохоор эхлүүлсэн."
+  },
+  "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/": {
+    "title": "Дэлхийн хамгийн анхны сайжруулсан газрын гүний дулааны цахилгаан станцыг ердөө 23 сарын дотор дуусгасан",
+    "summary": "Ферво Энержи анхны цахилгаан станцаа хоёр жил хүрэхгүй хугацаанд дуусгасан. Дараагийн үе шатууд нь сүлжээтэй илүү хурдан холбогдоно гэж амладаг."
+  },
+  "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/": {
+    "title": "OpenAI нь 3 аюулгүй байдлын судлаачидтай холбоог тасалдаг, WSJ тайлан",
+    "summary": "OpenAI компани нь эмзэг мэдээллийг буруугаар хангаснаас хойш дотоод судалгаагаар гурван аюулгүй байдлын судлаачидтай хэсэгчилсэн гэж тайланд дурдав."
+  },
+  "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/": {
+    "title": "OPUS 5.5 танд ‘энэ асуудлыг‘ хэлэхэд дуртай (AI бусад бичвэрт өгнө)",
+    "summary": "OPUS 5.5-ийн хамгийн том хэллэг нь хүний дээжүүдээс 23 дахин их гардаг \"найдвартай\" гэдэг үг юм."
+  },
+  "https://www.theverge.com/tech/1003877/apple-security-camera-no-video": {
+    "title": "Apple-ийн видео бичлэг хийхгүй ухаалаг гэрийн камерыг боловсруулж мэдээлж байна",
+    "summary": "Apple-ийн цуурайтсан түлхэлт нь ухаалаг гэрийн аюулгүй байдлын камерыг багтаасан бөгөөд энэ нь хэрэглэгчдэд видео бичлэг биш харин үйл явдлын тодорхойлолтыг мессежээр өгдөг. Марк Гурман хэлэхдээ, \"Apple-ийн ухаалаг гэрийн экоси\" -ийн камерыг..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision": {
+    "title": "Google-ийн шинэ гарын авлага алсын функц нь сайн хэвлэлтийг уншихад тусална",
+    "summary": "Удирдамжтай алсын хараа нь өнөөдөр Gemini-т нийцтэй Android төхөөрөмжүүд дээр шууд ажиллуулж байгаа бөгөөд AI-ийг ашиглан утсан зургийнхаа камерыг бодит цаг хугацаанд нь аудио тайлбарлахаар эхлүүлж байна. Камераа Gemini Live-д хуваалцах замаар та жижиг текст, DES унших гэх мэт зүйлстэй Google-ийн AI тусламж авах боломжтой..."
+  },
+  "https://www.theverge.com/tech/1003735/android-central-layoffs": {
+    "title": "ANDROID CENTRAL-ийн ажилтнуудынхаа байршлыг үл харгалзан \"үргэлжлүүлэх\" болно",
+    "summary": "Android Central гэдэг блог нь Android экосистемд төвлөрөн өчигдөр ажилтнуудаа хөөргөсөн боловч эзэн нь Ирээдүй сайтыг үргэлжлүүлэн хэвлэн нийтлэхийг баталж байна. Өчигдөр Андройд Төвийн ажилтнуудын хуудасны зургаан ажилтны дөрөв байрны талаар нийтэлсэн бөгөөд үүнд..."
+  },
+  "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for": {
+    "title": "Уурын тавцан 2: Чип хавхлага хүлээж байсан AMD олсорлон байна уу?",
+    "summary": "Уурын тавцан нь дөрвөн хагас настай бөгөөд гар тоглогчид Уурын тавцан 2-ийг тэсэн ядан хүлээж байна - гэхдээ Valve нь үргэлжлүүлэн \"үеийн цоорхой\" -ыг үргэлжлүүлэн бүтээхээс өмнө гүйцэтгэл, үр ашгийг дээшлүүлэхэд шинэ чип хэрэгтэй гэж хэлсэн байна. Чип гэдэгт итгэх шалтгаан бий..."
+  },
+  "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed": {
+    "title": "Шүүгч Google AI-ийн тоймд тулгуурлан шүүхийн эсрэг хэргийг хэрэгсэхгүй болгожээ",
+    "summary": "Холбооны шүүгч Chegg болон Rolling Stone эцэг компани Penske Media Corporation-ийн гаргасан хоёр эсрэг зэвүүн шүүхийг цуцалсан бөгөөд Google нь хиймэл оюун ухаанаар ажилладаг хайлтын функцүүдээрээ вэбийн урсгалыг холдуулахыг буруутгасан гэж Reuters мэдээлжээ. АНУ-ын Дүүргийн Шүүгч Амит Мехта…"
+  },
+  "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr": {
+    "title": "Sony нь тогтмол PS5 руу AI график дээшлүүлэлтийг авчирдаг",
+    "summary": "Sony нь тогтмол PS5-д зориулсан хиймэл оюун ухааны шинэ технологийг эхлүүлж байна. Блогын нийтлэлд дурдсанаар шинэ технологи нь \"Түргэн Spectral Super Resolution (QSSR)\" гэж нэрлэгддэг AI upscaling-ийн шинэ гүйцэтгэлийн шатлал бөгөөд энэ нь AMD-тэй хийсэн Sony's Project Amethyst-ийн ажлын үр дүн юм. Sony says..."
+  },
+  "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality": {
+    "title": "VR шилийг VR хэмнэх боломжтой юу?",
+    "summary": "Би $ 1,299 Мета VR шилийг худалдаж авахгүй гэдэгт итгэлтэй байна. Өнөөдрийн эдийн засгийн хувьд цусны минь цусны хувьд хэт баялаг, Метагийн талаар миний мэдрэмж... зөрчилдөж байна. Гэхдээ чи Мета тоглоомыг дөнгөж өөрчилсөн гэдгийг ойлгохыг хүсч байна. Бидэнд нүдний шил бий, гэхдээ бид хэзээ ч ингэж шилтэйгүй. М..."
+  },
+  "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving": {
+    "title": "Майкрософтын оффис, багийн дарга нар холдож байна",
+    "summary": "LinkedIn болон Microsoft дээр бараг 18 жил өнгөрсний дараа Райан Рослански компанийг орхиж байна. Саяхан LinkedIn-ийн Гүйцэтгэх захирал болж, Рослански өнгөрсөн жил Тамгын газрын дарга болж, дараа нь энэ оны эхээр Microsoft Teams-ийг хянадаг болсон. Росланский явах нь үргэлжилж байна..."
+  },
+  "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad": {
+    "title": "Microsoft-ийн том Копилотын дахин сэтгэдэг дотор",
+    "summary": "Өнгөрсөн долоо хоногт Microsoft-ийн гүйцэтгэх захирал Сатья Наделла өөрийн гол аж ахуйн нэгжийн үйлчлүүлэгчдийн манлайлагчдад зөвхөн урьж буй арга хэмжээ зохион байгуулсан. Хэвлэл мэдээллийн гялалзсан үйл явдлын оронд Наделла Копилотын ирээдүйг шууд хэрэглэгчдэд Майкрософт үнэхээр санаа тавьдаг, хамгийн сүүлчийнх нь..."
+  },
+  "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule": {
+    "title": "NYC бол одоо АНУ-ын анхны хот бөгөөд шинжлэлийн захиалгын хоригийг хориглосон хот юм",
+    "summary": "Нью - Йоркийн оршин суугчид байнгын захиалгын төлбөр авах гэж тэмцэж байгаа бол хотын захиргаанд гомдол гаргаж өгнө. Пүрэв гаригт болсноор хотын дарахаас хасах дүрмийг хүчин төгөлдөр болгосон бөгөөд энэ нь бизнес эрхлэгчдэд захиалга цуцлахад хялбар болгохыг шаарддаг..."
+  },
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXU5cHdhcUUxMDVnT250dC1ud1UxVzJLMUFrdE5ZYjYyVVMxLTdRa1Z2RWtoaG12Q3FlUng5QThFWmdwX1d4czFaZGkzREp1U2xsWlhMaUlfY0YwN1NkamhUSktNek9aQlFHX1E4M3p5OVdPbjR4U3dRaERveXR1T1NQc0c1a0RQZ0hNYm8weWkyYXVKcjF2QkEzNA?oc=5": {
+    "title": "Клод AI чат - Yahoo-д шерифын газар заналхийлж байсан Флорида эмэгтэй",
+    "summary": "Клод AI чат Yahoo-д шерифын газар заналхийлж байсан Флорида эмэгтэй"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXNEQkdkNlFwRTRYbUJMcnZQYUZEc1hIZXBVc1pXS2VWUjlKemZhRWV4Y0otRVdXUnJFQnFndm5PU2xSVEJGQTdfZHBKeW1NRW9rZENOVm1ZYUozLVJILTk3ZUxUVW1IakRGN2x6M0hRR2UwUkROY3VCWGlubTkwUEFWR1I2RjNVM0hwUVE1a2FPZHE0WFZNV1BOUks?oc=5": {
+    "title": "А&А: Антропийн амьдралын шинжлэх ухааны баг ферментийн судалгаа, биологийн лаборатори, преклиник шугам хоолойн баг - Endpoints Мэдээ мэдээлэл",
+    "summary": "А&А: Антропийн амьдралын шинжлэх ухааны баг ферментийн судалгаа, биологийн лаборатори, преклиник хоолойн төгсгөлийн цэгүүдийн мэдээ"
+  },
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3haT0xoTE5SMVRSUm1IOUFZbl9qbzctbmdSTDItQUVDbzhhOHhsNGd5WlFHTlowYmhJc0Z2di1WZmFPdms3aEFQRU9HMGVreC1Ea2drTzJFLUpsaVo1MnFBS0dsTkdwRGZnUS1WRmJBdHhUV0hKNXU4WWVjN1ZLenFtZzJ2NnVUSGE2SmtpM3Jsd0wtUGdsM3VtUV9jWHY5OC1OMmZ0emd5TENRN2VqdEZR?oc=5": {
+    "title": "Барклейс нь антропийн Клодыг үр ашигтайгаар ашиглахыг тэлдэг - Bloomberg.com",
+    "summary": "Барклейс нь антропик Клодыг үр ашигтайгаар ашиглахыг уриалдаг Push  Bloomberg.com"
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDd1U3B6WHhqcExpRHVEam1nY3VUZ1lnbmlOXzcya212aExJWDl1R0hiZnZFeTNONzhBNjRQWWo5OXkxTk0zQkI5OE9uekQzbDFkc1VpYmE0NF9SQ19kNnhJZWI2SFhfTFlxejgzRXZ3ZDRfS3FWejRsS0tBejBlT0hZb0c1c2c1cjkwdVJtZ20wdDVfNVFLYmN0eDZ0aFY1XzF5RGR5S0RMeXB0MjRpcVdZR25HMnc?oc=5": {
+    "title": "IPO баримт бичиг дээрх антропик \"оршин тогтнох хиймэл оюун ухаанд эрсдэлийн сэрэмжлүүлэг\" - theguardian.com",
+    "summary": "IPO баримт бичгийн  theguardian.com дээр агтропын \"оршин тогтнох хиймэл оюун ухаанд эрсдэлийн сэрэмжлүүлэг\""
+  },
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDBCeFdKTDNQTi0xMGpCdFFnVF9LenRTZzNwNUhJNW5PaXRNSTB1OWt0d0FQckxib2t0QnZmSnd0akxXcWg1YXBBem8wQUdjdFc3eGNtdDJzT1A1d21YUndOdHBrVTAzWDVQWkk4RFBqeklYaHdLSTZOUFViNTRKVk1jLTBRM0s5c0ZVSHE4RnJvUDd5SURNbDRWaUp0REczOE1MS2tSVG1uQi00YXJpSHFJU1J0bF9EYTM5aUwzLUZvVFl5YlE?oc=5": {
+    "title": "Амазоны Бедрок нь Энэтхэгийн улс хоорондын инференцид Клод загвар авах боломжийг өргөжүүлдэг | Хиймэл Тагнуулын - aws.amazon.com",
+    "summary": "Амазоны Бедрок нь Энэтхэгийн улс орнуудын идэвхгүй байдалд Клод загвар авах боломжийг өргөжүүлдэг | Хиймэл Тагнуулын  aws.amazon.com"
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGNVRW1BbzAzR1RQdm1nWTdDb1pvNUc1bVlLWjI0TmIxRDlrcVJQM0FRbjdmVjZ6S2E1aTl4QnlEeG5DdVJYU1daRWM4VWc4WnZ5TVBBeDRvay01OWpMaWpIRkNhMDc4RzJldWc0N1E0dHFtYlBSYW5DTzFZck9MVmp4dVNZLXZzM095NFBKQThIU2hTeHBnR3BaZDVaSE9CbktNNGk5TjBiaDZSWW8yaQ?oc=5": {
+    "title": "Өөр нэг эрдэмтэнээс зээлдэг болсон уу? - the-scientist.com",
+    "summary": "Антропийн биологийн ололтоос өөр нэг эрдэмтэн ажлын зээл авсан уу?  the-scientist.com"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-02/us-deploys-more-troops-to-mideast-anthropic-ipo-target-date": {
+    "title": "АНУ Мидаст, Антропийн IPO Зорилтот Огноо руу илүү их цэргүүдийг байрлуулдаг",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/warner-bros-deal-ai-s-rise-dominate-screentime-conference": {
+    "title": "Warner Bros. Deal, AI's Rise Dominate Screentime Conference",
+    "summary": "Paramount Skydance Corp. Warner Bros. Discovery Inc болон Холливудын хиймэл оюун ухааныг хүлээж авах нь энэ долоо хоногт Лос Анжелес хотод Bloomberg-ийн Screentime бага хурал дээр төвлөрч, салбарын хүнд ач холбогдол бүхий ажлын байр, киноны аль алиных нь нөлөөллийг хэлэлцсэн тул…"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-01/us-sending-more-troops-to-mideast-anthropic-november-ipo-target": {
+    "title": "АНУ-ын Мидаст, Антропик 11-р сарын IPO Зорилт руу илүү их цэргүүдийг илгээж байна",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-01/us-moving-more-troops-to-mideast-anthropic-eyes-november-ipo": {
+    "title": "АНУ Мидаст, Антропик нүдний 11-р IPO руу илүү их цэргүүд нүүж очдог",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/singapore-money-laundering-case-luxury-condos-find-few-buyers-at-auction": {
+    "title": "Сингапурын мөнгө угаах хэрэг: Тансаг зэрэглэлийн Condos Үнэ хаялцуулах худалдаа дээр цөөхөн худалдан авагчид олдог",
+    "summary": "Хотын захиргааны хамгийн том мөнгө угаах хэрэгт хасагдсан 80 гаруй шинж чанар зарагдаж байна. Гэвч дуулианыг сонирхож байгаа нь борлуулалт руу хөрвүүлж чадаагүй юм."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-01/australian-bonds-rba-podcast-disney-wants-bluey": {
+    "title": "Австралийн холболт, РБА подкаст, Дисней Цэнхэр хүсч байна",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-01/bloomberg-law-trump-s-tariffs-enemies-podcast": {
+    "title": "Блумберг хууль: Трампын тариф ба \"дайснууд\" (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 33:50"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-01/us-may-send-more-troops-to-mideast-anthropic-ipo-target-date": {
+    "title": "АНУ Мидаст, антропийн IPO Зорилтот огноо руу илүү их цэргүүдийг илгээх болтугай",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-01/bloomberg-businessweek-daily-live-from-screentime-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: Скреентээс шууд (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 40:05"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-01/stock-movers-entertainment-stocks-fall-nike-falls-podcast": {
+    "title": "Нөөцийн Movers: Үзвэр үйлчилгээ Намар, Nike Falls (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://premortem.site": {
+    "title": "HN харуулах: Premortem – Таны гарааны санаа улаан тем агентууд",
+    "summary": "Артикулын URL: https://premortem.site Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49926691 Оноо: 6 # Сэтгэгдэл: 5"
+  },
+  "https://openjdk.org/jeps/545": {
+    "title": "JEP 545: ZGC-тэй хурдан эхлүүлэх, дулаарал",
+    "summary": "Дугаар зүйл URL: https://openjdk.org/jeps/545 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49922076 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://news.ycombinator.com/item?id=49920411": {
+    "title": "Rpi – Pi төлөөлөгчийн зэв регрипт, 10× илүү хурдан эхлүүлэх",
+    "summary": "Би Pi-ийн төлөөлөгчийн талаар мэдэж аваад, Зэвээр дахин бичэхээр шийдэв. Одоо би маш их ажил дууссан тул би зэв (rpi) нь TypeScript (Pi) -ээс хэр хурдан болохыг харуулахыг хүсч байна. Үр дүнг энд оруулав:| СИ | РПИ (Зэв) | Pi (TypeScript) | Ялгаа | |:---|:---|:---|:---…"
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue": {
+    "title": "AI кодлох эхлүүлэх таних тэмдэг Жилийн орлогын $ 1B-д Үзсэн",
+    "summary": "Дугаар зүйл URL: https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49919121 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://founderread.com/": {
+    "title": "ХН харуулах: Би гарааны бизнесийг үүсгэн байгуулагчдад зориулсан барааны уншлагыг (GRUK-тэй) барьсан",
+    "summary": "Артикулын URL: https://founderread.com/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49916851 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/business-news/workers-are-becoming-ai-managers-without-getting-manager-pay-promotion": {
+    "title": "Ажилчид AI Bots-ийг удирдаж байна — Менежер цалин авахгүйгээр",
+    "summary": "Шинэ тайланд өсгөх эсвэл гарчиг өөрчлөгдөхгүйгээр хиймэл оюун ухааны ботыг удирдах нь урьд өмнө байгаагүй олон ажилчид байгааг харуулж байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/has-your-growth-stalled-more-marketing-may-not-be-the-answer-heres-where-to-look-instead": {
+    "title": "Танд өсөж үргэлжилж байна уу? Илүү олон маркетинг хийх нь энэ асуултын хариу биш байж болох юм. Энэ бол оронд нь харах газар юм.",
+    "summary": "Өсөлтийн осол гарах үед ихэнх бизнес эрхлэгчид тэдэнд илүү их маркетинг хэрэгтэй гэж үздэг. Гэхдээ ихэнхдээ гол нь харагдахгүй. Энэ бол тодорхой байрлал."
+  },
+  "https://www.entrepreneur.com/entrepreneurs/unexpected-accidents-can-cost-your-business-more-than-you-think-heres-how-to-limit-the-damage-and-recover-quickly": {
+    "title": "Гэнэтийн осол аваар таны бодож байснаас илүү өртөгтэй байж болно. Эвдрэлийг хэрхэн хязгаарлаж, хурдан сэргээх вэ?",
+    "summary": "Хууль зүйн бэлтгэл нь танай бизнесийг санамсаргүй ослоос сэргийлэхэд хэрхэн туслах вэ?"
+  },
+  "https://www.entrepreneur.com/building-a-business/how-to-build-startup-credibility-before-your-first-round": {
+    "title": "Залуу хиймэл оюун ухааны үүсгэн байгуулагчид Патент, нисгэгч, хэвлэл мэдээллийн хэрэгслийг анхны санхүүжилтийнхаа өмнөхөн, тоглоомын номоо хэрхэн хуулж авах вэ?",
+    "summary": "AI-ийн хамгийн залуу үүсгэн байгуулагчид замд түшиглэх боломжгүй тул тэд үүний оронд нотолгоог бий болгодог. Тэдний дөрвөн товхимол ямар ч насандаа ажилладаг."
+  },
+  "https://www.entrepreneur.com/building-a-business/raising-your-prices-can-help-you-fight-rising-customer-acquisition-costs-but-only-if-youre-careful": {
+    "title": "Үнэгээ өсгөх нь үйлчлүүлэгчийн авах зардлыг өсгөхөд тусална (гэхдээ зөвхөн анхааралтай байгаа бол)",
+    "summary": "Шинэ үйлчлүүлэгчдээс авах нь урьд хожид илүү өртөгтэй байдаг. Гэхдээ таны санал болгож буй үнэ цэнэ тодорхой бол та зөвхөн үнийг өсгөж болно."
+  },
+  "https://www.entrepreneur.com/building-a-business/your-employees-are-already-fixing-your-broken-processes-are-you-watching": {
+    "title": "Таны ажилтнууд эвдэрсэн процессуудыг аль хэдийн засаж байна. Та хянаж байна уу?",
+    "summary": "Өсөлт нь бизнесийг илүү хүчирхэг болгох ёстой боловч шийдвэр гаргахдаа удаан, ажилчдыг бухимдуулж, удирдагчдыг шийдвэрлэхэд хүргэдэг нарийн төвөгтэй байдлыг бий болгож болох юм."
+  },
+  "https://www.entrepreneur.com/building-a-business/at-age-15-he-started-selling-a-sweet-product-for-2-his-business-broke-25000-this-past-summer": {
+    "title": "15 настайгаасаа тэр 2 $ амттай бүтээгдэхүүнийг зарж эхлэв. Өнгөрсөн зун 25 000 $ нь түүний бизнес задарч «Гөлгөр далайчлал, шийтгэл оноосонгүй».",
+    "summary": "Брайн Труп илүү их мөнгө олж, бүтээлч арга хэрэглэжээ."
+  },
+  "https://www.entrepreneur.com/business-news/is-chatgpt-dulling-your-brain-new-studies-raise-alarming-questions": {
+    "title": "ChatGPT таны тархийг татаж байна уу? Шинэ судлал түгшүүртэй асуултууд гаргана.",
+    "summary": "Сэтгэл судлаачид генетикийн багаж хэрэгслийг анхаарал төвлөрүүлж, асуудлыг шийдвэрлэхэд саад болдог гэж үздэг."
+  },
+  "https://www.entrepreneur.com/building-a-business/i-built-a-7-figure-business-teaching-people-how-to-engineer-ai-prompts-prompt-advisers": {
+    "title": "Би 7-Figure Business Teaching People-ыг инженерийн чиглэлийг хэрхэн сургах талаар байгуулсан. Миний зөвлөгөө байнга 3 удаа шийтгэдэг.",
+    "summary": "«Марк Касеф» - ийн Fiverr сэтгүүлд амжилттай байгуулагдлаа."
+  },
+  "https://www.entrepreneur.com/building-a-business/what-a-simple-tie-taught-me-about-winning-customers-for-life": {
+    "title": "Амьдралынхаа үйлчлүүлэгчдийг авахад надад маш амархан сурсан",
+    "summary": "Хоёр өөр брэндүүд, хоёр өөр туршлагууд. Брэндтэй харилцах харилцан үйлчлэл нь хэн нэгэнд үнэ цэнэтэй санагдах эсвэл үгүй мэт санагдах боломжтой."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/latest-oil-market-news-and-analysis-for-oct-2": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ болон дүн шинжилгээ 10-р сарын 2",
+    "summary": "АНУ Ойрхи Дорнод руу өөр нэг нисэх онгоцны зөөгч бүлэг илгээж, Ирантай дайныг нэмэгдүүлж, эрчим хүчний урсгалыг нөхөн сэргээхэд заналхийлж болзошгүй тул хоёр өдрийн ашиг олж авсны дараа тос үргэлжилсэн."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/treasuries-rebound-as-global-bond-rout-continues-video": {
+    "title": "Глобал бондын зам хэвээр байх үед эрдэнэсийн үүсэл",
+    "summary": "Европын зах зээл дэх олон улсын бондын борлуулалтаас үүдсэн эрэлт нь газар шорооны хөрөнгийг эрэлхийлж, 24 жилийн өндөрлөгөөс 10 жилийн турш ургац хурааж авсан юм. Блүүмберг Рут Карсонын талаар мэдээлэв. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/asian-stocks-to-fall-on-oil-rally-bonds-in-focus-markets-wrap": {
+    "title": "Азийн бонд Сангийн гүйлтийн дараа босоход хувьцаа унах: Зах зээлийн бооно",
+    "summary": "Азийн бонд өсч, эрдэнэсүүд нь олон арван жилийн өндөрлөгөөс ургац авчирсан олзыг ашиглав, учир нь худалдаачид өндөр газрын тосны үнэ, тэдгээрийн инфляцын үр нөлөөг харав. Бүс нутгийн хувьцаа нь доогуур байрлуулсан."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/us-may-add-carrier-and-10-000-troops-to-middle-east-video": {
+    "title": "АНУ Мидаст, албан ёсны мэдэгдэлд тээвэрлэгч болон 10,000 цэрэг нэмнэ",
+    "summary": "Пентагоны хувьд Пентагоны хувьд Персийн булан руу 10 000 гаруй хөлөг онгоц тээвэрлэгч, далайчин, далайчдыг нэмж оруулж, хэрэв Ерөнхийлөгч Дональд Трамп Иран руу дайрахаар шийдсэн бол АНУ-ын командлагч нарт илүү олон сонголт өгч болох юм. Bloomberg's Bryan Pietsch - ийн хамгийн сүүлийн үеийн мэдээ. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/anthropic-said-to-target-ipo-before-thanksgiving-holiday-video": {
+    "title": "Талархлын баярын өмнө антропик \"Мега-ИПо\" -г зорилтанд хэлсэн",
+    "summary": "Хиймэл оюун ухааны загвар үйлдвэрлэгч энэ талаар жагсааж гаргасны дараа мэдсэн хүмүүс 11 дүгээр сарын дундуур мэдээгээр антропик PBC нь олон нийтэд дэлгэрүүлэхийг зорьж байна. Блүүмбергийн Энтони Стефенс өөр олон хүнд бий. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports": {
+    "title": "Nvidia-Backed Firmus Eyes $ 30 Австрали IPO дахь тэрбум долларын үнэлгээ",
+    "summary": "Мэдээллийн төвийн оператор Фирмус Грид ХХК энэ сар Австралийн анхны санал болгосноор энэ сард Австралийн анхны нийтэд 43.7 тэрбум ам .долларын (30.3 тэрбум доллар) үнэлгээг хайж байна. Блүүмберг үзүүлсэн гэрээний нөхцөлийн дагуу."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/gold-steadies-as-easing-us-bond-yields-reduce-rate-hike-bets": {
+    "title": "АНУ-ын Бондын гүйлгээг хөнгөвчлөхийн хэрээр Алт хөдлөх хурдыг бууруулдаг",
+    "summary": "АНУ-ын бондын талбай зөөлрүүлэн, Холбооны Нөөцийн албан тушаалтнууд нэлээд олзтой байсан нь Ойрхи Дорнодын боломжит өсөлттэйн улмаас хүүний дараагийн алхамаа жинлэхийн тулд илүү их цаг хугацаа хэрэгтэй байгааг тэмдэглэжээ."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/what-do-entertainment-leaders-look-for-in-a-pitch-video": {
+    "title": "Аж үйлдвэрийн удирдагчид зуурмаг дотор юуг эрж хайдаг вэ?",
+    "summary": "Лос Анжелес хотод болсон \"Bloomberg Screentime\" арга хэмжээний асуудлаар өнөөдөр зугаа цэнгэлийн салбарын удирдагчид эрэлхийлж буй зүйлээ хуваалцдаг. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/bloomberg-screentime-ai-streaming-wars-and-deals-video": {
+    "title": "Блумберг Screentime: AI, Урсгал Дайн ба Хэлэлцээр",
+    "summary": "AI-д нөлөөлөх зугаа цэнгэл, урсгал дайны дараагийн үе шат, салбарыг дахин боловсруулах хэлэлцээрүүд гарах болно. Лукас Шоу Лос Анжелес хотод болсон Блумберг Screentime арга хэмжээнээс таны мэдэх ёстой хамгийн том мөчийг хуваалцдаг. Эх файлын нэр: 10.1.26_Screentime_Wrap_1.mp4 (…"
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-01/nbcuniversal-s-donna-langley-on-film-tv-and-streaming-video": {
+    "title": "Кино, телевиз, Урсгалын NBCUniversal-ийн Донна Ланглей",
+    "summary": "NBCUniversal Entertainment Chairman, Донна Лангли нь компанийн кино, телевизийн стратегийг хэлэлцэж, Bloomberg-ийн Лукас Шоутэй өрсөлдөөнт урсгалд гарч ирэх төлөвлөгөөгөө Лос Анжелес хотод 2026 онд танилцуулав. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1": {
+    "title": "АНУ-ын ипотекийн хэмжээ дөрвөн жилийн хугацаанд хамгийн их үсэрч орон сууцны зах зээлд хүрнэ",
+    "summary": "Гэрийн загвар зохион байгуулагчид болон ирээдүйн худалдан авагчид зах зээлийн нөхцөл байдал хүндрэлтэй тулгарсаар байна"
+  },
+  "https://www.ft.com/content/e3a53272-385d-40a8-ac77-408f4c136f6f?syn-25a6b1a6=1": {
+    "title": "Топ ФЕД албан ёсны дохионы төв банк 10-р сард хүүгээ зогсооно",
+    "summary": "Мөнгөний бодлогын дэд дарга Филипп Жефферсон Нью Йоркийн төв банкны дарга Жон Уильямс гаргасан dovish яриаг давтав"
+  },
+  "https://www.ft.com/content/04992c30-21da-46f3-8b95-ca82b2791521?syn-25a6b1a6=1": {
+    "title": "Мерз хэлэхдээ, Европ Оросоос «эрлийз дайралтад» хүргэдэг нь",
+    "summary": "Германы канцлер хэлэхдээ Москвагийн өсөж буй байдал нь Украины дайны эсрэг \"цөхрөл\" байна"
+  },
+  "https://www.ft.com/content/b6021793-741f-4b76-beab-20f1b672d014?syn-25a6b1a6=1": {
+    "title": "Дайвбай Израилийг хулгайлсан гэмтэл сэргээхээс айх айдас",
+    "summary": "Израильчуудын хувьд агаарын аялалыг онгоцоор дайрч довтлох нь урт удаан, хэцүү түүхээр бүтээгдсэн"
   }
 }
