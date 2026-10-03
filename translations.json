@@ -2018,5 +2018,321 @@
   "https://www.ft.com/content/b6021793-741f-4b76-beab-20f1b672d014?syn-25a6b1a6=1": {
     "title": "Дайвбай Израилийг хулгайлсан гэмтэл сэргээхээс айх айдас",
     "summary": "Израильчуудын хувьд агаарын аялалыг онгоцоор дайрч довтлох нь урт удаан, хэцүү түүхээр бүтээгдсэн"
+  },
+  "https://yuka.dev/blog-2026-10-02-linux-m4.html": {
+    "title": "Мартсан CPU (Линукс M4 дээр)",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://developer.apple.com/pass-designer/": {
+    "title": "Apple Pass дизайнер",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility": {
+    "title": "Шүүх EFF: Юта VPN-ийн хууль техникийн боломжгүй байдлыг шаарддаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f": {
+    "title": "Од, дөрвөн гариг тойрог телескопын зургийн 12 жилийн дараалал",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/": {
+    "title": "Майк Томлин Minecraft хотод 12 жил ажилласан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/": {
+    "title": "Ихэнх нууцлагдсан мэдээллийн тусламжтайгаар тоглоомын стратеги өнөөдрийг хүртэл хиймэл оюун ухааныг бөөгнөрүүлжээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human": {
+    "title": "Гар утасны таних тэмдэг нь хүний хөгшрөлтийг хөтөлдөг: Хоёр шинэ баримтууд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://gadgets.muse.ai": {
+    "title": "Gadgets ашиглах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://dwarfstar.sh/": {
+    "title": "Redis-ийн бүтээгчээс; LLM дотооддоо ds4-тэй ажиллуул",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.youtube.com/watch?v=NnV_cWeoo5Q": {
+    "title": "Грег Кроах-Хартман – LLM-ийн аюулгүй байдал [видео]",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/": {
+    "title": "Мета таныг өөрийн Muse технологийг бүтээхийг хүсч байна",
+    "summary": "Мета таны телевиз, таны цамхаг дээр Muse-ийг хүсч байгаа тул кодыг үнэгүй өгч байна."
+  },
+  "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/": {
+    "title": "Сандер нь холбооны засгийн газрыг сүрэг ашиглахаас хориглох тухай хуулийн төслийг танилцуулж байна",
+    "summary": "Санал болгож буй хууль тогтоомж нь бүх автомашины лицензийн хавтан уншигчдад уртасна."
+  },
+  "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/": {
+    "title": "Сэан Паркер хөгжмийн эргэн тойронд Тогтвортой байдлын AI-г сэргээж байна",
+    "summary": "Нэгэн удаа хөгжмийн салбарт зааж сургасан Сийн Паркер, уучлалт гуйдаг байжээ."
+  },
+  "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/": {
+    "title": "Хог хаягдлын улмаас нөлөөлсөн үү? TechCrunch-т зориулж энэ $ 75 -г битгий алдаарай 2026 EXPO+ Pass",
+    "summary": "Таны дараагийн боломж бол яриагаа хол байлгаж болох юм. Expo+ Pass-г зөвхөн $ 75-д аваарай. Эхний 100 мэргэшсэн хүмүүст хязгаарлагдмал."
+  },
+  "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/": {
+    "title": "Apple компани нь хиймэл оюун ухааны агентуудын шинэ эрсдэлээс үүдэн \"Бүрэн дискний нэвтрэх\" хяналтыг чангатгаж байна гэж мэдэгдэв",
+    "summary": "Apple-ийн хэлэхдээ MacOS-ийн Бүрэн дискний хандалтын зөвшөөрлийн эргэн тойронд шинэ хяналтыг нэмэх болно. Энэ нь хэрэглэгчдийн файл, мессеж, шуудан болон хайлтын түүхийн эрсдэлийг улам бүр нэмэгдүүлж байгааг анхааруулах болно."
+  },
+  "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/": {
+    "title": "AI байхаа больсон, энэ бол \"супер ухаан\" (Цагаан ордны дагуу)",
+    "summary": "Энэ долоо хоногт Цагаан ордонд технологийн томоохон Гүйцэтгэх захирал Зукерберг, Безос, Муск, Антропын Дарио Амодей зэрэг өрөөнд очиж, “ёс суртахууны хувьд заавал дагах ёстой” гэсэн хиймэл оюун санааны аюулгүй байдлын амлалтыг гарын үсэг зурав. \"Трамп нь гүйцэтгэх захирлын албан ёсоор шинэчлэн засварлах гарын үсэг зурлаа..."
+  },
+  "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/": {
+    "title": "2026 онд TechCrunch алга болсноор Blackstone-ийн Жас Khaira хиймэл оюун ухааны аваргачдын дараагийн үеийг бий болгохоор болжээ",
+    "summary": "Блэкстоны Жас Khaira нь дараагийн анхны хиймэл оюун ухааныг барихад TechCrunch Disrupt 2026-д барилгын шатыг авч ажиллана. Паспортоо бүртгүүлээд секундэд 50% -г аваарай."
+  },
+  "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/": {
+    "title": "Хэлхээ таслагч лаборатори нь хүүхдүүддээ AI аюулгүй болгохыг хүсч байна (та нар)",
+    "summary": "Хиймэл оюун ухаан хэрхэн биднийг бүгдийг алах талаар бүх ярианы тусламжтайгаар хиймэл оюун санааны зарим хүмүүст аль хэдийн хохирол учруулсан гэдгийг мартах амархан. Хэлхээ таслагч лабораториуд үүнийг шийдвэрлэхийн тулд \"ослын туршилтын даммууд\" -ыг бий болгосон."
+  },
+  "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/": {
+    "title": "Paramount болон Warner Bros. Discovery нь Skydance болох",
+    "summary": "Ойролцоогоор 110 тэрбум $ гэрээ байгуулна гэж тооцоолж байна."
+  },
+  "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/": {
+    "title": "Пап Гэгээн хутагт Лео XIV нь хиймэл оюун ухаанаар бүтээгдсэн урлагийн фен биш юм",
+    "summary": "\"Гоо зүйн хувьд гоо зүйн нэг ч гэсэн ялгаа бий, урлаг, машин бусдын бүтээсэн сая зургуудад тулгуурлан статистик тооцоолол хийх замаар бүтээх боломжтой.\" гэж пап бичсэн. \"Алгоритмууд хүн төрөлхтний цочрол дутагдаж байна.\""
+  },
+  "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link": {
+    "title": "Мета нь нээлттэй эх сурвалж код бөгөөд та Muse AI төхөөрөмжүүдийг гаргах боломжийг олгоно",
+    "summary": "Мета нь одоо та компаний нээлттэй эх сурвалжтай код бүхий компанийн шинэ хиймэл оюун ухааны агенттай өөрийн MUSE технологийг гаргах боломжийг олгоно. Компани нь санамж харуулахын тулд өнгөт E Бэх дэлгэц дээрх Muse-ийг ачаалах зэрэг төслүүдийг санал болгож, HDMI савааг нэмж, ингэснээр та том SC дээр Muse-ийг харуулах боломжтой болно..."
+  },
+  "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig": {
+    "title": "Netflix нь нэр төрөөс хол тулгуурласан байна",
+    "summary": "Netflix-ийн хамгийн том хүндрэлтэй дайралтуудын ихэнх нь Дэвид Финчер, Шаун Леви нарын олон талт үйлдвэрлэлийн хэлэлцээрүүдийн бүтээгдэхүүн байсан. Гэхдээ сүүлийн хэдэн долоо хоногт эдгээр франкийн зарим түншлэлийг дуусгаж,..."
+  },
+  "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents": {
+    "title": "Apple компаний дискний хандалтыг хиймэл оюун ухааны агентуудын эрсдэлийг ихээхэн нэмэгдүүлэх замаар хязгаарлана.",
+    "summary": "Apple-ийн TechCrunch-ийн өмнө мэдээлснээр хиймэл оюун ухааны агентуудын тавьсан эрсдэлийн хариуд Mac дээр \"бүрэн дискний нэвтрэх\" шинэ хязгаарыг нэмэх болно. Баасан гаригт шинэчлэлт хийхэд Apple-ийн хэлэхдээ энэхүү онцгой түвшний o програмыг өгөхийг чин сэтгэлээсээ хүсч буй хэрэглэгчидийг \"хангах шинэ хяналтыг гаргаж байна..."
+  },
+  "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops": {
+    "title": "Sling TV нь нэг өдрийн кабелийн дамжуулалтаа оруулдаг",
+    "summary": "Ширээний мэдээлснээр, хүмүүст кабелийн телевизийн нэг өдөр хөтөлбөрийн худалдан авах боломжоо Sling Pass функцийг санал болгохгүй болно. Энэхүү функцийг өнгөрсөн жил зарлаж, өдрийн хаалгыг, амралтын өдрүүдэд өнгөрөх, долоо хоногийн турш өнгөрөх сонголтыг санал болгосон..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent": {
+    "title": "OpenAI-ийн Dot агент нь таны оройн хоолыг захиалах боломжтой аж ахуйн нэгжийн програм хангамж юм",
+    "summary": "Энэ бол өнгөрсөн долоо хоног шиг хуучин үлгэр: \"OpenAI-ийн шинэ төлөөлөгчийн платформыг\" Dots \"гэж нэрлэдэг, хөөрхөн залуусаар дүүрэн байдаг. Гэхдээ хэт тэсвэрлэх боломжтой Мета Музе ялгаатай нь Dots нь таныг буртритод захиалах чадвартай байх ёстой ажлын байрны програм хангамжийг ашиглахтай маш адилхан санагддаг - тодотгол..."
+  },
+  "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis": {
+    "title": "(Елон Масктай хамт) сүйрэх нь хэцүү байдаг",
+    "summary": "MySpace загварын интернетийн жүжигт буцаж ирэхэд Шивон Зилис тэр дөрвөн хүүхдийнхээ эцэг Елон Маск X дээр гарсан гэж мэдэгдэв. Ингэхийн тулд тэр \"Big Tech Alert\" гэсэн бичлэгийг эш татав."
+  },
+  "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2": {
+    "title": "Компанийн том R2 бооцоо нь татгалзаж эхлэхийн хэрээр Ривианын борлуулалт поп",
+    "summary": "Ривиан илүү хямд R2 машиндаа найдаж байсан бөгөөд өнөөг хүртэл энэ найдвар нь цалингаа авч байгаа юм шиг санагддаг. Тус компани өнөөдөр дөрөвний гурав дахь үйлдвэрлэл, хүргэлтийн дугаараа гаргалаа, 19,751 машин үйлдвэрлэсэн, 19,248 хүргүүлсэн гэж мэдэгдэв. Энэ нь 85 хувийг жил бүр эзэлж байна-Ох..."
+  },
+  "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions": {
+    "title": "Beehiiv бүтээгчид шинэ үнийн өсөлтөд нөлөөлж байна",
+    "summary": "Беехив гэдэг бүтээгч платформ нь Substack-ийн альтернатив болох тархсанаар үнийг нь нэмэгдүүлдэг бөгөөд олон хэрэглэгчид аз жаргалтай биш байдаг. Энэхүү өсөлтийг тайлбарласан нийтлэлд Beehiiv хамтран үүсгэн байгуулагч, Гүйцэтгэх захирал Tyler Denk компани \"манай Кор дахь хөрөнгө оруулалтыг үргэлжлүүлэх боломжийг олгоно гэжээ..."
+  },
+  "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller": {
+    "title": "Наконы шинэ PS5 хянагч нь танай утаснаас аудио, консолыг хольж болно",
+    "summary": "Након компани юуг зарлаж байгаагаа зарласан нь дэлхийн хамгийн анхны албан ёсоор тусгай зөвшөөрөлтэй PlayStation 5 хянагч бөгөөд баяр баясгалангийн мэдрэмж гэх мэт тохиргоог тохируулах эсвэл gamepad дээр товчлуурыг засах зорилгоор барьсан дэлгэцтэй. Хувьсгалын 5 Хязгааргүй дэлгэцийг мөн ашиглаж болно t..."
+  },
+  "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast": {
+    "title": "БУСАД ЗОРИУЛСАН бизнесийг өдөөх цэгүүд",
+    "summary": "Muse-д OpenAI хариулсан хариулт энэ долоо хоногт ирсэн бөгөөд энэ нь костюм болон тэнцсэн хувцастай Muse шиг царай харагдана. Dots бол бизнесээс хамгийн багадаа сард хамгийн багадаа 100 $ өртөгтэй бүтээгдэхүүн юм. Мөн та нар хийж чадах шигээ хөөрхөн жижигхэн цэг тэмдэгт хийж чадна гэдэгт итгэлтэй байна […]"
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5": {
+    "title": "Клод Фронтиер Академи: 10000 инженерүүдийг сургах $ 100м - Антропик",
+    "summary": "Клод Фронтиер Академи: 10,000 инженерүүдийг антропикаар сургах $ 100м"
+  },
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXZSQTRtdnplY1RxeUZCZGoxZF9BZURNRXFoaTV5Y2FnZVZ6Y0dVTFlHR2RNeWVKR3BJdEVLTllqSVZZdUVZLW83NGZLd0h4N1VwRWx0OWlfa1BMeDNpR1dnbElwRUN4akQ3UFVTVU16RktsblZnOUR3RzIxYjlIZnRNQTdCNU9BUXozMWZaQ0cyTG8teG5nXzIxMWU1eXVpMWtIdnMxUXdnSjlRUEJqRmptWjhpeG5nV2U3VE11NktHNUJLdlBZTjU2QVFTT3NpVmRRRtIB2gFBVV95cUxQQlJsa1Z1UGlqbDZILXl3ZEtxWUVDNlN0MU80SjFHZHphUmJlRl9uUG1wOHRfWnJ2YVN4TWtzZ3d4V0FuM2RPY210RjhJeFZRTXVjVWZHSTVvRmN3Zi1QZ3hVbzRoUlliVGVLNHVnck1Xd0F4cTNlWmhpUGtCaXVrMEJCMmxnWlZnZFQxWXo3Z0UzdlRVMTdMcHRieUF2MmhPUXpYaExjVkRaRU9YZnY2UlczNlI5QzBOUGJUSV9kc0dlN2dfZTFqNTVGWTh2TVNtdlZLbTdQMldRUQ?oc=5": {
+    "title": "AI ба лам: Антропик свами, найз нөхөд нь Клодыг тохуурхдаг - Энэтхэгийн цаг",
+    "summary": "AI ба лам: Антропик нь свами, найз нөхдөд Энэтхэгийн цагийг тайтгаруулахаар явдаг"
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTMwcUFXcnVmOFE0c2J6YThsYVpNVDBibTdSWC15VFZOem1CSy0xZkhVNlhmTWp6Y3dCbUhhYWpnSzktOFF3RjZDTGt2bUJQLVJvSDMtLW5OM1VmQ2ZhWXRzNGEzWFE5MFU5dUt5OVlTTy10TTI4ZUJyczY2NTlpZkptYVlBeXZlNWl3UzBBS0pFUGpNdlRxbw?oc=5": {
+    "title": "Антропик ба Папе: AI-ийн ухамсарын мэтгэлцээнийг тайлбарлав - vox.com",
+    "summary": "Антропик ба Папе: AI-ийн ухамсарын мэтгэлцээн, vox.com  тайлбарлав"
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUU9vOGZOWG1PdUFCYk9TWkRQajMwbVNuYjZScWgwc2N1ZV9hM1AxZ3prSGdzZDlLUHZhaU5TY0JYd011M0lzWlVOM3FQaWI5UVp3eEltcktjT25LaGlaSnJodTZnOGphOEFjb1BfN1FFZmJzeGJyd3FjRzh6bGxHeUhnRzNKYVAzRlAzRXJPdVVaRzNpeldYeVFTbmtwQlZpRDhEUUFrMzJQQ0oxQlRpa1h2OTZ0OWdoemfSAcIBQVVfeXFMTTV3UjNMdDdpTElHalRiY3MyWGxjVHEyRG04emtTX2d4bEZrN3piUDhVRzhWU250LTUxQnlBbFBHU3UtLUdHRXZadk9TRTJkSHR2T0J3T1RoZ1ZucEdHZXlQSmsxWW5GbUI4S2lqOEhZQjZPNC0xeXA0RUhiLThWSzJoRnB6R05La3hOZkF1Mnp5OHlPNlFQOElFTTFfWDRXVV9MdGFJRExaWVJkODNHUkxvSzBVTUpPak5sZ2JickZhS2c?oc=5": {
+    "title": "Яагаад антропик шашны удирдагчдаас хиймэл оюун санааны талаар асуудаг вэ?",
+    "summary": "Антропик шашны удирдагчдаас хиймэл оюун санааны талаар асуудаг нь NDTV"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0VyVzRrRmNEN2NIRVpSUlRjLW41RDlOdFlzOUtDV0tvQ1ZjVGJOUXMwaFVaZGNWbXJMaVVhODdzcUZKY0dYdk9PQm9xOUQ5LW9hVFdwZDlUcmNSWkhsUG1FcmxuSS1zcmltN3Vnc0ZPRnBCNU52cW0yUWNreTY0eGVrZDZVRVhiczNjR1I2emc1dHVxOTJGa3l4alfSAaIBQVVfeXFMTWRBZndla2REclF0bUR3dTdZcWs2ZEdqLXdwNHEya1BSeXRNZXVEUWE1VkdCWUFQcFJWSk5Ec1U0QnF6VEhDQTlQRlUzTDhCc3ZONHE1SEVOMmVtTFNOM2laLXRKQnRWRkhjQk5ObzJSeERNZFBsQ1pjaEpiUFQzbk5Ga202WUVDMmNZZVhFRWNkRGx6aDRYMXY0b2c2QzFFSFpn?oc=5": {
+    "title": "Энтропик хиймэл оюун ухааны инженерийн авъяас чадварыг сургах 100 сая $ хөрөнгө оруулалт хийх - CNBC",
+    "summary": "Энтропик хиймэл оюун ухааны инженерийн авъяас чадварыг CNBC сургахад 100 сая $ хөрөнгө оруулалт хийх"
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUlJ1MHRhMUY5YUNJT3pwWDVJc3h0TkhFLUxYd3FUbnQ2SHdTOFpobWZ2VkRXZmhoQW9XV0JlREhwbHo2TWM0eHcydEtQeWtFcDVGN3JZYUZJQmctMnY0Q0RTbklWaEY3NE5XR0QweHJITVZhSWhuckF2TUV3RkRsSURGV0JOTnZkdWxQR0N0U0RDcFJ2aHF6QnlyQ0RSMVZxbUt2dWl0TTVneERvcTZRc0JTZkJVTGpHOHpB0gG7AUFVX3lxTFBjaTQwVU9VRmRSN1hiajZEeFNGbDlQTXF3MmZFU1hqeWNUZFBkV1NaMWFBb2l2OHlLR290a0JNVlc1eHc1TTVaNWp2SkNBdG92V1l1LUhIb1ZQX1Bwd21HWG5Id3ZjM1pkZHAtNF9DNnktV3BnZlhscmM1OEczbEdjRXZ0V3RoM0F5QUlHREtaT25QWDJrV0J6LXhhMEEzU05DUkE5ODEwZkp1X3d1TlhvOHhlMmJWOHZCNHM?oc=5": {
+    "title": "Хонг Конгийн хэрэглэгчид антропикт Клод - Өмнөд Хятадын Өглөөний шуудангаар VPN нэвтрэх эрхийг чангатган харуулав",
+    "summary": "Хонг Конгийн хэрэглэгчид Клауд Өмнөд Хятадын Өглөөний Post руу VPN нэвтрэх эрхийг хатуужуулсан гэж антропик хэрэглэгч баривчилжээ"
+  },
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFhNUmVpUTFlZzlRUjIwNzNQUjg3OEd4UWE1VkVpNkswWjVKSkItMDhUZ2dyenp0dlI4aUx5ajNYcWlzVGVWaHY3ZEFMVVZSSVJJakM1VHBlTlhiMkVzbFdyRXNhWFc0MFRfd2U4SER4SHJVWlFDYkk4MERUR3p3TTkyeFYtZkpMbjZYTWxpTEFiOWROVUp3aXl6LUV3RkN1WnVN?oc=5": {
+    "title": "‘Энэ асуудал’: Судлаачид AI Writing-д мянга мянган шинэ мэдэгдлийг тодорхойлдог - Gizmodo",
+    "summary": "‘Энэ асуудал’: Судлаачид «AI Writing  Gizmodo» -д мянга мянган шинэ мэдэгдлийг тодорхойлно"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-03/powell-case-not-reopened-g7-to-release-diesel-fuel-stocks-more": {
+    "title": "POWELL CASE-ийг дахин нээгээгүй, G7 нь Дизель түлшний нөөцийг чөлөөлөх, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-03/hong-kong-restaurant-review-viral-frozen-yogurt-shop-myka": {
+    "title": "Хонг Конг Рестораны тойм: Вирусын хөлдөөсөн тараг дэлгүүр Майка",
+    "summary": "Мека та харьцангуй богино мөрөөр барьж чадвал туршаад үзээрэй."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-02/bloomberg-talks-rebecca-patterson-podcast": {
+    "title": "Блумбергийн яриа: Ребекка Паттерсон (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-02/bloomberg-talks-claudia-sahm-podcast": {
+    "title": "Блүүмбергийн яриа: Клаудиа Сохм (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-02/latest-on-flydubai-pilot-doj-not-reopening-powell-probe-more-murlevjs": {
+    "title": "FlyDubai Pilot дээр хамгийн сүүлийн үеийн, DOJ Powell Probe-ийг дахин нээхгүй байх, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-02/latest-on-flydubai-pilot-doj-not-reopening-powell-probe-more": {
+    "title": "FlyDubai Pilot дээр хамгийн сүүлийн үеийн, DOJ Powell Probe-ийг дахин нээхгүй байх, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-02/g7-to-release-diesel-fuel-stocks-powell-case-not-reopened-more": {
+    "title": "Дизель түлшний нөөцийг чөлөөлөхийн тулд G7, Powell Case дахин нээгээгүй, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-02/bloomberg-businessweek-daily-nfp-eases-fed-worries-podcast": {
+    "title": "Блүүмберг Бизнес Долоо хоног: NFP нь тэжээлийн шаналлыг хөнгөвчилдөг (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-02/bloomberg-businessweek-daily-pam-bondi-s-secret-email-podcast": {
+    "title": "Bloomberg Businessweek Daily: Пам Бондын нууц имэйл (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-02/everybody-s-business-feeling-the-streaming-fatigue-podcast": {
+    "title": "Хүн бүрийн Бизнесийн: Урсгалын ядаргаа мэдрэх үү? (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93": {
+    "title": "Startup Corbenic AI нь хиймэл оюун ухааныг хамгаалж, эрчим хүчийг бууруулахын тулд Galahad-ийг эхлүүлжээ",
+    "summary": "Артикулын URL: https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49932832 Оноо: 3 # Сэтгэгдэл: 1"
+  },
+  "https://enjii.pages.dev/blog/Optimizations/vex_startup_time_optimization/": {
+    "title": "Agentic Runtime: Python эхлүүлэх хугацаа ба импортын оновчтой болгох (4s –> 2S)",
+    "summary": "Артикулын URL: https://enjii.pages.dev/blog/Optimizations/vex_startup_time_optimization/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49931233 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/business-news/netflix-co-ceo-says-this-is-a-major-problem-with-the-281-billion-company": {
+    "title": "Netflix Co-CEO Энэ нь $ 281 тэрбум долларын компанитай холбоотой томоохон асуудал гэж үздэг",
+    "summary": "Тед Сарандос урсгалын аварга биетийг сайжруулахаар ажиллаж байна гэжээ."
+  },
+  "https://www.entrepreneur.com/building-a-business/what-if-your-hiring-best-practices-arent-actually-best-practices-heres-how-to-find-out": {
+    "title": "Сайн туршлага хуримтлуулбал яах вэ? Эндээс сурах арга бий.",
+    "summary": "Таны стандарт ажилд авах шалгуур нь таны хамгийн сайн нэр дэвшигчдийг хэрхэн шалгаж байгааг олж мэдээрэй."
+  },
+  "https://www.entrepreneur.com/building-a-business/she-launched-her-brand-with-just-300-sewed-her-first-samples-herself": {
+    "title": "Тэр брендээ 300 $, нэг оёдлын машинаар эхэллээ. Дараа нь тэр үүнийг 7 богино хугацаанд хүлээн авав.",
+    "summary": "Жессика Ляо Майерс гадаад хөрөнгө оруулалтын мөнгө авалгүйгээр брэндээ хэрхэн өсгөсөн нь энд байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/what-legos-near-collapse-taught-me-about-saying-no": {
+    "title": "ЛЕГО-ийн ойролцоох бутархай зүйл надад ‘Үгүй‘ гэж хэлэх тухай заасан",
+    "summary": "Барилга барихад нэр хүндтэй компани бараг дампуурч, буцаж ирэхэд нь саад боллоо."
+  },
+  "https://www.entrepreneur.com/business-news/she-was-on-the-cover-of-entrepreneur-magazine-at-13-now-shes-21-and-her-brand-is-still-thriving": {
+    "title": "Тэрбээр «Бизнес эрхлэгч» сэтгүүлийн 13 - т гарсан байлаа. Одоо тэр 21 настай, түүний брэндийн амжилтад хүрч байна.",
+    "summary": "Золли Кандигийн Алина Морстэй ярилцлаа."
+  },
+  "https://www.entrepreneur.com/building-a-business/your-business-model-should-be-built-to-absorb-change-heres-what-that-requires": {
+    "title": "Таны бизнесийн загварыг өөрчлөх зорилгоор барьсан байх ёстой. Эндээс бид юу шаарддаг вэ?",
+    "summary": "Таны таамаглал буруу бол бизнес загвараа дасан зохицох боломжтой байх ёстой."
+  },
+  "https://www.entrepreneur.com/business-news/tech/why-humanitys-rush-to-use-ai-has-a-blind-spot-most-leaders-are-missing": {
+    "title": "Хүн төрөлхтөн оюун ухааныг ашиглах гэж яардаг нь ихэнх удирдагч алга болдоггүйн учир",
+    "summary": "Компаниуд хиймэл оюун ухааныг нэвтрүүлэхийн тулд уралдаанд ордог боловч илүү сайн технологи худалдан авах нь өөрчлөлтийн зөвхөн нэг хэсэг юм. Тогтвортой хиймэл оюун ухаан батлах нь хамтран ажиллах гурван чадавхи шаардагдана."
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/heres-what-this-franchises-new-ceo-wants-to-change": {
+    "title": "Энэ франчайз өнгөрсөн онд 4.94 тэрбум $ орлого хийжээ. Шинэ гүйцэтгэх захирал нь юугаа өөрчлөхийг хүсэж байна.",
+    "summary": "Франчайз Дотор компаниас Гүйцэтгэх захиралд орохоосоо өмнө бараг бүх ажлыг хийлгэсэн."
+  },
+  "https://www.entrepreneur.com/building-a-business/business-branding/5-pr-truths-entrepreneurs-learn-the-hard-way": {
+    "title": "5 PR-ийн үнэн бизнес эрхлэгчид хүнд хэцүү замыг сурах",
+    "summary": "Пресальд хөрөнгө оруулах, мэргэжлийн ажилд авахын өмнө би бизнес эрхлэгч бүр ойлгох ёстой таван зүйлд итгэж байна."
+  },
+  "https://www.entrepreneur.com/business-news/skip-college-for-a-year-to-learn-ai-this-silicon-valley-backed-academy-is-free": {
+    "title": "Мэдээллийг сурахын тулд жилд коллежийг алгасахыг хүсч байна уу? Энэхүү Цахиурын хөндийн тулгуурласан академи нь үнэ төлбөргүй бөгөөд Perks-д $ 55K-тэй ирнэ.",
+    "summary": "Андрессен Хоровичийн бүтээсэн Сан Франциско үнэгүй академи нь залуу барилгачид болон ирээдүйн үүсгэн байгуулагчдыг AI-д сургах болно."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video": {
+    "title": "Wall Street Week | Таны тархи AI, Ховор Дэлхий Тэмцээний, Коллежийн элсэлтийн клип",
+    "summary": "Энэ долоо хоногт эдийн засгийн үндэсний зөвлөлийн захирал Кевин Хассетт AI-ийн бүтээмжийн өсөлт нь эдийн засгийн албан мэдээллээс хамаагүй илүү байж болно гэжээ. Мөн хиймэл оюун ухааны компаниуд технологи нь хамгаалалтын хэрэгцээтэй, харин хиймэл оюун ухааны ёс зүйн үр дагавар нь ерөнхийдөө..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/the-close-10-2-2026-video": {
+    "title": "Ажлын тайлангийн хувьд барьцаа нэмэгддэг Тэжээлийн шиг түгшүүрийг хөнгөвчилдөг",
+    "summary": "Bloomberg Television нь Wall Street-ийн хонхыг хаахаас өмнө болон дараа нь хамгийн сүүлийн минут, секунд хүртэлх хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ хийдэг. Өнөөдрийн зочид нь АНУ-ын хөдөлмөрийн нарийн бичгийн дарга Алекс Стратон, Морган Стэнли Эквит Ре..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/former-cea-chair-on-jobs-report-gdp-growth-video": {
+    "title": "Ажлын тайлангийн CEA-ийн хуучин сандал, ДНБ-ний өсөлт",
+    "summary": "Cecilia Rouse, CEA-ийн дарга байсан бол ажлын тайланд «шинэ хэвийн» орж, 50 000 орчим хүн багтах магадлалтай завсарлага ч гарч магадгүй гэж үзэж байна. Тэр эмэгтэй Блүүмберг хотын «The Close» сэтгүүлд Ромейн Бостикт хандсан тухайгаа дурджээ. \"(Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/morgan-stanley-s-nike-analyst-on-quarterly-earnings-video": {
+    "title": "Морган Стэнлигийн Nike шинжээчийн улирлын орлого",
+    "summary": "Морган Стэнлигийн Алекс Стратон компани Хойд Америк, Хятад дахь бараа материалын малтмалтай холбоотойгоор Nike борлуулалт, орлого зөөлөн байгааг хардаг. Тэр эмэгтэй Блүүмберг хотын «The Close» сэтгүүлд Ромейн Бостикт хандсан тухайгаа дурджээ. \"(Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/pam-bondi-s-secret-doj-email-address-revealed-video": {
+    "title": "Пам Бондигийн нууц DOJ имэйл хаяг илэрсэн",
+    "summary": "FOIA-ийн хүсэлтийн дагуу амьдралын өөр нэг онцлог шинжийг Хууль зүйн газрын дээд хэсэгт олжээ. Прокурорууд арав гаруй жилийн турш засгийн газрын бизнес эрхлэхийн тулд өөр и-мэйл хаягийг ашигласан. Энэ удаад Bloomberg News ахлах мөрдөн байцаах сурвалжлагч Жейсон Лео..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/em-assets-find-relief-as-us-jobs-data-eases-rate-fears-video": {
+    "title": "EM актив нь АНУ-ын ажлын байрны өгөгдлийг хөнгөвчлөх айдасыг олох",
+    "summary": "АНУ-ын хүлээгдэж буй ажлын дата нь багассаны дараа шинээр гарч буй маркетингийн валютуудыг хянах индексээр энэ сард арилжаачдад өөр Холбооны Нөөцийн хүүгийн үнийн өсөлт дээр мөрдөхөд хүргэсэн. Хэвийн бус цалин нь 9-р сард 9-р сард 29,000 хувиар өссөн бол..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/cea-chairman-inflation-coming-down-sufficiently-fast-video": {
+    "title": "CEA дарга: Инфляц хангалттай хурдан бууж ирнэ",
+    "summary": "Крис Фелан СЕРА-ийн дарга инфляцийг эвтэйхэн ажиглаж, хангалттай хурдан хийж байна гэж бодож байна. Тэрбээр Ромен Бостикт «Хаахад... анхаарлаа хандуулъя» гэж хэлдэг. \"(Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/lukoil-loses-bid-to-dismiss-suit-over-franchisee-fuel-pricing": {
+    "title": "Лукой нь франчайзын түлшний үнийн саналыг алгасах тендерийг алдсан",
+    "summary": "Пенсильвани, Нью-Жерси мужид бараг 30 Локойл PJSC дүүргэлтийн станцуудын эзэд нь ОХУ-ын газрын тосны аварга том франчайзуудыг хэтрүүлэн хэрэглэсэн ял оноосон хэргийг шүүхээр шийднэ."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/former-labor-secretary-rob-reich-on-sept-jobs-report-video": {
+    "title": "Хөдөлмөрийн өмнөх нарийн бичгийн дарга Роб Рейч 9-р сарын тайлан",
+    "summary": "АНУ - ын хөдөлмөрийн нарийн бичгийн дарга Роберт Рейч байнгын инфляцийг хэлэлцэж, маш удаан ажилд авах, улмаар замын үнийн талаар ярилцжээ. Тэрбээр «The Close» - ын Блүүмберг хотын тухай Ромейн Бостикт хэлсэн аж. \"(Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/cme-shelves-plans-for-24-7-oil-contract-after-industry-pushback": {
+    "title": "CME Тавиур 24/7 Газрын тосны гэрээний төлөвлөгөө, үйлдвэрлэлийн чадварын дунд",
+    "summary": "CME Group Inc компани салбарын дарсны дараах цагийн турш тосны гэрээг эхлүүлэхээр төлөвлөж байна."
+  },
+  "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1": {
+    "title": "АНУ түлш экспортын хориглох заналхийллээс үүдэлтэй тул G7 100мн баррель суллахыг зөвшөөрсөн",
+    "summary": "Дональд Трамп Европын улс орнуудын шийдвэрийг дизельийг стратегийн эх үүсвэрээс чөлөөлөхийг дуудаж байна"
+  },
+  "https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1": {
+    "title": "Трампын богино нүдтэй дизель мөрий",
+    "summary": "Тийм ээ, Никсоны экспортын хориг нь дотоодын үнийг товчхон дарсан боловч маш урт хугацааны өртөгтэй байсан"
+  },
+  "https://www.ft.com/content/118785e7-8637-46ad-a60c-286e51370848?syn-25a6b1a6=1": {
+    "title": "АНУ-ын цэвэрлэгч нь хэрэглэгчдийн хувьд түлшний үнийг түлшээр түлшээр түлшээр түлшээр түлшээр түлшээр түлшээр түлхсэн тул салхины ашиг хурааж авдаг",
+    "summary": "Тосны үйлдвэрлэлийн орлого нь хянаж байгаа боловч доод профайлтай цэвэрлэгээг байрлуулсан дөрвөн давхар өсөлтийг байрлуулсан"
+  },
+  "https://www.ft.com/content/83e9a7cb-95b4-48a8-9cdc-88d3fa8f03c0?syn-25a6b1a6=1": {
+    "title": "Хар сонгуульчид дахин боловсруулагдсан сонгуулийн газрын зургийг эсэргүүцдэг",
+    "summary": "Луизиана дахь Африк америкчууд сонгуулийн өөрчлөлтийг зөвшөөрсөн Дээд шүүхийн шийдвэрийн улмаас даван туулахыг урьдчилан таамаглаж байна"
+  },
+  "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1": {
+    "title": "Антропын IPO яагаад хачин санагддаг вэ?",
+    "summary": "Бусад блокчер хуваалцах борлуулалттай харьцуулахад AI компаний хөрөнгийн зах зээлийн дебют хүртэлх босголт нь ялгаварлан гадуурхагдсан, тэр ч байтугай аймшигтай санагдаж байна."
+  },
+  "https://www.ft.com/content/9f960533-9cd7-4475-aed0-17f09fdc28fd?syn-25a6b1a6=1": {
+    "title": "Миний ипотекийн зээл бол Fed болон America-ийн хувьд хүндрэлтэй асуудал юм",
+    "summary": "Над шиг гэрийн эзэд тавиад, зах зээл хөлдөөж, төлөх чадвар нь орон сууцны бөмбөлөгт байгаатай адил муухай юм байна"
+  },
+  "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1": {
+    "title": "АНУ-ын эдийн засаг 9-р сард ердөө 29,000 ажлын байр нэмж, ажилд авах нь огцом удааширдаг",
+    "summary": "Зураг FED-ийн хурдыг өсгөх талаархи зах зээлийн маргааныг шинэчилдэг"
+  },
+  "https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1": {
+    "title": "Евро бүсийн инфляци 3 жилийн өндөр буюу 3.8%",
+    "summary": "9-р сард хүлээлтээс өндөр үнийн өсөлт"
+  },
+  "https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1": {
+    "title": "Профайлын хеджийн сан нь Нью-Йорк оффисын түрээсийн бүртгэлийг саатуулдаг",
+    "summary": "Castle Hook нь жилд $ 21.2мн талбайд 53,000 кв орчим пентхаус талбайд төлнө Хөгжүүлэгч Холбоо барих шинэ Мэдисон өргөн чөлөө цамхаг"
+  },
+  "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1": {
+    "title": "Дэлхийн бондыг худалдахаас том олзыг хураан авах тоо хэмжээ",
+    "summary": "Иран дайн дажин, АНУ-ын эдийн засгийн өгөгдлийн түлшний инфляцийн хүчтэй айдас бүхий ургац хурц өсөлтөд чиглэсэн хандлагын багцууд"
   }
 }
