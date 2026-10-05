@@ -2650,5 +2650,297 @@
   "https://www.sciencedaily.com/releases/2026/10/261001214012.htm": {
     "title": "Хүчирхэг симуляцууд орчлонт ертөнцийг хэрхэн өөрчилсөнийг илтгэнэ",
     "summary": "Орчлон ертөнц болон үржүүлсэн орон зайг нүүрстөрөгч, хүчилтөрөгч, төмөр гэх мэт элементүүдтэй хэрхэн гэрэлтүүлж байгааг хэт нарийвчилсан симуляци харуулж байна. Мегатроны төслийн эхний галактикийн JWST ажиглалтыг холбож, өнөөгийн эртний одод хадгалагдаж байсан химийн шинж тэмдэг бүхий гогцоотой холбож болно."
+  },
+  "https://github.com/Niko1221/Strata": {
+    "title": "Qwen 3.8 Flash Next (125b) хэрэглэгчийн тоног төхөөрөмж (RTX 4090) дээр 100T/с-ээр ажиллуулна уу",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.zarfhome.com/2026/10/infidel-goes-wild": {
+    "title": "Хазайлт зэрлэгээр явдаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/omlahore/RemoveMacAI": {
+    "title": "MacOS 27 дээр Apple Intelligence-ыг унтрааж дискний зайг буцаан аваарай",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://vincent.bernat.ch/en/blog/2026-http-over-ssh": {
+    "title": "SSH ба Nginx-тэй өөрөө зохион байгуулсан HTTP туннель",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/": {
+    "title": "Буруу хариу үйлдэл нь Google-ийн Мэдээллийн төвийн ус, цахилгаан эрчим хүчний хэрэглээг илтгэнэ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://wieslawsoltes.github.io/VB6/": {
+    "title": "Хөтчийн хуучны сонгодог Visual Basic VB6 IDE",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.youtube.com/watch?v=eZ8WWZzoaR0": {
+    "title": "Хома: хиймэл оюун ухааны кластеруудын TCP-ийн төгсгөл [VIDEO]",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://mapped.earth/lighthouses/world": {
+    "title": "Гэрлийн бүрийг газрын зураг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://news.ycombinator.com/item?id=49949438": {
+    "title": "НҮБ-д хандан: Боб Царингли нас барсан байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://niklasroy.com/gtc/": {
+    "title": "HN харуулах: Глашуун хогийн савны цаг – Хогийн савнаас хийсэн 30 минутын пендуляцын цаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/": {
+    "title": "AI-ийн мэдүүлэгт \"мэдэгдэхүйц өсөлт\" -ын улмаас Google-ийн нээлттэй эх сурвалж алдааны худгийн хөтөлбөрийг хагарах",
+    "summary": "AI налуу алдааны хуйвалдааны хөтөлбөрүүд давамгайлж байгаа юм шиг байна."
+  },
+  "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/": {
+    "title": "‘Super Intelligence’ болон үл зохицуулах аюулгүй байдлын факт AI-ийн дүрсний асуудлыг шийдэж чадах уу?",
+    "summary": "Бид тэгш байдлын талаар Трампын удирдлагын хиймэл оюун ухааныг rebrand хийх оролдлого дээр ярилцсан."
+  },
+  "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/": {
+    "title": "TechCrunch Хөдөлгөөн: Роботоксоор арчлах",
+    "summary": "TechCrunch-н хөдөлгөөнд буцаж тавтай морил, тээврийн ирээдүйн төлөөх төв, одоо урьд хожид байгаагүй олон үүрэг AI-д тоглож байна."
+  },
+  "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/": {
+    "title": "Трамп шинэ Супер Тагнуулын хүчээ танилцуулав",
+    "summary": "Энэхүү шинэ даалгаврын хүчин зүйл бол хиймэл оюун ухааны аюулгүй байдалтай холбоотой мэтгэлцээнд хамгийн сүүлд оролцсон Трамп юм."
+  },
+  "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks": {
+    "title": "Шинэ Fitbit Edge гоожиж байна",
+    "summary": "Бид Fitbit Edge-ийн талаар хэдэн тонн мэдэхгүй ч дунд зэргийн хураамж шугамын залгамжлагч бололтой. Өмнө нь цутгасан байсан ч бид Андройд гарчигт нийтэлсэн эдгээр зургуудаас тодорхой харж болно, Google-ийн цуу яриа фитнес тректорын ялгаа b..."
+  },
+  "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review": {
+    "title": "Прикийн театрын аж үйлдвэрийн панк нь салаа улиралд төгс төгөлдөр юм",
+    "summary": "«Урьд нь спираль» - д зориулсан бичлэгийн явцад Трент Резнор үйлдвэрлэлийн авьяас чадвараа хуучин найз Кевин Макмахон руу өгчээ. Режнорыг зөвхөн 4 зам дээр продюсероор тооцно..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true": {
+    "title": "NJ-ийн хуучин Lt Gov нь AI-ийг бэлгийн дарамтыг гэм зэмгүй гэж хэлдэг.",
+    "summary": "Нью-Жерсигийн тэргүүн амбан захирагч Дэйл Калделлийн есдүгээр сарын 25 -ны өдөр шүүхээр бэлгийн хүчирхийлэлд өртөж, ёс зүйг зөрчсөнийхөө дараа огцорчээ. Одоогийн байдлаар үүсгэн байгуулагч Лт. Засаг дарга хэвлэл мэдээллийн хэрэгслийг нэрийг нь цэвэрлэх гэж оролдож байна. Гэхдээ..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft": {
+    "title": "AI нь хүнээ StarCraft дээр зодож чадаагүй тул хууран мэхлэхээр шийдэв",
+    "summary": "StarSkirmish pits AI хийсэн StarCraft тоглох Bots, түүнчлэн хүний хийсэн роботын эсрэг. OpenAI-ийн GPT-6 Astra, Клод Опус 5.5 нь үндсэндээ хиймэл оюун ухаанаар үйлдвэрлэсэн шилдэг ботуудтай уягдсан боловч тэдгээр нь дээд зэргийн шатанд хүний гараар бүтээсэн bot байж чадсан. Баасан гарагт, G…"
+  },
+  "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone": {
+    "title": "Энэ нь модульчлагдсан хөшүүрэг үйл ажиллагааны хэтэвчийг тэвчихэд би утсандаа гацчихсан хамгийн гоё нь юм",
+    "summary": "Энэ нь модульчлагдсан хөшүүрэг үйл ажиллагааны хэтэвчийг тэвчих нь миний утсанд гацчихсан хамгийн сайхан нь юм. Би хэт нимгэн, тохиромжтой OhSnap Snap атгах шалгаж байхдаа үүнийг маш их таалсаныг санаж байна уу? Одоо, OhSnap нь соронзон хөшүүргийн үйл ажиллагааны картын түрийвчтэй бөгөөд энэ суурийг тавьж чаддаг. Би..."
+  },
+  "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale": {
+    "title": "AirPods Pro 3 нь $ 179-ийн гайхалтай гэрээ юм",
+    "summary": "Apple AirPods Pro 3-д сайн хөнгөлөлт үзээд удаагүй байсан ч хамгийн сүүлийн үеийн IPAD MINI, M5 MacBook Airs-тай адил агуу хөнгөлөлт 10-р сарын өдрийн турш одоо болж байна. Та Чихний үзүүрийн таван хэмжээ, шууд транс агуулсан дуу шуугианыг тасалж болно..."
+  },
+  "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale": {
+    "title": "MacBook Air M5 нь $ 200 -ийн хөнгөлөлттэй",
+    "summary": "Амазоны 10-р сарын Ерөнхий өдөр Apple-ийн зургадугаар сарын үнэ өссөнийг үр дүнтэй тасалсан байна. Ихэвчлэн $ 1,299, 13 инчийн MacBook Air нь М5 чиптэй, хадгалах 512GB-тэй $ 1.099-г Amazon дээр худалдаалж байна. Энэ нь Apple-ээс хамаагүй илүү хурдан машинд илүү тохиромжгүй үнэ юм…"
+  },
+  "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale": {
+    "title": "Ipad Mini нь Ерөнхий өдрийн туршид дахин бага зэрэг хямд байдаг",
+    "summary": "Apple-ийн 6-р сард түүний хэд хэдэн төхөөрөмж дээр үнийг өсгөсөн бөгөөд бид iPad Mini дээрээс сайн хөнгөлөлт үзээгүй. Гэхдээ Amazon-ийн 10-р сарын Ерөнхий том хэлэлцээрийн өдрөөс өмнө зөвхөн Wi-Fi болон үүрэгтэй холбосон загварууд $ 100 унтраах болно. Хадгалах 128GB бүхий Wi-Fi хувилбар..."
+  },
+  "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all": {
+    "title": "Энэ бүгдийг эхлүүлсэн мартагдсан Chromebook",
+    "summary": "Google анхны Chromebook -ыг \"Chromebook\" гэж дуудаж ч байгаагүй. \"Cr -48 нь сонирхолтой дизайнгүй, гялалзсан логогүй - таны худалдан авч болох бүтээгдэхүүн ч бүтээгээгүй. Харин энэ нь компьютерийн талаар нэг том шинэ санааг олох портал байв. Энэ долоо хоногт« Хувилбарын түүх »-ийн цуврал цуврал ном, …"
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jMVNnR0YwX2pXNmkzbHFlQ09MWWVad1hSOV9wZjFtclR1Vm0tcGZORURNUTN3bFlCT25ZTlNRM3VTR3dtalhSb0czVHZmU0wxSDVvQ2ctVFZFQTdzdEVN?oc=5": {
+    "title": "Энтропик цэгүүд болон Музейд хийсэн хариулт нь Клодын дотор байгаа - Шинэ стек",
+    "summary": "Энтропийн цэг, музейд өгсөн хариулт Клодын дотор байгаа  Шинэ стек"
+  },
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1HZDBHU1JFd1NqX1hLUlJ1ZFZOTDF4N1RSQ3F3OG9DemdIWEE3OUdxRlZhMURtQVQ3ODVBS0ZEY04yeHZTMk9SNkV5S0RzODFwS214QkIxY1pRSlFnWU5NcFA0LVBnNnNGYWlscFpsUkhuYXEwTEZFbU9GajFrb0poakw2MTBnaXI4aFVoakkxTk1OQlFLb1M5MWVFM3ZKNWg0?oc=5": {
+    "title": "AI-ийн Шинжлэх Ухааны Бодит бэлэг - Атлантын",
+    "summary": "AI's Science  The Atlantic"
+  },
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYXdOQkNGN2NyMjVhNDlOZUVRTUdMWkE1OVNsaEtCQUcyS1hzQ2R3UkhLX1A4VjlWX2lOSHZXSjNSQ3NTT0g1M3ZCX0ltWHJSaGhDelJqdjJwbmVKeENqSkFIallKdzdVUWdqR0IwcndOLWhDbjdnbHN2NXFwTk1UczBMNkRoM3NVdllOcUhJUkFDZ3dWM0dfWnV4V19ldVVnS21UbEg3bnhBWV9FNzFHM3ZieWlYTy05aDJfYm9YYzZYdlJUODZBV0ZyTm3SAdIBQVVfeXFMTXhoYkFWNEtHOEVIclNCSlc0X3BsWk8yaGlGLVQyeFRZUm5rX2hNVjZtY0owZFIxZFFqdUxtbXNaQUgyR040UEpYM21Hdi1UTF9DbVJLRjRSa1RxdHA3cXNROFNtZ09ldEwtLWpSNGtJYnFqaVIta3BKdkdacXZqNFRWd0xZR0tLMUpWLVdUSUlhLUtvTUxSdGJEWS0zbEg1UkxPNHFDOURSalhKTHY5RXQ2b2xyNHRjbC1FNEMxcFR4Z1RWQnhyRVA1amZ1NHBqX1N3?oc=5": {
+    "title": "Антропик Клодын хэрэглэгчидээс хиймэл оюун ухааны загвар сургалтанд зориулсан дуу хоолойны мэдээллийг хуваалцахыг хүсч байна - BleepingComputer",
+    "summary": "Антропик Клодын хэрэглэгчидээс хиймэл оюун ухааны загвар сургалт BleepingComputer-д зориулсан дуу хоолойны мэдээллийг хуваалцахыг хүсч байна"
+  },
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRmdkdHFFV09tWERfUW9MYlIxN3NRS0NLdkxwdklTUUtzenZZMXNuT012dTU3Z2hFUXpLUFhxMV8zSkhkdllYdnM2bEtTd3c2UzBJRXFJYlJqSGtXTDdmbmkwY2pKX2pZVklMR0pDQ0JBLTRWR2hxZ3V4QVFEaTZLeUJjQ04zbzVQQlk2Y3pzUkdjNmVhUXpqNjFsWU11ejdJbnBfT2RkektIQzVHejlVaTl5SDF6VVUwa29LUHZRQXpLTTNVUmllaGQwTTJUQdIBzgFBVV95cUxOazlNYnZxZmdrTTV4TGdjQUJtLXlzY0M3bm8xWFRwdGhYTDBKR2tQT1NEWlpoeEZJUGI4TTRJakpBc0liSDQtZTNEZmZUZV9kUHNYMmIzM0xsbU9FaERadjFtRDNxVGdOb2Z6M1pmNkZxcUppNzlyMFNpNFdOc0dMQUF0MHR2bTNqYXM2Rk84cVdTdGk5RHY0cXVvX0tObC0tZjdGTm9DNDhEdlFuek03X0pramxKM0YwSnRCUFBxZzVQTG9ucjJYR1NuV1hSUQ?oc=5": {
+    "title": "Антропик тайланг: Орос улс Төв Африкийн Бүгд Найрамдах Улс болон бусад улсад алдааны зорилгоор AI ашиглаж байна уу? - DW.com",
+    "summary": "Антропик тайлан: Орос улс нь Төв Африкийн Бүгд Найрамдах Улс болон бусад улсуудад алдааны зорилгоор AI ашиглаж байна уу?  DW.com"
+  },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXV6ZlR2N2dURDl4ZVlZOGp2bV9PVlcwd0lUTTJNYzhKTjBrcjZpQW9xQ3VfemJVN2V4RkFWN0NLX292b3E5UjBpQ0tEX3RhNzdNejd4bXV0bmpUaDRfZ2owWFN5dENhY2lkRnZIZHZ6dHVqQ2ExYkpHVFhrX1ZMTm9OR212ckVTb214cVpvT01ycHh2U09yaEZyaUpnMGpFdjMxSVE5ZjVXUQ?oc=5": {
+    "title": "Харь гаралтай хиймэл оюун ухааны инженерүүдийг сургахаар $ 100м академи - Business Insider",
+    "summary": "Энтропик хөрөнгө $ 100м академи компаниас байрлуулсан хиймэл оюун ухааны инженерүүдийг сургахаар"
+  },
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE9raFphaGVPY0Z6TTFfSFVhbzBqWmIwLWZ1UVYzTTZ4SFRvenpkSHY2VUZPMVhLcGQ4NnQzdHd3WUw0YzdyMTNBYmZrajVSeFpvSTBOVzZybVR2b0p4aGpqX0tvSTN6YzJNblB5elhjLVgtOWFlNURLRDRB0gF_QVVfeXFMTXY5X01TSExQMEMxQjJUd21XYWNnNVFSNVU2cHhXNHB2bER4T0JsRGVQcF9HWlEzSm9UWEVqV2VCeTV0VUIxUG1WaGQ1TldEOXlhNVQyWlh0V2wzOTJILTFqaU9PZ0xQRjZuOEM2dGl0ZlpYUVk5VEdjUElWUnJjTQ?oc=5": {
+    "title": "AI ‘Клод’ Хүн хэзээ ч байж чадахгүй - Үндэсний тойм",
+    "summary": "AI ‘Клод’ үндэсний үнэлгээнд хүн хэзээ ч болохгүй"
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGRNMUExb0FiUVQxWTB0YjBLS0FTMGItSlgxTHVNZ19XR3NHS1UtZ0xZN3VvUGVsMTVJSTZXRXUzaW5PRWNXYUYxV3k5NTY5UDlEUTJoSXJQUVAwZDEtUmplMURxWWJBVGVWeGRubVhWVUd5bGZ0S3FJRTQ5bFZKTWVhaTR4N3dpRlVmQ2hjbC1PQ185?oc=5": {
+    "title": "ВИДЕО | Энтропикийн урилга Хинду ламыг яагаад хиймэл оюун ухааны ёс зүйг хэлэлцэх уриалсан бэ - ndtv.com",
+    "summary": "Видео | Энтропикийг яагаад хинду лам руу урьж, AI ёс зүйг ndtv.com хэлэлцэх талаар уриалсан"
+  },
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN24ySFY2QlVmNXRuc0piY2t5RkJTZkk4dXlKVC1fWlFJSUVENjUzemMtdGxEVjl4MlpLdzZnZm4wSlV2RUQ4X0VDcWNRZnRSb0NyQ2JvTkRnakRLWnpmdnZMdGZKaTViRlFKYi1sZDRPRzlfQThDdTRmMmtqZmE5RGFDUm5yd0Mzbl9kOVNmaTRnQ3pCcnJlRnpmQXJ5LU4wMWhmRC1KZ3pCaWdG?oc=5": {
+    "title": "Барклейс нь антропик Клодыг үр ашигтайгаар ашиглахад ашигладаг - Yahoo Finance",
+    "summary": "Барклейс нь антропик Клодыг үр ашигтайгаар ашиглахад тэлдэг  Yahoo Finance"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-04/brazilian-runoff-projected-yemen-campaign-against-houthis-more": {
+    "title": "Бразил улсын гүйх ажиллагаа, Йеменийн Үхэгсдийн эсрэг кампанит ажил, Илүү",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-04/bloomberg-law-preview-of-scotus-2026-2027-term-podcast": {
+    "title": "Блумберг хууль: Скотус 2026-2027 хугацааг урьдчилан харах (подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 41:33"
+  },
+  "https://www.bloomberg.com/news/features/2026-10-04/as-thailand-cracks-down-on-foreigners-a-tourist-paradise-rethinks-its-welcome": {
+    "title": "Тайландыг харийн иргэдэд мөргөхийн хирээр Жуулчны Диваажин түүний мэнд хүргэдэг",
+    "summary": "Арлын нутаг дэвсгэрт хамгийн алдартай арлууд гадаадын бизнесүүд, газрын өмчлөл, шинэ нийгэмлэгүүд баригдаж байна гэж ярьдаг."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-04/runoff-projected-in-brazil-yemen-moves-to-retake-houthi-areas": {
+    "title": "Бразилд гүйхээр Йемен улс Houthi газарт нүүж очдог",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-04/house-market-chalmers-nz-election-australia-briefing": {
+    "title": "Айлын зах зээл, Чиллс, БЗ сонгууль: Австрали товч мэдээлэл",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-04/brazilian-polls-close-yemen-moves-to-retake-houthi-areas-more": {
+    "title": "Бразилийн санал асуулга Хаалттай, Йемен Хөдөө нутагт нүүж очдог.",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety": {
+    "title": "AI Backers Аюулгүй байдлын талаар дохиоллын дуугарч байна",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-04/brazil-polls-close-yemen-begins-effort-to-retake-houthi-areas": {
+    "title": "Бразилын санал асуулга ойртсон, Йемен улс Houthi-ийн бүс нутгийг шинэчлэхийн тулд хүчин чармайлт гаргажээ",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-04/polls-close-in-brazil-yemen-moves-to-retake-houthi-areas-more": {
+    "title": "Санал асуулга Бразилд ойртож, Йемен Хөшөө нутагт нүүж очдог.",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-riches-come-with-concentration-risks-arm-akam-snps-p": {
+    "title": "AI баялаг төвлөрлийн эрсдэлтэй ирдэг (гар, AKAM, SNPS, P)",
+    "summary": "AI-ийн гаргасан компанийг юугаар нь орхих вэ? Түүнээс гадна, Ниелсений Женнифер Холскотт ПЕ- өмчлөлийн талаар компанийн DoubleVerify гэрээ, бүтээгчийн эдийн засгийг хэмжих."
+  },
+  "https://startupqatar.qa/en/investment-program": {
+    "title": "Эхлэлээ Катар руу шилжүүлэхийн тулд 5.5 $ хүртэлх ам.долларын санхүүжилт",
+    "summary": "Артикулын URL: https://startupqatar.qa/en/investment-program Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49953909 Оноо: 1 # Сэтгэгдэл: 1"
+  },
+  "https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d": {
+    "title": "Гарааны төрөлSafe AI-ийн Jev загвар оч хуулах, LLM-ийн хувилбаруудын яриа",
+    "summary": "Артикулын URL: https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d Сэтгэгдэл URL: https://news.ycombinator.com/item?id=49951597 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/building-a-business/better-branding-makes-more-money-than-best-marketing-lessons-learned-real-estate": {
+    "title": "Үл хөдлөх хөрөнгийн хамгийн сайн маркетингийн сургамжтай сургамж авахаас илүү их мөнгө олох нь илүү сайн",
+    "summary": "Хэрэглэгчид сонголтыг хийхийн хэрээр эхний борлуулалтаас өмнө итгэлцлийг бий болгох нь хамгийн чухал үед хамгийн илэрхий сонголт болно."
+  },
+  "https://www.entrepreneur.com/starting-a-business/raising-money-isnt-the-hard-part-heres-what-founders-get/504502": {
+    "title": "Мөнгө босгох нь хэцүү хэсэг биш. Энд шалгалтын дараа үүсгэн байгуулагчдыг буруугаар олж авна уу.",
+    "summary": "Мөнгө босгох нь яг л чухал үйл явдал шиг санагддаг ч гарааны бизнесээс зайлсхийж байгаа асуудлуудыг илүү гүнзгий ойлгуулдаг."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap": {
+    "title": "Азийн хувиуд нь Fed Hike Bets нь хялбар болж өссөн, тос олз: Зах зээл бооно",
+    "summary": "Азийн хувьцаа нь АНУ-ын ажлын цагаа илүү зөөлрүүлэн өсгөж, зээлийн хүүг нэмэгдүүлэхийн тулд Холбооны нөөцөд үзүүлэх дарамтыг бууруулсан тайлангийн дараа өссөн байна. Йемен улс Houthi-д хяналт тавьдаг газар нутгийг буцаан авах санал тавьж эхлэхэд Брент будгийн будгаар өссөн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says": {
+    "title": "Япон дотоодын боловсронгуй болсон тосонд анхаарлаа төвлөрүүлэх хэрэгтэй",
+    "summary": "Япон нь АНУ-ын Ираны дайнаас үүссэн олон талт байдлыг хангахын тулд улсын жолоодлогын эсрэг түлхэж, үр ашигтай, процессор Тайёо Нефти ХХК-ийн дийлэнх нь өртөг багатай тул Ойрхи Дорнодододод найдсаар байх ёстой гэж хэлэв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-04/schneider-said-to-near-deal-to-buy-ptc-for-more-than-20-billion": {
+    "title": "Шнайдер PTC-ийн ойролцоо 20 тэрбум $ -с ихээр худалдаж авахыг хэлсэн",
+    "summary": "Schneider Electric SE нь тухайн асуудалтай танилцсан эх сурвалжаас мэдээлснээр АНУ-ын инженерийн програм хангамж хөгжүүлэгч PTC Inc-ийг 20 тэрбум $ илүү үнээр худалдан авах гэрээ байгуулж байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-04/supreme-court-opens-term-with-climate-fight-video": {
+    "title": "Дээд шүүх цаг уурын тэмцэлтэй тэмцэх хугацааг нээж байна",
+    "summary": "Блумберг Дээд шүүхийн сурвалжлагч Грег Стохр Bloomberg дээр байгаа Энэхүү долоо хоногт шүүхийн өсөн нэмэгдэж буй онцгой байдлын халаасны дагуух шинэ нэр томъёог урьдчилан харах, Колорадо мужийн Булдер нь газрын тосны компаниудын эсрэг улсын хууль тогтоомжийг баримталж чадах эсэхээс үүдэн уур амьсгалын томоохон тохиолдол. ДАВИД ГУРА ХОЁРДУГААР СЭТГҮҮЛЭЭРЭЙ..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-04/bloomberg-this-weekend-10-4-2026-video": {
+    "title": "Bloomberg This Weekend 10/4/2026",
+    "summary": "Дэлгүүр хаагдах үед мэдээ зогсохгүй. Дэвид Гүра, Кристина Раффини, Лиза Матео зэрэг оршин суугчид амралтын өдрүүдийн хамгийн том гарчигт тодорхой, нөхцөл байдал, хошигнолыг Нью - Йоркоос амьдардаг. Элассдор Александр Юүй, АНУ-ын Тайванийн төлөөлөгч Кевин Go нартай нэгдэв..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-04/by-the-way-headlines-you-may-have-missed-video": {
+    "title": "Үүгээрээ: Гол сэдэв заавал орхисон байж болох юм",
+    "summary": "Жижиглэн худалдаачид өөрсдийгөө шалгахаар төлөвлөж байна. Элит Британийн хонь нохойнд зориулсан дэлхийн зах зээл, уургийн сайжруулсан хоол хүнс өргөжин тэлж, эмэгтэйчүүдэд хоёр тийшээ харуулахыг хүсч байна. Лиза Мато, Дэвид Гура, Кристина Раффини хоёртой нэгдээрэй."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-04/taiwan-says-us-policy-remains-unchanged-video": {
+    "title": "Тайвань АНУ-ын бодлогыг өөрчлөөгүй гэж хэлсэн",
+    "summary": "Энэ долоо хоногт Вашингтоны Тайпей Тайванийн бодлогыг Хятадын Ерөнхийлөгч Ши Жинпинтэй хийсэн уулзалтын дараа өөрчлөгдөөгүй байгаа гэж АНУ-ын Александр Юүй мужийн төлөөлөгч Bloomberg-д хэлжээ. Энэ нь 14 тэрбум $ АНУ-ын зэвсгийн багц хэвээр байна..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-04/inside-the-enrollment-cliff-hitting-us-colleges-video": {
+    "title": "АНУ-ын коллежид элсэлтийн клипийн дотор",
+    "summary": "Америкийн коллежийн насны хүн ам багасч, их дээд сургуулиудад ихээхэн зардлаар дарамт учруулж, кампусаа дүүргэхийн тулд цөөн оюутнуудад шахалт үзүүлж байна. Боулинг Грин Улсын зэрэг сургуулиуд ажил мэргэжлийн чиглэлийн хөтөлбөр нэмэх, хөл хөдөлгөөн ихтэй зах зээлд гарах гэж оролдож байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-strategists-steer-investors-to-cross-asset-hedges": {
+    "title": "Wall Street Стратеги, Жолооч нар, хөрөнгө оруулагчид загалмайн хеджуудад хамрагдана",
+    "summary": "Тэгшитгэл, алт, газрын тосны хөрөнгө нь шинэ өндөрийг бий болгохын тулд тэмцэж байгаа бөгөөд сангийн өсөлтийг бий болгоход Wall Street стратегичид нэг хөрөнгийн ангиас нөгөөгөөсөө халтирах арилжаанд анхаарлаа төвлөрүүлж байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video": {
+    "title": "Ажлын Зарын Удаан боловч Инфляц нь сэрэмжлүүлэгтэй байдаг",
+    "summary": "Блүүмберг Тагнуулын дарга АНУ-ын хүүгийн стратеги Ира Жерси Bloomberg-д энэ долоо хоногт есдүгээр сарын ажлын байрны мэдээлэл нь Холбооны Нөөцийн өрөөнд 10-р сард тогтвортой хувь хэмжээг тогтооход хүргэдэг боловч тогтмол инфляц нь 12-р сард дахин хувь хэмжээг өсгөх бодлого боловсруулагчдад хүргэж болох юм."
+  },
+  "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1": {
+    "title": "АНУ Их Британийн агаарын баазаас Б-1 бөмбөгдөгчийг террорист төлөвлөгөөний дараа санаж байсан",
+    "summary": "Их Британи, америк албан тушаалтнууд Раф Фэрфордын ойролцоо таван Британийн эрийг баривчлахад Иран оролцсон гэж мэдэгджээ"
+  },
+  "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1": {
+    "title": "OpenAI-ийн хувьд Алтманы хувьд хууль эрх зүйн эрсдэл хэдэн арван хакердаж илрүүлсэн",
+    "summary": "Компанийн AI хэрэгслүүдтэй холбоотой кибер аюулгүй байдлын тохиолдол нь ChatGPT үйлдвэрлэгчийг шүүхийн давалгаанд өртөмтгий үлдээдэг"
+  },
+  "https://www.ft.com/content/a2711e64-145b-4df6-baf7-56a3da7ed0b0?syn-25a6b1a6=1": {
+    "title": "АНУ Италитай илүү адилхан харагдаж байна",
+    "summary": "Шинэ ертөнц урьдынхтай адилхан болж байна"
+  },
+  "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1": {
+    "title": "Эрхэм хүндэт бүгд ээ, дарга нар цэргүүдтэй хэрхэн ярилцах ёстой вэ?",
+    "summary": "Мөн тэд үргэлж юунаас зайлсхийх ёстой вэ?"
+  },
+  "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1": {
+    "title": "Schneider Electric програм хангамжийн групп PTC-ийг 20bn $ худалдан авах гэрээ байгуулжээ",
+    "summary": "Хүлээн авах нь франц конгломератын хамгийн том байх ба үйлдвэрлэгчид дээр төвлөрч буй бүтээгдэхүүнийг сайжруулна"
+  },
+  "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1": {
+    "title": "Дахин саатуулах нь M&A-ийн өсөлтөд эрт орох аюултай",
+    "summary": "Хүүгийн түвшин өсч, AI сэтгэлийн түгшүүр, дунд үеийн сонгуулийн бичлэг эхэлснээс хойш амьтны сүнс хүйтэн байна"
+  },
+  "https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329?syn-25a6b1a6=1": {
+    "title": "Австралийн эрх баригчид Flydubai халдагчийн холбоог шалгаж байгаа нь",
+    "summary": "Дубайгаас Тель-Авив руу нисэж зугтсаны дараа янз бүрийн засгийн газруудын гомдол сайжирч, өнгөрсөн долоо хоногт"
+  },
+  "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1": {
+    "title": "Уолл гудамжны IPO-ийн ууршилт нь tepid эрэлт, үнэлгээний асуудлаар баяждаг",
+    "summary": "Сүүлийн хэдэн долоо хоногт Антропийн олон нийтийн дебитээс хойшлуулах зэрэг хэд хэдэн жагсаалт зах зээлд чихрээ илгээдэг"
+  },
+  "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62": {
+    "title": "IPO-ийн зах зээл яагаад нэмэгдэж, бүдэрч байна",
+    "summary": "Шинэ жагсаалтын урсацыг зогсоож, буцааж авчрах нь сул болсон"
+  },
+  "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1": {
+    "title": "Хөрөнгө оруулагчид AI-ийн концентрацийн эрсдлээс хөндлөнгийн багцыг хайх",
+    "summary": "Сангийн менежерүүд хеджийн сан болон шинээр гарч ирж буй зах зээлийн хөрөнгийг хиймэл оюун ухаанд гэнэтийн ээлжийн эсрэг булцуу гэж үздэг"
+  },
+  "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories": {
+    "title": "Корпорацийн Америк ирээдүйн ашгийн талаар ийм их ач холбогдолтой байгаагүй",
+    "summary": "Энэ долоо хоногт дөрөвний гуравдахь орлого цохигдон олон компаниуд доод шугамынхаа талаар өөдрөг сэтгэлээ илэрхийлж байсан."
+  },
+  "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories": {
+    "title": "10-р сар нь хувьцаагаар нь аймшигтай сар байж болно. Энэ жил хөрөнгө оруулагчид юу үзэх хэрэгтэй вэ?",
+    "summary": "Энэ жил хувьцаа нь өөр нэг том халбага харах юм бол хөрөнгө оруулагчид яагаад гэдгээ мэднэ."
+  },
+  "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories": {
+    "title": "Fed минутууд энэ долоо хоногт ирэх нь ирээдүйн хувь хэмжээ нэмэгдэх талаар зах зээлд чухал ач холбогдолтой тэмдэглэгээ хийх боломжтой",
+    "summary": "9-р сарын хурлаас авсан минутууд нь илүү хам сэдвээр агуулагдаж болох юм. Учир нь тэжээлийн санхүүжилтийн бодит түвшин одоо гайхмаар бага болжээ."
+  },
+  "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss": {
+    "title": "Германы канцлер гэнэтийн үед ОХУ-ын дайралтад Киевийн гүүр гэнэтийн довтолгоонд өртсөн",
+    "summary": "Тээврийн хэрэгсэл хөдөлж, том галын бөмбөг үүсгэдэг шиг Пивникхай (Хойд) гүүрэн рүү цохих нисгэгчийг үзүүлэв."
+  },
+  "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss": {
+    "title": "БАРИМТ: Киевийн гүүрэн дээр ОХУ-ын довтолгооны талаар та мэдэх үү",
+    "summary": "BBC Украины сурвалжлагч Дан Жонсон Киевийн хойд гүүрний ойролцоо байдаг бөгөөд хоёр дахь өдөр нь дараалан цохисон байна."
+  },
+  "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss": {
+    "title": "Йемений засгийн газар Хутагаас гаралтай газрыг эргүүлэн авахын тулд бүх дайн зарлалаа",
+    "summary": "Йемений ерөнхийлөгч Хутх, Саудын удирддаг эвслийн хооронд дайралт солилцоход мэдэгдэв."
+  },
+  "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss": {
+    "title": "Бразилын сонгууль эхлээд Флавио Болсонаро тэргүүн талыг сонгон шалгаруулах гэж байна",
+    "summary": "Сонгуулийн 50 хувийг нь ч олон хүн санал өгөхгүй бол сонгуулийн 25-р сарын 25-ны өдөр үргэлжилнэ."
+  },
+  "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss": {
+    "title": "Этиопын босогчид Tigray бүс нутгийн нийслэлээс татгалздаг",
+    "summary": "Мекеллийн хоёр оршин суугчид BBC-ийн засгийн газрын дэмжигч хүчнүүд энэ хотыг удирдаж байна гэж хэлэв."
   }
 }
