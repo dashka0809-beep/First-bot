@@ -2942,5 +2942,309 @@
   "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss": {
     "title": "Этиопын босогчид Tigray бүс нутгийн нийслэлээс татгалздаг",
     "summary": "Мекеллийн хоёр оршин суугчид BBC-ийн засгийн газрын дэмжигч хүчнүүд энэ хотыг удирдаж байна гэж хэлэв."
+  },
+  "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/": {
+    "title": "ChatGPT нь хуурамч Нью-Йоркийн хүүхэлдэйн кинонд бодит хүүхэлдэйн бүтээлчдийн гарын үсэг нэмэх болно",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://reflection.ai/blog/introducing-beam": {
+    "title": "Дам: Тусгалын 501B нээлттэй жингийн загвар",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://flattensf.com/": {
+    "title": "SF-ийн аль ч цэгүүдийн хооронд хийсвэр маршрутыг олох",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.debugbear.com/blog/example-dot-com-redesign-history": {
+    "title": "Example.com Зүгээр л арван жилийн хугацаанд хамгийн том шинэ загварыг эхлүүлсэн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://edworkingpapers.com/ai26-1551": {
+    "title": "AI нь Khanmigo-тэй 2 жилийн туршлагатай танилцах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://qlabs.sh/research/dust": {
+    "title": "Тоос: Урьдчилан бэлтгэх өөрчлөлт хийхгүйгээр",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://dbushell.com/2026/10/03/deno-to-node/": {
+    "title": "Нөхөрлөл Дено-той төгссөн, одоо Node миний хамгийн сайн найз",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/": {
+    "title": "Алгоритмын алдаа нууцын саналыг дагаж мөрдөх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors": {
+    "title": "OPUS 5.5 агентууд өрөөний температурт соронзон хагас дамжуулагчийг олж мэднэ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://gwern.net/doc/design/2026-10-03-gwern-samon.html": {
+    "title": "Самон: Зэн Гарден сэгсрэх таавар боловсруулах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/": {
+    "title": "Lucid Motors ’EV-ийн гаралт бараг 2 жилд хамгийн бага түвшинд буурдаг",
+    "summary": "Тус компани өөрийн ЕВ-ийн зах зээлийн эрэлтийг олохын тулд олон жил тэмцсэний дараа үйлдвэрлэлийг зориуд хязгаарлаж байна."
+  },
+  "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/": {
+    "title": "OpenAI нь Европын Холбоонд ChatGPT-ийн текстийг усалж эхлэх болно",
+    "summary": "OpenAI нь AI хууль тогтоомжийг дагаж мөрдөхийн тулд Европын Холбоонд ChatGPT болон Кодекс текстийг устгана. Библид бичсэнээр, засаж залруулах нь үл үзэгдэх тэмдгийг нээн илрүүлэхэд төвөгтэй болгодог."
+  },
+  "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/": {
+    "title": "Нээгдсэн талбаруудын санхүүжилтийн санал болголт $ 40B + үнэлгээний талаар эх сурвалжууд хэлнэ",
+    "summary": "Сүүлийн том өсөлтөөс хэдхэн сарын дараа хиймэл оюун ухааны чип стартап нь одоогийн үнээр хоёр ба түүнээс дээш хугацаанд хөрөнгө оруулалтын санал болгосноороо TechCrunch-д мэдэгдэж байна."
+  },
+  "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/": {
+    "title": "Үйлдвэрийн Хослатай олон нийтийн асгарсны дараа Менло бахархалтайгаар хөрөнгө оруулалт хийдэг",
+    "summary": "Винод Хосла үйлдвэрийг ч бас тэмцэлтэй гэж нэрлэснээс хойш хэд хоногийн дараа Менло шалгалтаа өгч, гялалзсан блогын бичлэгийг үзүүлэв."
+  },
+  "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/": {
+    "title": "Дахин тооцоолох өртөгтэй Хятадын загваруудад өрсөлдөх нээлттэй жинтэй хиймэл оюун ухааны загвар болох Beam-г тусгах",
+    "summary": "Байгууллага, хэмжээгүй эрхт улс орнуудын Beam болон ирээдүйн загваруудыг эргэцүүлэн бодох хэрэгтэй. Зорилго нь \"AI үйлдвэрүүд\" -ийг бүтээх зорилготой бүтээгдэхүүн бөгөөд институтуудад өөрсдийн өөрчилсөн, орон нутгийн хиймэл оюун ухааны системийг өөрийн өмчлөлийн өгөгдлөөр Reflection's AI загваруудыг сургаж бүтээх юм."
+  },
+  "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/": {
+    "title": "Инстинкт түүний AI агентыг дансгүй найз нөхөд ч чатлахад хүргэдэг",
+    "summary": "Инстинкт нь найз нөхөд нь AI-ийн агентаа хамтдаа ажил үүргийн дагуу ашиглах, коллекцийг зохион байгуулах, арга хэмжээ зохион байгуулах гэх мэт бүлгийн чатыг эхлүүлж байна. Компани нь хувийн агентуудын мэдээлэл хуваалцах, авахаас өмнө шаардлагатай зөвшөөрөл бүхий хувийн данс тусдаа хэвээр байна гэжээ..."
+  },
+  "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/": {
+    "title": "TikTok нь хиймэл оюун ухааны дэлгүүрийн туслах, нэг даралтын чекийг хийдэг.",
+    "summary": "TikTok нь хэрэглэгчид бүтээгдэхүүнийг олж, худалдан авахад туслах зорилготой харилцааны хиймэл оюун ухааны агентаар шинэ Худалдааны туслахыг тодорхойлно."
+  },
+  "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/": {
+    "title": "Үүсгэн байгуулагч нь AI-д зориулсан 3,499 $ компьютерийг бүтээсэн Ghost $ 11 сая доллар хуримтлуулав",
+    "summary": "Ghost's first product нь хүний өмнөөс үйл ажиллагаа явуулж чадах хиймэл оюун ухаантанд зориулагдсан Гол хувийн компьютер юм."
+  },
+  "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/": {
+    "title": "Халуун охидын утсаар хиймэл оюун ухааны үеийн \"Эрхэм хүндэт Абби\" шиг",
+    "summary": "Хоер эгч байгуулсан Hot Girl Hotline нь AI-ийг залуу эмэгтэйчүүдэд хувийн болзоо, харилцааны зөвлөгөө өгөхдөө аюулгүй байдал, сэтгэл санааны хамаарлаас зайлсхийх талаар онцлон тэмдэглэдэг."
+  },
+  "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/": {
+    "title": "5 Хамгийн сүүлийн үеийн PearX демо өдөр VCs-ийн анхаарлыг татсан гарааны бизнес эрхлэгчид",
+    "summary": "TechCrunch Pear-ийн хамгийн сүүлийн үеийн демо өдөр оролцсон бөгөөд орон зайн загваруудаас орон зайн загваруудаас орон нутгийн AI-ийн чипс хүртэл хамгийн их шуугиан үүсгэсэн болохыг олж мэдсэн."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors": {
+    "title": "Gemini Над руу дуудаж болно ээждээ таныг хоцорч байна гэж хэлэх",
+    "summary": "Google нь \"Миний төлөө Дуудлага\" AI функцийг бизнесийн дуудахаас гадна өргөжүүлж болох тул үүнийг найз нөхөд, гэр бүлд зурвас илгээхэд ашиглаж болно. Android Authority нь \"GEMINI Дуудлага\" -д APK нулимс уналтад \"танилцуулах дэлгэцийг\" Ээж рүү залгаад би зөөлөн байгаагаа хэлээч..."
+  },
+  "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports": {
+    "title": "Урвуу-инженерийн тоглоомууд: Видео тоглоомын декомпс, репомпс, ВР, веб болон 3D портуудын тухай бүх мэдээ",
+    "summary": "Одоо бол чимэглэлийн тоглоомонд зориулсан зэрлэг цаг. Сонгодог нэрийг задалж, дахин давтсаны ачаар эдгээр тоглоомууд нь өөрсдийн өмчлөлийн код болон анхны тоног төхөөрөмжөөс гаргаж, шинэ төхөөрөмжүүдэд дамжуулах эсвэл анхны тоглолтыг бүрэн өөрчлөх арга замаар шинэчлэгдэж байна. Ямагт төсөөлж байна..."
+  },
+  "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval": {
+    "title": "Матик бол ФСК-ийн хоригийг чөлөөлөх анхны робовак бөгөөд түүнд шаардлагагүй",
+    "summary": "Матик бол бидний дуртай робот вакуум, робо-моп бөгөөд одоо FCC-ийн Roomba хоригоос зугтах анхных нь юм. Учир нь Матик эхнээс нь хориглоогүй. Үнэндээ юу болоод байна вэ: Хоёрдугаар сард FCC анхны Matic, 4MA0001 загварыг нэмж, би..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions": {
+    "title": "Энэхүү стартап нь хиймэл оюун ухаанаар үүсгэгдсэн батганы жоруудыг гаргадаг",
+    "summary": "Юта дахь хүмүүс одоо AI-ийг ашиглан батга эмчилгээнд жороор авах боломжтой. Даваа гарагт Nolla Health судалгаагаар улсын хэрэглэгчид нүүр царайг нь апп-аар сканнердах бөгөөд AI систем нь батга хүндрэлийг шинжлэх, бие даасан байдлаар жор бичих боломжийг олгодог гэж мэдэгджээ."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution": {
+    "title": "AI-ийн математикийн тусламжтай хийсэн бүх жүжиг",
+    "summary": "Өнгөрсөн жил, OpenAI, Антропик болон бусад лабораториуд нь урт хугацааны математикийн олон асуудлуудын талаархи нээлтийг зарлав, зарим тохиолдолд судлаачид одоогийн системүүдээс илүү үр дүнтэй байх ёстой гэж үзсэн, үүнд Мянганы шагналын нэгийг шийдвэрлэх..."
+  },
+  "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage": {
+    "title": "Википедиа оператор OpenAI-ийн ‘rogue‘ роботууд 5-р сарын тасалалттай холбоотой байж болно гэжээ",
+    "summary": "Фэйсбүүкийн вэбсайт, үйлчилгээнд нэвтрэх хиймэл оюун ухааны агентуудын талаар сүүлийн үеийн олон тодруулга хийсний дараа Википедиа-ийн эзэн болох Wikimedia сан нь Wikimedia платформ дээр \"ROGUE\" OpenAI агентуудаар үйл ажиллагааг олж мэдсэн гэдгээ баталж чадна гэж мэдэгдэв. Үйл ажиллагаанд..."
+  },
+  "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share": {
+    "title": "Хьюндай компанийн гүйцэтгэх захирал хэлэхдээ зөвхөн ‘түвшинд тоглох талбар’ нь Хятадаас хохирол учруулж болзошгүй гэж мэдэгджээ",
+    "summary": "Хятадын сэдэв гарч байгаа өнөө үед авто салбараас маш олон төрлийн гэмтэл, гэрэл гээчтэй болсон. АНУ-д зарагдсан хямд өртөгтэй, өндөр технологийн Хятадын цахилгаан тээврийн хэрэгслийг зөвшөөрөх авто машины гүйцэтгэх захирал нь бизнесийн төгсгөлийг үр дүнтэй илэрхийлнэ гэдгийг анхааруулж байна. Хьюндай..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act": {
+    "title": "OpenAI нь ChatGPT болон Codex дээр текстийн усалгааг нэмж байна",
+    "summary": "Текст гаралтанд үл үзэгдэх, машин унших боломжтой усан тэмдэг ChatGPT болон Codex руу эргэлдэж байгаа боловч зөвхөн Европын Холбооны хэрэглэгчдэд эхлээд л. OpenAI-ийн текстийг Google DeepMind-ийн SynthID-ийн текстийн талаархи бусад аргуудыг \"таарч эсвэл хэтрүүлсэн\" гэж..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr": {
+    "title": "OpenAI PR сэтгүүлчид Сэм Алтманаас ChatGPT хэрэглэгчийн амиа хорлох талаар асуухдаа \"цааш алх\" гэж хэлдэг",
+    "summary": "OpenAI олон нийтэд гүйцэтгэх захирал Сэм Алтманы ярилцлагын талаар Ванити Фэйр Марк Гуидучитай ярилцах сэдвийг өөрчлөхийг оролдсоны дараа Редактор нь ChatGPT хэрэглэгчийн амиа хорлосон. Гуидүчи Алтмантай энэ үйл явдлын талаар ярилцахад олон нийтэд Гуидучи цаг дуусах тухай анхааруулж, с..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff": {
+    "title": "Сэм Алтман хэлэхдээ \"ямар нэг муу юм\" болно, гэхдээ AI нь огт үнэ цэнэтэй",
+    "summary": "Сэм Алтман хиймэл оюун ухааны ашиг тус асар их болно гэж боддог учраас «дэлхийд болж буй мууг хүлээн зөвшөөрөх» учиртай ажээ. OpenAI-ийн гүйцэтгэх захирал нийгмийн зүгээс хакерууд, заль мэх, \"бусад муу муухай зүйлс\" -ийг нийгмийн тэвчээртэй байх ёстой гэж онцолсон. Учир нь \"хүмүүс маш их захиалга хийх болно..."
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEpVcFVhSDFxejVlaUt2WWdBeFIxU0Z4bmVqVFVPZHJTVDc1VzQ3SjA2a1JzTTViLUlwTjRZSWFXLTZFWGZGZ09wM1JVUnJ3NnlIaTBKdXRTQ3JScURTMUw0UVQ2Uzl6aUw1dnJ4ZHBpWGYtX1AwOVhxMmQ4dGNKYlBjTjJaSFlYVm54S3JCb3Z0QQ?oc=5": {
+    "title": "Мета, Microsoft нар өшиглөхөд түлхэж - Мэдээлэл",
+    "summary": "Мета, Microsoft нар өшиглөхөд түлхэж хэвийн мэдээлэл"
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRy1RTjlDMEZWSXJmemJ4M0JjV0lOd3plYmtpT01ITUY1Sm5qWnVmQlBheXVpak1zYy1XVm9STnpWUTFyaEYwdTBSMnBEQm1MeHF6ZHJxcGhFcUtLYjh1UmlsdUZvbndxNktzbHg3eUlQYzE1ai1nR1dJbGJaMURpX0doX05OOGFuSFcyZi1CZ25wUkJ5aVJ0Yg?oc=5": {
+    "title": "Мета, Майкрософт цар хүрээтэй буцааж ажиллахад Клод: Тайлан - Альфа хайж байна",
+    "summary": "Мета, Клодын Microsoft хэмжүүрийн арын ажилчдын хэрэглээ: тайлан  хайх Альфа"
+  },
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHRIVHloYVRjQkM4WlQ3eTV0VVRWeXo2MWFDR2dXZ2JGRDJhMDJKVHFqYkt2SkJ1alQyQ0tPckZGRHN6UTBHalpVX0dKVjNjTVd1WFluWk1iQ25abmQ5WWs1WjFRSldnRHNMTnRpU2cyaE9lVHFvZFVHemxMNzdkejhCdXpwajZGRXB1ZUUxU2ZkdDhhY0NFVEdEWkZtWXJCQ0FOdjlsX3I4ZFJLSmZDWEhhUUh3YlVBS0hGenJONTFtQnZPQUpvQ2FtRHE?oc=5": {
+    "title": "Мета, Microsoft нар Антропийн Клодын дотоод хэрэглээг буцааж хэрэглэж байгаа тухай тайланд дурджээ - Investing.com",
+    "summary": "Мета, Microsoft нар Антропийн Клодын дотоод хэрэглээг буцааж хэрэглэдэг тухай тайланд инвестинг."
+  },
+  "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNVG9jblNUZGpsTGFUdmlUOVBldWktSUt3VUhZakZmMXRXclZ1bnhuYlJmTXdlUXRPbEhLeGlLMFlNZDFfb2tqZDA4RkJYYXBlZ29zSmNhY1NuSWxOUXE0dXlXM1ZZRmVZVzlCTllHSlYtR2tmX2t0X25CWlpSVjNlSmxJckhFb3JHbFNBY3E3bjFkQmplbDV3WE9HSmNCSDhsVGtwT0k4bWdCZXZUN183N1puMTllX1A5SmZNZmlPZmwtd05QTnhDTllXaE5WaW52blBUV0tPR05ZY084dzc5VHFMaFVtMGdxVUNhVVZWZ0N1ODhIRF8wV0lTVWVxN2ppX1FkcGNUMk4xM1hfUExBcE5fOGIwVmJpQU1nUnNKTTBrRE93OU9ZcU0xckY5NVVSbFd1anVwUE0tZjRvYUl5VlVxaFBHQjBtdF9Ucy1pWExmY21HR19SbmNfVQ?oc=5": {
+    "title": "Антропик Флоридагийн эмэгтэйчүүдийн Клодын өдрийн \"өдрийн тэмдэглэл\" -ийг шерифийн оффисыг буудах заналхийлэлтэй холбоотой гэж мэдээлсэн бөгөөд энэ нь дор хаяж гурав дахь нь л наймдугаар сараас хойш цагдаад хүрэх явдал юм - tomshardware.com",
+    "summary": "Антропик Флоридагийн эмэгтэйчүүдийн Клодын өдрийн \"өдрийн тэмдэглэл\" шерифийн оффисыг буудах заналхийлэлтэй холбоотой гэж мэдээлсэн бөгөөд наймдугаар сараас хойш цагдаад хүрэх гуравны нэг нь tomshardware.com"
+  },
+  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVkRYZld2YlI2aV9HcDY2Q0pvd1NFbGVuUldpRnNCelhCaThLQ29PenFFaGVMd3lHZHUwNkxjSnhURnQzeW5BTG5ZemwtcWNkYzM2UnJXVnI5R1JoXzIyWUttMHJaeXVROE5nNGdVMEk5cEQyRGdBdzZ6NUhRZFNMUFJJRmxhYm1jTW4xRXA5cGpLQzBYSENGMEVkdUZTOXQ3RkxIYkM1amN1ZjZCM3JpWGwwVFNrTFF1WmZUVlNRZUEwUmhxVWxIc2x1MFpMUm43V1Aya1BkRGhXQmlpdVl0Z9IB4AFBVV95cUxONjIyU2pBcFppOURJbW5YZnpuRkRNbW9RU3l3NmtEMGNlMVd5WldUWGFyc3lPUmlMcDJRRGxLTk1KdmZ3VkVTaGFTOWI4RnRSbGJwS201N2M1aUNMOFNhSmpPWXpkalc2TF83UG1qWVI4XzJueDkyRGFfZ3ZqMkt1Q3FoaWt3Vk9vWmV4NXgyMzYwRjNEMWpJQUJyRkFaUnpDLURXN2F0aGE0MHJhXzdBU2YyZjAxaEVIZWp1WmtxbTNUVXR6cFh6Ri11TkdtdDBFRmpHZnhHbTJRSl9GUUVINA?oc=5": {
+    "title": "Антропик тайланг: Орос улс Төв Африкийн Бүгд Найрамдах Улс болон бусад улсад алдааны зорилгоор AI ашиглаж байна уу? - DW.com",
+    "summary": "Антропик тайлан: Орос улс нь Төв Африкийн Бүгд Найрамдах Улс болон бусад улсуудад алдааны зорилгоор AI ашиглаж байна уу?  DW.com"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-06/trump-eases-limits-on-dyed-diesel-rally-in-big-tech-more": {
+    "title": "Лимитийн Дизель дээр Trump Eases Limits, Big Tech дахь Ралли, Илүү",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-06/trump-signs-order-to-ease-limits-on-diesel-variety-tech-rally": {
+    "title": "Дизель Янз бүрийн, Технологийн Ралли дээр хязгаарлах захиалгын тэмдгүүд",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-05/trump-to-make-diesel-move-tech-rally-lifts-stocks-more": {
+    "title": "Дизель хөдөлгөхийн тулд Trump, Tech Rally Lifts Stocks, Илүү",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-05/trump-to-ease-dyed-diesel-limits-stocks-rally-on-big-tech-more": {
+    "title": "Трамп нь будагдсан дизель хязгаарыг хөнгөвчлөх, Big Tech дээр өрсөлдөх хувьцаа, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-05/bloomberg-businessweek-daily-s-p-edges-towards-record-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: S&P ирмэгүүдийн бүртгэл (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-05/trump-plans-to-ease-dyed-diesel-limits-big-tech-rally-more": {
+    "title": "Трамп будагдсан дизель лимитийг хөнгөвчлөх төлөвлөгөөтэй, Big Tech Rally, Илүү",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-05/firmus-flydubai-trump-tech-rally-australia-briefing": {
+    "title": "Фирмус, FlyDubai, Трамп, Технологийн цугларалт: Австрали Товч танилцуулга",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-05/why-bessent-s-credibility-is-at-risk-evening-briefing-americas": {
+    "title": "Бессентын шагнал ямар учраас аюултай вэ?",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-05/trump-to-ease-dyed-diesel-limits-uk-base-terror-threats-more": {
+    "title": "Их Британийн суурь терроризмын аюул, Илүү ихийг шаардсан Дизель лимитийг хялбарчлах",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-05/ai-titans-mint-bigger-fortunes-but-some-asia-billionaires-take-a-hit": {
+    "title": "AI Tитан гаа том азтай ч зарим Азийн тэрбумтан цохигддог",
+    "summary": "Баригдана уу."
+  },
+  "https://www.entrepreneur.com/business-news/he-wrote-down-everything-people-hate-about-going-to-the-doctor-then-he-built-a-business-to-fix-it": {
+    "title": "Эмч дээр очихдоо үзэн яддаг бүх хүнийг тэрсэлжээ. Дараа нь тэр бизнесийг засахаар байгуулсан.",
+    "summary": "Доктор Даршан Шахан эмчийн айлчлалаас айж, цөхрөнгөө барахын тулд дараагийн эрүүл мэндийг бий болгосон. Одоо дэлхий даяар 25 гаруй эмнэлэгт үйл ажиллагаагаа явуулж байна."
+  },
+  "https://www.entrepreneur.com/business-news/they-make-more-than-300000-a-year-and-still-say-theyre-living-paycheck-to-paycheck": {
+    "title": "Тэд жилд 300,000 $ хүрэхгүй цалинтай болсон ч",
+    "summary": "Goldman Sachs судалгаагаар бүр өндөр орлоготой америкчууд ч хадгаламж барихад тэмцэж байгааг харуулж байна."
+  },
+  "https://www.entrepreneur.com/business-news/tech/everyone-wants-to-build-ai-apps-im-betting-on-what-powers-them-heres-why": {
+    "title": "Хүн бүр програм зохиохыг хүсдэг — би ямар эрх мэдэлтэйг нь хэлнэ. Яагаад гэвэл энэ байна.",
+    "summary": "Иймээс би апликейшн бус AI-ийн сонгон шалгаруулалт, хүрзүүд дээр мөрий тавьж байгаа юм."
+  },
+  "https://www.entrepreneur.com/building-a-business/the-6-traits-i-look-for-in-every-employee": {
+    "title": "Ажилчдад би тавьдаг 6 зан чанар",
+    "summary": "Ажил алба өөрчлөгдөж, агуу их хүмүүс тэдэнтэй хамт хувьсдаг. Үнэндээ, үнэлж баршгүй, үнэтэй болсон хүмүүсийг олох аргыг энд дурдав."
+  },
+  "https://www.entrepreneur.com/business-news/tech/how-ai-agents-are-helping-companies-scale-their-marketing": {
+    "title": "AI-ийн агентууд компаниудад маркетинг хэрхэн хуваарилдаг вэ",
+    "summary": "AI-ийн агентууд компаниудад маркетинг, ур чадвар, багаж хэрэгсэл, контекстийг төлөөлөгчийн маркетингийн үйл ажиллагааны загвар болгон нэгтгэн маркетинг өргөжүүлэхэд хэрхэн тусалдаг талаар энд дурдана."
+  },
+  "https://www.entrepreneur.com/building-a-business/ive-watched-over-150-careers-grow-heres-what-i-got-wrong-about-developing-talent": {
+    "title": "Би 150 гаруй карьерыг харсан. Би авъяас чадварыг хөгжүүлэх талаар буруу ойлголттой болсон",
+    "summary": "Би өөрөөсөө таван хүнд нөлөөлж чаддаг бол таван ажилд нөлөөлж чадна. Харин би хүмүүсийг хэрхэн өсөхийг мэддэг менежер боловсруулбал тэр менежер нэг багийг бүхэлд нь хөгжүүлж чадна."
+  },
+  "https://www.entrepreneur.com/business-news/linkedin-ceo-is-leaving-after-18-years-says-he-didnt-want-to-return-to-the-office-full-time": {
+    "title": "LinkedIn-ийн гүйцэтгэх захирал 18 жилийн дараа орхигдож байна гэж Оффис бүрэн цагаар буцаж ирэхийг хүсээгүй гэж хэлэв",
+    "summary": "Райан Росланский саяхан явахаа зарлаж, LinkedIn болон Microsoft дээр бараг хоёр арван жилийн турш ажил хөдөлмөрөө цуцалжээ."
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/crumbls-sales-are-crumbling-and-its-ceo-says-its-my-fault": {
+    "title": "Гэмт хэрцгий борлуулалт бүдэрч байгаа бөгөөд Гүйцэтгэх захирал \"Энэ бол Миний алдаанууд\" гэж хэлж байна",
+    "summary": "Дэлгүүрүүд хаагдаж, франчайз дэмжих ажилтнуудыг унтрааж, бохир сод түлхэж байна."
+  },
+  "https://www.entrepreneur.com/business-news/the-double-fill-up-is-the-latest-hack-americans-are-using-to-save-cash-at-the-gas-pump": {
+    "title": "\"Давхар дүүргэлт\" гэдэг нь хамгийн сүүлийн хакердсан америкчууд хийн насосны бэлэн мөнгө хэмнэхийн тулд ашигладаг",
+    "summary": "Цалин хөлсний инфляцийн тусламжтайгаар хэрэглэгчид насос, хүнсний дэлгүүрээс хэмнэх талаар бүтээлч болж байна."
+  },
+  "https://www.entrepreneur.com/business-news/whos-the-genius-behind-metas-hit-ai-app-muse-a-mulleted-croc-wearing-mit-dropout": {
+    "title": "Метагийн Hit AI App Muse-ийн цаадах Genius хэн бэ? Тулгуурласан, нүүрс арчлах MIT дайралт.",
+    "summary": "Александр Вангын музей ChatGPT-с 5 сая татаж авахыг хит. Зарим Мета ажилчид хөлслөхдөө онцгой хандах дургүй байдаг."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/japan-s-gpif-didn-t-discuss-allocation-at-sept-meeting-sources": {
+    "title": "GPIF Портфолио хуваарилалт, Тэсрэлтийн техникийн тодорхойлолт зэргийг хэлэлцэж чадаагүй байна",
+    "summary": "Японы Засгийн газрын тэтгэврийн хөрөнгө оруулалтын сан өнгөрсөн сард уулзалтын үеэр багцын хуваарилалтын талаар хэлээгүй бөгөөд Японд хөрөнгийн худалдан авалтаа нэмэгдүүлэх зорилгоор Ерөнхий сайд Sanae Takaichi-ийн $ 2 их наяд сангаас тусламж үзүүлэх гэсэн таамаглалыг чангатгал."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/latest-oil-market-news-and-analysis-for-oct-6": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ болон дүн шинжилгээ 6-р сарын 6-нд",
+    "summary": "Персийн булангийн экспорт, Саудын Арабын зах зээлийн үнэ буурах тусам даваа гаригт 2% -г алдсаны дараа тос тасралтгүй үргэлжилжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/philippines-inflation-heats-up-for-first-time-in-five-months": {
+    "title": "Филиппиний инфляцийг таван сарын дотор анх удаа халааж байна",
+    "summary": "Филиппиний инфляц 9-р сард дахин хурдацтай нэмэгдэж, түлшний үнэ нэмэгдсэнээс хойш 4 сарын удааширсан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-markets-wrap-muvv94wz": {
+    "title": "S&P 500 Бичлэг Өндөр дээр Tech Rallies-ээр хаагдана: Зах зээлийн боох",
+    "summary": "Технологийн удирдуулсан ралли Nasdaq 100 индексийг илгээснээр хөрөнгө оруулагчид газрын тосны өндөр үнийн талаар санаа зовж, олон арван жилийн өндөрт барьж буй бондын үр дүнгийн талаар санаа зовниж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/new-world-launches-exchange-offer-for-nearly-1-billion-of-bonds": {
+    "title": "Шинэ ертөнц 1 тэрбум $ бондын арилжааны саналыг эхлүүлжээ",
+    "summary": "Шинэ Дэлхийн Хөгжлийн ХХК нь ханшийг уртасгах, эргэлтийн хөрвөх чадварыг нэмэгдүүлэх зорилгоор дарагдсан Хонг Конг хөгжүүлэгчийн хамгийн сүүлийн үеийн хүчин чармайлтаар 991 сая $ долларын үнэт цаасыг арилжаалах саналыг эхлүүлжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/nidec-scandal-sends-bonds-to-bottom-in-test-for-new-president": {
+    "title": "Nidec скрипт Шинэ Ерөнхийлөгчийн Туршилтын доод хэсэгт бондыг өгдөг",
+    "summary": "Киото стартапээс эхлээд нарийн мотортой дэлхийн хамгийн том үйлдвэрлэгч болж өссөн нь хөрөнгө оруулагчдын итгэлийг сэргээхэд саад болж шинэ ерөнхийлөгчөө саад болж эхлэв."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/japan-s-takaichi-pitches-food-tax-cut-investment-plan-video": {
+    "title": "Японы Такайчи хүнсний татварыг багасгах, хөрөнгө оруулалтын төлөвлөгөөтэй болгосон",
+    "summary": "Bloomberg-ийн Сакура Мураками Японы Ерөнхий сайд Sanae Takaichi-ийн хэлсэн үгийг УИХ-д хувааж, зах зээлийн сахилга батыг хадгалахын тулд зорилтот арга хэмжээнүүдийн хамт хоол хүнсийг түр хугацаагаар суллахыг онцолжээ. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/la-schools-face-high-fiscal-solvency-risk-state-report-finds": {
+    "title": "ДНБ-ууд санхүүгийн өндөр эрсдэлтэй, муж улсын тайланд харуулсан",
+    "summary": "Лос Анжелес хотын нэгдсэн сургуулийн дүүрэг нь Калифорнийн албан тушаалтнуудаас шинэ шинжилгээгээр олон жилийн элсэлтийн бууралт хэвээр байгаа тул санхүүгийн уусгагчийн өндөр эрсдэлтэй байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/bond-yields-will-pressure-australia-budget-chalmers-video": {
+    "title": "Дээд Бондын талбай нь Австралийн төсвийг дарах болно.",
+    "summary": "Австралийн Treasurer Jim Chalmers-ын мэдээлснээр дэлхийн хэмжээний бондын өндөр ашигт малтмалын өрийн санхүүжилтийн зардлыг нэмэгдүүлэхийн тулд Австралийн төсөвт даралтыг хийнэ. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/gold-steadies-as-stronger-dollar-and-yields-weigh-on-rate-path": {
+    "title": "Алтны тогтвортой байдал нь долларын хүчирхэг болон урд талбарууд нь Ханшийн зам дээр жинлэх",
+    "summary": "Алт нь наймаачид хүчирхэг доллар, дээд сангийн үр нөлөөг хэмнэхийн хэрээр тогтвортой байсан."
+  },
+  "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1": {
+    "title": "Францын төв банкны дарга улс орнуудад \"зээлийн хүүгээр боомилох\" эрсдэлтэй байхыг анхааруулж байна.",
+    "summary": "Эмануэл Мулин хэлэхдээ Франц сүүлийн өдрүүдэд \"ноцтой, санаа зовж буй\" зах зээлийн хөдөлгөөнийг үл харгалзан бондын хөрөнгө оруулагчдыг тайвшруулж чадна"
+  },
+  "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1": {
+    "title": "Евро слайдыг доллараар 17 сараар бага байлгах",
+    "summary": "Эрчим хүчний өндөр үнэ, Францын төрийн санхүүжилтийн талаар санаа зовох нь нэг валют дээр дарамт болдог"
+  },
+  "https://www.ft.com/content/e0dfef01-4933-4ab9-8927-d08115f4822c": {
+    "title": "Бондын далайц гэдэг нь ECB-ийг QT-ийг барих цаг болжээ гэсэн үг.",
+    "summary": "Төлөвлөлтөд төв банкны нөхцөл байдлыг илүү тогтвортой сэргээгдэх хүртэл зогсоохыг зөвлөдөг"
+  },
+  "https://www.ft.com/content/858173c2-1869-4d77-9ecf-2b3b37a0d74d?syn-25a6b1a6=1": {
+    "title": "Трамп Дээд шүүхийн томилогчид тендерт оролцохгүй байна",
+    "summary": "Дээд шүүх ерөнхийлөгчийн зарим маргаантай бодлогыг шийдвэрлэхээр бэлдвэл харилцаа улам л илэрч болно"
+  },
+  "https://www.ft.com/content/b49f5459-92fc-4b91-92c4-d8f2a6f87893?syn-25a6b1a6=1": {
+    "title": "Путины цөмийн аюул цаашид ажиллахаа больсон",
+    "summary": "Оросоос муудах нь дэлхий нийтийг хамарсан үр дагавартай бөгөөд энэ нь бүгд эерэг биш юм"
+  },
+  "https://www.ft.com/content/7dea96bb-12ca-44fd-81c1-395fb8060395?syn-25a6b1a6=1": {
+    "title": "АНУ-ын эрүүл мэндийн эдийн засаг өсөн нэмэгдэж буй өвчтөнүүдийг хэрхэн шийтгэж байна",
+    "summary": "Хүн ам зүйн, эдийн засаг, санхүүгийн хүчин мөргөлдөөн энэ салбарт хямрал үүсгэсэн"
+  },
+  "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1": {
+    "title": "Трамп нь түлшний инфляцийг хаах зорилгоор улаан дизель хязгаарыг хөнгөвчилдөг",
+    "summary": "АНУ-ын Ерөнхийлөгч Небраска мужийн хөдөө аж ахуйн улсад аялсан үеэр энэ алхмыг зарлалаа"
+  },
+  "https://www.ft.com/content/ae67bb6f-f227-4679-949f-2e79e2dc33e2?syn-25a6b1a6=1": {
+    "title": "НИЙТ ЗАСГИЙН ГҮЙЦЭТГЭХ ҮЙЛЧИЛГЭЭ дэлхийн зах зээлийн хямралыг үүсгэсэн ‘боломжууд’ хаддаг",
+    "summary": "Франц гол нь Ойрхи Дорнодын мөргөлдөөнд хамгийн их өртөж байгаа хэдий ч Патрик Пуанне: «Амар амгалан ертөнцийг тасалдуулахыг илүүд үздэг» гэж ярьжээ."
+  },
+  "https://www.ft.com/content/1a4458ce-6317-4dce-a43e-95e724d7c33f?syn-25a6b1a6=1": {
+    "title": "Хонг Конг HSBC Сингапурын AI төвийн шийдвэрийг туршиж үздэг",
+    "summary": "Мөнгөний эрх мэдэл нь Хятадын нутаг дэвсгэрийн статусыг олон улсын санхүүгийн капитал хэлбэрээр бэхжүүлэхийг хичээдэг"
+  },
+  "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1": {
+    "title": "Уолл Гудамжны банкууд Broadcom болон Антропийн хувьд $ 60bn чипийн гэрээг эхлүүллээ",
+    "summary": "Санхүүжилтийн багцын томоохон сорилын синдрэл нь хиймэл оюун ухааны өрийн нэмэгдэж буй асуудлын хүрээнд зээл олгох хоолны дуршилыг нэмэгдүүлэх болно."
+  },
+  "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories": {
+    "title": "\"АНУ - д амьдардаг хүмүүс сэрэх хэрэгтэй\". Мөнгө зээлдэгчийн хувьд би хэтрүүлсэний улмаас баян хосуудаас татгалзсан. Бид бүгд л бэрхшээлтэй тулгардаг.",
+    "summary": "Уншигчийн бичсэнээр: \"Бид жинхэнэ шуурхай болох нь дээр байх, эсвэл 2008 оны Их уналтыг явуулах санхүүгийн хямралыг явуулах нь пикник шиг харагдах болно.\""
   }
 }
