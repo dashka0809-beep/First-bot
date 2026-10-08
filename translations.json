@@ -3562,5 +3562,317 @@
   "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories": {
     "title": "Манай хүргэн аав ээжийг гэртээ гарын үсэг зурж, амь аврахаар 3 сая $ худалдан авахыг ятгав. Би үйл хэрэгт оролцдог уу?",
     "summary": "\"Аль аль нь шинж чанар нь зөвхөн түүний нэрэнд байх болно.\""
+  },
+  "https://www.anthropic.com/claude-haiku-5-5": {
+    "title": "Клод хаику 5.5",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007": {
+    "title": "Маргарет Хамилтон нас барсан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/pingdotgg/ts-rust": {
+    "title": "TypeScript-ийн зэвийн боомт (Tsc)",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/": {
+    "title": "«Жонатан» бол газрын хамгийн эртний амьтан юм",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://openai.com/index/gpt-6-for-everyone/": {
+    "title": "GPT‑6 ба Ухаалаг UI хүн бүрт",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://bigwords.page/": {
+    "title": "ХН харуулах: Bigwords.page – Аливаа дэлгэцийг тэмдэг болгон эргүүлнэ үү. URL нь програм юм",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t": {
+    "title": "Розалинд Франклин ДНХ-ийн дүрслэлийг хэрхэн алга болсон бэ?",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/docker/docker-agent": {
+    "title": "Docker Agent",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html": {
+    "title": "Вена, Бээжинд анхны (хүрээн) цөмийн цаг эхэлнэ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://debasishg.github.io/blog/push-ifs-up-fors-down/": {
+    "title": "Дээшээ гарч, доошоо гарвал товшино уу: Хэлбэлзэх үг, алгебр, түүний хязгаар",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/": {
+    "title": "Роботын өгөгдлийг эхлүүлэх Mecka AI nabs $ 60M from Sequoia",
+    "summary": "Mecka AI нь хүний хөдөлгөөнт өгөгдлийг цуглуулж, дүн шинжилгээ хийж, хүний гүний робот болон бусад төрлийн роботуудыг сургаж байна. Гарааны бизнес нь хүмүүсийн өдөр тутмын ажлаа хийхээр төлдөг."
+  },
+  "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/": {
+    "title": "VCs Сан Франциско руу олон хүн ирсэн ч Эндевэр катализаторууд $ 320м-ийг үүсгэн байгуулагчдад зориулсан \"хаа нэгтээ\"",
+    "summary": "Энэхүү цар хүрээг цахиурын хөндийн гадна үүсгэн байгуулагчдыг байлгахын тулд 320 сая $ километрийн босгожээ. Ашгийн тал нь тэднийг олсон ашгийн бус байгууллагад буцаж очдог."
+  },
+  "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/": {
+    "title": "NUUS Судалгаа нь $ 1.5B үнийн саналыг хит болохыг баталж, бизнесийн хэрэглэгчдэд зориулсан AI агентуудыг эхлүүлжээ",
+    "summary": "Хермесийн агентлагийн хөгжүүлэгч Б. $ 90 саяыг босгосон"
+  },
+  "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/": {
+    "title": "Microsoft шинэ Nvidia-chip AI компьютерийг сэргээн засварласан Windows 11",
+    "summary": "Microsoft нь хиймэл оюун ухааны загвар, агентуудыг ажиллуулахад зориулагдсан Nvidia чипс дээр ажилладаг Surface Laptop Ultra, AI PC-уудын үнийг тодорхой болгосон."
+  },
+  "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/": {
+    "title": "Мета MUSE гар утсаа анхнаасаа хэдхэн сарын дараа iPad дээр ажиллуулна",
+    "summary": "Метагийн хиймэл оюун ухааны агент MUSE компани туслахын хүрч, интеграцийг хурдацтай тэлж байгаа тул Ipad-д гар утасны дебютээ хийснээс хойш нэг сарын дараа л боломжтой болсон."
+  },
+  "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/": {
+    "title": "Өсвөр насныханд зориулсан ChatGPT нь өсвөр насныхан, тэр ч байтугай сэтгэцийн эрүүл мэндийн хямралын үед ч ярьдаг",
+    "summary": "ChatGPT-ийн өсвөр үеийн хамгаалалт нь эмзэг хэрэглэгчдийг хамгаалах зорилготой боловч шинэ шинжилгээгээр chatbot нь хямралын үед идэвхтэй оролцоо үргэлжилж байгааг олж тогтоож, биетэйгээ эрүүл бус харилцаа холбоог дэмжиж болзошгүй юм."
+  },
+  "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/": {
+    "title": "X нь MLB-ээс эхлэн NFL-ээс гадна өөрийн ‘Gametime’ спортын төвийг өргөжүүлдэг",
+    "summary": "X нь NFL-ийн төвлөрсөн Gametime функцийг MLB болон бусад мэргэжлийн лигээс дагах жилийн турш спортын газраа болгож байна."
+  },
+  "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/": {
+    "title": "Шинэ интерфэйсийг эхлүүлснээр ChatGPT илүү их харагдах болж байна",
+    "summary": "OpenAI нь интерактив дүрсийг ChatGPT-д авчрах шинэ хэрэглэгчийн интерфэйсийг эхлүүлж байна."
+  },
+  "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/": {
+    "title": "Greenairy нь танай оффис дахь агаарыг цэвэрлэх ухаалаг ургамлын цамхаг барьж байна",
+    "summary": "Үнэн хэрэгтээ, чихмэл, химийн төмсөгтэй оффисын агаарыг эмчлэх нь навчтай ногоон цамхаг байж болзошгүй юм."
+  },
+  "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/": {
+    "title": "ТТГ-ын ажилтан алтан баар зэрэг 190 сая $ хулгай хийх хуурамч нууц төрийн хөтөлбөр зохиохыг хүлээн зөвшөөрсөн",
+    "summary": "ТТГ-ын ажилтан Дэвид Раш өндөр мэдрэмтгий тагнуулын хөтөлбөрөөр ажиллаж байсан бөгөөд хуурамч засгийн газрын гэрээ байгуулсныхаа алт, мөнгө хурааж авсны дараа АНУ-ын прокуроруудтай давж заалдах болсон."
+  },
+  "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china": {
+    "title": "BMW-ийн iX4 SUV нь Хятадын EV-ийн эрхшээлд 428 миль хамгаалалтын зэвсэг юм",
+    "summary": "Автомашины дэлхийн ихэнх нь Хятадын бүх хэрэглэгчдийг татан буулгахад эргэлзээтэй байдаг ч BMW нь маш сайн боловсруулсан, технологийн дэвшилтэт цахилгаан тээврийн хэрэгслийг жолоодох чанар, үнийг хоёуланд нь сэтгэгдэл төрүүлдэг. Хамгийн сүүлийн үеийн BMW iX4, буйдан хэлбэртэй SUV..."
+  },
+  "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths": {
+    "title": "Өсвөр насны инженерийн Гүйцэтгэх захирал синтез хийхээ болих болно гэж хэлсэн",
+    "summary": "Өсвөр насны инженерчлэлийн үүсгэн байгуулагч, Гүйцэтгэх захирал Жеспер Коутофд синтетийг зогсоохоор төлөвлөж байгаагаа Highsnobiety гэж хэлсэн. Тийм ээ, үүнд компани газрын зураг дээр тавьсан OP-1 нэр хүндтэй орно. TE нь зөвхөн хөгжмийн арааны үйлдвэрлэгч биш; энэ нь бас эрэлхийлж буй дизайны фирм юм. IKE-тэй хамтран ажилласан..."
+  },
+  "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think": {
+    "title": "Android физик навигацийн товчлуурууд нь Googlebooks дээр буцаж ирсэн боловч таны бодож байгаа байдлаар биш",
+    "summary": "Googlebooks-тэй харсан нийтлэг буруу ойлголт бол Хурдан оруулах, Google logo түлхүүрүүд шинэ байна. Тэд хэдхэн жилийн өмнө Chromebooks дээр анх удаа эхлүүлсэн тул тийм биш. Гэхдээ 2014 оны орчимд Googlebooks руу шууд муудсан ямар нэг шинэ зүйл бий...."
+  },
+  "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50": {
+    "title": "Бид аравдугаар сарын Ерөнхий сайдын 50 - аас доош $ хэдэн чухал наймаа олсон",
+    "summary": "Ерөнхий Өдрийн үйлдэлд орох нь хоосон түрийвч үүсгэх шаардлагагүй. Бид 25 доллараас доош насны хоёр гаран бараа олж мэдсэнтэй адил Амазоны 10-р сарын худалдаанд оролцоход 50 доллар буюу түүнээс бага ам .доллар байдаг бөгөөд тэдгээрийн олонх нь практик үнэ цэнийг санал болгодог. Бүх зүйл ердөө л..."
+  },
+  "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale": {
+    "title": "Roku's OLED TV нь Ерөнхий өдрийн турш $ 400 хүртэл хямдралтай бөгөөд 700 доллараас эхлэн",
+    "summary": "Дөнгөж 7 хоногийн өмнө бид Рокугийн шинэ (мөн эхний удаа) OLED телевизүүдийн 30 орчим хувийг тогшсон Амазон дээр нэг гэрээ хамрлаа. Гэрээ дууссан боловч 10-р сарын Ерөнхий өдрийн эцсийн өдрийг буцаана. 55 инчийн Pro цувралын OLED нь Амазон дахь 699.99 $ бөгөөд энэ нь жагсаалтаас 30 хувийг..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6": {
+    "title": "ChatGPT-ийн 'Ухаалаг UI’ шинэчлэлт нь зураг, диаграм, товчлуураар хариултаа хийдэг",
+    "summary": "OpenAI нь chatbot-ийг интерактив дүрслэлээр хариулах боломжийг олгодог ChatGPT-д шинэ Ухаалаг UI функцийг эхлүүлж байна. GPT-6-тай хамт бүх хэрэглэгчдэд үргэлжилж буй шинэчлэлт нь ChatGPT-д диаграм, график, маягт, текстийн хариултыг нэгтгэх боломжийг олгодог."
+  },
+  "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000": {
+    "title": "Эхний Nvidia RTX Spark зөөврийн компьютер нь $ 7,000 хүртэл өртөгтэй",
+    "summary": "Nvidia-ийн шинэ RTX Spark чипээр ажилладаг зөөврийн компьютерийн эхний массив нь өндөр чанартай MacBook Pros-тэй өрсөлдөх зорилготой бөгөөд тэдгээрт тохирох өндөр үнэ бүхий байдаг. Dell, Lenovo, MSI, HP, Asus-ийн хамгийн том Гадаргуугийн Зөөврийн компьютер Ultra ба RTX Spark зөөврийн компьютер $ 2,59 -аас бага эхлэх…"
+  },
+  "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi": {
+    "title": ".agent болон .agi халуун домэйн байх гэж байна",
+    "summary": "Олон жилийн дараа анх удаа ICANN гэж нэрлэгддэг Интернет корпораци нь дээд түвшний шинэ домэйныг өргөдлийг хүлээн авч байна. Эдгээр нь бүх URL-ийн төгсгөлд дагавар юм .com, .org, .pizza гэх мэт зүйлсийг та мэдэж магадгүй юм. ICANN ju…"
+  },
+  "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced": {
+    "title": "Microsoft-ийн Surface Laptop Ultra event-д зарласан бүх зүйл",
+    "summary": "Microsoft зүгээр л Сан Франциско дахь том Windows болон гадаргуу чиглэсэн түлхүүрийн товчлолыг боосон. Хамгийн том мэдэгдэл нь Нвидийн RTX Spark Arm суурилсан чипээр ажилладаг Surface Laptop Ultra-ийн шинэ зөөврийн компьютерийн талаархи хувилбарын дэлгэрэнгүй мэдээлэл байсан нь маргаангүй. Машин нь $ 2,599 -с эхэлнэ..."
+  },
+  "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence": {
+    "title": "Microsoft нь Копилотыг цонх болон таны файлууд дээр илүү хяналтыг өгч байна",
+    "summary": "Өнөөдрийн Windows болон Surface үйл явдалд Microsoft нь Copilot AI системдээ шинэчлэлт хийсэн бөгөөд энэ нь таны компьютер дээрх орон нутгийн файлуудад хандах, OS-ийн өнцөг булан бүрт үйл ажиллагаа явуулах чадварыг өгөх болно. Энэ бол Microsoft-ыг \"Hybrid Intelligence\" гэж нэрлэдэг санааны нэг хэсэг бөгөөд програм, хэрэгсэл r..."
+  },
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeHZ0WUJYU0QtenhKZXlFVWhIY2taQ1dCakNleGN1Ulp1Q3l1Ylk4V0Q1NDcyRDk1d2J6RXdUZzFIbnU5Rkc0Ykw2QVBQTGF3bVBuME85eTBPZW9QU3VnQVZWeW1POUFEVE5WTXlKY1ZMMjBXX2VpSVo2WV9uOXlqSm5aMzBYSlQ5N0hyLTVvb05jZXFyVlhpNEd5MXVNdy1Lc1VmQkhLVkV0QmJMd2NJeHVSMU51dU5Zc2FLTmRDUQ?oc=5": {
+    "title": "Антропик нь Хайку 5.5 загварыг хиймэл оюун ухааны үнийн дайн эрчимжиж байгааг илтгэнэ - Yahoo Finance",
+    "summary": "Антропик нь хиймэл оюун сангийн үнийн дайн нь Yahoo Finance-ийг эрчимжүүлдэг загварыг Хайку 5.5 харуулж байна"
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5": {
+    "title": "Антропик нь IPO - Reuters төлөвлөхөөс өмнө хиймэл оюун ухааны шугамыг өргөтгөх гурав дахь Клод 5.5 загварыг эхлүүллээ",
+    "summary": "Антропик нь IPO  Reuters төлөвлөсөнөөс өмнө хиймэл оюун ухааны шугамыг өргөтгөх гурав дахь Клод 5.5 загварыг эхлүүллээ"
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5": {
+    "title": "Антропик нь CLAUD HAIKU 5.5-ыг 90% API үнийг бууруулж, GPT-6 LUNA - VentureBeat-тай нийцүүлэн ажиллуулдаг",
+    "summary": "Антропик нь CLAUD HAIKU 5.5-ийг 90% API үнийг бууруулж, GPT-6 LUNA VentureBeat-тай нийцүүлэн  эхлүүлжээ"
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wOHF2ZzNBNk91NEdYZ05oZEU5enY1ZnEzNzY3cGptRzh2dUc2VGR2YnBSNFFBcGdqcWZJcWtPZnpQakJhZkV1cHc5My1Ea3k2OFJib3EzTXJXbDZidjI3RTNRdFkwU0pJSHdmRzdITUh6dzdBQWxkaTNTQXhkZkk?oc=5": {
+    "title": "Шилэнгүүдийг 129,000 сул талыг илрүүлснээр антропик кибер багуудад Клодын хандалтыг өргөжүүлдэг - Хакерын мэдээ",
+    "summary": "Шилэнгүүдийг 129,000 сул талыг илрүүлсэн тул антропик кибер багуудад Клод нэвтрэх боломжийг олгодог"
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHFDRnZGRFVzbHJ2T2pHTE5yR0pGWkNxTmxrWldxNkNONFVWSThUU2Zta3VJV0Ryd3BTcjRsV3V1QXRPZFZzS09weVdicWpxOEhSbFliTGVPVVU2X3BDZHhQSE9GdmJJcUlJcV9fSEtMaGdCYmdmYUtadDBnWnpTMUFUSFBMRGVDQjdhYWhLd0NQWmMxMERTSlhhUlc5RjFWc0gzWmZCVUVGaUhYN0MzMQ?oc=5": {
+    "title": "Антропик нь кибер компаниудын хамгийн сүүлийн үеийн AI загваруудад нэвтрэх боломжийг олгодог - Bloomberg.com",
+    "summary": "Антропик нь кибер фирмүүдэд хамгийн сүүлийн үеийн AI загварт хандах эрхийг өргөжүүлдэг  Bloomberg.com"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/nz-should-drug-test-people-on-jobless-welfare-ruling-party-says": {
+    "title": "NZ нь ажилгүй хүмүүст мансууруулах бодисын туршилт хийх ёстой, удирдлагын тал гэж хэлж байна",
+    "summary": "Шинэ Зеландын захирагч Үндэсний Тал нь 11-р сарын 7-ний өдөр сонгууль авах бол ажилгүйдлийн тэтгэмж хүлээн авсан хүмүүст санамсаргүй мансууруулах бодисын туршилтыг танилцуулах бөгөөд Ерөнхий сайд Кристофер Люксон хууль тогтоомжчдыг туршихад нээлттэй гэж мэдэгдэв."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-07/who-seeks-plague-details-missed-email-lets-china-get-jet-parts": {
+    "title": "Хэн тахлын дэлгэрэнгүй мэдээлэл хайж, хоцрогдсон имэйлийн үүднээс Хятадад Jet эд анги авахыг зөвшөөрдөг",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-07/who-seeks-plague-data-missed-email-lets-china-get-f-35-parts": {
+    "title": "Хэн тахлын мэдээллийг хайж, хоцрогдсон имэйл илгээгдсэнээр Хятадаас F-35 хэсгүүдийг авах боломжтой",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/features/2026-10-07/ai-crowds-out-fresh-grads-at-wall-street-tech-hubs-in-india": {
+    "title": "AI Энэтхэгийн Wall Street Tech Hubs дээр шинэ царцаана",
+    "summary": "Оюутнууд банкууд илүү их даалгавар автоматжуулахын хэрээр ажил олох гэж зүдэрдэг"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-07/who-wants-plague-info-missed-email-lets-china-get-jet-parts": {
+    "title": "Тахлын мэдээллийг хэн хүсч байна, Хэн алдсан имэйлийн жагсаалт Хятадад онгоцны сэлбэг, эд анги авахыг зөвшөөрдөг",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-07/high-court-coal-decision-firmus-ipo-diesel-prices": {
+    "title": "Дээд шүүхийн нүүрсний шийдвэр, фирмийн IPO, дизель үнэ",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-07/bloomberg-talks-thom-tillis-podcast": {
+    "title": "Блумберг яриа: Том Тилис (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-07/bloomberg-businessweek-daily-apple-s-smart-home-push-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: Apple-ийн Ухаалаг гэрийн товчлуур (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 8:17"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-07/bloomberg-businessweek-daily-fed-minutes-oil-flows-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: Тэжээлийн минут ба тосны урсгал (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 48:55"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-07/stocks-hit-a-wall-after-record-breaking-run": {
+    "title": "Бичлэг хийх ажилласны дараа хувьцаа хит",
+    "summary": "Баригдана уу."
+  },
+  "https://www.entrepreneur.com/business-news/5-books-that-redefine-success-beyond-the-hustle": {
+    "title": "5 Бүдүүлэг хэрээс илүү амжилтад хүрсэн ном",
+    "summary": "Амжилтад хүрэхийн жаргал гэж юу вэ? Амьдралын төлөө бус, харин амьд үлдэхийн төлөөх явдлын үндэс болсон тогтвортой, бүхэл бүтэн үйл ажиллагааг дахин тодорхойлдог таван ном бий."
+  },
+  "https://www.entrepreneur.com/building-a-business/the-culinary-director-at-a-unique-california-restaurant-reveals-the-key-ingredients-behind-its-needle-in-a-haystack-business-model": {
+    "title": "Калифорнийн өвөрмөц ресторан дахь хоолны захирал \"Зүү дахь зүү\" бизнесийн загварын гол орцыг илтгэнэ",
+    "summary": "Дебора Муллин Калифорнийн Гийлдсбург хотод байрладаг ургамлын ресторан болох Бяцхан Сент хотод цогц үйл ажиллагааг удирддаг."
+  },
+  "https://www.entrepreneur.com/entrepreneurs/after-35-years-in-the-college-admissions-business-1-red-flag-word-is-popping-up-more-than-ever": {
+    "title": "Коллежийн элсэлтийн бизнест 35 жил өнгөрсний дараа 1 улаан хуудастай Үг хэзээ ч илүү шидэж байна",
+    "summary": "Хамгийн сайн мэргэжилтнүүд үр дүнгээ баталгаажуулахгүй. Тэд чамд юу сонсох хэрэгтэйг хэлнэ."
+  },
+  "https://www.entrepreneur.com/business-news/survey-of-30903-professionals-shows-they-are-adopting-ai-despite-the-drawbacks": {
+    "title": "30 903 Мэргэжилтнүүдийн хийсэн судалгааг \"Би өөрийгөө хэн гэдгийг мэдэхгүй байна\"",
+    "summary": "Хөгжүүлэгчдийн ердөө 22% нь л AI-ийн ажлаа сэргээж, аз жаргалтай байдаг."
+  },
+  "https://www.entrepreneur.com/building-a-business/when-business-picks-up-the-instinct-is-to-hire-heres-how-that-can-backfire": {
+    "title": "Бизнес эрхлэгчийг сонгож авахлаар санаагаа хураан авах хэрэгтэй. Эвлэрэхийн тулд юу хийх хэрэгтэй вэ?",
+    "summary": "Бид хоёрыг ажилд авах чадвартай гэж бодсон. Бид мессенжерийг ажилд авав. Би дараах зүйлийг мэдэж авсан."
+  },
+  "https://www.entrepreneur.com/business-news/tech/sometimes-customers-want-ai-sometimes-they-want-humans-here-are-the-questions-founders-should-be-asking": {
+    "title": "Заримдаа үйлчлүүлэгчид хиймэл оюун ухааныг хүсдэг. Үүсгэн байгуулагчаас юу асуух хэрэгтэйг эндээс мэдэж авъя.",
+    "summary": "Тоглоомын болон санхүүжилтийн үүсгэн байгуулагчид хиймэл оюун ухааны хоёр баазад хуваагдаж, хоёулаа ялалт байгуулж байна. Аюултай газар нь хагас автомат дунд байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/marketing/meta-ad-prices-and-social-media-burnout-keep-rising-here-are-3-smarter-ways-to-reach-consumers": {
+    "title": "Мета зар сурталчилгааны үнэ, нийгмийн хэвлэл мэдээллийн хэрэгслийг шатаах үргэлжилж байна. Үйлчлүүлэгчдэдээ туслах 3 энгийн аргууд энд байна.",
+    "summary": "Америкчуудын 47 хувь нь нийгмийн апп-ыг стресстэйгээр устгасан тул бизнес эрхлэгчид анхаарал төвлөрүүлэх шинэ арга зам хэрэгтэй. Энд ажилладаг гурван стратеги байна."
+  },
+  "https://www.entrepreneur.com/business-news/high-earners-are-betting-they-can-do-better-than-maxing-out-their-401ks": {
+    "title": "«Агуу их худалдан авагчид 401s» - оосоо илүү сайн амлалт өгдөг",
+    "summary": "Сайн цалинтай аврагчид мөнгөө нэмэгдүүлэхийн тулд өөр газар хайдаг."
+  },
+  "https://www.entrepreneur.com/business-news/these-founders-are-betting-your-bed-will-diagnose-you-before-your-doctor-does": {
+    "title": "Эдгээр үндэслэгч таныг орны ирмэг дээрээ бооцоо тавьдаг бол эмчийнхээ өмнө оношлох болно",
+    "summary": "Нөхөр эхнэр хоёр болох Александра Затарин хоёр “унтах фитнесс” -ийг 1.5 тэрбум $ компанид хэрхэн бий болгосон бэ?"
+  },
+  "https://www.entrepreneur.com/business-news/self-checkout-was-supposed-to-save-stores-time-and-money-turns-out-it-does-neither": {
+    "title": "Дэлгүүрийн цаг, мөнгийг хэмнэх зорилгоор өөрийгөө шалгах арга хэмжээ авсан юм. Тэр нь ч ялгаагүй.",
+    "summary": "Жижиглэн худалдаачид яваандаа худалдан авагчид ямар байгааг мэдэж авдаг. Өөрийгөө шалгах нь хамгийн муу."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/lg-energy-profit-beats-estimates-on-energy-storage-system-demand": {
+    "title": "LG Энергийн Ашиг Эрчим хүчний Хөргөлтийн Системд таамаглал өгнө",
+    "summary": "LG Эрчим хүчний Шийдэл ХХК нь Өмнөд Солонгосын зай үйлдвэрлэгч АНУ-ын үйлдвэрлэлийн урамшуулал, эрчим хүчний хайгуулын системийн өсөн нэмэгдэж буй эрэлт хэрэгцээнээс ашиг хүртсэн тул гурав дахь салбарын урьдчилсан ашиг нь хоёр дахин илүү байсан гэж мэдээлсэн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates": {
+    "title": "Азийн нөөцийн тоосонцор инфляцийн асуудлууд: Зах зээлийн бооно",
+    "summary": "Өндөр үнээр газрын тосны үнэ инфляци үүсэж, технологийн хувьцааг шинэчилсэн дарамтанд орсноор Азийн хувьцаа буурч, Wall Street дээр хянах хөдөлгөөн буурчээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/kioxia-s-weighting-on-topix-index-to-rise-after-jpx-review": {
+    "title": "JPX-ийн тойм хийсний дараа $ 13 тэрбум инкловацийн найдвараар өргөгдсөн Киокси хувьцаа",
+    "summary": "Киоксиа Холдингс Корп.-ийн хувьцаа Японы бирж Group Inc-ийн жинг нэмэгдүүлэхээс хойш 4% -иар өссөн бөгөөд индексийн идэвхигүй цохилтуудын ¥ 2 их наяд (12.7 тэрбум ам .доллар) таамаглаж буй хүлээлтийг нэмэгдүүлэх боломжтой гэж мэдэгджээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/asian-wheat-buyers-cut-forward-purchases-as-war-whipsaws-markets": {
+    "title": "Азийн Буудайн Худалдан авагчид Дайн Whipsaws зах зээлээр урагшлах худалдан авалтыг бууруулдаг",
+    "summary": "Азийн улаан буудайн тээрэмчид дэлхийн хамгийн өндөр экспортын бүс нутгаас бараа бүтээгдэхүүнийг хагалдаг Хар тэнгисийн хагарал бүхий үнийн хувьд урагшаа зүсэлт хийж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/japanese-stocks-fall-as-inflation-fears-hit-cyclical-shares": {
+    "title": "Японы хувьцаа инфляцийн айдас түгшүүрээр унах",
+    "summary": "Японы хувьцаа хоёр дахь өдөр унаж, Wall Street борлуулалтыг үргэлжлүүлэн өндөр газрын тосны үнэ нь инфляцийг сэргээж, дээд түвшний ойролцоо тэгшитгэлийг жинлэнэ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/oasis-urges-nidec-to-explore-privatization-on-delisting-risk": {
+    "title": "Осис нь Nidec-ыг Худалдан авалт хийх, Зөрчилдөх эрсдэлийн талаар сэрэмжлүүлэг өгөхийг уриалсан",
+    "summary": "Японы цахилгаан мотор үйлдвэрлэгч Nidec Corp нь идэвхтэн хөрөнгө оруулагчийн дуудлага худалдааны блок дээр өөрийгөө тавихыг уриалж байна. Найдвартай байдал нь удаан хугацааны нягтлан бодох бүртгэлийн дуулианаас сэргийлж чадах чадвараа алдаж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/latest-oil-market-news-and-analysis-for-date": {
+    "title": "Ойлын зах зээлийн хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ",
+    "summary": "Цагаан ордноос Пентагоныг сонгуулийн өмнөхөн цаазаар авах боломжтой Ирантай тулалдах арга хэмжээг авахыг хүсжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/worst-performing-philippine-bonds-face-peso-inflation-risks": {
+    "title": "Филиппиний Бондын хамгийн муу үзүүлэлттэй Песо, Инфляцийн эрсдэл",
+    "summary": "Филиппиний холбоо, Ираны дайн эхэлснээс хойш шинээр гарч ирж буй зах зээлд хамгийн муу үзүүлэлт нь илүү хурдацтай инфляцийн хувьд илүү их алдагдал, гулсах песо, илүү зөөлөн дуудлага худалдааны эрэлт мэдрэмжэд нөлөөлөх болно гэж стратегийн мэргэжилтнүүд хэлэв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/fortescue-flags-lower-iron-ore-sales-as-china-dispute-drags-on": {
+    "title": "БНХАУ-ын НУМ-ын маргааныг төмрийн хүдэр борлуулалтад оруулсан гэж Фортескью хэлэв",
+    "summary": "Төмрийн хүдэр олборлогч Фортескью ХХК нь урт хугацааны нийлүүлэлтийн гэрээ, үнийн хэлэлцээрүүд үргэлжилсэн талаар улсын дэмжигдсэн худалдан авагч China Mineral Resources Group Co. компанитай нүүр тулсан борлуулалтын унасан гэж хэлсэн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/gold-near-nine-week-low-on-prospects-for-rate-hike-by-year-end": {
+    "title": "Алт ойролцоо есөн настай Бага алт Жилийн эцэст ханшийн өсөлтөд хэтийн төлөвтэй байна",
+    "summary": "Энэ жилийн дайнаас үүдэлтэй инфляцийн асуудлууд болон хөрөнгө оруулагчид АНУ-ын хурдыг дор хаяж нэг удаа нэмэгдүүлэх зорилгоор ДЭМБ-ын хоолойд есөн долоо хоног орчим хурцадмал байдал адил худалдаалагдаж байсан алт."
+  },
+  "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1": {
+    "title": "SpaceX зээлийн эрсдэл нь зээл олгохдоо санаа зовниж эхэлдэг",
+    "summary": "Elon Musk-ийн сансар судлалын бүлгийг хянах кредит анхдагч хоцрогдол нь Nvidia чипс худалдаж авахад $ 40 тэрбум ам .доллар босгох гэж байгаа FT тайланд дараах болно."
+  },
+  "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1": {
+    "title": "Хятад улс эрчим хүчний баялаг төвүүдэд хиймэл оюун ухааны төвүүдийг бий болгох уралдаанууд",
+    "summary": "Гурван цувралын эхний тайланд дотоод Монгол улс хэрхэн үндэсний асар их хиймэл оюун санааны эрмэлзлийн хөдөлгүүрийн өрөө болсон тухай"
+  },
+  "https://www.ft.com/content/a92b9971-b32d-43f5-b078-a31beea62621?syn-25a6b1a6=1": {
+    "title": "Flydubai халдлагын онлайн амьдрал",
+    "summary": "1073 нислэгийн багийн бүрэлдэхүүн хэсэг нь ‘мандлын‘ руу татаж, үндэстний үзэл бодлыг харуулсан"
+  },
+  "https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1": {
+    "title": "Ираны цочролыг дэлхий дахинд хэр удаан тэсвэрлэх вэ?",
+    "summary": "Газрын тосны хангамж, газрын тосны үнэ, дэлхийн эдийн засагт алдагдаж байгаа нь өнөөдрийг хүртэл ер бусын байдлаар зохицуулах боломжтой болсон"
+  },
+  "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1": {
+    "title": "АНУ-ын Засгийн газрын бонд 10 жилийн сангийн дуудлага худалдаагаар тогтвортой байна",
+    "summary": "Франц, итали, Их Британи улсын засгийн газрын холбоо тогтворгүй арилжааны дарамт шахалтад өртдөг"
+  },
+  "https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c": {
+    "title": "АНУ-ын ипотекийн бонд яаж Сангийн язгууртны «хор хөнөөл» учруулж болзошгүй вэ?",
+    "summary": "Бондын зах зээлийн санал хүсэлтийн машин дахь бага зэрэг ког"
+  },
+  "https://www.ft.com/content/ea58254a-947e-4e87-86d2-95ffbd8a1c9d?syn-25a6b1a6=1": {
+    "title": "Трамп Балканы аяллын дараа кампанит ажлын зөвлөхүүдээ \"дуусгах\" гэж үздэг",
+    "summary": "Ерөнхийлөгч Крис ЛаСивита, Жеймс Блэйр нар дундаас өмнө сар хүрэхгүйгээр дэмжсэн оросын засгийн газрыг удирдан чиглүүлж байгаа нь \"зөрчил\" байж болзошгүй гэж хэлсэн"
+  },
+  "https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1": {
+    "title": "Samsung-ийн ашиг нь AI чипийн эрэлт дээр $ 80бн-ээс 9 дахин ихэсдэг",
+    "summary": "Дэлхийн хамгийн том санах ойн чип үйлдвэрлэгч гурван сараас есдүгээр сар хүртэл рекорд орлого бичдэг"
+  },
+  "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1": {
+    "title": "Хятад улс эрлийз автомашины экспортод сайн дурын муруй гаргах хүсэлтийг ЕХ-ны зогсооно",
+    "summary": "Европын комисс ноцтой худалдааны мөргөлдөөнийг бий болгож болзошгүй ихээхэн хэмжээний ачаа тээвэрлэлтийг хянах түр зуурын хязгаарыг харгалзан үзсэн"
+  },
+  "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories": {
+    "title": "Өсөлтийн ургац 2026 оны хөрөнгийн зах зээлийн өмнөх ялагчийг сүйтгэж байна",
+    "summary": "Сангийн намрын ургацыг амархан анзаарахгүй байж болох хөрөнгийн зах зээлийн хэсгүүдийг түлхэж эхлээд, ялангуяа гялалзсан технологийн жижиг компаниудад гэрэл гэгээтэй болгосон."
+  },
+  "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories": {
+    "title": "Дээд ургац нь чухал зүйлээс бусад хөрөнгийн зах зээлийн бүх чиглэлд татвараа авдаг",
+    "summary": "Технологи бол Есдүгээр сарын 1-нээс хойш олсон S&P 500-ийн 11 салбаруудын цорын ганц нэг бөгөөд Сангийн яам олон жилийн туршид авирсан байна."
+  },
+  "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories": {
+    "title": "Сонголт худалдаачид хүүгийн эрс бууралтын талаар мөрий тавьж байна",
+    "summary": "Сүүлийн хувилбаруудын үйл ажиллагаа нь урт хугацааны бонд, хэрэгслүүдийн байршлыг нэмэгдүүлэхийг заадаг."
+  },
+  "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories": {
+    "title": "Fed's минут нь хэд хэдэн хүүгийн намдаах сонирхолгүйг харуулдаг",
+    "summary": "Ихэнх албан тушаалтнууд инфляци хэвээр байлаа."
   }
 }
