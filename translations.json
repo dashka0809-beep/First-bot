@@ -4178,5 +4178,297 @@
   "https://www.ft.com/content/c163a470-e73f-4fdb-91fb-426004b21f22?syn-25a6b1a6=1": {
     "title": "Трампын ахлах газрын охин Република Српска хотын лобби хийхээр ажилладаг",
     "summary": "Susie Wiles-ийн охин нь оростой Балканы байгууллагын хамгийн сүүлийн үеийн Цагаан ордонд холбогдсон зөвлөх юм"
+  },
+  "https://rea.tools/": {
+    "title": "БНҮ-ийн урвуу – Инженерийг юутай ч байсан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://deno.com/blog/cloudflare": {
+    "title": "Cloudflare нь Дено-г авдаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://minesweeper.mikelacher.com/": {
+    "title": "Гурвалсан-A Minesweeper",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://oxide.computer/blog/our-445m-series-d": {
+    "title": "Манай $ 445M цуврал D",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://carrierexplode.com/": {
+    "title": "HN: Carrier-Explode: Iphone, Pixel болон Galaxy тээвэрлэгчийн тохиргоог задалсан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/": {
+    "title": "23-ийн 11 нь Гол нээлттэй эхийн төсөл 1 эсвэл 2 хүн дээр ажиллана",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://iminafleeting.com/": {
+    "title": "Уучлаарай, би цуглаанд ирсэн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://typesafe.ai/blog/series-ai": {
+    "title": "Typesafe AI нь 7.5В доллараар 870 м доллар нэмэгддэг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306": {
+    "title": "YouTuber-ийн тэмдэгтүүд нь хөлөг онгоцыг дагахын тулд сүрэг хэлбэрийн камер барьсаны дараа түүнийг зочилсон гэж хэлдэг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/": {
+    "title": "Архивууд дээр хиймэл оюун ухааныг зааж өгөхөд мартагдсан солир, алдагдсан риног алдсан болон бусад зүйлсийг олжээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/": {
+    "title": "Антропик нь түүний AI-ийн агентуудыг найдвартай удирдаж чадахгүй байна. Үүний оронд шууд интернетээс түүний дотоод нотолгоог тасалж байна",
+    "summary": "Антропик \"бидний бүх дотоод үнэлгээнд\" шууд нэвтрэхээ больсон \"гэжээ."
+  },
+  "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/": {
+    "title": "Механик гарыг урт хугацаанд",
+    "summary": "Keychron нь 2017 онд Kickstarter дээр ажилласныхаа дараа нэртэй болсон. Өнөөдөр энэ нь утгын K2 загвар болон бусад төрөл бүрийн хувилбаруудыг санал болгож байна, тэр дундаа, бүх модон биетэй."
+  },
+  "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/": {
+    "title": "Орлогын бус хиймэл оюун ухааны загвар үйлдвэрлэгч Жев ажилласны дараа ердөө 7,5В доллараар үнэлэгддэг $",
+    "summary": "Jev-д хэрэглэгч болон томоохон корпорацууд маш их сэтгэл хангалуун байдаг нь TypeSafe-ийн хэлснээр энэ нь маш хурдан ажилладаг, LLM-ээс хамаагүй бага токенуудыг ашигладаг."
+  },
+  "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/": {
+    "title": "Антропийн хиймэл оюун ухааны загвар Филадельфийн цагдаагийн газарт хуурамч аллага явуулсан",
+    "summary": "Энтропик энэ зан үйлийг AI нь хуурамч зөвлөгөө өгөхөөс хойш хоёр сар орчмын дараа олж чадаагүй байна."
+  },
+  "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/": {
+    "title": "Батерей нь одоо мэдээллийн олон төвд хэрэглэгддэг байгалийн хийн турбинуудаас хямд",
+    "summary": "Дата төвийн өсөлт нь үнэ цэнэтэй тул батерей нь байгалийн хийн турбинаас хямд болжээ."
+  },
+  "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/": {
+    "title": "TechCrunch 2026: Гаммагийн Грант Ли, Хөдөлгүүрийн Elia Wallen, GV-ийн Кристал Хуанг анхны 1000 үйлчлүүлэгчдээ бууж өгөх",
+    "summary": "Гамма, Хөдөлгүүр, Google Ventures-ийн удирдагчид TechCrunch 2026-тэй хамтран анхны үйлчлүүлэгчдээ хэрхэн авах талаар ярилцдаг. Одоо бүртгүүлж $ 100 хүртэл хадгалах боломжтой. Хоёр дахь дамжуулалтыг 50% хөнгөлөлттэй авна уу."
+  },
+  "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/": {
+    "title": "LumenUs уй гашуутай үед баримт бичгийг автоматжуулахад тусалдаг",
+    "summary": "«Хайртай нэгэн тань өнгөрөх өдөр та мөн төслийн менежерийн хүндэтгэлийн тэмдгийг танаас ямар ч ойлголтгүй байсан төслийнхөө төлөө авах болно» гэж үүсгэн байгуулагч Сара Ташакориниа хэлжээ."
+  },
+  "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/": {
+    "title": "Амазон болон бусад хүмүүс дата төвийг нууцлахыг хийдэг. Итгэлцлийг бий болгоход хангалттай юу?",
+    "summary": "Амазон хэлэхдээ, энэ оны эхээр Microsoft-с ийм алхам хийсний дараа орон нутгийн засаг захиргаатай дата төвийн хэлэлцээр хийхдээ NDA-ийг ашиглахаа зогсооно гэсэн байна. Нууцлал нь олон зуун эсэргүүцэлтэйгээр санал болгож, батлагдсан м олон зуун эсэргүүцэлтэйгээр хиймэл оюун ухааны дэд бүтцийн эсрэг олон нийтийн үсрэлтийг өдөөж байна..."
+  },
+  "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/": {
+    "title": "Дану Роботууд илүү сайн роботыг бий болгохын төлөө тэмцдэг",
+    "summary": "Дану үүсгэн байгуулагч Эми Ма хог хаягдлыг дахин боловсруулах илүү дээр арга зам дээр зургаан жил ажиллаж байна."
+  },
+  "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/": {
+    "title": "AI-ийг хүн шиг эмчлэхэд бид тусалж чадахгүй байна. Гэхдээ бид яах ёстой вэ?",
+    "summary": "\"Бид хамгийн эртний биржүүдтэй холбоо тогтоох замаар татахдаа энэ нь бидэнд хамаатай гэдэгт бид итгэж байна\" гэж доктор Шерри Туркле бичжээ. «Хариуд нь бид үүнд санаа тавина»."
+  },
+  "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback": {
+    "title": "Хуучин RAM буцаж байна",
+    "summary": "CPU-ийн гаргагчид санаандгүй RAM-ийн үнийн өсөлт нь олон хүний хувьд компьютерээ шинэчлэхэд хүндрэл учруулж байгааг анзаарсан. Шийдэл? DDR4 хамгийн сүүлийн үеийн RAM руу буцах. Intel болон AMD нь хуучин, илүү хямд төрлийн санах ойг дэмждэг шинэ CPU-ууд боловсруулж байна. Баасан гарагт Гигаб…"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip": {
+    "title": "Антропикийн AI нь Филадельфийн цагдаагийн газарт шийтгэлгүй хүн амины хэргийн талаар хуурамч зөвлөгөө өгчээ",
+    "summary": "6abc-ийн тайланд антропик AI загвар нь Филаделфийн Цагдаагийн хэлтэст хүн амиа алдаж буй тухай худал мэдээлэл (PPD) өгсөн байна. Баасан гаригт гарсан мэдэгдэлд PPD мэдээлснээр хиймэл оюун ухааны загвараар илгээх PhillyUnsolvedMurders.com-ээр долдугаар сарын 18-нд..."
+  },
+  "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude": {
+    "title": "Охайо мужийн блогч Шрек нүцгэнийг Сенатор руу илгээсэн гэж дарамтаар шийдсэн",
+    "summary": "Шекийн дүр зургийг Бүгд Найрамдах Улсын Сенатор руу явуулсны дараа Охайо мужийн улс төрийн блогч харилцаа холбооны дарамтанд буруутай гэж олжээ. Баасан гаригт шүүгч улс төрийн тайлбарын блог эзэмшигч DJ Бирнесийг захиалж \"Роусер\" нь 200 $ торыг төлөх ёстой гэжээ."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos": {
+    "title": "‘Цэвэр ариун байдал’: Математикчид OpenAI-ийн хамгийн сүүлийн уналтыг ойлгохын тулд олон жил хэрэгтэй байна",
+    "summary": "«Сэтгэлээр унасан». \"\" Цэвэр солиотой \"гэсэн тайлбарыг үзүүлсэн бөгөөд тэд Математикийн үр дүнг мэдрэхийн тулд Математикчаас илүү олон арван математикч нар\" The Verge \"-тэй ярилцахаар болсон. OpenAI нь гэнэт унасан o..."
+  },
+  "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air": {
+    "title": "Брэндан Карр хэлэхдээ зурагт сүлжээ олон нийтийн гүйцэтгэлийг цацаж чадах эсэхийг Пит Хейгетт шийдэх болно",
+    "summary": "СЗХ-ны дарга Брендан Карр хэлэхдээ, телевизийн сүлжээ Форт Хоод сум могой Нидал Хасаныг ташуурдахаар төлөвлөсөн гүйцэтгэлийг гаргах эсэхээс хамааран Батлан хамгаалах нарийн бичгийн дарга Пит Хегсет руу хойшлуулна гэжээ. Пентагон гүйцэтгэлийг амьдаар цацах болно гэж хэлсэн бөгөөд энэ нь гарч ирнэ..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai": {
+    "title": "Никон микроскопын видео өрсөлдөөний ялагч генерацийн AI-г ашиглах эрхгүй",
+    "summary": "\"Хөдөлгөөнт тэмцээнд эхлээд жижигхэн ертөнцөд ялалт байгуулсан\" зурагт AI-ийн өрсөлдөөний дүрмийг биелүүлээгүй гэж Никон хэлэв. \"Доктор Ning Xu-ийн анхны анхны байр видео бичлэгийг\" бяцхан, үс шиг бүтэц болох CILIA \"гэж үзүүлэв..."
+  },
+  "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week": {
+    "title": "Дараагийн долоо хоногт Fitbit Edge хөөргөх Google teases",
+    "summary": "Дараагийн даваа гаригт болсон Fitbit Edge-ээ бооход Google бэлэн байгаа бололтой. X дээр нийтлэлд Google фитнес тракторын тал нь ямар харагдаж байна вэ зургийг байршуулсан, тайлбарыг нь: \"ЭРҮҮЛ МЭНДИЙГ ХАЯГДАА ОРОЛЦОЖ БАЙНА. 10.12.26.\" Fitbit Edge-ийн цөөн тооны гоожиж байна h..."
+  },
+  "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale": {
+    "title": "Samsung Galaxy S26 Ultra нь Ерөнхий өдрийн дараа $ 950 хүртэл буурсан байна",
+    "summary": "Amazon нь Samsung Galaxy S26 Ultra хар өнгөтэй бөгөөд $ 949.99 хүртэл 256GB-ийн хөнгөлөлттэй бөгөөд ердийн үнээс эрүүл хөнгөлөлт $ 1,399.99 хүртэл байна. Энэхүү утасны функц нь таны бүх дэлгэц нуух эсвэл зүгээр л хэсэг, сонгоод тохируулж болох нууцлалын дэлгэц юм."
+  },
+  "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak": {
+    "title": "Амазоны шинэ төрх гэрэл гоожсон асуудал гарч байна",
+    "summary": "Зарим хэрэглэгчид харанхуйг хэрэглэхэд илүү тод илэрдэг шинэ сэнстэй гэж мэдээлж байна. Хамгийн сүүлийн үеийн суурь загвар хэлбэрийн сэнс нь уян хатан өнгөтэй бөгөөд гялалзсан харагдахуйц харагдана... гэрэл асаалттай байх үед. Гэхдээ бүх зүйл өөрчлөгдөж болно…"
+  },
+  "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad": {
+    "title": "Microsoft шинэ амьдралыг Windows болгон төрүүлэхийг хичээдэг",
+    "summary": "Майкрософт 11 таван жилийн өмнө Windows-ийг шинэчлэх ажил хийгдэж байгаа үйлдлийн систем шиг санагдсан. Майкрософт Windows 12-д анхаарлаа хандуулснаар эдгээр засварууд бүрэн болно гэж та бодож байна. Үүний оронд Windows 11 нь..."
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ramZhSWMyQlZTRHhlTjVYOXNuNkw0Ty1RYkF4dTQ5aVZtSUgtRjQ5SWpkTllONG5VYlVHaS1Mb1VsRXpTT2dvUUZ0RmxYczVWT0E0c0VvN3h3WW8?oc=5": {
+    "title": "Антропик хэрэглэгчийг хиймэл оюун ухааны системээс нь \"хэрцгий\" байхаас хориглодог - BBC",
+    "summary": "Антропик хэрэглэгчийг хиймэл оюун ухааны системүүддээ \"харгис хэрцгий\" байхаас хориглодог BBCAnthropic нь Клодод руу \"доромжилсон эсвэл хэрцгий зан үйл\" -ийг хориглодог Хамгийн том өөрчлөлт Антропик нь зүгээр л Клодын-ийн дүрэм  Business Insider-д хийсэн"
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZEVTbmhab3RBQ25rOVd6cDg2akF0NlUwbVJnM1RjalBjd2ZlYWd5Q25UU2I3TjNUTno3WERteFQyTGtBb1UxTmZtOHpTZFZpbC1LMlFyMXVsbS1kWDUwVHM3aGtSWjA1c3FMU3JVcjZrRDZtQlViT3hEd1ZGQQ?oc=5": {
+    "title": "Бодлогогүй үйлдлүүдийг дүгнэж, дотоод хэрэглээндээ судлах нь антропик",
+    "summary": "Бидний дүгнэлт хийхдээ санаандгүй загвар үйлдлүүдийг судлах, антропик ашиглах  нь"
+  },
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnNQNmNTNVdsTjFlRHpYcmhLN2pZQjZQdFB6ZWEyUkt0OTZ6R1dUSlR2SnV4VWxIMm1vOURfUnM0SnJiSXI3N3R4bDBqTjYyQmdSaDFUVXJmM1Y1c29INVRJVTBPRGkwZUdrTTdJTVI4RkFQb1Q1bFRudFJwdFpsc2p2SFVuaHBxNE5mR3BHZzl4d2VsdG5Hd2xocURSbVlxQnJGN1BYM1B0d0g5QVBj?oc=5": {
+    "title": "AI систем нь Филаделфи цагдаа нарт хуурамч аллага хүлээлгэхийг тушаадаг - Вашингтон шуудан",
+    "summary": "AI систем нь Филаделфи цагдаа нарт хуурамч алуурчин үзүүрийг хүлээлгэн өгнө The Washington Post"
+  },
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXhCYjlxWDNfb1ltVFFTVTkxdjdiS2p0RlB2UjU1a3BlaVNqbUM0WVlIS2dOdV9JaVE0ZHI3VFFzVkZJZU5PZHVieTRMVU1MWFNITzNUZVg4ZHRrQ3Z4cThUUlpQeHZ0QnRSb3M2RjR0OXhnbnhQbHBiX1EtRnBkTjZfUl9ENTROZ0E1aERQOF9ZcUxUdUF4Tl9YWkx0VkUtQnRWaDVoVWZmREthbFJMYnJ3?oc=5": {
+    "title": "Антропик хослол Эхлэхээс хойш хоногийн дараа үнэгүй Клодын гарааны сандал - Forbes",
+    "summary": "Антропик хосууд Forbes-ийг эхлүүлснээс хойш хоногийн дараа үнэгүй Клодын гарааны сандал"
+  },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUb2lCZXNRbzZmM0JRTmk2WE9ONlBmNnZFTFhkczJNZnREOWtzRVNwdkU1eUpld3JpNl9ZXzBJYjBwM0RYWkdINzNRN2JJWjF3MEFrd1FYZTE1Q2pZZlVtaU1ERGkxMjVja3JuUzdLTWFzTUZJUVl4Qg?oc=5": {
+    "title": "Антропийн Бурхны цогцолбор - Нью - Йорк сэтгүүл",
+    "summary": "«Энтропик» Бурхны цогцолбор  Нью Йоркийн сэтгүүл"
+  },
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3IyOXRJbWpGdFQ1NDhGdjZXNm9udktlLTM0Tm8wYXlyVWs0T082c3lRZ0tyQzI5NXBCcmhIV2ZTQlVVY3o2dU1pOG1pTDFrWF92YmNsREEwd0tUd3gwOXNPR204ckVlWTF6d3FLWS1WdGtZaV9TSm9BTXlSN0pseU8tRHZabGNmOVEwUXIxVDlYMHhtWUR0aDlSQkdmZVd6ZHJpS1ZaREtESnRrN2wtUmZmeEJWVW0yck9sUFhodTQ1LWVpcHlFdlRwTTF3S04yR2c?oc=5": {
+    "title": "Microsoft болон Антропик тоглох эхлэх теннисний $ 17,600 Клодын төлбөр - Бүртгүүлэх",
+    "summary": "Microsoft болон Антропик тоглох нэхэмжлэх теннис гарааны төхөөрөмжийн $ 17,600 Клодын төлбөр Бүртгүүлэх"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-10/trump-putin-diesel-deal-cat-2-isaias-making-landfall-on-gulf": {
+    "title": "Трамп-Путин Дизель хэлэлцээр, Муур 2 Исиас Персийн булан дээр газар хөдлөлтийг бий болгосон",
+    "summary": "Эх сурвалж: Блүүмберг, 6:35"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-10/singapore-s-token2049-crypto-conference-sees-a-more-muted-grown-up-atmosphere": {
+    "title": "Сингапурын Токен2049 крипто чуулган нь илүү дуугаралт, өсөн нэмэгдэж буй агаар мандлыг хардаг",
+    "summary": "Сингапурын жил бүр зардаг крипто ханын хийд нь Уолл гудамжтай нэгдэж байх тусам энэ нь илүү уян хатан санагддаг ажээ."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-10/bloomberg-hot-pursuit-corey-alexander-podcast": {
+    "title": "Bloomberg Hot Pursuit!: Corey Alexander (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-10/trump-putin-diesel-deal-cat-2-isaias-making-landfall-more": {
+    "title": "Трамп-Путин Дизель хэлэлцээр, Муур 2 Исиас газар хөдлөлтийг бий болгох, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 6:22"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-10/chiu-chow-meets-japanese-cuisine-in-hong-kong-s-hot-new-fusion-concept": {
+    "title": "Чой Чой Хонг Конгийн халуун шинэ мөөгөнцрийн концепцид япон хоолтой танилцсан",
+    "summary": "Хаашаа идэхээ мэдэгдэхийн тулд бид хоолны дүрмийг хамрах болно — нүх хавсралтаас эхлээд гурван Мишелин одтой байгууламж хүртэл. Бүх дүгнэлтийг эндээс уншина уу."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/plan-to-broadcast-fort-hood-killer-s-execution-spurs-criticism": {
+    "title": "Телевизийн нэвтрүүлэгт \"шийдвэр гаргадаг\" гэж Трамп хэлдэг",
+    "summary": "Ерөнхийлөгч Дональд Трамп 2009 онд батлан хамгаалах нарийн бичгийн дарга Пит Хегетийн санааыг хоёр талын шүүмжлэн, 13 хүний амийг хөнөөж байсан асан армийг цаазаар авахаар төлөвлөж байгаа эсэхээ үргэлжлүүлэн шийдвэр гаргаж байгаагаа харуулж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-09/trump-russia-to-release-diesel-plan-to-overcome-energy-obstacles": {
+    "title": "Трамп:Орос Дизель-г суллах, эрчим хүчний бэрхшээлийг даван туулах төлөвлөгөөтэй байна",
+    "summary": "Эх сурвалж: Блүүмберг, 6:17"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-09/trump-russia-to-release-diesel-overcoming-state-energy-obstacles": {
+    "title": "Трамп:Орос Дизель чөлөөлөх, төрийн эрчим хүчний бэрхшээлийг даван туулах",
+    "summary": "Эх сурвалж: Блүүмберг, 5:34"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-09/iran-said-to-have-preserved-its-missile-factories-evening-briefing-americas": {
+    "title": "Иран пуужингийн хүчин зүйлсээ хамгаалсан гэж хэлсэн.",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-09/bank-of-canada-rate-hike-bets-fade-after-worst-year-to-date-job-loss-since-2020": {
+    "title": "Канадын Банкнаас хойшхи 2020 оноос хойшхи хамгийн аймшигтай ажлын байрны алдагдлын дараа алдсан үнийн дүнгээ алдсан",
+    "summary": "Мөн: Аритзийн сурталчилгааны өдөр"
+  },
+  "https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/": {
+    "title": "Пайтон нь залхуу импорттой хурдан эхлүүлэх",
+    "summary": "Артикулын URL: https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50027895 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap/": {
+    "title": "Винод Хосла оюун санааны сэргээгдэх бейсболын хивсийг бий болгох AI стартапыг дэмждэг",
+    "summary": "Артикулын URL: https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50022263 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://twitter.com/lemire/status/2108525803843580302": {
+    "title": "Пайтон нь залхуу импорттой хурдан эхлүүлэх",
+    "summary": "Дугаар зүйл URL: https://twitter.com/lemire/status/2108525803843580302 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50019337 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://www.youtube.com/watch?v=OOnVEiPiQHE": {
+    "title": "Нэг нь Америкт бүх машиныг мөрдөж эхэлсний дараа [видео аялал]",
+    "summary": "Дугаар зүйл URL: https://www.youtube.com/watch?v=OOnVEiPiQHE Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50017375 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://twitter.com/claudeai/status/2108404561413349695": {
+    "title": "Антропик татах програмыг эхлүүлэхийг зогсоох хүлээгдэж буй саналуудыг цуцлах",
+    "summary": "Артикулын URL: https://twitter.com/claudeai/status/2108404561413349695 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50016572 Оноо: 6 # Сэтгэгдэл: 1"
+  },
+  "http://paulbuchheit.blogspot.com/2007/03/my-startup-path.html": {
+    "title": "Миний гарааны зам (2007)",
+    "summary": "Артикулын URL: http://paulbuchheit.blogspot.com/2007/03/my-startup-path.html Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50015195 Оноо: 7 # Сэтгэгдэл: 0"
+  },
+  "http://philip.greenspun.com/business/startup-tips/": {
+    "title": "Гарааны бизнесүүдэд зориулсан зөвлөмж (2007)",
+    "summary": "Артикулын URL: http://philip.greenspun.com/business/startup-tips/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50015083 Оноо: 5 # Сэтгэгдэл: 0"
+  },
+  "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc": {
+    "title": "Квантын тооцооллын гарааны Oratomic үнэ цэнэ $ 5.4B серийн дараа",
+    "summary": "Артикулын URL: https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50010291 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/business-news/jeff-bezos-has-an-optimistic-vision-for-the-future-artificial-intelligence": {
+    "title": "Жефф Безос ирээдүйн тухай үзэлтэй, харин бусад удирдагчдын зөгнөлийг яг эсрэг нь хэлж байна",
+    "summary": "Зарим удирдагч ажилгүй байхыг сэрэмжлүүлдэг ч үр ашиг нь өндөр байдаг гэж Bezos таамаглаж байсан ч, гэр бүлээ тэжээхийн тулд чадах бүхнээ золиосолж чадахгүй байж болох юм."
+  },
+  "https://www.entrepreneur.com/building-a-business/im-a-dad-who-grew-my-company-from-0-to-20-million-in-year-1-owlet": {
+    "title": "Би бол компаниа $ 0 -аас жилд 20 сая $ хүртэл анх авсан аав юм. Эдүгээ олон сая нялх хүүхэд аюулгүй болжээ.",
+    "summary": "Бизнес эхлээд эцэг эхчүүдэд сэтгэл санааны амар тайвныг өгөх болжээ."
+  },
+  "https://www.entrepreneur.com/building-a-business/the-leadership-skill-that-takes-breakthrough-technology-further": {
+    "title": "Манлайллын ур чадвар цаашид шинэ технологийг бий болгодог",
+    "summary": "Агуу инноваци нь ганцаарчлан тохиолддоггүй. Зөв түншлэл нь цаашид шинэ технологийг нэвтрүүлж, салбарын хувьд юу болох нь туслах болно."
+  },
+  "https://www.entrepreneur.com/building-a-business/the-simple-test-to-use-early-in-your-career-that-pays-off-for-decades": {
+    "title": "Ажил мэргэжлийнхээ ажилд хэдэн арван жил төлдөг энгийн туршилт",
+    "summary": "Ямар нэг том шийдвэр гаргахаасаа өмнө: «Энэ тухайд миний ирээдүйд талархах уу, эсвэл төлөх үү?"
+  },
+  "https://www.entrepreneur.com/business-news/apples-next-big-push-isnt-an-iphone-its-your-front-door": {
+    "title": "Apple-ийн дараагийн том товчлуур нь Iphone биш юм. Энэ бол чиний урд талын хаалга.",
+    "summary": "LG-тэй ер бусын түншлэл нь Apple-ийн түлхэлтийг ухаалаг гэрийн төхөөрөмжүүдэд хийхэд тусална."
+  },
+  "https://www.entrepreneur.com/business-news/tech/still-doing-all-the-marketing-yourself-build-your-first-ai-employee-in-chatgpt-no-tech-skills-needed": {
+    "title": "Маркетинг хийхийн тулд яах хэрэгтэй вэ? ChatGPT-д анхны AI ажилтанаа бүтээх (Технологийн ур чадвар шаардлагагүй)",
+    "summary": "AI багийнхандаа тодорхой үүрэг хариуцлагаа өгөөд ажилдаа холбогдож, багийг бизнесийн зорилгодоо төвлөрүүлэхийн тулд ажилтнуудыг нь ашиглана уу."
+  },
+  "https://www.entrepreneur.com/business-news/a-new-lawsuit-claims-some-starbucks-sugar-free-drinks-have-as-much-sugar-as-a-kit-kat": {
+    "title": "Шинэ хэрэглэлд зарим Starbucks ‘Sugar-Free' ундаа нь Багцын хэмжээтэй элсэн чихэртэй гэж үздэг",
+    "summary": "Костюм нь уургийн ундаа нь хэрэглэгчдийг төөрөгдүүлэхийг шаарддаг боловч Starbucks өөрөө \"бат бөх хамгаалах\" зорилготой гэжээ."
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/as-franchises-go-after-chick-fil-a-its-ceo-is-prescribing-a-healthy-dose-of-fear": {
+    "title": "Франчайзууд нь тахианы-Fil-A-ийн дараа явдаг шиг түүний гүйцэтгэх захирал \"Айдас эмээх эрүүл тун\" -г тусгасан байна",
+    "summary": "Эндрю Кати хэлэхдээ халсан франчайзын тахианы дайн нь зөвхөн компаниа илүү сайн болгох болно гэжээ."
+  },
+  "https://www.entrepreneur.com/business-news/founders-are-told-to-chase-easy-markets-after-20-years-in-healthcare-i-think-that-advice-is-backwards": {
+    "title": "Үүсгэн байгуулагчдад хялбар зах зээлд ашиглагддаг. 20 жилийн дараа зөвлөгөө урагшилна гэж бодож байна.",
+    "summary": "Зах зээл нь тэдгээрийг ойлгохыг хүссэн компаниудад хамгийн хүчтэй өрсөлдөх давуу талыг санал болгодог."
+  },
+  "https://www.entrepreneur.com/business-news/these-cats-and-dogs-have-the-best-job-ever-taste-testing-pet-food-for-a-17-billion-industry": {
+    "title": "Эдгээр муур, нохойнууд нь хамгийн сайн ажил хийдэг: Амтат тэжээвэр амттай хоолыг $ 17 тэрбумын аж үйлдвэрийн",
+    "summary": "Францын Рояал Канин судалгааны төвийн муур, нохойнууд олон зуун хүн шинжлэх ухаан, бизнес эрхлэхэд тохиромжтой."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/the-close-10-9-2026-video": {
+    "title": "Путиныг Дизель ашиглан АНУ-ын нийлүүлэхийг хэллээ",
+    "summary": "Bloomberg Television нь Wall Street-ийн хонхыг хаахаас өмнө болон дараа нь хамгийн сүүлийн минут, секунд хүртэлх хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ хийдэг. Өнөөдрийн зочид бол ProShares 'Alessio De Longis, Flexport's Ryan Peterson, Raymond James, Associates' Inc Savanthi Syth, Cou..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video": {
+    "title": "Wall Street Week | Мичиган Үйлдвэрлэл, AI-ийн өрийн хөрөнгө оруулалт, Baby Bonds, Канадын нүүрсний тэмцэл",
+    "summary": "Энэ долоо хоногт Форд, JPMorgan болон Мичиганы мужууд дотоодын үйлдвэрлэгчид шинэ технологийг үйлдвэр, нийлүүлэлтийн гинж болгон хувиргахад туслахаар болжээ. Мөн hyperscalers, мэдээллийн төвүүд AI дэд бүтцийг санхүүжүүлэхийн тулд хэдэн зуун тэрбум доллар зээлж, корпорацийг өөрчилдөг..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/flexport-ceo-on-oil-tanker-costs-diesel-prices-video": {
+    "title": "Факсын гүйцэтгэх захирал тосны савны зардал, дизель үнэ",
+    "summary": "Flexport-ийн гүйцэтгэх захирал, дарга, үүсгэн байгуулагч нь \"The Close\" -тэй хийсэн ярилцлагад газрын тосны савны зардал, дизель үнэ, AI-ийн талаар ярилцав. \"(Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/atomic-machines-ceo-on-developing-micro-machines-video": {
+    "title": "'Бичил механик' -ийг хөгжүүлэхэд атомын машинуудын гүйцэтгэх захирал",
+    "summary": "Атомын машинуудын гүйцэтгэх захирал Жеффри Холден тоон кодыг авч, микро-машин үйлдвэрлэж байгаа шинэ төрлийн үйлдвэрүүдийг хэлэлцэнэ. Энэ технологийг илүү өргөн хүрээг дэмжих зорилгоор хөгжиж байна гэж тэр хэллээ. Тэр эмэгтэй Ромен Бостикт «Хачирхалтай нь... ярьдаг байсан». \"(Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/bambusa-therapeutics-files-for-ipo-to-fund-eczema-drug-trials": {
+    "title": "Бамбуза эмчилгээний IPO-д зориулсан файлууд Экзем мансууруулах бодисын сорилтыг санхүүжүүлэх",
+    "summary": "Bambusa Therapeutics Inc. Экзем болон бусад үрэвслийн эмгэгийг эмчлэхийн тулд эмгэгийн сорилтыг санхүүжүүлэхэд туслах зорилгоор анх удаа олон нийтэд санал болгосон."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-rallies-closing-bell-video": {
+    "title": "Wall Street Rallies Дараагийн долоо хоногийн орлогооос өмнө | Хаалтын хонх",
+    "summary": "АНУ-ын зах зээлийн Bloomberg Television, Bloomberg Radio, YouTube-тэй нягт нямбай хамрах цогц хөтөлбөрийн хамрах хүрээ нь Romaine Bostick, Sally Bakewell, Carol Massar, Jess Menton нартай. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/tiny-drones-help-tackle-shell-s-million-dollar-hurricane-problem": {
+    "title": "Саяд Доллар хар салхины асуудлыг шийдэхэд дронс тусална",
+    "summary": "Мексикийн булан руу хар салхи дайрахад газрын тосны компаниуд сая доллар алдах болно. Shell Plc нь нисгэгчгүй онгоц хүлээх хугацааг багасгахад тусална гэж боддог."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/cable-one-lender-seeks-to-block-480-million-mega-broadband-deal": {
+    "title": "Одоо шүүгчээр Мега Өргөн зурвасын хэлцлээс нэг хориглосон",
+    "summary": "Кабель One Inc компани нь хувийн өмчийн компаний GTCR-с Мега өргөн зурвасын хөрөнгө оруулалтад 55% -ийн хувьцааг эзэмшиж, гэрээг зогсоосны дараа холбооны шүүгч түр хугацаагаар саатуулав."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/spacex-s-wireless-threat-rises-with-spectrum-deal-video": {
+    "title": "SpaceX-ийн утасгүй аюул нь спектрийн хэлцлээр үүсдэг",
+    "summary": "SpaceX хөрөнгө оруулагчид эцэст нь Елон Маск удирдуулсан компанийн нөөцийн хагарал нь 7-р сараас доогуур гацсан түвшнээс дээш хугацаанд буцааж авах болно. SpaceX пуужин, хиймэл дагуул эргүүлэхэд шаардагдах спектрийн чухал хэсэг дээр хаагдаж байна..."
   }
 }
