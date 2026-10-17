@@ -6606,5 +6606,305 @@
   "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories": {
     "title": "Өгөгдлийн төвийн чухал асуудал байгаа энэхүү Сенатын уралдаан нь бусад дундаж мөргөлдөөнөөс илүү зардал гаргадаг",
     "summary": "Мөнгө асгарч, эрчимтэй санхүүжилт хийж байна, сөрөг зарууд: \"Энэ бол хаа сайгүй, чи зугтаж чадахгүй.\""
+  },
+  "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php": {
+    "title": "«Би гартаа цус авахгүй»",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.nature.com/articles/d41586-026-03266-x": {
+    "title": "Цайрсан махыг эрүүл хөршдөө хүрэхэд олон өдрүүдэд ургадаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/": {
+    "title": "Дамнаас зайлсхийх нь АНУ-ын зүүн хойд хэсгээр загасыг буцааж авчирч байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://furifont.antfu.me/": {
+    "title": "Фурифонт буюу япон үсгэн дүрстэй",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://openjdk.org/projects/jdk/28/": {
+    "title": "JDK 28",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/antirez/c64-hw-simulator": {
+    "title": "Commodore 64 тоног төхөөрөмжийн симулятор: чипс ба тээглүүрийг эвдэх, үр дүнг харна уу",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://pele.run/": {
+    "title": "Pele – Mermaid диаграммууд нь сэдэвчилсэн SVG",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using": {
+    "title": "Дорито тоос ашиглан тахианы ил тод болгох",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://thunk.blog/posts/types-of-types-haskell-kind-system/": {
+    "title": "Төрөл: Haskell-ийн төрөл",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/": {
+    "title": "Мета хусах болон AI-ийн сургалтын санаа зовнилыг өдөөсөн хэлийг устгадаг",
+    "summary": "Мета хэвлэлийн төлөөлөгч шинэчилсэн нэр томъёо нь мета вэб мөлхөж буй байдлаар өөрчлөгдөөгүй хэмээн шаардав."
+  },
+  "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/": {
+    "title": "TikTok ‘Musk‘ баримтат сурталчилгааны дансыг байнга хориглодог",
+    "summary": "Елон Маскийн тухай 4 цагийн баримтат кино нь олон нийтийн мэдээллийн платформоос эсэргүүцэлтэй хэвээр байна."
+  },
+  "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/": {
+    "title": "Антропик хэлэхдээ, ажиллах хүчний талаар бага балчир хүүхэд болж, цуглаанд илүү их цаг зарцуулж байна",
+    "summary": "Антропикийн ажиллах хүчний бүтэц, ажлын хэлбэр өнгөрсөн онд ихээхэн өөрчлөгдсөн."
+  },
+  "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/": {
+    "title": "Дахин хуваах нь OpenAI Антропик дээр анхдагч болж байна, Гүйцэтгэх захирал хэлэхдээ",
+    "summary": "Харин энэ амралтын өдрүүдэд OpenAI антропикийг анхдагч загвар үзүүлэгчээ болгон солих болсныг Масад тэмдэглэжээ. Клод платформ дээр үйлчлүүлэгчиддээ авах боломжтой хэвээр байна."
+  },
+  "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/": {
+    "title": "Эмберийн шинэ температурын хяналттай аяга миний шөнийн цайны зан үйлийг илүү сайжруулдаг",
+    "summary": "Эмберийн шинэ аягатай холбоотой хамгийн том өөрчлөлт бол ундны температурыг тохируулахын тулд аппликейшныг нээх шаардлагагүй болно."
+  },
+  "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/": {
+    "title": "Марк Wahlberg урт наслалт-с эхлүүлэх хүмүүсийг боломжийн үнэтэй биеийн тамирын үзэл баримтлалаар ашиглахыг хүсч байна",
+    "summary": "Нэгэн цагт NYSE-г эхлүүлсэн биеийн тамирын гинжин хэлхээнд мөнгөө живж байсан Марк Верберг өөрийн гэсэн газраа барьж байна. Итгэлцлийн сан шаардлагагүйгээр та хүйтэн ус, цусны хавтан, уураг ялгадас авна гэж амласан."
+  },
+  "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary": {
+    "title": "TikTok Муск баримтат дансыг хориглодог",
+    "summary": "Алекс Гибнигийн Маскийн баримтат киноны өргөн цар хүрээтэй хувилбар гаргахаас өмнө TikTok киноны олон нийтийн мэдээллийн хэрэгслийг платформоос нь хориглосон байна. ТикТок сэтгэгдлээ илэрхийлэх хүсэлтийг нэн даруй хариу өгч чадаагүй. \"Холливудын сурвалжлагч\" -ын мэдээлснээр би..."
+  },
+  "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance": {
+    "title": "Мерседес-АМГ хамгийн анхны газар хөдлөлтийн SUV нь 1,150hp цахилгаан араатан юм",
+    "summary": "Энэ оны эхээр Мерседес 'АМГ-ын гүйцэтгэлийн брэнд бидний анхаарлыг GT дөрвөн хаалгатай, 1 150 морины хүчээр хүргэдэг гурван тэнхлэгийн урсгалын мотор бүхий шөлгөр спортын сүүдэртэй татав. За, одоо түүний үхрийн үеэл, 2028 Mercedes-AMG GT SUV, ижил хүчирхэг, ultr уулзаж байна..."
+  },
+  "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway": {
+    "title": "Elon Musk $ 1 сая гаруй сонгогчдын өглөгийг шүүх ажиллагаа явуулдаг",
+    "summary": "2024 онд Елон Маск санамсаргүй сонгогчдод санамсаргүй сонгогдсон сонгогчдод өдөрт 1 сая $ өгөхөө амласан юм. Үүнээс болоод хууль зүйн хувьд бэрхшээлтэй тулгарч, хууль ёсны тухай асуулт гаргаж, сугалаа залилан гэж нэрлэдэг Аризонагийн хоёр хэргийн хэрэг гарав. Маск одоо зовж байна..."
+  },
+  "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites": {
+    "title": "Мета нь мэдээний сайтуудыг хог хаяхыг зөвшөөрсөн хэлийг устгана",
+    "summary": "Дахин давтагдсаны дараа Мета нь AI-ийг сургахын тулд вэбсайтуудаас агуулгыг хасах санал болгосон хэлийг нь дахин шинэчилж байна. Тодруулбал дараах хэл нь арилжааны нөхцлийн хуудас дээр гарахгүй:... Мета нь иймэрхүү агуулгыг ашиглаж болно..."
+  },
+  "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale": {
+    "title": "Pikmin 4 нь $ 10 Nintendo Switch 2 шинэчлэлтээс өмнө $ 20 унтраах",
+    "summary": "Хэрэв та энэ амралтын өдрүүдэд ямар видео тоглоом тоглохыг бодож байгаа бол манай хамт ажилладаг Шена Васани шуурхай дижитал хүргэлтээр хөнгөлөлттэй Nintendo Switch-ийн нэрийг олж харав. Walmart нь Switch-ийн хөнгөлөлтөнд зориулсан Pikmin 4-ийн дижитал хувилбар нь $ 39.88, ердийн үнээс 20-с доогуур $ байна. Th..."
+  },
+  "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview": {
+    "title": "Жад Абмрад нь эрвээхэй хутга, сайн дэртэй",
+    "summary": "Jad Abumrad-ыг подкаст ертөнцөд хэрхэн нөлөөлөхийг илүүд үзэхэд хэцүү байдаг. Тэрээр Долли Партоны Америк, Фела Кути-г зохион байгуулж, зохион байгуулсан: Өнгөрсөн зууны хамгийн чухал хоёр хөгжмийн дүрсийг үзүүлжээ."
+  },
+  "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile": {
+    "title": "AT&T, T-Mobile, Verizon-ийг орлуулахын тулд SpaceX-ийн амбицтай, өндөр үнэтэй мөрийтэй тоглоом",
+    "summary": "Өнөөдөр би технологийн, хэвлэл мэдээллийн хэрэгсэл, харилцаа холбооны хамарсан LightShed Partners-ийн судлаач, судлаач Walter Piecyk-тэй ярилцаж байгаа SpaceX-ийн саяхан зарласан төлөвлөгөөний талаар томоохон утасгүй тээвэрлэгч болох талаар ярилцаж байна. Өнгөрсөн долоо хоногт SpaceX нь Starli-ийг өргөжүүлэхийн тулд нам талын спектрийн том хэсэг худалдан авахаар тохиролцсон..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web": {
+    "title": "Вэбсайтууд нь хиймэл оюун ухааны агентуудад хаалгаа хааж байна",
+    "summary": "Автономит бодис нь AI-ийн хамгийн халуун зүйл юм. OpenAI, Meta, Google, Instinct болон бусад хүмүүс төлөөлөгчдөө таны өмнөөс интернетийг таслан зогсоохыг амлаж, оройн хоолны захиалга өгөхөөс хойш юу ч хийж, шинэ гутал худалдаж авахаар ирсэн имэйл хайрцагаа цэвэрлэнэ. Харин үлдсэн үед юу тохиолддог вэ o..."
+  },
+  "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review": {
+    "title": "Bose's new wired earbuds's easy in the best way",
+    "summary": "Apple-ийн 2016 онд iPhone-ээс чихэвчний үүрийг зориг гаргасны дараа ихэнх хүмүүс Bluetooth чихний чихрүү шилжсэн бөгөөд эргэж хараагүй. Гэхдээ утсан түншүүд нь гацаж, тэдний борлуулалт таван жилийн дараа хүртэл өссөн. Сэргээгдэх нэг хэсэг..."
+  },
+  "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting": {
+    "title": "Apple-ийн HomeView нь зөвхөн онлайн жор зохиолчдын хамгийн сүүлийн үеийн аюул заналхийлэл юм",
+    "summary": "Apple-ийн HomeView-ыг дэлхийд илчлэхэд компанид ер бусын сурталчилгаа хийдэг байв: Амаргүй өрөөнд цэвэр, өнгөлсөн технологиор биш, таван айлын шуурхай, уян хатан өглөөний ердийн гурван минутыг харна уу. Apple-ийн шинэ ухаалаг дэлгэц нь төвд байрладаг…"
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjZ1MzZ6clVYZmItTGI1TnZuZkl0cFFoX2NoeTBadC1KUFVsYW54THVXVndhcTRHUTFYWFlQSFRwekRQSldvY0w2WXU3LU1mRmpzUFVWT2pBaDdfWWthS09WZlItajBOM21yZlZjaDZYdTVRb1lpOFZ4a3NxbUNrTWNmWGQ2TzF2djdJNHpfcmF0NnJ0M0Jic1g2aFM1T195UXpMTEs0UDFmUTl4aGc?oc=5": {
+    "title": "‘Хөөх, энэ бодит нээлт’: Клод нь 25 жилийн NSA дугаарын нууцыг хагарлаа - CoinDesk",
+    "summary": "‘Хөөх, энэ бол бодит нээлт’: Клод нь 25 жилийн NSA дугаарын нууцлаг  CoinDesk ан цав"
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkFXVVJyYUU2Ry1qN2hheWdRRlRGb2pCZWY2VGdJRWVWTF9Md3dBbzN2dFROTnFFTFNLcHFRYU4zR0dpclduLUlYdHhJVnZMakZQQXZUQVlNTTVDV0lLU3BEdzFGd2hYQkdrWTQxdmpmRXNwVldSTTVfTzVEdjEzXy1PRVFLLTRaaW5LQg?oc=5": {
+    "title": "Антропик энэ AI нь ухамсартай байж магадгүй гэж боддог. Таны насан туршид асар их үр дагавар амсаж байна - BBC",
+    "summary": "Антропик энэ AI нь ухамсартай байж магадгүй гэж боддог. BBC-д ноцтой үр дагавар амсаж  байна"
+  },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5": {
+    "title": "Антропийн чимээгүйхэн өөрийн хиймэл оюун ухааны аюулгүй байдлын хуулийг хуульчид суулгажээ - Politico",
+    "summary": "Антропийн чимээгүйхэн өөрийн хиймэл оюун ухааны аюулгүй байдлын хуулийн төслийг хууль тогтоомжуудад  тавьсан"
+  },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcjRqUERvZWx2cmI3RWRaUGZsSEpBQmZEbU5uRXZ6c0dDS2JnRGU0OTZyams5ZDMwMnFUNEcyZFlxaUJlaGlNaERKd2l0eWYxU1FNSmV1dTdBdTg4cGR2RGRGZWR4X0twdVYxLWhWbHlJY1pTbGYzQQ?oc=5": {
+    "title": "N.S. дахь EverWind-ийн томоохон хэмжээний өгөгдлийн төв нь Антропийн Клод AI - Глобал мэдээ",
+    "summary": "N.S. дахь EverWind-ийн томоохон хэмжээний өгөгдлийн төв нь Антропийн Клод AI  Global News хүчирхэгжүүлэх болно"
+  },
+  "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRmVrSkZjOGIzZkp0dHo5SHVMZXZkNXpoeEpWODR4cmhVdlJqQWxlTmU1OFdRczNSLTVBYXB2MFRJM2V5bE4xcWRkSlZMNWFuSF9RRmVZNDFVdFJtUVRMMUFqelhVX0ZUWFpYR1MyTG9OZkI0WXUzOFE3WWNHZnhxNkROWlJZR1dXbHBPRkxuM3JwUGtJNTJ1N0VKVlFETS1JdjRBWWlQd0xPVVRobGdyREZlWWFuaHRTR3R0TnRkTmZqWHJ5Z2wxb3VKNkMxWFdCS0NkSWZqVjdlWWlCaEUwNnYzOUF3eURIdWpIZWp3bDNZb094elRFRg?oc=5": {
+    "title": "Антропик нь $ 10 тэрбум Канадын AI мэдээллийн төвийн төслийн үйлчлүүлэгчээр илэрсэн - Торонто Оддын",
+    "summary": "Антропик нь $ 10 тэрбум Канадын AI мэдээллийн төв төслийн  Торонто Оддын үйлчлүүлэгчээр илэрсэн"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-gop-allies-call-waiver-a-mistake": {
+    "title": "Украины Starlink хязгаарлалт, GOP-ийн хамтрагчид худал гэж нэрлэдэг",
+    "summary": "Эх сурвалж: Блүүмберг, 5:22"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-17/france-braces-for-wider-protests-as-students-join-yellow-vests": {
+    "title": "Францын хүчирхийлэл улсын хэмжээнд Шар сорил, сурагчдын эсэргүүцлийн өмнө гарч ирсэн",
+    "summary": "Ройтогчид Францын олон нийтийн барилга руу довтолж, Парис хотуудад амьжиргааны зардлыг оруулаад, ирээдүйн сонгуулийн өмнөх улсын бэрхшээлийг онцлон тэмдэглэж, тэн хагас сая гаруй хүн амтай болсон."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more-mvcy21gk": {
+    "title": "Украины Starlink хориглолт,Трамп ОХУ-ын хориг арга хэмжээг үл тоомсорлодог,бусад",
+    "summary": "Эх сурвалж: Блүүмберг, 5:20"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-17/weekend-law-trump-s-latest-targets-nfl-at-scotus-podcast": {
+    "title": "Амралтын тухай хууль: Скотус дахь Трампын хамгийн сүүлийн үеийн зорилтууд ба NFL (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 37:33"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions-mvcupozh": {
+    "title": "Zelenskyy Slams \"Зөвшөөрөгдсөн\" Starlink удаашрах, ОХУ-ын хориг арга хэмжээ",
+    "summary": "Эх сурвалж: Блүүмберг, 5:23"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more": {
+    "title": "Украины Starlink хориглолт,Трамп ОХУ-ын хориг арга хэмжээг үл тоомсорлодог,бусад",
+    "summary": "Эх сурвалж: Блүүмберг, 4:30"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions-mvckw3xd": {
+    "title": "Zelenskyy Slams \"Зөвшөөрөгдсөн\" Starlink удаашрах, ОХУ-ын хориг арга хэмжээ",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-17/tulum-impulsa-el-turismo-de-lujo-ante-caida-de-visitantes-mvciwjtd": {
+    "title": "Tulum impulsa el turismo de lujo ante caída de visitantes",
+    "summary": "Tulum busca recuperar su perfil exclusivo con una apuesta por el lujo y el bienestar, mientras varios factores ponen a prueba al destino caribeño."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-17/disney-offers-soft-landing-to-staff-at-troubled-character-ai": {
+    "title": "Дисней нь бэрхшээлтэй шинж тэмдгийн ажилтнуудад зөөлөн буулгалтыг санал болгодог.",
+    "summary": "Character.AI-ийн 60 гаруй ажилчдыг хэвлэл мэдээллийн аварга биетээс аврах боломжоор хангаж байна"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions": {
+    "title": "Украины Starlink хориг, Трамп Оросын хориглолтоос татгалзсан",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.entrepreneur.com/building-a-business/the-skills-that-built-your-company-are-probably-holding-it-back-3-things-founders-have-to-unlearn-to-grow": {
+    "title": "Чиний компанийг байгуулсан ур чадвар ургуулах явдал ургуулж болох юм.",
+    "summary": "Манлайлагчдад туслах ур чадвар нь компанийг эхнээс нь бий болгоход тэр бүр хөгжих ур чадварууд байдаггүй."
+  },
+  "https://www.entrepreneur.com/business-news/tech/starting-an-ai-side-hustle-is-easy-steal-this-system": {
+    "title": "AI талын хясаа эхлүүлэх нь амархан энэ тогтолцоог хулгайлдаг",
+    "summary": "Та AI-ээр ямар нэг юм бүтээхээсээ өмнө хэн ч үүнд мөнгө төлөх эсэхийг олж мэд."
+  },
+  "https://www.entrepreneur.com/money-finance/how-monopoly-taught-me-the-business-mistakes-that-keep/505284": {
+    "title": "Хувиараа бизнес эрхлэгчдийн эд баялгийг бий болгохоос хэрхэн сэргийлдэг вэ?",
+    "summary": "Монополь дахь бизнесийн үйл ажиллагааг чимээгүйхэн зайлуулдаг стратеги."
+  },
+  "https://www.entrepreneur.com/building-a-business/ai-is-now-the-top-reason-for-layoffs-for-some-workers-its-also-a-path-to-starting-a-business": {
+    "title": "AI нь одоо Layoffs-ийн хамгийн чухал шалтгаан юм. Зарим ажилчдын хувьд бас бизнес эрхлэх зам бий.",
+    "summary": "Бас ажлаа хийх хамгийн сайн арга байж болох юм."
+  },
+  "https://www.entrepreneur.com/business-news/i-founded-a-20-person-ai-company-with-big-competitors-heres-how-to-out-ship-a-team-3-times-your-size": {
+    "title": "Би 20 хүнд AI компанийг том өрсөлдөгчтэйгээр үүсгэн байгуулсан — Энд 3 дахин их хэмжээний багийн гарц хэрхэн хийх вэ?",
+    "summary": "AI-ийн анхны тоглоомын номоос эдгээр ажиллуулалтын ээлж нь жижиг багийг таны хамгийн том өрсөлдөгчидөөсөө түрүүлж хөлөг онгоц руу шилжүүлэх боломжтой."
+  },
+  "https://www.entrepreneur.com/building-a-business/this-husband-wife-duo-made-500000-in-revenue-in-under-a-minute-mabe-baby-carrier": {
+    "title": "Хүүхдийн амттан шинэхэн эцэг эхчүүдэд зориулсан бүтээгдэхүүн бий болгосон. Энэ нь 1 минутын дотор Орлого 500K $ хийсэн: \"Ордыг өнхрүүлэх захиалга\"",
+    "summary": "Урьдынх нь нэгээр нь мянга мянган ширхэг борлуулсан байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-17/avalanche-in-chile-kills-three-climbers-amid-rare-snowy-spring": {
+    "title": "Чили улсад Avalanche Ховор цасан хавар дунд гурван уулчин алсан",
+    "summary": "Бямба гарагийн орой нийслэл Сантьяго хотын зүүн хойд зүгт Чилийн Андын хойд хэсгийн Портилло цанын баазын ойролцоо гурван авирчдыг алж, дөрвөн хүн гэмтсэн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply": {
+    "title": "Нигерийн галт дизель, дотоодын нийлүүлэлтийг хамгаалах бензин экспорт",
+    "summary": "Нигер улс сүүлийн өдрүүдэд тулгарч буй түлшний хангамжинд тулгарч буй бэрхшээлүүдийг шийдвэрлэх зорилгоор дизель болон хураамжийн бензин экспортыг хориглосон гэж Facebook хуудсан дээрээ мэдэгдсэн байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video": {
+    "title": "Оросын хориг арга хэмжээ үлдсэн, хиймэл оюун санааны өрийн санаа зовнил, \"GTA VI\" -ийг гаргах",
+    "summary": "Дэлгүүр хаагдах үед мэдээ зогсохгүй. Дэвид Гүра, Кристина Раффини, Лиза Матео зэрэг оршин суугчид амралтын өдрүүдийн хамгийн том гарчигт тодорхой, нөхцөл байдал, хошигнолыг Нью - Йоркоос амьдардаг. Олон улсын аврах хорооны гүйцэтгэх захирал болон Fmr-тэй нэгдэв. Их Британийн Гадаад хэргийн нарийн бичгийн дарга Дэвид Милибанд..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row": {
+    "title": "Энэтхэг нь ‘Жоом’ Удирдагчийг Сонгогчдын-үйлүүрийн эгнээгээр чөлөөлдөг",
+    "summary": "Энэтхэгийн “тахир” эсэргүүцлийн хөдөлгөөнийг үүсгэн байгуулагч, улс орны сонгогчдын нэрийн жагсаалтад өргөжин тэлж байгаа тул, цагдаагийн хорих газарт гарсны дараа бямба гаригт гарсан."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-17/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video": {
+    "title": "Эрсдэл-үйлдвэрлэгчдэд зориулсан долоо хоног тутмын сэтгүүлийн асуулт хариулт",
+    "summary": "Тослогдогсод мэдээний асуулгын форматыг стратегийн ээлжлэн, зөвхөн мэдээний талаар тоглогчдын мэдлэгийг туршихаас гадна тэдний хариултанд итгэх итгэлээ шалгахыг санал болгодог. Bloomberg's Lisa Mateo, Christina Ruffini, David Gura нар тоглож байхдаа өөртөө зориулж Bloomberg.com (S..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly": {
+    "title": "Гол долгион Долгионы эрсдэлийн хаалт AI хогны зах зээл: Долоо хоног бүр Зээлийн",
+    "summary": "Хоосон бондын худалдан авагчид санхүүжилтийг эрэлхийлэх технологийн гарааг улам хөлдөж байна, учир нь CoreWeave Inc-ийн өвдөлт нь хиймэл оюун ухааны компаниуд өөрсдийгөө хэрхэн санхүүжүүлэх вэ гэдэг талаар илүү том асуулт гарч ирдэг."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video": {
+    "title": "Northwell CEO Эрүүл мэндийн загварыг өөрчлөх ёстой гэж үздэг",
+    "summary": "Нортвелл эрүүл мэндийн ерөнхийлөгч, гүйцэтгэх захирал Др. Жон Д 'Ангело Bloomberg-д энэ долоо хоногт АНУ-ын эрүүл мэндийн уламжлалт загварыг тогтвортой биш, цалин хөлсийг сайжруулахад эрүүл мэнд, урьдчилан сэргийлэх, архаг өвчинд илүү их анхаарал хандуулах шаардлагатай гэж хэлсэн. Хост Дэвид Гуратай ярилцах нь..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video": {
+    "title": "Фермд тариаланчдыг өвтгөхгүйгээр инфляцтай тэмцэж чадах болов уу?",
+    "summary": "Чикагогийн Холбооны ерөнхийлөгч Остан Гоолсбэ тосгонд очиж, фермерүүдээс ургацын хямд үнээр нүүрлэж, түлш, бордоо болон бусад орцын зардлыг шууд сонсохоор очжээ. Эдгээр яриа нь өмнө нь гарч болзошгүй инфляцийн даралтын талаархи газрын түвшний харагдацыг Федэдэд санал болгодог…"
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video": {
+    "title": "Freeland Warns the US Alliances is Fraying",
+    "summary": "Канадын Ерөнхий сайд асан Чристиа Фрелленд Блумберг энэ долоо хоногт Канад болон бусад ардчилал нь Барууны эвслийг сэргээн босгоход нээлттэй байхын зэрэгцээ АНУ-д цөөнгүй найдах ёстой гэжээ. ХОЁРДУГААР ДАВИД ГУРА, Кристина Раффини нартай ярилцав."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-17/sports-fashion-finds-a-growing-female-audience-video": {
+    "title": "Спортын загварын үр өсөн нэмэгдэж буй эмэгтэй хүн",
+    "summary": "Терез үүсгэн байгуулагч, Гүйцэтгэх захирал Zara Терез Tisch энэ долоо хоногт Блумберг хэлэхдээ спортын спортын тоо нэмэгдэж буй эмэгтэй спортын фэнүүд загварлаг багийн хувцасны шинэ эрэлт хэрэгцээг бий болгож, мэргэжлийн спортод оролцох боломжийг өргөжүүлж байна. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1": {
+    "title": "Зеленский Украйн дахь Starlink хурдны хязгаар нь \"төлөвлөсөн\" үйл ажиллагаа юм гэжээ",
+    "summary": "Ерөнхийлөгч зөвхөн Украинд хязгаарлалт тавьж, ОХУ-ын довтолгоонд саад учруулахыг оролдож байна гэж хэлсэн"
+  },
+  "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1": {
+    "title": "Trump Оросыг шинэ хуулийн дагуу хориг арга хэмжээ авахаас чөлөөлж байна",
+    "summary": "АНУ-ын Ерөнхийлөгч Москвад дизель түлш суллахаар шийдсэнийхээ дараа аюултай эрчим хүчний арга хэмжээний талаар Путинтинд мэдэгдсэн"
+  },
+  "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1": {
+    "title": "Бид дэлхийн ІІ дайны үед нойрсож байна уу?",
+    "summary": "Бүс нутгийн зөрчил уур хилэн, засаж залруулах хүчний хувьд тогтсон тушаалд сөргөлдөхийн хэрээр дэлхийн шинэ хурцадмал байдлын талаар сэрэмжлүүлэг улам ихсэж байна"
+  },
+  "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1": {
+    "title": "Хүний хотын улс төрийн онол",
+    "summary": "Хөлбөмбөгийн футболосизм нь орчин үеийн улс төртэй ижил төстэй зүйл юм"
+  },
+  "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1": {
+    "title": "Дэлгэцүүд яагаад нийгмийг сольсон бэ?",
+    "summary": "Эдийн засаг нь бид бусад хүмүүс, номноос аль алиныг нь улам бүр татгалздагийн учир"
+  },
+  "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1": {
+    "title": "Франц даяар эсэргүүцэгчид бослого гарган, дээрэмчин болж байна",
+    "summary": "Амьжиргааны зардал өндөртэй, боловсролын тогтолцоонд сэтгэл дундуур илэрсэний дараа хэд хэдэн хотод хүчирхийлэл гарч байна"
+  },
+  "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1": {
+    "title": "Антропик нь Blackstone давхар оронтой гарцыг хамгийн сүүлийн үеийн чипийн санхүүжилтээр санал болгодог",
+    "summary": "Зээлийн өндөр зардал нь хөрөнгө оруулалтын зэрэглэлд хүрэх бодлогын лабораторийн зорилтыг хүндрүүлдэг"
+  },
+  "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1": {
+    "title": "AI-ийн үнэлгээний хувцасны бэлтгэл",
+    "summary": "Хөөсөнцөрүүд санхүүгийн зах зээлд юу хийж болохыг заана"
+  },
+  "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0": {
+    "title": "Израиль суурьчид Баруун эрэгт Европын дипломатууд довтлох",
+    "summary": "Бельгийн Гадаад хэргийн сайд \"Энэ хүчирхийллийн хариуцлагатай үүрэг хүлээсэн хүмүүст ЕХ-ны хориг тавихыг шаардах болно\" гэжээ"
+  },
+  "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1": {
+    "title": "Үхэгсэд Саудын дэмжигдсэн хүчнүүдтэй зөрчилдөж шинэ зорилтыг дайрч байна",
+    "summary": "Иран тулгуурласан босогчид Йемений хамгийн том хот болох Тайз хотын эргэн тойронд Риад хотод болон түүний орон нутгийн холбоотнуудтай зөрчилдөж байгаа нь"
+  },
+  "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories": {
+    "title": "$ 55,000 робот таваг угаагчийг ачаалж чадах уу? Үдээс хойш би 2 хүний гэрийн эзэгтэйтэй.",
+    "summary": "Тау Роботын гарамгай манонууд миний шалыг баллаж, тоолуурыг минь арчина."
+  },
+  "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories": {
+    "title": "Хуурамч худалдааны шувуу ба \"аз жаргалын даатгал\": Хамгийн сүүлийн үеийн fintech аппликейшнууд нь бидний санхүүгийн асуудлуудыг илчилдэг",
+    "summary": "Fintech компаниуд Америкчууд санхүүгийн зуршлаа хэрхэн өөрчилж байгааг ажиглаж, мөчид хүрэхийн тулд шинэ бүтээгдэхүүнийг бий болгосон."
+  },
+  "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories": {
+    "title": "Investing, homeownership биш, Gen Z түрээслэгчийг амжилтанд хүргэж байгаа № 1 чухал үйл явдал юм",
+    "summary": "\"Гэрийн өмчлөлд анхаарлаа төвлөрүүлэхийн оронд олон хүн санхүүгийн эрх чөлөө, өр төлбөргүй амьдрах эрхийг эн тэргүүнд тавьдаг.\""
+  },
+  "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories": {
+    "title": "Apple-ийн эвхэгддэг iPhone Duo нь $ 2,000 үнэтэй юу? Энэ нь бусад эвхэгддэг утаснуудын эсрэг хэрхэн бөөнийг хараарай.",
+    "summary": "Iphone Duo-ийн урьдчилсан захиалга Zoma эхэлж Samsung болон Google-ийн давамгайлдаг эвхэгддэг утасны зах зээлд Apple-ийн дебют тэмдэглэгээг тэмдэглэжээ."
+  },
+  "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories": {
+    "title": "Гэрийн худалдан авагчид нийтдээ 7% -ийн ипотекийн үнээр хангагдана",
+    "summary": "Хувь хүний хөрөнгө оруулагчид болон хоёр дахь гэр худалдан авагчид 9-р сард 5 байшингийн худалдан авалтад 1 удаа буюу бага зэрэг жилд хамгийн их хувь эзэлж байна."
+  },
+  "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories": {
+    "title": "Хавьтагч, биохакерууд мацаг барьснаар тангараглана. Энэ л шинжлэх ухааныг ингэж хэлж байгаа юм.",
+    "summary": "Зарим хүн хэчнээн илчлэгийг иддэг ч зарим хүнийх шиг \"хүчин чармайлтгүй\" байдаггүй."
+  },
+  "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories": {
+    "title": "Мөнгөний сүүлийн 50% -ийн уналт нь эдийн засгийн удаашралыг тэмдэглэсэн тэмдэглэгээ юм",
+    "summary": "Эдийн засгийг хаашаа явж байгааг илтгэх харьцангуй off-theradar түүхий эдийн хэмжээ байдаг — мөн түүний утгыг энэ оны эхээр өндөр рекордоос 50% -иас илүү буурахыг харсан."
+  },
+  "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories": {
+    "title": "Microsoft, Shopify болон 3 илүү AI хувьцаа Wall Street-ийн хамгийн дуртай орлого тоглодог",
+    "summary": "Орлогын улирал дуусахын хэрээр технологийн компаниудыг сонгож хөрөнгө оруулагчдад асар их эерэг гайхамшгийг хүргэх боломжтой."
   }
 }
