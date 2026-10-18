@@ -6906,5 +6906,317 @@
   "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories": {
     "title": "Microsoft, Shopify болон 3 илүү AI хувьцаа Wall Street-ийн хамгийн дуртай орлого тоглодог",
     "summary": "Орлогын улирал дуусахын хэрээр технологийн компаниудыг сонгож хөрөнгө оруулагчдад асар их эерэг гайхамшгийг хүргэх боломжтой."
+  },
+  "https://arxiv.org/abs/2610.18861": {
+    "title": "Холимог استدلال агентууд: Тэмдэгт орон зайд байгаа LLM агентууд, текстээр ажиллуулна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://karrisaarinen.com/posts/someone-behind-the-software/": {
+    "title": "Програмын цаана хэн нэгэн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.youtube.com/watch?v=LKrwhjOI8Nc": {
+    "title": "Математикт орох цаг хэзээ ч байгаагүй (гэхэд: 3blue1brown) [видео]",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.getlazarus.org/dynamic/": {
+    "title": "Чөлөөт Pascal нягтруулагч нь динамик багцуудыг дэмждэг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/VikOlliver/RepRapMicron/wiki": {
+    "title": "РепапМикрон",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky": {
+    "title": "Нохойнууд «Боба» бөөрөнхий, кики бол атаархдаг хүмүүстэй санал нийлдэг юм шиг санагддаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/finereli/whatsapp-mcp": {
+    "title": "ХН харуулах: Cloudflare дээр ажиллаж байгаа WhatsApp MCP",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/ardiri/palmos-lemmings": {
+    "title": "PalmOS Lemmings",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://api-docs.deepseek.com/guides/search/": {
+    "title": "DeepSeek хайлт ба татаж авах – 1000 Амжилттай хүсэлт тутамд 0.75 $",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/": {
+    "title": "Нэг parser, хоёр алдаанууд, олон чиглүүлэгчид: Broadcom WiFi-ийг eCos, Linux-т ашиглах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/": {
+    "title": "Сан Францискоас орхих шаардлагагүй, яарахгүй, ямар ч яарахгүй: Бенчмаркын хамтрагчид нь дургүй зах зээлд хөрөнгө оруулалт хийхгүй байх",
+    "summary": "Бенчмарк нь хөрөнгө мөнгөө нэмэгдүүлж, зарим түншүүдээ сольж болох ч Хөндийн хамгийн их үнэ цэнэтэй пүүсүүдийн нэгийг ажиллуулж байгаа найзууд шиг 5 үлдсэн таван дагуул тайзан дээр тайзан дээр гарав."
+  },
+  "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/": {
+    "title": "Антропик хэлэхдээ нийт хувьцааны 5% -г нь \"олон нийтийн ашигт малтмалын сан\" -д хийж байна гэсэн байна",
+    "summary": "Антропик хэлэхдээ нийт хувьцааны 5 хувийг төсөвт нь зарцуулна гэсэн байна."
+  },
+  "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/": {
+    "title": "«Та бүх юмыг үзэж байна»",
+    "summary": "«Та нар бүх юмыг харж чадна» гэдэг баримтат кинонд зориулсан хоёр дахь нээлтийн амралтын өдрийг үзэж байна."
+  },
+  "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/": {
+    "title": "Дисней нь Character.AI-ийн ажлын хүчний дийлэнх хэсгийг ажилд авахыг зөвшөөрч байна",
+    "summary": "Мөн түүнчлэн Дисней дэх ажлын байрны ажилтнуудын “дийлэнх хэсэг” нь хүлээн авсан гэж мэдэгджээ. Гэхдээ энэ бол гацах морь тендерт оролцож, өөр нэг компани илүү өндөр саналуудтай ирж болох юм."
+  },
+  "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/": {
+    "title": "TechCrunch Хөдөлгөөн: Равианын дараагийн үйлдэл",
+    "summary": "TechCrunch-н хөдөлгөөнд буцаж тавтай морил, тээврийн ирээдүйн төлөөх төв, одоо урьд хожид байгаагүй олон үүрэг AI-д тоглож байна."
+  },
+  "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband": {
+    "title": "Саванна цагдаагийн ажилтан сүргээ мөсний ажилтнууддаа нэвтрүүлэв",
+    "summary": "ОДОО САВАННА цагдаагийн ажилтан Амарбер Харпе наймдугаар сард түүнийг нөхөр Тайлер Харпе гэдэг мөсний агенттайгаа оймс уруугаа нэвтрэх мэдээллээ хуваалцсан тухай хэлтэст тогтоожээ. SPD нь сүрэгийн өгөгдлийг мөстэй хуваалцдаггүй бөгөөд..."
+  },
+  "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review": {
+    "title": "Эрэгтэй Эрэгтэй Эрэгтэй Эрхтэн бол миний урьд өмнө харж байсан хамгийн бухимдалтай баримтат кинонуудын нэг юм",
+    "summary": "Хатагтай Онгоцны аллагын тухай хууль, эсвэл Слендермэнийг болгоомжлоорог аймшигт үйлдлийн түвшинд хүрэхгүй байгаа ч Майкл Онгогийн тухай, түүний ойрхон кампанит ажил болон түүний оролцдог хүн бүрээс айдас түгшүүр төрүүлэх ямар нэг гүнзгий зүйл бий..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot": {
+    "title": "Нэг эмэгтэй хүргэгдэх роботыг хориглосныхоо төлөө Филли хотод баривчлагджээ",
+    "summary": "Каролин Марвиныг баривчилж, Uber хүргэлтийн роботын замыг хааж, замаасаа гарахаас татгалзав. Марвин Филаделфи хотын ABC13-д \"Тэд хүний хүргэлтийн ажилчдын ажлын байрыг авч байгааг би мэднэ, тиймээс би тэдний зүг рүү эсэргүүцэж байна..."
+  },
+  "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act": {
+    "title": "Конгресст танилцуулсан видео тоглоомын өмчлөлийн тухай хууль",
+    "summary": "Бронкс хотын Нью-Йоркийн 15-р конгрессийн дүүргийн Рейчи Торрес энэ долоо хоногт Тоглогчдод өгсөн Power To The Players Act-ийг танилцуулав. Хэрэв баталсан бол хуулийн дагуу Холбооны Худалдааны Комиссыг хэрэглэгчдийг төлбөрөө төлөхдөө тоглолтын өмчллийг баталгаажуулах журмыг бий болгох ажлыг удирдан чиглүүлэх болно."
+  },
+  "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale": {
+    "title": "Леновогийн хурдан, comfy SteamOS гар нь хэдэн зуун унтрдаг",
+    "summary": "SteamOS-тай Legion Go S нь $ 789 Steam Deck OLED-ийн хувьд маш хатуу хувилбар юм. Энэ нь ижил програм хангамжийг ажиллуулдаг, гэхдээ хоёр үе шаттай өдөөлттэй дизайнтай хөлөг онгоц, илүү том найман инчийн IPS дэлгэц (1080p болон 120Hz ба 800p болон 90HZ дек OLED-д), энэ нь хоёр дахин..."
+  },
+  "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview": {
+    "title": "J Mascis хийх нь илүү дээр зүйл биш",
+    "summary": "Динсур Ж.Р. Фронтман Ж.Масман гитарын бурхан гэж нэрлэдэг. Тайзан дээр зогсоод, бараг хөдлөхгүй. Харамсалтай нь, сормуус нь ярилцлагын дэд давхаргын адил нэр хүндийг бий болгосон..."
+  },
+  "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass": {
+    "title": "Google эшээ үнслээ гэж Трамп хэлэв",
+    "summary": "Кентаки мужийн Highland Heights хотод болсон нэгэн уулзалтаар Дональд Трамп хоёр дахь удаагаа түүний үед хичнээн хүчтэй, нөлөөтэй байсныгаа бахархаж билээ. Амжилтынхаа талаар жагсааж байхдаа Мексикийн Персийн булангийн нэр, Онтарио нуурыг өөрчлөх шийдвэрээ дурсав..."
+  },
+  "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget": {
+    "title": "Энэ жил миний худалдаж авсан хамгийн сайн тогоо бол сүүг халхалсан",
+    "summary": "Хоёрдугаар сард Лос Анжелес хотод зургийг нь авахаар очсон. Манай зочид буудлын хажуугийн гудамжинд Стэйгер гэдэг жижигхэн кофены дэлгүүр байдаг юм. Гэхдээ би гэнэт л уухаар өөрийгөө Wa дээр донтсоныг олж мэдсэн..."
+  },
+  "https://www.theverge.com/podcast/1013473/overhead-projector-version-history": {
+    "title": "Проекторууд анги танхимаа хэр давж гарсан бэ?",
+    "summary": "Сургууль дээр байгаа юмнуудаа амархан зугтдаг байсан. Тэгээд ч багш захиа бичээд байнга эргүүлэв! Гэхдээ урьд нь цэргийн зориулалтаар ашиглагдаж, хэт проектор гэж нэрлэдэг байсан арай өөр технологиос гарч ирэв. Энэ нь зүгээр л илүү ихийг өөрчлөх болно..."
+  },
+  "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws": {
+    "title": "Хотууд ачааллыг robotaxis дээр тавихыг хүсч байна",
+    "summary": "Энэ бол Долоо хоног тутмын сонин бөгөөд Технологийн ертөнцөөс нэг чухал түүхийг таслан зогсоох явдал юм. Өөрөө автономит тээврийн хэрэгсэл, бодлого, замын дүрэм журмын талаар дэлгэрэнгүй мэдээллийг Эндрю Ж. Хавкинс дагаж мөрдөнө. Алхам нь 8 цагаас өмнө манай захиалагчдын хайрцагт ирдэг. The Stepback-г эндээс сонгоно уу. Энэ хэрхэн Sta..."
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1venJNWUphZE5GSTVteExzaWRUaDVXVS1fQ05JQXhTWmU3b1ZZTXRfMDczNGpUaGZlc2p3cjNSdDktMVRfMXlKX3VOMnpMODFLcm1sR2RVejR1ODlwY3FIQlNWN0xjYzd0bm5KTw?oc=5": {
+    "title": "Клод 30 минутын дотор 25 жилийн NSA криптографын нууцыг хагардаг - Ynetnews",
+    "summary": "Клод Ynetnews 30 минутын дотор 25 жилийн NSA криптографын нууцыг хагардаг"
+  },
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5": {
+    "title": "Антропик нь Конгресст хиймэл оюун санааны аюулгүй байдлын тухай хуулиасаа гаргаж байна.",
+    "summary": "Антропик нь Конгресст хиймэл оюун ухааны аюулгүй байдлын тухай хуулийн төслийг гаргаж байна."
+  },
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdLdlFXTmVsa1pVT2o5MU5hbF9nR0pqbl9CZWUyWnZ4cTFXN0VzM1Rld0FuUk8xdmZkZHNTTkpKX0pVdk1ZOXBwaW5MdDlsLWkyRXhTcXliTlRFRHhwaER6STVRSWZMSEVmb0NBVkN0NFJFNHFaQ1dsNHFzWXdVUTU4V2MwZldsOHZnbkZpd1EwNjlwVlNQOGNiWnl3SnhXSVJHMg?oc=5": {
+    "title": "Антропик Клодын үнэт зүйлд гаднах оролтыг хүсч байна. Гэхдээ эцсийн үгийг хэн хүлээж авдаг вэ? - NBC News",
+    "summary": "Антропик Клодын үнэт зүйлд гаднах оролтыг хүсч байна. Гэхдээ эцсийн үгийг хэн хүлээж авдаг вэ?  NBC News"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0JWNU1qU0lzS08wN0lKNmppNC1DUGZMMmVpYTRVc0plek5GRHpfRksyQ1AxMTNOOWtxZ2F3Z0JRcHFzSmJXaDAtSFhQTEhQdmxnOFc3clE4VWNSdEtDQVFQa2lsSXF3VmNrWC03RlR3YzBva0MtdDh4M2ZYMnpIVWh5QzBYWmtrRzNqSzVlN2JpVVZWTFlLM1JkR1dnS1k?oc=5": {
+    "title": "Антропик нь зуух эсвэл телевизороо ч ажиллах боломжтой өөрийгөө хуваах хиймэл оюун ухааныг тун ойрхон анхааруулдаг - Yahoo Tech",
+    "summary": "Антропик нь зуух эсвэл ТВ  Yahoo Tech -ийг унтраах ч боломжтой өөрийгөө хуваах хиймэл оюун ухааныг тун удахгүй сэрэмжлүүлдэг"
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZU9PaGR2ZHhuYnpFb1R2cWp1NnZmV3BtaWRSRmg3cVJOamplNG56dWM3andnUFFmU1NSZzdqVUdBU2IzZG5MeGV2ZjZ5NmVQWFE3S0xQUEVxX3F4dkpTdk5GaDg?oc=5": {
+    "title": "Клод ECDSA муруйн гарал үүслийг илтгэнэ - антропик",
+    "summary": "Клод нь ECDSA муруйн гарал үүсэл Антропик  илэрдэг"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/australian-coal-miner-new-hope-buys-malabar-for-its-maxwell-mine": {
+    "title": "Австралийн нүүрс олборлогч Шинэ Найдвар нь Махарыг уурхайд нь хүргэдэг",
+    "summary": "Австралийн нүүрсний уурхайчин Шинэ Найдвар Корп ХХК нь Нью Өмнөд Уэльс мужид үйл ажиллагаагаа өргөжүүлэх зорилгоор Жижиг компани нь 1.8 тэрбум ам .доллар (1.25 тэрбум ам .доллар) -ээр үнэлдэг бүх борлуулалттай Малабар Ресурс ХХК-ийн үлдсэн хэсгийг худалдан авна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-18/france-unrest-zelenskyy-trump-pushing-ukraine-to-yield-more": {
+    "title": "Франц Бэртэл Зеленский: Украиныг яаран түлхэж, илүү их",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-18/macron-on-france-protests-trump-zelenskyy-back-and-forth-more": {
+    "title": "Францын эсэргүүцлийн талаар Макрон, Трамп-Zelenskyy Back and Forth, More",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-18/sydney-s-new-airport-australia-briefing": {
+    "title": "Сиднейн шинэ нисэх онгоцны буудал: Австрали Товч танилцуулга",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-18/zelenskyy-says-trump-forcing-capitulation-to-russia": {
+    "title": "Зеленский хэлэхдээ Трампын хүчирхийлэл ОХУ-д",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-18/macron-on-france-protests-zelenskyy-trump-pressuring-ukraine": {
+    "title": "Францын эсэргүүцлийн талаар Макрон, Зеленский: Трамп Украиныг дарж байна",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-18/macron-on-france-unrest-zelenskyy-trump-pushing-capitulation": {
+    "title": "Францад байдаг Макрон Бэртэл, Зеленский: Трамп шахах хүчин чадал",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-18/ai-s-risks-and-rewards-arm-snps": {
+    "title": "AI-ийн эрсдэл ба шагнал (гар, SNPS)",
+    "summary": "Хөрөнгө оруулалтын төлөвлөгөө, урьдчилсан таамаглал, худалдааны хөнгөлөлт зэргийг хэлэлцэж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-us-envoys-discuss-peace-talks-trump-russia-backlash": {
+    "title": "Зеленский, АНУ-ын дайчин энх тайвны хэлэлцүүлэг, Трамп-ОХУ-ын үсрэлтийн талаар ярилцав",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-to-meet-with-us-envoys-canadian-fire-kills-7-more": {
+    "title": "Зеленский АНУ-ын Envoys, Канадын гал 7 алсантай уулзах, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.entrepreneur.com/building-a-business/your-payments-got-faster-so-why-didnt-your-finance-team": {
+    "title": "Таны цалин түргэн нэмэгдсэн. Тэгэхээр танай санхүүгийн баг яагаад чадаагүй юм бол?",
+    "summary": "Хурдан төлбөр болон нэгтгэл нь үйлдлийн асуудлыг тусад нь авч үздэг. Хурдан сеттлмент нь төлбөрийн нэгтгэлийг автоматаар сайжруулдаггүй."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ ба дүн шинжилгээ/10-р сарын 19-ний өдөр/",
+    "summary": "Тос нь таван сараас дээш урсаж байсан тул худалдаачид Ойрхи Дорнодын бүс нутгийн зүгээс нийлүүлэлтийн шинж тэмдэгтэй тулалдаанд оролцож буй нүүрс унадаг."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates": {
+    "title": "АНУ-ын Хөрөнгийн Фьючерс Чипийн бодолт хийсний дараа тосны гулсалт: Зах зээлийн бооно",
+    "summary": "АНУ-ын хөрөнгийн талаархи фьючерс нь өнгөрсөн долоо хоногийн чипийн чиглэлээс татгалзсан хөрөнгө оруулагчид хиймэл оюун ухааны худалдаанд шахалтын үед ашиг олох эргэжээ. Газрын тос халтирав."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment": {
+    "title": "ОХУ-ын эрсдэлийн хувьд Евро уналт, Франц Шүдний худалдаачдыг сөргөөр эсэргүүцдэг",
+    "summary": "Евро Украины мөргөлдөөн улам бүр нэмэгдэж, Францад өргөн тархсан эсэргүүцэл нийтлэг валютанд мэдрэмж төржээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/eqt-agrees-to-buy-australia-s-cleanaway-waste-for-6-5-billion": {
+    "title": "EQT нь Австралийн Кланажийн хог хаягдлыг 6.5 тэрбум $ худалдан авахаар зөвшөөрсөн",
+    "summary": "EQT AB нь Австралийн Кланара хог хаягдлын менежментийн ХХК-ийг нэг нэгжээр дамжуулан худалдан авахаар тохиролцсон бөгөөд энэ нь компанийг ойролцоогоор 9.3 тэрбум $ (6.5 тэрбум $) үнэ цэнэтэй бөгөөд энэ нь хамгийн сүүлийн үеийн орон нутгийн компани доод түвшний дараа хувийн гарт орох боломжийг олгодог."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/daiichi-life-offers-to-buy-remainder-of-australia-s-challenger": {
+    "title": "Дайичи Амьдрал нь сорилтыг худалдан авахад 4.4 тэрбум $ санал болгодог",
+    "summary": "Daiichi Life Group Inc. нь Австралийн фирмийг ойролцоогоор 7.9 тэрбум ам .доллар (5.5 тэрбум ам .доллар) орчим үнэтэй үнийн санал болгосон Challenger ХХК-ийн үлдэгдлийг худалдаж авах санал болгосон."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-18/for-three-buffetts-a-150-billion-puzzle-over-warren-s-riches": {
+    "title": "Уорренгийн баялгийг даван туулсан 150 тэрбум $ оньсого",
+    "summary": "Уоррен Баффет нь 150 тэрбум $ байна. Бас үхэхээсээ өмнө асар их эд хөрөнгөө дайчлахаа амласан. Асуудал нь өсөн нэмэгдэж байх нь хэцүү байдаг. Тиймээс гурван хүүхэд нь энэ бүхнийг тараах гэж байна. Александр Ражбандари тайлбарлав (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/kioxia-shares-face-headwinds-from-margin-buying-gone-wrong": {
+    "title": "Киокси Маржин-Биджинг хийснээс болж нүүрний хэлбэрийг хуваалцдаг",
+    "summary": "Киокси Холдингс Корпораци нь хөрөнгө оруулагчдаас хөрөнгө оруулагчдын албан тушаалыг нэмэгдүүлэх магадлалтай бөгөөд одоо алдагдалтай зарах шаардлагатай байж болох юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/traders-grow-wary-of-copper-bull-market-with-no-sign-of-tariffs": {
+    "title": "Тарифын тэмдэг байхгүйгээр худалдаачид зэсийн савны зах зээлээс болгоомжилно",
+    "summary": "Дональд Трампыг албандаа ирснээс хойш зэс нь метал дээр тарифыг шахах эрсдэлтэй холбоотой дэлхийн хэмжээний бараа материалын далайцыг шинэчлэх болсон. Харин Трамп хоёр дахь удаагаа хагас тэмдгийн дэргэдэхийн хэрээр зах зээлийн олон бух үнэ нь нэмэгдэж буй болгоомжтой болж байна..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles": {
+    "title": "Бондын зах зээлийн том богино бооцооны дуудлагыг AI Trade Wobbles болгон гаргадаг",
+    "summary": "АНУ-ын эрдэнэсийн тэмдэглэгээгээр энэ жилийн бондын хурдацтай байр суурь эзэлдэг буруу хөл хөрөнгө оруулагчдад аюул учруулж байгааг харуулж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/cpi-test-set-to-make-or-break-new-zealand-dollar-s-losing-run": {
+    "title": "CPI-ийн туршилтын багц нь шинэ Зеландын долларын алдагдалыг ажиллуулах, эвдэх",
+    "summary": "Шинэ Зеландын доллар таван шулуун улиралд унасан бөгөөд шинжээчид зөв байвал цар тахлын үе бага сорил үзэх нь мэдээж байж магадгүй юм."
+  },
+  "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1": {
+    "title": "АНУ-ын Starlink хязгаарлалтаас Европт заналхийлж байна",
+    "summary": "Хэрэв Брюссель нь Европын бус компаниудад спектрийн хандалтыг хязгаарлах төлөвлөгөөтэй явбал \"сүйрлийн\" хариу авах талаар Элчин сайд Эндрю Пүздер анхааруулж байна"
+  },
+  "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1": {
+    "title": "Санкт Петербург хотноо Украины довтолгооны хамгийн том",
+    "summary": "Украины цахилгаан станцуудыг чиглүүлсний дараа ОХУ-д осолдсон технологийн дэд бүтцэд довтолсон довтолгоо"
+  },
+  "https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1": {
+    "title": "ОХУ-ын хөлөг онгоц хоёр газар нэг дор хуурамч байршилд гарч ирэх болно",
+    "summary": "Мэхлэх шинэ арга нь харилцан уялдуулан Москвад танкаторуудын хяналтыг чангатгаж байгааг харуулж байна"
+  },
+  "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1": {
+    "title": "Макрон улс төрийн хүндрэлтэй тулгардаг",
+    "summary": "Европын хамгийн хүндээр ажиглагдсан сонгуулийн нэгээс 6 сарын дараа гудамжны хүчирхийлэл явагдаж байна"
+  },
+  "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1": {
+    "title": "Америкийг дахин хямд болгохын тулд Трампын оролдлого амжилтгүй болсон",
+    "summary": "Сонгуулагчид удирдлагын бодлоготой эрчим хүчний үнийг улам бүр холбож байна"
+  },
+  "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1": {
+    "title": "Тэрбумтан бүр бодлогын алдаа биш",
+    "summary": "10 оронтой баялагтай хүмүүсийг дур мэдэн чиглүүлж, үл тоомсорлосон, зардал багатай байдаг"
+  },
+  "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1": {
+    "title": "«Урьд өмнө байгаагүй» харгис хэрцгий довтолгооны дараа Франц эсэргүүцлээ",
+    "summary": "Худалдааны болон албан ёсны барилгыг дайрч довтлохын тулд тулалдсан дарамттай засгийн газар"
+  },
+  "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1": {
+    "title": "Манлайллын шинэ хэлбэлзэлд анх удаа хамтран ажиллах хүмүүсийг томилдог",
+    "summary": "Нигель Дээн, Нэйвэн Натарж хоёрыг дээш өргөж, Жон Вайнберг дор хаяж гурван жил гүйцэтгэх захирлаар үлдэнэ."
+  },
+  "https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1": {
+    "title": "Азийн АНУ-ын армийн ахлах дарга цэргийн сайжруулсан булчингийн шоу хийхийг уриалав",
+    "summary": "Ерөнхий Рональд Кларк Хятадын амбицтай холбоотой асуудлаар бүс нутагт саад болж байна"
+  },
+  "https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1": {
+    "title": "Шүүхийн ордероос үл хамааран түүхэн гольфийн курсийг өөрчилж эхэлнэ",
+    "summary": "Зүүн Потомакийн хичээлийг шинэчлэх нь ерөнхийлөгчийн зүгээс Вашингтоныг өөрийнхөө дүр төрхөөр шинэчлэн боловсруулах хүчин чармайлт юм"
+  },
+  "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories": {
+    "title": "Эхнэр маань тэтгэвэрт гарахгүй гэж хэлдэг. Би охиныхоо $ 8,000 аяллыг Итали руу цуцалсан. Бид 60-д 4 сая $ байгаа. Үргэлж хөдөлмөрлөдөг үү?",
+    "summary": "\"Би эрүүл мэндийн, урт хугацааны тусламж үйлчилгээ, инфляци, урт баавгай зах зээл, 95 наслах талаар санаа зовдог.\""
+  },
+  "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories": {
+    "title": "Манай эгч 78 настай ээжтэй хамт нүүж, $ 925 000 гэр бүлийн үнэ цэнэтэй гэж хэлсэн юм. Тэр зөв үү?",
+    "summary": "“Байшин $ 925,000 үнэтэй, ээж нь шууд эзэмшдэг. Тэр бас хөрөнгө оруулалтад 480,000 $ байгаа.\""
+  },
+  "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories": {
+    "title": "Би 63 настай, лимфийн өвчтэй гэж оноштой. Би ирэх жил нийгмийн даатгалаа авах ёстой юу?",
+    "summary": "\"Миний төлөвлөгөө бол ажлаа үргэлжлүүлж, цалингаа авч байх зуураа нийгмийн даатгалын давуу талаа хөрөнгө оруулах юм.\""
+  },
+  "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories": {
+    "title": "Эдгээр гайхмаар хувьцаа нь S&P 500 орлогын өсөлтөд хамгийн том жолооч нар байж болох юм",
+    "summary": "Жилийн өмнө Боинг, Мета, ЭкоСтар нар энэхүү сүүлийн улирлын үр дүнг харьцуулахын хэрээр хүчтэй харагдахаар төлөвлөж байна."
+  },
+  "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories": {
+    "title": "Зээлийн зардал өсөхтэй эргэдэг тул хувьцаа нь өндөр үзүүлэлттэй урагшилж байна",
+    "summary": "AI-ийн худалдаа ихэнхдээ бондын өсөлтөд дархлаатай байдаг гэсэн санаа тийм ч зөв биш, нэг стратегийн тэмдэглэл."
+  },
+  "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories": {
+    "title": "S&P 500 дотор зах зээлийн чимээгүй эргэлт байгаа нь илүү сул талыг урьдчилан сануулсан явдал юм",
+    "summary": "\"Гурвалсан орой\" эргэх графикийн загвар нь S&P 500-ийн дутагдалтай үеийг зааж байна. Магадгүй урт."
+  },
+  "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss": {
+    "title": "Макрон Франц дахь бослогын дараа \"тайван, эмх цэгцтэй\" байхыг уриалсан байна",
+    "summary": "Францын ерөнхийлөгч Эммануэл Макрон түгээмэл тархсанаас хойш үндэсний яриа өрнүүлж, Парист хулгайлж байсан удаатай."
+  },
+  "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss": {
+    "title": "'Маш уурлаж байна': Францын түүхэн хотын танхимд орсны дараа оршин суугчид гэнэтийн цочирдсон",
+    "summary": "Францын Лимогес хотын нэгэн түүхэн хотын хороолол улсын хэмжээнд болсон жагсаалын дараа шатаах дайралтад өртсөн"
+  },
+  "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss": {
+    "title": "Канадын цэргийн баазад гарсан томоохон галд дөрвөн хүн амиа алдаж, хэдэн арван хүн гэмтсэн",
+    "summary": "Ерөнхий сайд Карней хэлэхдээ, цэргийн болон яаралтай тусламжийн багууд шөнийн турш «зарим нь хамгийн аймшигтай нөхцөл байдалд» дөлтэй тулалдаж байсан гэжээ."
+  },
+  "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss": {
+    "title": "ОХУ-ын хориг арга хэмжээг түдгэлзүүлэх нь энх тайвны хэлэлцээрийг үргэлжлүүлэх явдал гэж Трамп хэлдэг",
+    "summary": "АНУ-ын ерөнхийлөгч хүчин төгөлдөр болохоос хоёр хоногийн өмнө Оросыг олон хориглосон."
+  },
+  "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss": {
+    "title": "Чикагогийн синтетик мансууруулах бодисын эсрэг тулалдаан дотор АНУыг үерлэж байна",
+    "summary": "BBC's Quentin Sommerville Чикагогийн олон нийт синтетик мансууруулах бодисын шинэ давалгаатай тэмцэж байгаа тухай мэдээлжээ."
+  },
+  "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss": {
+    "title": "Санкт Петербург хотод шөнийн дотор довтолгоонд өртсөн тосны барилга",
+    "summary": "Тухайн ажил хаялтад дор хаяж нэг хүн амь насаа алдсан бөгөөд энэ нь Оросын Фэйсбүүктэй дүйцэх дата төвд хүрчээ."
+  },
+  "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss": {
+    "title": "Амелиа Эрхартын онгоцыг хар салхины дараа үргэлжлүүлэн хайх",
+    "summary": "Номхон далайн алслагдсан аралд аялж Америкийн авиаторын эвдрэл зугтах газар гурван өдөр баригдаж байлаа."
+  },
+  "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss": {
+    "title": "27 насандаа хүү Преслиийг нас барсны дараа Синди Кравфордыг «зүрх алдсан хойно»",
+    "summary": "9-р сард Пресли Герберийг нас барсан нь тун хэтрүүлсэн сэжигтэй гэж судалж байна."
+  },
+  "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss": {
+    "title": "Баруун Эрэг дэх Израилийн түр суурьшигчид довтолсон Европын дипломатууд",
+    "summary": "Израиль цэрэг хүчирхийллийг буруушаадаг бол ерөнхий сайдын хэлснээр «ичгүүртэй» аяны нэг хэсэг нь болдог ажээ."
+  },
+  "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss": {
+    "title": "Албанид цагдаа нартай тэмцэх төрийн эсрэг тэмцэгчид",
+    "summary": "Бямба гаригт Тирана хотын нийслэлд эсэргүүцэгчид болон босогчдын цагдаа нарын хооронд хүчирхийллийн мөргөлдөөн гарав."
+  },
+  "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response": {
+    "title": "ДЭМБ-ын шинэ техникийн багц нь улс орнуудад КОВИД-19-ийн хариу урвал, цаашид эрүүл мэндийн мэдээллийг сайжруулахад нь туслах",
+    "summary": "Өнөөдөр эрүүл мэндийн мэдээллийн тогтолцоог бэхжүүлж, эрүүл мэндийг сайжруулах зорилгынхоо хүрээнд [1], ялангуяа COVID-19 цар тахлын хүрээнд амь аврах өгөгдлийг нэмэгдүүлэх шинэ хандлагыг зарласан: Эрүүл мэндийн өгөгдлийн техникийн багцын оноо. COVID-1…"
   }
 }
