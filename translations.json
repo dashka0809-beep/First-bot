@@ -7218,5 +7218,305 @@
   "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response": {
     "title": "ДЭМБ-ын шинэ техникийн багц нь улс орнуудад КОВИД-19-ийн хариу урвал, цаашид эрүүл мэндийн мэдээллийг сайжруулахад нь туслах",
     "summary": "Өнөөдөр эрүүл мэндийн мэдээллийн тогтолцоог бэхжүүлж, эрүүл мэндийг сайжруулах зорилгынхоо хүрээнд [1], ялангуяа COVID-19 цар тахлын хүрээнд амь аврах өгөгдлийг нэмэгдүүлэх шинэ хандлагыг зарласан: Эрүүл мэндийн өгөгдлийн техникийн багцын оноо. COVID-1…"
+  },
+  "https://ipinfo.io/blog/france-fridges-hack": {
+    "title": "Францын супермаркет хөлөг онгоцыг хэдэн сарын турш онлайн эмзэг болжээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.minimax.io/blog/minimax-m31f": {
+    "title": "MiniMax M3.1 Flash",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.youtube.com/watch?v=Ndftcft6XhU": {
+    "title": "Би нэг моторт дрон хийж [видео]",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://bsd.network/@brynet/117407035545900963": {
+    "title": "OpenBSD 8.0 хувилбарыг Линукс 6.18 -аас салгах/radeondrm/amdgpu драйверууд хийх болно.",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://marc.info/?l=openbsd-ports&m=179236125692175": {
+    "title": "OpenBSD-р илгээгдсэн дарс",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://openrouter.ai/rankings": {
+    "title": "Токен-максинг нас барсан, OpenRouter's token usage plateaus",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://calabro.io/ohbf": {
+    "title": "Нэг Хэш Блоомгийн Шүүлтүүрүүд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.youtube.com/watch?v=cNm4zyUtWj0": {
+    "title": "RuneScape Bench: Agents for MMOs [VIDEO]",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/kksimp/Mac.apk": {
+    "title": "MacOS дээрх уугуул програмууд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming": {
+    "title": "Програмчлалыг таашаах нь хэвийн л байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/": {
+    "title": "Нкеле ба Антропик нар өөр нэг $ 45 тэрбум тооцооллын гэрээнд оролцож байгаа нь мэдээлж байна",
+    "summary": "8 дугаар сард Nscale Антропик хоёр 45 тэрбум $ тооцоолох гэрээ байгуулжээ. Энэ хоёр компани ижил хэмжээний өөр нэг хэлэлцүүлгийн талаар мэдээлж байна."
+  },
+  "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/": {
+    "title": "Embedded AI үнэлгээчид хялбар шийдэл биш болно, хошигнолыг нүүрний бодлогын дарга хэлэхдээ",
+    "summary": "AI лабораториуд загвар жишиг тогтоогдсон — хиймэл оюун ухааны нэг бүтээгдэхүүн нөгөөгөөсөө илүү сайн эсэхийг хэмжихээр бүтээгдсэн үнэлгээний саармаг, үнэн зөв систем болоход нэр хүндээ суулгасан. Гэсэн хэдий ч, эдгээр үнэлгээний цаадах аргууд нь төвөгтэй боловч төлөвшсөн хэвээр байгаа, са..."
+  },
+  "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/": {
+    "title": "Microsoft AI-ийн агентууд нь \"Иргэний загваруудад итгэж болохгүй\" тул дотоод аюултай гэж хэлдэг",
+    "summary": "Microsoft аж ахуйн нэгжүүд нь OpenAI болон Антропик гэх мэт AI лабораториудаар хянаж чадахгүй байгаа системүүдтэй ажилчдыг сайтар ажиглахыг хүсч байна."
+  },
+  "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/": {
+    "title": "Амазон нь Nvidia-д хамгийн том цохилтоо шинэ TorchNeuron DEV хэрэгслээр авч байна",
+    "summary": "Амазон нь Nvidia-ийн цооролтыг PyTorch дээр эвдэхийг хүсч байна, ихэнх AI аппликейшнуудыг бүтээхэд ашигладаг үнэгүй хэрэгсэл, ингэснээр илүү хөгжүүлэгчид програмууд өөрийн адил өөр чипүүд дээрээ ажиллуулдаг."
+  },
+  "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/": {
+    "title": "Хакерууд AI кодлох хэрэгсэл OpenCode цохих, хэрэглэгчдийн AI дансанд төлбөрийг ажиллуулдаг",
+    "summary": "OpenCode бол Клауд Код ба Курсорын түгээмэл хувилбар болох AI кодчилол агент юм. Гэхдээ хакерууд нь онлайн платформын нэг хэсэг болж, зарим хэрэглэгчийн API түлхүүрүүдийг хулгайлсан, хиймэл оюун ухааны хэрэгсэл нь хортой кодыг хайхаас татгалзаж байв."
+  },
+  "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/": {
+    "title": "Хэрэглэгчдэд амьдралыг жолоодоход тусалдаг AI хамтрагчдаа Толан 30м $ снагдаг",
+    "summary": "AI хамтрагч апп Толан 250,000 гаруй идэвхтэй хэрэглэгчдийг татсаны дараа 30 сая $ дахин өсчээ."
+  },
+  "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/": {
+    "title": "Репликагийн үүсгэн байгуулагч 12 жилийн өмнө эвдэрсэн хиймэл оюун ухааны туслахыг байгуулсан",
+    "summary": "Eugenia Kuyda-ийн хамгийн шинэ гарааны Ваби арав гаруй жилийн өмнө түүний байсан санааг ашиглахаар болжээ. Wabi нь өнөөдөр хүн бүрт тохой, үнэгүй, татаж авах боломжтой хувийн хиймэл оюун ухааны туслахыг санал болгодог."
+  },
+  "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/": {
+    "title": "Tenstorrent нь нээлттэй жингийн AI чипсийг хэмжихийн тулд $ 6.2B үнэлгээг дайрав",
+    "summary": "Энэ оны эхээр худалдан авах сонирхол татсаны дараа Nvidia соригч бие даасан үлдэхийн тулд $ 1.5 тэрбум ам .долларыг босгосон байна."
+  },
+  "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/": {
+    "title": "AI туслах гарааны хот nabs UNICORN ҮНЭЛГЭЭНИЙ ҮНЭЛГЭЭ 4 сарын дараа",
+    "summary": "AI-ийн туслах стартап хот нь Форпраннер Ventures болон Menlo Ventures-тай хамтран $ 108 сая долларын цуврал В-ийн дугуйгаар зарлаж, даваа гаригт ер бусын үнэлгээг хураан авав."
+  },
+  "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/": {
+    "title": "Равиан компанийн гүйцэтгэх захирал хэлэхдээ бие даасан байдал нь ‘эрс ялгаатай’ тээврийн хэрэгслийн загварыг идэвхжүүлнэ",
+    "summary": "Үүсгэн байгуулагч, гүйцэтгэх захирал RJ Scaringe нь бие даасан байдал нь компанид гаднах SUVs болон ачааны машинуудаас үндсэн ялгаатай төрлийн машин бүтээх боломжийг олгоно гэж боддог гэжээ."
+  },
+  "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account": {
+    "title": "Elon Musk-ийн санал болгосон SpaceX хувьцааны хандив \"Trump данс\" руу орох болно",
+    "summary": "Ерөнхийлөгч Дональд Трамп өнөө үдээс хойш хүүхдүүдэд зориулсан Elon Musk-ийн SpaceX хувьцааг Трампын дансанд өгнө гэж мэдэгдэв. Маск өнөөдөр өглөө эрт хэлэхдээ тэрээр ирэх жилдээ \"Америкийн бүх хүүхдэд\" SpaceX хувьцаагаа өгөх болно гэжээ. Мук Trump Account boost-д талархаж байсан..."
+  },
+  "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report": {
+    "title": "Чулуужсан түлшний эргэж ирэх зүйл энд байна",
+    "summary": "АНУ 10 жилийн хугацаанд шатахууны дэд бүтцийг хийж байхад сэргээгдэх эрчим хүчний өсөлт удааширдаг гэж шинэ тайланд тэмдэглэжээ. Цахилгаан эрчим хүчний эрэлт хэрэгцээ нь арван жилийн хугацаанд илүү их дата төв, үйлдвэр, цахилгаан тээврийн хэрэгсэл залгуур бүхий илүү хурдан өсөж байна..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai": {
+    "title": "CoreWeave-ийн өрийг хиймэл оюун ухааны салбарын бүх асуудалд авч байна",
+    "summary": "CoreWeave өнгөрсөн долоо хоног муу байв. Хөрөнгө оруулагчид засгийн газрын холбооноосоо илүү үр өгөөжтэй байхыг шаарддаг аж. Сүүлчийн Tuesady Chamath \"SPAC King\" Palihapitiya ядарсан өрийг анзаарсан, аль аль нь..."
+  },
+  "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date": {
+    "title": "Би $ 99 залгуурыг оролдсон бөгөөд таны машиныг хянаж, шаардлагатай үед тусламж илгээхээ амласан.",
+    "summary": "Миний 15 настай охин сурагчийнхаа зөвшөөрлийг аваад л, өсвөр насны жолооч нарт тохирсон шинэ тогоо тавихад би их сонирхолтой санагдсан. Милес залгуур нь таны машины ОБД-II боомт руу залгагдаж, байршил, жолооны зуршил, тээврийн хэрэгслийн эрүүл мэндийг хянадаг жижиг төхөөрөмж юм."
+  },
+  "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only": {
+    "title": "Sony-ийн хамгийн сайн чанга яригч чихний савыг өнөөдөр бараг $ 100 унтраах",
+    "summary": "Маш хязгаарлагдмал хугацаанд Sony-ийн хамгийн сүүлийн үеийн дуу шуугианыг хүчингүй болгох чихний аппаратууд нь WF-1000XM5 -тай харьцуулахад үнэндээ хямд байдаг. B&H фото нь Sony-ийн хамгийн сүүлийн WF-1000XM6-ийг төлбөр тооцоо хийх үед 238 $ ($ 92 OFF) -ээр бүх цагаар бага үнээр худалдаалж байна. Бусад жижиглэн худалдаачид одоогоор байхгүй байна..."
+  },
+  "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement": {
+    "title": "Дараагийн долоо хоногт MacBook Pro үйл явдлыг тохуурхдаг",
+    "summary": "Apple-ийн энэ сард хоёрдогч бүтээгдэхүүний нээлтэд урилга илгээсэн бөгөөд Лос Анжелес дэх ET-д 10-р сарын 28-ны 1 цагт төлөвлөсөн. Блүүмберг-ийн мэдээлснээр Apple-ийн шинэ Mac болон сэргээгдсэн Ipad Mini-ыг зарлахаар тохирч байна. Том зарлал нь шинэ MacBook Pro байх төлөвтэй байна..."
+  },
+  "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana": {
+    "title": "Амазон Индиана дахь цөмийн шинэ үйлдвэрийг санхүүжүүлж байна",
+    "summary": "Амазон Индиана дахь цөмийн эрчим хүчний шинэ байгууламж барих санхүүжүүлэхийн тулд X-эрчим хүч, Америкийн цахилгаан эрчим хүчний (AEP) -тэй гэрээ байгууллаа. Салливан мужийн Фэрбэнкс хотын нүүрс түлшээр үүсэх станцыг солих санал болгож буй үйлдвэр нь про..."
+  },
+  "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale": {
+    "title": "M4-тэй Apple-ийн сүүлчийн мак Mini нь $ 150 хөнгөлөлттэй",
+    "summary": "Шилдэг худалдаж авах нь 16GB RAM болон 256GB SSD бүхий M4 Mac Mini суурь загварт өдрийн үлдсэн хэсэг нь асар их байдаг. Ихэвчлэн M4 загварыг ердийн $ 799 үнээр худалдаж авах нь нэг тонн утга биш юм, шинэ, илүү хурдан M6 хувилбарыг ашиглах [...]"
+  },
+  "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws": {
+    "title": "JB Pritzker AI нь 100-д амьдрах эсвэл nukes шиг заналхийлэхэд бидэнд туслах боломжтой гэж боддог",
+    "summary": "Өнөөдөр би хиймэл оюун ухаан, технологи, нууцлалын тухай олон бодолтой Иллинойс Говь JB Pritzker-тэй ярилцаж байна. Хэрэв та үзүүлбэрийг сонсож байсан бол миний үйл ажиллагаа явуулж буй онолын нэг нь эдгээр асуудлууд улс төрийн том, санаанд оромгүй бодитой байдлыг жолоодож байгааг та нар мэднэ..."
+  },
+  "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink": {
+    "title": "Европын хамгийн том гар утасны операторууд Starlink-гүй \"шууд\" хиймэл дагуулын хөтөлбөрийг зохион байгуулж байна",
+    "summary": "Deutsche Telekom, Orange, Telefónica, Водафон нар Европын SpaceX-ийн Starlink-ийн шууд төхөөрөмжид зориулсан хиймэл дагуулын өрсөлдөөнийг дэмжих спектрийн төлөө хамтарсан тендерт оролцохоор төлөвлөж буй нэгэн зорилт тавьсан захидал гарын үсэг зурлаа. Дөрвөн цахилгаан холбооны компаниуд газар би..."
+  },
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcndJRnB1WjM2MEVNMVRVbDFncnpSODloZTFTLTNfcW5QX2drOVgzYzhGTVkyb3RkS2ZGOGdGRUl3TVBXR3JQbUtWTlJnalk0dkdhcGtVYmpzSWRnMzlELVp0MlV3cV9rTnNTTDdYZXlYcEZIWG5qalE3V3BPVnNqU0thTDBFY1RHbTQw0gGQAUFVX3lxTE9zcGdjdkhmTWVPSlZmaWxHMVJtQmxqRU9KTHdmSkdCUnB1SklEejdCbkJHTk14R2JkaXdHMVNhR2ZtbmpPS1pIUS1Qczd3UUpWZ3RJcjVCMXA1cTRraHZ1N0pVYV9lcGlUSDFTNjlnNVQ2c0lodWNuWEhWYmlIZjZqT2NQUWxvWU4yRjIxcmZSOA?oc=5": {
+    "title": "Антропик AI нь филаделфи цагдаа руу хуурамч аллагын зөвлөмж илгээдэг - Fox News",
+    "summary": "Антропик AI нь филаделфи цагдаа руу хуурамч аллагын зөвлөмж илгээдэг FOX News"
+  },
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjUzSTBwaWVOa2huTHR5MlFqWWlpc1IyQmJiVkM4dGlBckhrMDhRS05LVk1EdElzR1dnUVZmT0g2OWhxSHFXbVJMaU1wejJYYktFS2I0WnVsb1VaVVl3OWJPZWJkOGdCbG96VVRDYlRxUlgyU09NejNVeEdxN2E1T2ZvMG9oSlpvUVR5YXQ1Qy12ZlFHaUVvY0JGOHRYbVFWWlEwLXphLWx1VzVzT1UtRkFvTTZDZw?oc=5": {
+    "title": "‘Би ёс суртахууныг зорилготой гэж бодохгүй байна’: Клодын мөс чанараа дүрсэлсэн AI ёс зүйчидтай уулзах - freebeacon.com",
+    "summary": "‘Би ёс суртахууныг зорилготой гэж бодохгүй байна’: Клаудын мөс чанараа freebeacon.com -ийг Shaping AI Ethicists-тэй  уулзаарай"
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5": {
+    "title": "Амазон Бедроц дээрх антропик Клодын загваруудын бүтэцтэй гаралтууд - Амазоны Вэб үйлчилгээ (AWS)",
+    "summary": "Амазон Бедрок Amazon Вэб үйлчилгээ (AWS) дээр антропик Клод загваруудын бүтэцтэй гарц"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLW9KaWpQLURhY2ptbDNnQlZIT0Rfdm5MOWRSOWVrdE4zMVliS09LRmZ1RTJGUmdNR0w1NnQ3bmVfd04tdUI4OVZVUXZmLUJ2THZVdGI0WUJLdDlOOHVmVEd5MTZRZHVtbnNVU0RvNHkxQmhpMW52bkNPT3gyQktubGdiU1N1cy1tVVJqbUpxTkE0TnFEVkFvaVBVWE4xYk0?oc=5": {
+    "title": "Клод Хайку 5.5: Шинэ, хурдан, хямд хиймэл оюун ухааны ажлын урсгалд хэрхэн ашиглах вэ? - KDnuggets",
+    "summary": "Клод хаику 5.5: Үүнийг хурдан, хямд хиймэл оюун ухааны ажлын урсгал KDnuggets-д хэрхэн ашиглах тухай"
+  },
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbl9PcUp2RThiUVVvSVgxQnJ0bEtHaTVpUVRIX3JHbkVCbW5GUkxjYWhnXzBTeV84SVdESHJuVmFMLU1DM1NSZV9pREVsUS1DanFqelQ5ck5aSHk3MFEyZnk2aHpkNmI0NlA2Zl9oSk1aZmF4TUNPSDBxZjN4eW42N0M2bWxyN2VlNUE?oc=5": {
+    "title": "‘Клаудын арми, хүн бүр миний анхаарлыг татдаг’: Антропийн анхаарлыг битүүмжилсэн ертөнцөд хүний анхаарлыг татжээ - Fortune",
+    "summary": "‘Клаудын арми, хүн бүр миний анхаарлыг татахыг хүсч байна’: Антропик хүн Роботын дэлхийн саад тотгорыг хүмүүсийн анхаарлыг Fortune ирэхийг дууддаг"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/australian-lawmaker-in-critical-condition-after-vehicle-attack": {
+    "title": "Автомашины довтолгооны дараа Австралийн хууль тогтоогчийн эгзэгтэй нөхцөлд",
+    "summary": "Австралийн хараат бус хууль тогтоогч Хелен Хэйнс Викториа хотын захын алба хөдөө нутагтаа нэгэн дайралтад машинд дайрсны дараа эмнэлэгт хүндээр өвдөж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-19/trump-zelenskyy-rift-deepens-france-protest-response-more": {
+    "title": "Трамп-Zelenskyy Rift Deepens, Францын эсэргүүцлийн хариу арга хэмжээ, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-19/balance-of-power-policy-pulse-for-october-19th-2026-podcast": {
+    "title": "Хүчний тэнцэл: 2026 оны 10-р сарын 19-ний бодлогын импульс (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-19/merz-russia-warning-to-europe-france-protests-fallout-more": {
+    "title": "Мерц Орос Европт анхааруулсан, Францын эсэргүүцэл сүйрч байна.",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/what-neoclouds-like-coreweave-reveal-about-the-fragile-ai-economy-big-take-podc": {
+    "title": "Эмзэг AI эдийн засгийн талаар Neoclouds хэрхэн илэрдэг вэ?",
+    "summary": "Үүлэн дээрх дэд бүтцийн үйлчилгээ үзүүлэгчдийн өсөн нэмэгдэж, цаашид юу болох талаар ГолВэйний санхүүгийн ачаалал илэрдэг."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-19/big-take-coreweave-and-the-fragile-ai-economy-podcast": {
+    "title": "Big Take: CoreWeave болон эмзэг хиймэл оюун санааны эдийн засаг (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 16:33"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-19/merz-russia-warning-france-toughens-protest-response-more": {
+    "title": "Мерц Оросын анхааруулга, Франц эсэргүүцлийн хариу үйлдэлийг өдөөж байна, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-19/germany-s-merz-warns-russia-wants-more-than-ukraine": {
+    "title": "Герман улсын Мерц Оросыг Украйнаас илүү ихийг хүсэхийг мэдэгдэв",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-19/mp-critical-after-car-attack-nab-job-cuts-asx-chief-interview": {
+    "title": "Машины довтолгооны дараа MP-ийн чухал зүйл, NAB ажлын цоорхой, ASX-ийн Ерөнхий ярилцлага",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-19/bloomberg-businessweek-daily-tech-earnings-kick-off-podcast": {
+    "title": "Блумберг Бизнес долоо хоногийн өдөр тутмын: Технологийн орлого зогсоно (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 41:30"
+  },
+  "https://www.entrepreneur.com/leadership/the-1-question-i-ask-in-every-leadership-meeting/505201": {
+    "title": "Дэндүү хожимдоогүй өмнө асуудлаа арилгахын тулд манлайлагчдын уулзалт бүрээс гуйж буй 1 асуулт",
+    "summary": "Энгийн удирдлагын энэ практик нь нуугдмал эрсдэл, хариуцлага хүлээх чадварыг бий болгож, асуудлыг шийдэхээс өмнө эвгүй байдалд орж буй үнэнийг мэдэрдэг."
+  },
+  "https://www.entrepreneur.com/building-a-business/hiring-a-speaker-for-your-next-event-ask-these-6-questions-before-you-sign-a-contract": {
+    "title": "Дараагийн үйл явдалд илтгэгч ажилд авах уу? Гэрээнд гарын үсэг зурахаасаа өмнө дараах 6 асуултыг асуугаарай",
+    "summary": "Гэртээ харихаасаа өмнө мартсан илтгэгчийн санаж буй эдгээр зургаан асуултыг асуугаарай."
+  },
+  "https://www.entrepreneur.com/business-news/im-an-nfl-veteran-who-has-been-the-new-guy-7-times-here-are-my-9-lessons-for-starting-a-new-job": {
+    "title": "Би ‘Шинэ Гай‘ 7 удаа болсон NFL ахмад хүн. Шинэ Иовыг эхлүүлэхийн тулд миний 9 сургамж энд байна.",
+    "summary": "Хэрэв та шинэ царцаа эхлүүлж байгаа эсвэл нэгийг ажилд авах эсэхээс үл хамааран Kyle Van Noy нь сургалтын муруйг богиносгох 13 цагийн NFL-ийн сургамжийг санал болгож байна."
+  },
+  "https://www.entrepreneur.com/business-news/people-without-college-degrees-are-starting-businesses-in-these-industries-no-1-can-bring-in-over-330000-a-year": {
+    "title": "Коллежийн зэрэггүй хүмүүс эдгээр салбарт бизнес эрхлэгчдийг эхлүүлж байна. № 1 нь жилд $ 330,000-аас дээш ам .долларыг авчирч чадна",
+    "summary": "Зарим хүсэл эрмэлзэлтэй бизнес эрхлэгч Стив Жобсын тоглоомын номноос хуудас гаргаж байна."
+  },
+  "https://www.entrepreneur.com/business-news/billionaire-vinod-khosla-is-hiring-for-this-in-demand-job-which-typically-pays-175000-per-year": {
+    "title": "Тэрбумтан Винод Хосла энэ эрэлт хэрэгцээгээ хангаж байгаа бөгөөд Жилд 175,000 $ төлдөг",
+    "summary": "12 цаг, “цагийн турш бэлэн байх шаардлагатай байрлал” -ын талаар юу мэдэх хэрэгтэй вэ."
+  },
+  "https://www.entrepreneur.com/building-a-business/the-leadership-blind-spot-that-makes-a-plan-look-stronger-than-it-really-is": {
+    "title": "Шийдвэр гаргахаас илүү хүчтэй харагддаг манлайллын гэрэл гэгээтэй газар",
+    "summary": "Хөтөлбөр нь төлөвлөгдсөн хяналтын цэгээ хангаж байгаа юм. Учир нь багууд төлөвлөгөөний цаана үйл ажиллагааны таамаглал зогссоны дараа ч орон нутагт дасан зохицож байдаг."
+  },
+  "https://www.entrepreneur.com/building-a-business/your-team-learned-from-a-past-mistake-and-still-made-the-wrong-call-heres-what-got-lost": {
+    "title": "Өмнө нь гаргасан алдаанаасаа суралцсан ч гэлээ буруу дуудлагыг нь гаргасан. Энд алдагдсан юм.",
+    "summary": "Өөрсдөө сурч мэдсэн хойноо ч алдсан хүмүүсээс сургамж авах нь бий."
+  },
+  "https://www.entrepreneur.com/business-news/elon-musk-just-said-hell-give-a-spacex-share-to-every-kid-in-america-that-could-cost-him-10-7-billion": {
+    "title": "Елон Маск зүгээр л \"Америкт хүүхэд бүрт\" SpaceX Share өгөх болно гэж хэлсэн. Энэ нь түүнд 10.7 тэрбум $ өртөгтэй байв.",
+    "summary": "Муск X-ийн тангараг нэг өдөр Антропик нийгмийн шалтгаанаар 48 тэрбум $ санг зарласны дараа, үүнд AI-ийн ажлын байранд үзүүлэх нөлөөллийг оруулав."
+  },
+  "https://www.entrepreneur.com/business-news/tech/that-ai-visibility-score-you-just-bought-its-probably-just-a-screenshot-of-a-die-roll": {
+    "title": "Таны бодлоор авсан харц таны хувьд их үнэ цэнэтэй биз дээ? Энэ нь зүгээр л үхсэн өнхрөх зургийн зураг байх.",
+    "summary": "AI хариултууд нь хоёр хоног тутамд нэр өгдөг брэндүүдийг эргүүлдэг тул нэг чекээр хэмжихээр юу ч биш, нэгийг нь зарж борлуулдаг борлуулагч дуу чимээг эргүүлдэг."
+  },
+  "https://www.entrepreneur.com/business-news/this-6-6-billion-company-charges-less-than-10-for-most-of-its-products-heres-its-secret-sauce-for-7-straight-years-of-sales-growth": {
+    "title": "Энэ $ 6.6 тэрбум ам .долларын компаниудын ихэнх бүтээгдэхүүний хувьд 10 $ -иас бага төлдөг. Энэ бол шууд 7 жил Борлуулалтын өсөлтөд зориулсан \"нууц соус\" юм.",
+    "summary": "Алдартай компани 8-р сард борлуулалтын өсөлт 30 шулуун квадратыг мэдээлжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates": {
+    "title": "АНУ-ын Чип Раллиас завсарлагаанд Азийн хувьцаа буурах: Маркетууд бооно",
+    "summary": "Азийн хувьцаа буурч, Наддакийг 2025 оны дөрөвдүгээр сарын үймээн самуунаас хойш хамгийн муу долоо хоногоос нөхөн сэргээхэд тусалсан Wall Street дээр чип удирдуулсан уулзалтыг зөрчсөн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ ба дүн шинжилгээ 20-р сарын XNUMX-ний өдөр",
+    "summary": "Брент тос нь Персийн булангаас бүдүүн бүдүүн бүдүүн урсгалын эсрэг гормуз дахь Iraniana халдлагад өртөх эрсдэлийг наймаачид жинлэхийн хэрээр таван сарын өндөр ойролцоо тогтвортой байв."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-20/french-protests-taper-off-as-officials-admit-failure-video": {
+    "title": "Албан тушаалтнуудыг алдаа гаргасныг хүлээн зөвшөөрсөн Францын эсэргүүцэл",
+    "summary": "Францын албан тушаалтнууд хаа сайгүй аюулгүй байдлын арга хэмжээнүүдийг боловсруулж, зардлын хэмжигдэхүүн нь хүчирхийлэл, дайралт, дээрэмд нэрвэгдсэний дараа бизнес эрхлэгчдэд тусламж хүлээлгэн өгсөн. Блумберг Розалинд Матисоны хамгийн сүүлд очжээ. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path": {
+    "title": "Эрчим хүчний-Led инфляци Ханшийн зам дээр жинлэгдэж байгаа үед алтны эзэмшил бууралт",
+    "summary": "Тосны өндөр үнийн өсөлт нь инфляцийн асуудал үүсгэж, ашиг сонирхлын хэмжээ нэмэгдэх Холбооны нөөцийн замыг үүлээтэй тул алт буурчээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/mynt-s-record-ipo-brings-a-new-heavyweight-to-philippine-stocks": {
+    "title": "МИНТИЙН Бичлэг IPO нь Филиппиний хувьцаанд шинэ хүнд ачаа авчирсан",
+    "summary": "Mynt Inc-ийн хувьцааг олон жилийн турш үл тоомсорлосон зах зээл дээр хөрөнгө оруулагчид шинэ бооцоо өгч, Филиппин дэх хамгийн том анхны олон нийтэд санал болгосны дараа Мягмар гаригт дебютээ хийхээр тохируулав."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role": {
+    "title": "Хятад улс шинэ бодлогын түвшинг нэмэгдүүлэхээр төлөвлөж байна",
+    "summary": "БНХАУ-ын төв банк нь өнөөгийн долоо хоногийн буцах нөхөн төлбөрийг шинэ бодлогын жишиг болгон солих бөгөөд энэ нь дэлхийн үе тэнгийнхэнтэй илүү ойртох бас нэг алхамаар зээлэх зардлыг бууруулах боломжтой болно."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/boc-surveys-show-higher-inflation-expectations-passthrough": {
+    "title": "БОС-ийн судалгаанууд нь инфляцийн өсөлт хүлээлт, бэлчээрийг харуулсан",
+    "summary": "Канадын банкны судалгаагаар инфляцийн хүлээлт илүү өндөртэй хөдлөхийг харуулсан бөгөөд компаниуд үйлчлүүлэгчдэд орцын өндөр зардлыг дамжуулахаар төлөвлөж буй олон нотолгоо гарчээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/bank-of-canada-hike-bets-grow-among-economists-traders": {
+    "title": "Ирэх долоо хоногт Валютын худалдаачид, эдийн засагчид Канадын хэмжээнд тороо нэмэгдүүлдэг",
+    "summary": "Төв банкны хамгийн сүүлийн үеийн судалгаагаар инфляцийн хүлээлт өсөхөд эдийн засагч, худалдаачид Канадын банк ирэх долоо хоногт хүүгээ өсгөхийг хүлээж байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/how-the-buffett-kids-will-shape-a-150-billion-legacy-video": {
+    "title": "Баффет Хүүхдүүд $ 150 тэрбумын өвийг хэрхэн хэлбэржүүлэх вэ",
+    "summary": "Блүүмберг Биллиярсийн индексийн мэдээлснээр Беркшир Хахавегийн дарга, $ 150 тэрбум ам .долларын үнэтэй байна. Саяхан Билл Гейтс түүний олон жилийн дуртай баатрын дэлхийн сууриар дамжуулан ихэнх мөнгийг өгөх ажилд оролцож байсан. Дараа нь CAM..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/cboe-s-early-session-for-single-stock-options-makes-debut": {
+    "title": "Ганц цэгийн сонголт хийхэд зориулагдсан кабоны эрт хуралдаанаас татгалзсан байдал",
+    "summary": "Cboe Global Markets Inc. нь ETFs-ийн гол нөөцийн индексийг хянах зэрэг дан хөрөнгийн сонголтуудаар зах зээлд арилжаа эхлүүлсэн."
+  },
+  "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1": {
+    "title": "АНУ-ын хамгаалалтын хувьцаа нь хөрөнгө оруулагчид Ардчилсан сонгуулийн хувиараа бооцоо хийхэд төвөгтэй байдаг",
+    "summary": "Доналд Трампын $ 500 тэрбум цэргийн зарцуулалтыг эрсдэлд оруулахыг санал болгосон бөгөөд ингэснээр хоёр талын хөрөнгө оруулалт өндөр байна"
+  },
+  "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1": {
+    "title": "CME нь зэвсэг өсөх эрэлт хэрэгцээтэй гянтнын фьючерсийг төлөвлөж байна",
+    "summary": "Хятадын зэвсэг түгжрүүлэх бөөнөөрөө ашиглаж буй чухал ашигт малтмалын экспортыг хязгаарласан"
+  },
+  "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1": {
+    "title": "\"Би одоо ч түүнийг дэмжиж байна\": АНУ-ын сонгогчид Trump болон midterms-г жинлэн үздэг",
+    "summary": "Пенсильвани улсын Пенсильвани дахь Бетлехемийн тулалдаанд ФТ-ийн анхаарал төвлөрүүлэх бүлэг 11-р сарын өмнө улс орны талаар санаа зовох нь илэрсэн"
+  },
+  "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1": {
+    "title": "Хятадын тосгонууд Бээжингийн AI зорилгын үнийг төлдөг",
+    "summary": "Shaoguan алслагдсан бүс нутагт оршин суугчид тухайн улсын хиймэл оюун санааны дэд бүтцийн түлхэц удаан хугацаагаар эсэн мэнд давсан өсөлтийг бий болгоно гэдэгт найдаж байна"
+  },
+  "https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1": {
+    "title": "Францын бослого улс төрийн талын доголдолыг илчилдэг",
+    "summary": "Хүчирхийлэлд аймшигтай хүчирхийлэл нь нийгэмд хагарал, санхүүгийн хязгаарлалт, манлайллын хямралыг гүнзгийрүүлж байгааг онцолсон"
+  },
+  "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1": {
+    "title": "Францын бондын борлуулалт эхэлж, хулгайлсаны дараа эрчимжиж байна",
+    "summary": "Эрх баригчид curfews-г нэвтрүүлж, цагдаа нар эсэргүүцлийн хяналтыг эвдэж байгааг хүлээн зөвшөөрөх"
+  },
+  "https://www.ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9?syn-25a6b1a6=1": {
+    "title": "Европ даяар хүчирхийллийн эсэргүүцэл олон байна",
+    "summary": "Милан, Брюссель, Лиев, Тирана дээр цагдаа нартай гацах, мөргөлдөж байна"
+  },
+  "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1": {
+    "title": "Шинэ Украины яриа өрнүүлэх Trump envoys энергийн хямрал дундуур ирмэг болох нь",
+    "summary": "Стив Виткоф, Жаред Кушнер нар Володимир Зеленскитэй уулзахаар Норвег руу аялах төлөвтэй байв"
+  },
+  "https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866?syn-25a6b1a6=1": {
+    "title": "Нью Йоркийн тэтгэврийн хорооны дарга хувийн өмчит компанийг зардлын тийрэлтэт ашиглахыг эрэлхийлсэн гэжээ",
+    "summary": "Хотын захиргаад $ 326bn тэтгэврийн системийн дарга нь менежер эрхэлсэн төлбөрийг \"тогтвортой хуйвалдан\" өндөр үнээр давамгайлдаг."
+  },
+  "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1": {
+    "title": "Антропик ба Нкале хоёр дахь олон тэрбум долларын хэлэлцүүлэгт оролцов",
+    "summary": "AI стартап нь Их Британийн дата төвийн бүлгээс илүү тооцоолох хүчийг хайж байна"
   }
 }
