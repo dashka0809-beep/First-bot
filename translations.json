@@ -7518,5 +7518,297 @@
   "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1": {
     "title": "Антропик ба Нкале хоёр дахь олон тэрбум долларын хэлэлцүүлэгт оролцов",
     "summary": "AI стартап нь Их Британийн дата төвийн бүлгээс илүү тооцоолох хүчийг хайж байна"
+  },
+  "https://permit.petercai.com/": {
+    "title": "SimCity, гэхдээ зөвшөөрөлтэй",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/": {
+    "title": "Золиосны хэлэлцүүлэгчийн сэжигтэн ShinyHunters мөлжлөгийн сайтыг ажиллуулж байв",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/deepseek-ai/DeepInfer": {
+    "title": "DeepInfer: DeepSeek загварын өндөр гүйцэтгэлийн хүрээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://mistral.ai/news/voxtral-3/": {
+    "title": "Voxtral 3",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.thebeliever.net/the-other-epidemic/": {
+    "title": "Өөр нэг халдвар: Бензодезепинийг задлах гэж оролдох",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/google-pytorch/torch_tpu": {
+    "title": "TPU-ийн уугуул PyTorch арын төгсгөл болох Google нээлттэй эх сурвалжууд TorchTPU",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://stevekrouse.com/ends": {
+    "title": "Хүүдээ юу заах вэ?",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md": {
+    "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra нь нийтдээ ялалт, xhigh хортой гэж үздэг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/": {
+    "title": "Эрдэмтэд Википедиа гэх мэт нээлттэй мэдээллийн системийг хамгаалах үүрэгтэй",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/": {
+    "title": "Apple-ийн iPads-ийн чухал илтгэлийг эвдсэн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/": {
+    "title": "Хэрэв 50+ хүн алж болох юм бол загварыг хаах боломжтой антропик давхрага AI аюулгүй байдлын хуулийн төслийг",
+    "summary": "Санал болгож буй бодлого нь хиймэл оюун ухааныг ажиллуулахтай тэмцэх амкны эсрэг хамгаалалтыг санал болгодог боловч шүүгчийн зөвшөөрөлгүйгээр холбооны агентлагууд загвар гаргахыг хориглохыг хориглодог."
+  },
+  "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/": {
+    "title": "SpaceX болон Tesla самбар нь нэгдэхийг хянах тусгай хороог бүрдүүлдэг",
+    "summary": "Елон Маск энэ санаа таалагддаг ч хараат бус захирлаас бүрддэг хорооныхоо гишүүн биш гэж хэлжээ."
+  },
+  "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/": {
+    "title": "Нүүрэн дээрх гүйцэтгэх захирал Netflix-ийн OpenAI хакердсан баримтат үнэн зөв биш гэдгийг анхааруулж байна",
+    "summary": "Netflix баримтат \"AI Gone Rogue\" -г хуваалцахаасаа өмнө анхаарч үзээрэй. Кинод оролцсон Хьюзинг Фэйсийн үүсгэн байгуулагч Клем Делангэ \"бүрэн догомер горим\" болсон гэж хэлсэн бөгөөд үнэн зөв биш юм."
+  },
+  "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/": {
+    "title": "Антропийн үүлний түншлэлүүд замбараагүй болж байна",
+    "summary": "Антропик нь үүлний үйлчилгээ үзүүлэгчдийн хангалттай тооцоололыг хангахын тулд тэмцэж байгаа бөгөөд энэ нь өрсөлдөгч гэж улам бүр үзэж байгаа бөгөөд энэ нь 11-р сарын төлөвлөсөн IPO-ээс өмнө дэд бүтцийн зарцуулалтын бөмбөлөг шиг юм."
+  },
+  "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/": {
+    "title": "SpaceX AI бизнес нь хүлээлтийг зодож байна",
+    "summary": "SpaceX гуравны дөрөв дэх хотод 4.4 тэрбум $ цэвэр орлого ашигтай нөлөөлсөн. AI нь хөдөлгүүр байсан."
+  },
+  "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/": {
+    "title": "OpenAI нь биотехнологийн бизнестээ эхлүүлэх Оркестра Био ашгийг авна",
+    "summary": "OpenAI нь Оркестрагийн баг, технологийг Амьдралын шинжлэх ухааны судалгаанд зориулсан хиймэл оюун ухааны загвар, түүнтэй холбоотой Rosalind Workbench хэрэгсэл, судлаачдын туршилтыг төлөвлөх, дүн шинжилгээ хийхэд туслах уялдуулгыг нэмж оруулсан гэжээ."
+  },
+  "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/": {
+    "title": "Google нь Gemini AI туслахыг машиндаа илүү их хувийн хувилбар авчирч байна",
+    "summary": "Google нь Жеминигийн Хувийн Тагнуулын функцийг машинд авчирч, хиймэл оюун ухаанаар туслахдаа Gmail, Хуанли, Газрын зураг, YouTube болон бусад Google үйлчилгээнүүдээс мэдээлэл авах боломжийг олгодог."
+  },
+  "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/": {
+    "title": "Детройт зай угсралтын үйлдвэрийг хаах GM, гэхдээ шалтгаанаар биш",
+    "summary": "МГ нь Brownstown Battery Assembly Plant-ийг хааж байгаа боловч автоматжуулалтын цахилгаан станцын стратегитай холбоотойгүй."
+  },
+  "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/": {
+    "title": "Google нь Nvidia-гийн бэхлэлтийг AI апп хөгжүүлэгчидтэй дайрч довтолсон Амазонтай нэгдсэн",
+    "summary": "Google нь Nvidia GPU-с програмаа зөөхөд амархан болгодог PyTorch хэрэглэгчдэд хөгжүүлэгчийн хэрэгслийг гаргахын тулд Амазонтай нэгдсэн."
+  },
+  "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/": {
+    "title": "ChatGPT нь одоо танд чатаа түгжих боломжийг олгодог",
+    "summary": "Тус компани нь хэрэглэгчид ямар нэг хувийн сэдвээр ярих, эсвэл гэнэтийн санааг төлөвлөж болох нөхцөл байдалд зориулагдсан бөгөөд төхөөрөмжөө найз нөхөд, гэр бүлдээ өөр чатаар харуулах үед тэдгээр яриагаа нууцаар өгөхийг хүсч байна гэжээ."
+  },
+  "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu": {
+    "title": "YouTube-ийн дургүй товчийг нуусан байж магадгүй юм",
+    "summary": "YouTube-ийн 9to5Google-ийн мэдээлснээр видеонууд дээрх дургүйг нуусан товчлуурыг туршиж байгаа бололтой. X-ийн дор хаяж хоёр хэрэглэгч сүүлийн үед гурван цэгийн дэд цаана байршуулсан дургүй товчийг дэлгэцээр хуваалцаж, Reddit дээрх хэрэглэгч мөн дургүй товчийн зургийг хуваалцаж байна..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed": {
+    "title": "Шүүгч Сам Алтманы дүүгийн бэлгийн хүчирхийллийн хэргийг үгүйсгэсэн",
+    "summary": "Мягмар гарагт АНУ-ын Дүүргийн Шүүгч Зачари Bluestone өнгөрсөн жил Анн Алтман ахыгаа \"OpenAI\" -ийн гүйцэтгэх захирал Сэм Алтманыг хүүхэд насандаа бэлгийн хүчирхийлэл гаргасан хэмээн мэдэгдсэн хэргийг хэрэгсэхгүй болгожээ. Шүүгчийн бичсэнээр өнгөрсөн жил Анн…"
+  },
+  "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers": {
+    "title": "Трамп Ник Ширли $ 10,000 доллар өгч, 25 сая $ залилангийн хөнгөлөлт хөтөлбөр эхлүүлж байна",
+    "summary": "Дональд Трамп болон дэд ерөнхийлөгч JD Ванс Трампын захиргаа баруун талын YouTuber Ник Ширли $ 10,000-ыг өгч, олон нийтэд залилан тайлагнахын тулд $ 25 сая хөнгөлөлтийн хөтөлбөр хэрэгжүүлж байна гэжээ. 2025 оны арванхоёрдугаар сард Ширли вируст видео нэрийг нийтэлжээ..."
+  },
+  "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto": {
+    "title": "Google-ийн илүү хувийн Gemini AI нь таны машин руу явж байна",
+    "summary": "Google таны машинд Gemini AI-д хувийн оюун ухааныг авчирч байна. Энэхүү шинэчлэлтийн тусламжтайгаар Gemini нь Android Auto болон Google суурилуулсан автомашинаар Gmail, Calendar, Maps, Photos, YouTube, and Search зэрэг Google апп-уудаар таны мэдээллийг цохих боломжтой. Жишээлбэл, Google танд..."
+  },
+  "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees": {
+    "title": "Tesla and SpaceX нь Маск хэлэхдээ",
+    "summary": "Елон Маск сүүлийн 3-р улирлын орлогын дуудлагын үеэр Мягмар гаригт хэлэхдээ Tesla болон SpaceX нь боломжит нэгдэх талаар хэлэлцэх тусгай хороо байгуулжээ. Тусгай хороо хувьцаа эзэмшигчийн хүсэлтээр байгуулагдсан бөгөөд биоос бүрдэнэ..."
+  },
+  "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says": {
+    "title": "Сансрын X нь Starship болон түүний өдөөгчийг анх удаа барихыг оролдох болно гэж Мастер хэлэв",
+    "summary": "SpaceX-ийн гүйцэтгэх захирал Елон Маск компани ирэх сард Starship болон түүний өдөөгчийг барьж авах гэж оролдож байгаа бөгөөд анх удаа бүх тойрог замын хөөргөлтийн системийг сэргээх зорилготой гэжээ. Амжилттай бол Муск хэлэхдээ энэ оролдлого нь тойрог замын эхлүүлэх тээврийн хэрэгслийг анх удаа тэмдэглэх болно..."
+  },
+  "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time": {
+    "title": "Netflix хөрөнгө оруулагчдад санаа зовохгүй байхыг хэлж байна, хэрэв та бага, ажиглаж байгаа ч",
+    "summary": "Netflix нь цаг хугацааг алдах тухай тайлангийн дагуу мөнгө олох үйл ажиллагааг нэн тэргүүний зорилт болгож байна. Мягмар гаригт гуравдахь ашгийн тайлангийн хүрээнд Netflix нь зугаа цэнгэлийн үнэ цэнэ, левийг нэмэгдүүлэх хүчин чармайлтын хамт явагдаж буй гол чиглэлийн нэг болох хөрөнгө мөнгөөрөө сайжруулах арга хэмжээг жагсаав."
+  },
+  "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr": {
+    "title": "Snap нь Роберт Дауей Ж.р. -г Төмөр Мань зүйлийг гүйцэтгэхийн тулд төлж байна",
+    "summary": "Snap нь Specs AR шилний шинэ брэндийн элчин сайдтай: Iron Man Actor Robert Downey Jr. Тус компани Specs-ийн \"Захирлын хэрэглэгчийн туршлагын ажилтан\" болж Downey-г авчирсан бөгөөд Дауни нь шинэ нүдний шилний чадамжуудыг харуулсан хэд хэдэн видео бичлэгүүдийг нийтэлж байна. Үүнд:"
+  },
+  "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings": {
+    "title": "SpaceX хэлэхдээ том AI өсөлт орлогын үсрэлтийг өдөөдөг",
+    "summary": "SpaceX мягмар гарагт 14.6 тэрбум $ орлогоо зарласан бөгөөд энэ нь манай Super Intelligence (SI) сегментээр шатсан, холболтод хурдасгасан жилийн 161 хувиар өсөлтийн өсөлт байсан гэжээ. \"Түүний сансрын хэлтэс орлогын f $ 7 сая алдагдлыг байршуулсан бол..."
+  },
+  "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular": {
+    "title": "Oura түүний ухаалаг цагиргуудад хоёр шинэ зүрх судасны эрүүл мэндийн хянах функцийг нэмдэг",
+    "summary": "Оүра нь зүрх судасны төвлөрсөн хоёр эрүүл мэндийн хянах функцийг хэрэглэгчдэд тогтмол дасгал хөдөлгөөн, дасгал хөдөлгөөн нь тэдний урт хугацааны эрүүл мэндэд, тэдгээрийг урсгах эсвэл залгах шаардлагатай эсэхээ илүү сайн ойлгоход туслах зорилготой ухаалаг цагирагуудад танилцуулж байна. Cardio E..."
+  },
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMFBucHdNeF8ycUFnZVdiOWlUREIxekVqT1IyWGlicVpWeUY5aFI5Z19TU25Ta2VuaS05SXo4ZlA2aW9iUVZJS3duYTBmXzNDX3JqVlpCakttR1JFejZ6NnhjRzBYZlpXOFBRU2V3?oc=5": {
+    "title": "Антропик-антропик дээр эхийн хяналтыг шинэчилэх нь",
+    "summary": "Антропик антропик дээр эхийн хяналтыг дахин  загварчлах"
+  },
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VNkRtQVc2UUZVVmgyWUJOQU5RSjdCMjQ0V1JuczVKVmxoME1pQ295LWZ5a3J1M21SWk1yWUtGQ01pbTN3bFVldVVmc01QLXNYYlBqRi04UnZ4VWR5NzU1dTZuYzFxRVA5enZObVVFeE1sVURIVFp1NGVn?oc=5": {
+    "title": "Хуйх нейтротоксинууд - антропик эсрэг Клод хэрхэн уургийн зөөлөвчийг боловсруулсан бэ?",
+    "summary": "Клод хорт хавдрын нейтротоксин агтропийн эсрэг уургийн binders хэрхэн боловсруулсан бэ?"
+  },
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkw2eGEtVG9TbkIyMHZ1NGpvODQtNTVJc0U5N0dNQVpDTUFYWk5LM3YwcDNZeU45dW5WMGg0dE1LZGxPRk1ZbjhQbjdRSl9EZFpZZTNlUVVFMGR1SmY1Q2lmS3NJaExvMzUxY0ZFTGtnV1M5Q1IzUUcxZ0F4d0ViNURzUnQ5UlR2Q3ZRU2FPOHZ2dHI3NmpEbWdtWkU1cUVOM0w3TmJmcmpVNnNCSEktMS01c0k?oc=5": {
+    "title": "Клод AI эмийн шинжилгээний дараа Citrini Bets - Bloomberg.com",
+    "summary": "Citrini Bets on Life Sciences Клод AI эмийн судалгаа хийсний дараа Bloomberg.com"
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTAwNDMwSHVHd295UjlFSmh6S1RVamY1dDZyWFVMTGFuUVRIanBRTlJkc0xzbEN0RlktYS1EbEJCMjFEREZkQXdlQjlkRGVuNzRpR1NVdzZUM0NsRmxCUzBxcVhUNXk1TUpITzlQOERHV0ZyRGd2SWwzNThiYVVPZmljdjJka0dMNkNKTTgyYmZlOWtWM1lhbQ?oc=5": {
+    "title": "‘Клаудын арми, хүн бүр миний анхаарлыг татахыг хүсч байна’: Антропик хүн - Yahoo Finance",
+    "summary": "‘Миний анхаарлыг татахыг хүссэн хүн бүртэй Клаудын арми’: Антропик нь Yahoo Finance ирэх роботын ертөнцийн саад тотгорыг хүний анхаарлыг хандуулдаг"
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS3RsWXUtemFFcDFwbUhDRWNrMER3dnJybXR2MGYxNmlCNzNhbmdGQjc5eEJUVVRpdjJ3NjZtUXJJSVpjYlpablRPVVl3LUJjRDg3SzJyV2ZPYktnd3pFWVQ1dml4WXRTMHpiajh0M01uYU1MMDNpMVdvNGFYLV85SUplODRzcnFzMm9VSGYzdzlyQQ?oc=5": {
+    "title": "Энтропик хамтран үүсгэн байгуулагч ганц бие үйл ажиллагаа явагдаж байна гэжээ - The Rundown AI",
+    "summary": "Антропик үүсгэн байгуулагч ганц бие байх зам дээр байна гэжээ Rundown AI"
+  },
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZHhXSnIxaFQ4THRBalAtckI4TUpRSkdzQzdIT0I4c2JxRElGMHJySXdoR1puTlhUSXNEakNkRXVnZ3p3TDg5V29vakNUMUU5S213V1dyWWRfMldTTVl5cV9XUktuVXlENlZ6SXB3U0YydEJldFhnUGNEWG9vRTJZMG5oNlN4ek1iSTRpQ2Vhd2FTY1I5QkMzbkNRd3k3bmFja3JB?oc=5": {
+    "title": "Клод Опус 5.5 ба GPT-6 Astra-АНТРОПЫН ШИНЭ AI загварыг тайлбарласан - TechRepublic",
+    "summary": "Клод Опус 5.5 ба GPT-6 Astra-АНТРОПЫН ШИНЭ AI загварыг тайлбарласан TechRepublic  сүсэг"
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPRGdvM08zbzU2RmxZc3d3NjNzbG9Vc0V1bFItckNUUG9DT3NLWkFPdEk2YktUR2x0eFdRcFNCVXFqenVWV3Vxb0lIU0ZiWUtzTFl2T0h4NUlLV3lDVUM3QmFJNG83eVdaTFlwdkl2YmRZTVhBc1BTNzU3Y0xIbTloNEdRdWxDN0pjZ29rT0lGSjRaaU0ySnpqOU8wQmlPd9IBowFBVV95cUxNZ1NPM25CTmEyUDVLMFBaV1UxeXA2ek5NZnY2dmRZX3NUTE9yVFlGM2pCSnpxbTBwY3RTa0hwYllabTZNWmhEOVVNRnAyRi1hd0pIdFZ5WVloTU1DUWpuYThaUXJkTlVFMnhUNVZQSk5rQ3NmTXJOYmpHaURUYlVacFN3OWstSkZId0FIVFZkb0dSaGM0dVV2LVUtZzl4dlVSaTJJ?oc=5": {
+    "title": "Шинэ судалгаагаар AI илүү их ажил хийхэд хүргэдэг - KRON4",
+    "summary": "KRON4-ийн шинэ судалгаанд KRON4-ийн мэдээлснээр илүү их ажил хийхэд хөтлөгддөг хиймэл оюун ухаан"
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOWJENVFMYm9BOWdRbjJXSllRMVJ3ZXh6RkMwQmJlWElqUU9TTENEamlIanRkSXE4UnRaRDROSnZNTXBGM0NoVGNDWkpXZEtrUHRzdlFNSEhVVjBjalloX1ZTQm5LX2RKRXc?oc=5": {
+    "title": "Антропик-антропик нийгэмд ажил эрхлэлт хэрхэн өөрчлөгдөж байна",
+    "summary": "Антропик антропик дээр ажил эрхлэлт хэрхэн өөрчлөгдөж байна"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-20/spacex-tesla-discussing-potential-merger-netflix-soft-outlook": {
+    "title": "SpaceX-Tesla боломжит нэгдэх, Netflix зөөлөн хандалтыг хэлэлцэх",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-20/bloomberg-law-could-trump-disrupt-the-midterms-podcast": {
+    "title": "Блумберг хууль: Трамп Midterms-ыг сүйтгэж чадах уу? (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 39:05"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-20/musk-spacex-and-tesla-begun-exploring-merger-netflix-falls": {
+    "title": "Муск: SpaceX болон Tesla Begun нийлүүлэгчдийг судлах, Netflix Falls",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/supreme-court-s-kagan-says-election-rulings-creating-nightmare": {
+    "title": "Дээд шүүхийн Каган сонгуулийн зарлигийг «хар дарсан зүүд» болгож байна",
+    "summary": "АНУ-ын Дээд шүүхийн шүүгч Элена Каган шүүхийн консерватив супер олонхыг ардчиллыг гутаан доромжилж, саяхан гаргасан шийдвэрүүд нь сонгуулийн хязгааргүй зардлын \"дорд арьс\", \"хар дарсан зүүд\" үүсгэсэн гэжээ."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-20/bloomberg-businessweek-daily-spacex-netflix-report-podcast": {
+    "title": "Bloomberg Businessweek Daily: SpaceX, Netflix Тайлан (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 42:31"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-20/earnings-special-spacex-s-ai-revenue-jumps-podcast": {
+    "title": "Орлогын Тусгай: SpaceX-ийн AI орлогын даавуу (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 14:11"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-20/bloomberg-businessweek-daily-mbas-ai-podcast": {
+    "title": "Bloomberg Businessweek Өдөр тутмын: MBAs & AI (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/sally-yates-vows-independent-review-of-cornell-sex-assault-case": {
+    "title": "Үхэгсэд Корнелын бэлгийн хүчирхийллийн тухай бие даасан дүгнэлт өгсөн нь",
+    "summary": "АНУ-ын асан орлогч прокурорын орлогч асан Салли Yates Корнеллийн их сургуулийн бэлгийн хүчирхийллийн хэргийг шийдвэрлэх талаар бие даасан мөрдөн байцаалт явуулахаа амласан, тэр дундаа Нью - Йорк дахь Иви Лигийн сургуулийн нөхөрлөлтэй холбоотой 2024 тохиолдол оруулжээ."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-20/merryn-talks-money-the-portfolio-reset-episode-2-podcast": {
+    "title": "Merryn Talks Money: Портфолио 2-р ангиыг дахин тохируулах (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 23:53"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-20/neoclouds-lose-silver-lining-as-elice-coreweave-dive-evening-briefing-americas": {
+    "title": "Neoclouds Lose Silver Lining as Elice, CoreWeave Dive: Үдшийн товч Америк",
+    "summary": "Баригдана уу."
+  },
+  "https://www.ubiquity.vc/blog/tim-brown-of-allbirds-3-must-do-s-for-your-startup-culture": {
+    "title": "Гарааны бизнесийг эхлүүлэх соёлд зориулан хийх ёстой",
+    "summary": "Дугаар зүйл URL: https://www.ubiquity.vc/blog/tim-brown-of-allbirds-3-must-do-s-for-your-startup-culture Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50171307 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://objective0.substack.com/p/the-coastline-paradox-will-kill-your": {
+    "title": "Далайн эрэг дээрх парадокс нь таныг гарааны бизнесийг алах болно",
+    "summary": "Артикулын URL: https://objective0.substack.com/p/the-coastline-paradox-will-kill-your Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50170176 Оноо: 2 # Сэтгэгдэл: 1"
+  },
+  "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html": {
+    "title": "Өвчтөнийг эмчилсэн АИ вирүстэй эмчлэх тухай мэдэгдэл",
+    "summary": "Артикулын URL: https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50165355 Оноо: 2 # Сэтгэгдэл: 1"
+  },
+  "https://www.acquired.fm/episodes/seinfeld": {
+    "title": "Сайнфелд – ТВ хамгийн сүүлд нээгдсэн",
+    "summary": "Артикулын URL: https://www.acquired.fm/episodes/seinfeld Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50162925 Оноо: 1 # Сэтгэгдэл: 1"
+  },
+  "https://news.ycombinator.com/item?id=50161537": {
+    "title": "Би гар утасныхаа дугаарыг гарааны бизнесийнхээ вэбсайт дээр тавьсан",
+    "summary": "Би ХАБЭА, сүм, ашгийн бус, эвслийн төлөө санал өгөх тавцан бүхий vote.direct ажиллуулдаг. Би ганцаараа үүсгэн байгуулагч, Bootstrapped, би энэ бүхний ихэнхийг AI-тэй барьсан. Энэ сарууд миний эхний 5 зургийн сарыг өнгөрсөн сараас 8x өсөлттэй тэмдэглэж байна. Энд би олон яриагаар дамжуулан хэрхэн хүрч ирсэн талаар, яаж..."
+  },
+  "https://sourcey.com/startup-credits": {
+    "title": "Эх сурвалжи-н нээлттэй эхийн зээлийн бүртгэл: батлагдсан арван хоёр баримт",
+    "summary": "Артикулын URL: https://sourcey.com/startup-credits Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50160127 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/": {
+    "title": "\"Porofo цэг\" шалгалтанд эрчим хүчний эх үүсвэр болох гарааны галт уулын доорхи товчлуур",
+    "summary": "Артикулын URL: https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50157456 Оноо: 3 # Сэтгэгдэл: 0"
+  },
+  "https://www.dailys.menu/": {
+    "title": "ХН харуулах: SF-д хүргэсэн $ 10–12 хоолоор роботууд эхэлнэ",
+    "summary": "Өдрийн гарааны роботууд нь асар их хоол хүнсний зардлыг бууруулах зорилготой роботын гарааны бизнес бөгөөд роботын хамгийн үр нөлөөтэй хэрэглээ болно гэж бидний үздэг зүйл юм. Бид анхны сүнсний гал тогоогоо эхлүүлж, SF-д хүргэхийг оруулаад 10-12 $ авсан хоолоо зарж байна. Сэтгэгдлийн URL: https://news.ycombinator…"
+  },
+  "https://query.farm/blog/duckdb-wasm-startup-time/": {
+    "title": "DuckDB-WASM стартап: Haybarn-WASM-тай 6.8-с 2.3 секунд хүртэл",
+    "summary": "Дугаар зүйл URL: https://query.farm/blog/duckdb-wasm-startup-time/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50155417 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/leadership/how-care-centered-leaders-build-stronger-teams/505208": {
+    "title": "Анхаарал төвлөрсөн удирдагчид хүчтэй, илүү уян хатан багуудыг хэрхэн бий болгодог вэ",
+    "summary": "Асрамжийн төвтэй удирдагчид энэхүү асрамжийг дэмжихэд шаардагдах хөдөлмөрийг хүлээн зөвшөөрч, өндөр хүлээлтийг үр ашигтай дэмжих, хуваалцах хариуцлага, итгэлцэлтэй хослуулан, уян хатан багуудыг зохион байгуулдаг."
+  },
+  "https://www.entrepreneur.com/leadership/the-instincts-that-got-you-promoted-are-now-working-against-you-heres-how-to-replace-them": {
+    "title": "Амласан сургаал чинь одоо чиний эсрэг ажиллаж байна. Тэднийг хэрхэн өөрчлөх вэ?",
+    "summary": "Чамайг дэвжүүлсэн ур чадвар одоо ч гэсэн хэр хол явахыг тэсэн ядан хүлээж байгаатай адилхан."
+  },
+  "https://www.entrepreneur.com/business-news/walmart-promotes-500-people-every-day-its-chief-people-officer-says-these-traits-help-workers-move-up": {
+    "title": "«Валмарт» өдөр бүр 500 хүнд урам хайрладаг. Ахлах ажилтан нь эдгээр зан авирыг туслалцаа үзүүлэх нь ажилчдын урагшилж байгааг хэлдэг.",
+    "summary": "Дэлхий даяар, түүний дотор АНУ-д 1,6 сая орчим, олон улсад 500 000 орчим хүн, Валмарт ажиллаж байна."
+  },
+  "https://www.entrepreneur.com/business-news/3-reasons-why-so-many-businesses-dont-sell-and-how-to-make-sure-yours-does": {
+    "title": "3 Олон бизнесийг яагаад зардаггүй вэ?",
+    "summary": "Энэ гурван том алдаа гаргаагүйгээ хангахын тулд та үйл ажиллагаагаа хоёр дахь удаагаа харах цаг нь болжээ."
+  },
+  "https://www.entrepreneur.com/building-a-business/missed-deadlines-arent-always-an-accountability-problem-heres-what-leaders-overlook": {
+    "title": "Хариуцлагын асуудал дандаа байдаггүй. Энэ бол удирдагчдын анхаарлыг татдаг зүйл юм.",
+    "summary": "Үр дүнг эзэмших нэртэй хүн аль хэдийн гаргасан шийдвэрийн дараа л ажилд ороход Sharper хариуцлага бүтэлгүйтнэ."
+  },
+  "https://www.entrepreneur.com/building-a-business/a-successful-pilot-doesnt-guarantee-a-successful-rollout-heres-why": {
+    "title": "Гэхдээ амжилттай нисгэгч заавал дахин сэргэнэ гэсэн үг биш ээ. Яагаад гэвэл энэ байна.",
+    "summary": "Хурдан зөвшөөрөл, нэн тэргүүний нөөц, ахлах оролцоо нь үрэлтээс ангижирч, туршилтын үр дүнг бэхжүүлдэг. Дараа нь илүү өргөн гулсмал нь эдгээр нөхцөлд ажиллахгүй байх шаардлагатай."
+  },
+  "https://www.entrepreneur.com/building-a-business/ceo-650-locations-best-business-decision-podcast-trust": {
+    "title": "Энэхүү Гүйцэтгэх захирал нь 650-шуудан ноогдуулах бизнесийг барьсан. Тэрбээр тараагдсан хуудсан дээр хэзээ ч зөвтгөхгүй гэж хамгийн сайн шийдвэр гаргасныгаа хэлжээ.",
+    "summary": "650 байршилтай гүйцэтгэх захирлын хувьд шийдвэр бүр цаасан дээр утга учиртай байх ёстой. Харин үүнээс бусад нь."
+  },
+  "https://www.entrepreneur.com/business-news/want-to-work-for-the-rich-first-agree-to-keep-their-secrets-ndas": {
+    "title": "Баян хүний төлөө ажиллахыг хүсэж байна уу? Нэгдүгээрт, нэг нөхцөл байдалд тохиролц.",
+    "summary": "Нууцлалын гэрээ нь зөвхөн бизнесийн хэлэлцээрт зориулагдаагүй болно."
+  },
+  "https://www.entrepreneur.com/business-news/5-founders-under-30-share-the-advice-theyre-glad-they-ignored": {
+    "title": "5 30 насны үүсгэн байгуулагч өөрсдийнх нь мөрдөн дагасан хамгийн сайн зөвлөгөөг хуваалцаж, үл тоомсорлосон нь",
+    "summary": "Дараачийн гишүүд Маверикийг туршлагагүй гэж нэрлэдэг нь таны бизнест хамгийн их ашиг тустай байдгийг тайлбарлана."
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/this-subway-veteran-went-undercover-to-try-out-a-hot-chicken-chain-now-hes-ceo": {
+    "title": "Энэ метроны ахмад хүн Халуун тахианы гинжийг оролдохын тулд Undercover хийсэн. Одоо тэр гүйцэтгэх захирал.",
+    "summary": "Брэндон Вилхелм одоо 300 гаруй байршлыг мөрдөхөөс арай цөөн, илүү сайн дэлгүүртэй байна гэлээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates": {
+    "title": "Азийн хувьцаа, АНУ-ын фьючерсүүд AI-Trade Revival: Markets Wrap:",
+    "summary": "Азийн хувьцаа нь АНУ-ын хөрөнгийн индексийн фьючерсүүдтэй хамт технологийн худалдааны талаархи оновчтой байдлыг сэргээсэн хиймэл оюун ухааныг өсгөсөн хамгийн том ашиг хүртэгчдийн хувьд хүчтэй ашиг орлоготой болж өссөн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ ба дүн шинжилгээ/10-р сарын 21-ний өдөр/",
+    "summary": "АНУ-ын Ираны дайныг зогсоох гэсэн хүчин чармайлтын сэдэвтэй гарчиг гаргасны дараа худалдаачид хоорондоо зөрчилдөж байв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/mapping-how-south-america-s-right-wing-shift-has-reached-brazil": {
+    "title": "Өмнөд Америкийн баруун талын шилжилт Бразилт болов",
+    "summary": "Бразилын ерөнхийлөгчийн сонгууль нь Өмнөд Америк даяар хүчээ бэхжүүлэх улс төрийн эрхийн давуу тал болж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/brazil-election-bolsonaro-says-he-d-work-with-us-china-as-president": {
+    "title": "Бразилын сонгууль: Бролонаро АНУ, Хятадтай хамт ерөнхийлөгч болно гэж хэлсэн",
+    "summary": "Флавио Булшонаро хэлэхдээ хэрэв тэр Бразилийн ерөнхийлөгч болбол, сонгуулийн гэнэтийн айдас түгшүүртэй удирдагчдад Латин Америкийг Вашингтон руу ойртуулахаар төлөвлөжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders": {
+    "title": "Латин Америкийн Трамп Холбоотнууд Вашингтон Зээллэгчдийг хүлээн зөвшөөрч байна",
+    "summary": "Латин Америкийн зах зээлийн ээлтэй шилжилт нь Дональд Трампын Вашингтон-тай тогтоосон харилцаа, тэр дундаа олон талт зээлдүүлэгчдийн мөнгөний урсгалыг түүхэн байдлаар төсөвт зохицуулалтыг түлхэхэд чиглэсэн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief": {
+    "title": "AI-ийн урьдчилсан борлуулалтаас хойшхи тооллогын дараа тусламж авчирдаг",
+    "summary": "AI-тэй холбоотой компаниудын хувьцаа нь сервер-үйлдвэрлэгч Super Micro Computer Inc.-ээс хүчтэй урьдчилсан үр дүнг хийсний дараа Мягмар гаригт арилжаанд оролцсоны дараа хуримтлагдсан бөгөөд энэ нь технологид зарцуулах хэтийн төлөвийн талаар тусламжтайгаар нөлөөлсөн болно."
   }
 }
