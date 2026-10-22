@@ -7810,5 +7810,301 @@
   "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief": {
     "title": "AI-ийн урьдчилсан борлуулалтаас хойшхи тооллогын дараа тусламж авчирдаг",
     "summary": "AI-тэй холбоотой компаниудын хувьцаа нь сервер-үйлдвэрлэгч Super Micro Computer Inc.-ээс хүчтэй урьдчилсан үр дүнг хийсний дараа Мягмар гаригт арилжаанд оролцсоны дараа хуримтлагдсан бөгөөд энэ нь технологид зарцуулах хэтийн төлөвийн талаар тусламжтайгаар нөлөөлсөн болно."
+  },
+  "https://blog.railway.com/p/security-disclosure-wednesday-october-21st": {
+    "title": "Төмөр замын аюулгүй байдлын тодруулга",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/": {
+    "title": "Өнөөдрийн PHP аюулгүй байдлын хувилбар, бид аюулгүй байдлыг хэрхэн бэхжүүлж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://eliastaylor.com/noexploit/": {
+    "title": "Энэ PHP эмзэг байдлыг хялбар ашиглах боломжгүй байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b": {
+    "title": "mitmproxy нэмнэ --emudhra сонголт",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/": {
+    "title": "GitLab эмзэг нөхөөсийг чөлөөлөх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://google.github.io/styleguide/rustguide.html": {
+    "title": "Google-ийн зэв загварын хөтөч",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/": {
+    "title": "ПИПИ-ийн нэгдсэн LiteLLM 1.107.0 нь кредитийн тууз ба арын хаалгаг нээсэн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.jim-nielsen.com/2026/icons-in-every-menu/": {
+    "title": "Цэс бүрт илүү дүрс байхгүй байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/": {
+    "title": "Итгэлцэх найман бит: eMudhra's CA товчлуурууд миллисекундээр эвдэрсэн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/": {
+    "title": "Windows 11 яагаад одоо ч гэсэн Windows 95-ийн санах ойн менежертэй хөлөг онгоц хэвээр байгаа вэ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/": {
+    "title": "Тесла хэлэхдээ кибер кабин зарж эхэлнэ гэсэн байна",
+    "summary": "Тесла хэлэхдээ, жолоодлогын хүрд болон бусад уламжлалт хяналт байхгүй алтан тулгуурласан, авто машины аюулгүй байдлын стандартад нийцсэн эсэхийг холбооны зохицуулагч нар ч гэсэн жилийнхээ эцэс гэхэд кибер кабелийг хэрэглэгчдэд зарж эхэлнэ гэж хэлсэн. Компанийн үед..."
+  },
+  "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/": {
+    "title": "Блэкстоны Жас Хаана хэлэхдээ хиймэл оюун ухааныг бий болгох өрийн айдас хэтэрсэн байна",
+    "summary": "Блэкстоны оюун ухааны толгой нь PE аварга нь зах зээлийн хашхираанаас айгаагүйн шалтгааныг хэлнэ."
+  },
+  "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/": {
+    "title": "Мета нь өргөн хүрээтэй хиймэл оюун ухааны бүтээн байгуулалтаа шинээр бий болгосон нөөцийн ангилалд төлөхийг хүсч байна",
+    "summary": "Олон нийтийн мэдээллийн аварга компани хиймэл оюун ухааны загвар, үйлчилгээнд хөрөнгө оруулалтаа өргөжүүлэхэд туслах шинэ хөрөнгийн стратеги төлөвлөж байна."
+  },
+  "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/": {
+    "title": "Airbnb нь зочдод зориулсан гэрийн ажил хязгаарлагддаг, хостуудаас үлээдэг",
+    "summary": "Airbnb-ийн хүрээнд зочдыг ороо унтраах эсвэл бусад цаг хугацаа зарцуулах цэвэрлэгээний ажил хийхэд шаардлагагүй гэдгийн дараа эзэд нь платформыг орхихыг заналхийлж байна."
+  },
+  "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/": {
+    "title": "TechCrunch үүсгэн байгуулагчийн уулзалт 2026: Таны мэдэх ёстой бүх зүйл",
+    "summary": "TechCrunch үүсгэн байгуулагчийн чуулга уулзалт нь 11-р сарын 4-нд Бостон хотод бүтэн өдрийн хурал бөгөөд шилдэг VC-ууд болон туршлагатай бизнес эрхлэгчид компаниудыг барьж байгуулах, хөнгөвчлөх тактикийн ойлголттой болоход чиглэгддэг."
+  },
+  "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/": {
+    "title": "Мета хэлэхдээ Muse нь 10м-ээс дээш хэрэглэгчтэй бөгөөд дээд үйл ажиллагаа явуулдаг",
+    "summary": "Мета Булчингийн хэрэглэгчид апликейшныг худалдан авалт болон хувийн бүтээмжид нэвтрүүлж байгаа бөгөөд компани 3-р улирлын ашиглалтын үед хэлсэн байна. AI апп одоо 10м-ээс дээш хэрэглэгчтэй."
+  },
+  "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/": {
+    "title": "Жилийн настай AI лаборатори Flapping Airplanes нь $ 6B үнэлгээгээр $ 1B-ийг өсгөдөг",
+    "summary": "Зөвхөн 9 сарын дараа 180 сая $ үртэй өсгөсөн, Flapping Airplanes нь хиймэл оюун ухааны загварыг \"интернетийн тэн хагасыг оруулаагүй\" гэсэн даалгаврынхаа төлөө $ 1 тэрбум Каталогийн код А бууж ирсэн."
+  },
+  "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/": {
+    "title": "Тесла Калифорни мужид оновчтой роботын үйлдвэрлэл 43% -иар буурч эхэлдэг",
+    "summary": "Тесла-ийн орлого хавтгай байсан бөгөөд түүний зардлууд нь оновчтой робот, AI, бие даасан жолоодлогын хурдасгуурыг дарахад өссөн."
+  },
+  "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/": {
+    "title": "Рекурсив нь Flint-ыг ажиллуулдаг. Зөөврийн компьютер кодлох загвар нь AI-ээр ихээхэн бүтээгдсэн байсан юм.",
+    "summary": "Startup Recursive нь Flint, үнэгүй, зөөврийн компьютерийн хэмжээтэй кодлох загварыг өөрийн хиймэл оюун ухааны судалгааны системээр ихээхэн барьсан бөгөөд өөрөө сайжруулсан AI-ийн эрт туршилтын хувьд гаргасан."
+  },
+  "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/": {
+    "title": "АВТОМАТИК нь ТУЗ-ийн уналт, гүйцэтгэх ажиллагааны дараах осолд орж эхэлнэ",
+    "summary": "АВТОМАТИК нь ТУЗ-ийн сэгсэрч, хэд хэдэн гүйцэтгэх ажлыг дагаж, WordPress.com болон түүний аж ахуйн нэгжийн бизнес зэрэг олон багуудын ажилчдыг тавих ажлыг эхлүүлсэн. Компани нь санхүүжилтээ сайжруулахыг харгалзан үзэж байгаа тул эх сурвалжууд илүү бууралтыг дагаж мөрдөж болох юм гэж ярьдаг."
+  },
+  "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos": {
+    "title": "YouTube-ийн хэлснээр таалагддаг товчийг нуусан туршихгүй",
+    "summary": "Мягмар гарагт би YouTube-ийн видеонууд дээрх дургүйг нуусан товчлуурыг хэрхэн туршиж байгаа талаар нэг түүхийг нийтэлсэн бөгөөд X-ийн хамгийн багадаа хоёр хэрэглэгч 3 давхар цэс рүү шилжсэн байна. Гэхдээ нэг YouTube-ийн хэвлэлийн төлөөлөгч, Лхагва гаригт гарсан мэдэгдэлд The Verge, c..."
+  },
+  "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings": {
+    "title": "Тесла хэлэхдээ үйлчлүүлэгчид ирэх жилдээ өөрсдийн тээврийн хэрэгслийг robotaxi флотод нэмж өгөх үү?",
+    "summary": "Олон жилийн турш, Елон Маск Тесла эзэмшигчдэд хяналтгүй бие даасан жолоодлогын талаар сайхан амлалт өгч, өөрсдийн тээврийн хэрэгслийг компанийн robotaxi флотод нэмэх боломжийг олгож байна. Өнөөдрийн дөрөвний гуравдахь ашгийн дуудлагын үеэр компани эцэст нь өөрөө эцсийн хугацаа өгсөн. …"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report": {
+    "title": "Өгөгдлийн төвүүд агаарын чанарын олзыг олон арван жил арилгаж болно",
+    "summary": "Шинэ дата төвүүдийн яарах нь Техасын 2000-аад оноос хойш харагдахгүй агаарын бохирдолыг буцааж авчирч болзошгүй бөгөөд энэ нь хиймэл оюун ухааны ард бодит дэд бүтцийн хувьд тэг болж байна. Шинэ ба санал болгож буй өгөгдлийн төвүүд асар их хэмжээний цахилгаан эрчим хүч шаардаж байна. How de..."
+  },
+  "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings": {
+    "title": "AI push-ийг санхүүжүүлэх шинэ хувьцааны ангилал үүсгэх мета",
+    "summary": "Мета нь AI санаачлагаа санхүүжүүлэхийн тулд шинэ хувьцаа гаргадаг гэжээ. Лхагва гаригт гаргасан гурав дахь ашгийн тайлангийн хүрээнд компани санал хураалтын бус нөөц нь 2027 оноос эхлэн арилжаагаар боломжит худалдан авалт, ажилтны нөхөн олговор олгох болно гэжээ.…"
+  },
+  "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals": {
+    "title": "Нью - Йоркийн анхны кино наадам нь үзэгчдийнхээ хайдаг",
+    "summary": "Хүмүүс үнэхээр хэвтээ зурагтаар босоо контентыг үзэхийг хүсч байгаа эсэхийг харах ч олон кино бүтээгчид хамгийн сүүлийн үеийн төслүүд Алза - Нью Йоркийн анхны микродрамын наадамд сайн оролцох нь гарцаагүй гэдэгт итгэлтэй байв. Tribeca наадмын teo aloha үүсгэн байгуулсан..."
+  },
+  "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement": {
+    "title": "Мета хэлэхдээ, хүүхдийн аюулгүй байдлын тооцоо төлөх шаардлагагүй бол $ 22 тэрбум доллараас хэтрэхгүй байх байсан гэсэн байна.",
+    "summary": "Мета АНУ-ын өмгөөлөгчдийн Ерөнхий өмгөөлөгчтэй харьцахад хүүхдийн аюулгүй байдлын тооцооны цоорхойг төлөхийн тулд $ 9.89 тэрбум долларыг хурааж өгөх шаардлагатай болсон. Энэ нь компанийн Лхагва гаригт гаргасан дөрөвний гуравдахь орлогын тайланд зааснаар Мета үйл ажиллагааны орлогын хэмжээ $ 22.89 тэрбум доллар байсан гэж мэдэгджээ..."
+  },
+  "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026": {
+    "title": "PHP: Өнөөдрийн интернет даяар сайтыг хаасан гурван захидал",
+    "summary": "AI-ийн олдсон хоёр алдаанууд нь өнөөдөр 4chan, DeviantArt, Wikipedia-ийн хувьд том асуудлуудын цаана, булангийн булан дахь баар нь хүмүүсийн нохойн зургийг нийтэлдэг блог юм. \"эмзэг байдал\" -ыг PHP програмчлалын хэлээр олжээ."
+  },
+  "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger": {
+    "title": "Flying Roadsters Тесла-ийн хавтгай Q3 орлогыг өргөж чадахгүй",
+    "summary": "Тэсла уур хилэн авто замын демоээс утаа цэвэрлэхийн хажуугаар Лхагва гаригт 3-р улирлын орлого мэдэгджээ - хүйтэн бодит байдал нь орлогыг хавтгай болгож байгаа юм. Тесла хэлэхдээ, 2026 оны есдүгээр сард дууссан улирлын орлого 28.0 тэрбум ам .долларын цэвэр орлогын 1.7 тэрбум доллар олсон гэжээ. Орлогын w..."
+  },
+  "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers": {
+    "title": "Bose нь Skullcandy-ийг илүү өргөн хүрээтэй үзэгчдэд хүрэхэд нь тусална",
+    "summary": "Бас Skullcandy-г авснаа зарласан. Хэдийгээр хоёр компани нь хэрэглээний аудио орон зайд өрсөлдөгчид байдаг ч гуллканди саяхан шинэ эзэнтэй хамтран Bose-ийн хэд хэдэн аудио технологийг авчирч, түүний толгой хянах орон зайн аудио, идэвхтэй..."
+  },
+  "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update": {
+    "title": "Airbnb нь зочдыг хоол хийх, хог хаягдлыг гаргахыг хориглодог",
+    "summary": "Дараагийн Airbnb-аа шалгаж байгаа нь тус компани гэрийн дүрмүүддээ цаг хугацаа зарцуулах ажлыг оролцуулаад хостуудыг хориглож байгаад эргэлзэхгүй байж магадгүй юм. Airbnb-ийн 11-р сарын 20-нд буюу түүнээс хойш захиалга өгснөөр эхэлсэн шинэчилсэн гэрийн дүрмийн бодлого нь хостууд g-ийг асууж чадахгүй гэж хэлсэн..."
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMm0xalYzS19NOGxhQ0ZpanpWeFpjN3g0VzZfVjROQ3RUemxqZmc3STZhdHlRUTlvZEJOaW52dzdVTUxOc09MMzlVeFlJSmc5V2p4WDdwWjRRaDZKMU5QbldoWHBIaTh0Qi1yc1JFaVNHM1BkQ25ucFZfbVJtWGNYMS1jRWlocDk5NUVheDVpclZEUTJw?oc=5": {
+    "title": "Антропик, түүний шинэ хиймэл оюун ухааны агент Клод Дэйттэй музейд өртдөг - Шорлог",
+    "summary": "Антропик Muse-ийг Клод Дэйттэй хамт хэрэглэдэг, шинэ AI-ийн агент Verge"
+  },
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmtma0c0c0paTDhlU3A4S0d3dWlsSndob2lmaXFObHA2LXdEcVZSc1oxVVNQVjJjMzRfNEE1T2lSS29xQVRPeEVfX21LVVRfTlktRm9wUUszT2JsNUtQX1F0a3RORU04enQ5NUFqeHdUb191aWh1bEx1TUhweVkxN1YtWV9PMDloOTJfcmpKVVpsdFNIVjVXLXZXMkNtMHdmTkNDa0lR?oc=5": {
+    "title": "Хараахан оролдож чадахгүй л байх »- Гизмодо",
+    "summary": "Антропийн шинэ төлөөлөгч сормуусны мах агуулаагүй, та Гизмодо оролдож ч чадахгүй байх магадлалтай"
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0NBbGFsUGJZNTRmZ1h0R1M4bVp6SUF5ZkpnSGxyR3E0WmROOWxaS2lzaDlMekNxNWRxOGRPcldSMjE0THNfQV9rNW9qUVloMXlBYlY2OEt3OWVvZWI4ZzhWTVRHQ2xGbS1vSnlqZnYyXzY0TWFJZ3I5eExMQ1FfUmRqZDdnUFpEdmZqczhVbkhBb3lsRkJDWg?oc=5": {
+    "title": "Хакерууд банкууд дээр дайралтыг автоматжуулахын тулд Клод, Грок ашигладаг - Мэдээлэл",
+    "summary": "Хакерууд банкууд дээр халдлагыг автоматжуулахын тулд Клод, Грок ашигладаг"
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5": {
+    "title": "Антропик Клод Дюет, хувийн хиймэл оюун ухааны төлөөлөгч болох Muse, Dots - CNBC-ийн талаар урьдчилан мэдэгдэв",
+    "summary": "Anthropic Claude Duet, хувийн хиймэл оюун ухааны агент болох Muse, Dots CNBC-ийг авч үзэх талаар урьдчилан мэдэгдэв"
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5": {
+    "title": "Антропик Клод Дэйт AI агент аппликейшныг танилцуулсан - Reuters",
+    "summary": "Антропик Клод Дэйт AI агент аппыг танилцуулсан Reuters"
+  },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5": {
+    "title": "Антропик нь Клод Дэйттэй төлөөлөгч Тэмцээнд элсээрэй - Нью Йорк Таймс",
+    "summary": "Антропик Нью Йоркийн Клод Дэйттэй төлөөлөгч Тэмцээнд элсэв"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/how-wall-street-banks-are-grappling-with-soaring-ai-bills": {
+    "title": "Wall Street Banks нь ихсэх хиймэл оюун ухааны үнэт цаасаар хэрхэн татдаг вэ",
+    "summary": "Тооцоолох зардлын ул мөр нь санхүүгийн ахлагчдад хиймэл оюун ухаанд үнийн шошгыг тавихад хэдийнээ хичээж байгаа түгшүүртэй байгаа юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/australia-s-csl-names-gsk-veteran-deborah-waterhouse-as-new-ceo": {
+    "title": "CSL нь GSK ахмад настан усны төвийн гүйцэтгэх захирал бөгөөд энэ нь эргэлтийг эрэлхийлж байгаагаар нэрлэсэн болно",
+    "summary": "Австралийн биотехнологийн компани CSL ХХК нь Deborah Waterhouse нэртэй бөгөөд түүний дараагийн гүйцэтгэх захирал, удирдах захирал нь хатгамал компаниас эргэлт хийхээр салбарын ахмад эргүүл хийдэг."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-21/meta-boosts-ai-bets-tesla-cuts-spending-target-more": {
+    "title": "Мета нь хиймэл оюун ухааны бооцоогоо нэмэгдүүлдэг, Тесла Зардлын Зорилтыг бууруулдаг, Илүү",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-21/bloomberg-talks-sheikh-nawaf-al-sabah-podcast": {
+    "title": "Блүүмбергийн яриа: Шайх Наваф Аль-Сабах (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-21/power-on-podcast-iphone-duo-review-pre-order-issues": {
+    "title": "Хүч Подкаст дээр: iPhone Duo тойм + Урьдчилсан захиалгатай асуудлууд",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-21/bloomberg-talks-lila-snyder-podcast": {
+    "title": "Блумберг яриа: Лила Снядер (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/the-world-s-rich-are-moving-their-gold-to-singapore": {
+    "title": "Сингапурын баян хөрөнгө оруулагчид алт хадгалах эрэлхийлж байгааг зурав",
+    "summary": "Дайн дажин, өр, улс төрийн тодорхойгүй байдлаас болоод баян Америк, Европ, Ойрхи Дорнодын хөрөнгө оруулагчид Сингапурт алтаа хадгалах аюулгүй газар гэж хайж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-21/bloomberg-businessweek-daily-make-your-move-summit-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: Хөдөлгөөнт хурал хий (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-21/earnings-special-meta-boosts-bet-on-ai-podcast": {
+    "title": "Ашиглалтын Тусгай: Мета нь AI дээр бооцоо нэмэгдүүлдэг (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-21/meta-raises-ai-spending-tesla-earnings-more": {
+    "title": "Мета AI-ийн зарцуулалт, Тесла Орлого, Илүү",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.entrepreneur.com/money-finance/your-financial-statements-saw-the-cash-crunch-coming-did/505496": {
+    "title": "Санхүүгийн тайлан тань анхааруулах гэж оролдож байна. Тэднийг хэрхэн унших вэ?",
+    "summary": "Бизнес эрхлэгчид тодорхой болохоосоо өмнө чиг хандлага, эрсдэл, боломжуудыг нээхэд орлого, ашиг тусаас даван гарахад суралцах үед санхүүгийн мэдэгдэл стратегийн хүчирхэг хэрэгсэл болдог."
+  },
+  "https://www.entrepreneur.com/leadership/why-the-best-leaders-leave-the-boardroom-for-the-frontlines/505495": {
+    "title": "Гүйцэтгэх ажилтнууд яагаад Дэлгүүрийн давхарт ТУЗ-ийн танхимыг орхих хэрэгтэй вэ",
+    "summary": "Гүйцэтгэгчид урд талын ажилчид, үйлчлүүлэгчидтэй ойр дотно байх үед илүү сайн шийдвэр гаргаж, илүү хүчтэй байгууллагуудыг бий болгох, бизнесийн үйл ажиллагаа хэрхэн явуулж буй өдөр тутмын бодит байдал."
+  },
+  "https://www.entrepreneur.com/business-news/tech/ai-is-doing-more-of-the-work-heres-the-super-skill-you-need-to-master-now-to-stay-ahead": {
+    "title": "AI илүү их ажил хийж байна. Одоо та урагшаа байхын тулд эзэн байх ёстой Super-Skill байна.",
+    "summary": "AI-ийн өсөлт нь урьд өмнө хэзээ хэзээнээс илүү чухал болохыг ятгах чадварыг бий болгож байна."
+  },
+  "https://www.entrepreneur.com/business-news/uber-offers-drivers-hundreds-of-dollars-in-extra-cash-heres-what-they-have-to-do-to-get-it": {
+    "title": "Uber нь хэдэн зуун долларыг нэмэлт бэлнээр санал болгодог. Тэд авахын тулд юу хийх ёстой вэ?",
+    "summary": "Завгүй амралтын улирал ойртох тусам зарим жолооч нар том шагналыг харж байна."
+  },
+  "https://www.entrepreneur.com/leadership/great-systems-arent-enough-to-scale-a-business-heres-how-emotional-intelligence-makes-the-difference": {
+    "title": "Агуу системүүд нь бизнесийг өргөжүүлэхэд хангалтгүй байна. Оюун ухаан хоёр ялгаатай.",
+    "summary": "Өөрийгөө танин мэдэхүй, өрөвдөх сэтгэл, илүү хүчтэй удирдлага, холбоогоо илүү сайн нэвтрүүлэх нь EQ-ийг практик үйл ажиллагааны давуу тал болгон хэрхэн эргүүлдэгийг олж мэдээрэй."
+  },
+  "https://www.entrepreneur.com/business-news/soon-hagerty-built-businesses-funds-and-empowers-female-founders": {
+    "title": "Тэр 5 настайдаа Вьетнамыг завин дээр хөөв. Тэрбээр: «Итгэл чинь хэтэрсэн, та зүгээр л үйлдэл хийх хэрэгтэй» гэж эмэгтэй үндэслэгчдийг санхүүжүүлж, эмэгтэйчүүдийг зоригжуулжээ.",
+    "summary": "Хагари дүрвэгсдийн завин дээр 12 хоногийн дараа эсэн мэнд үлдэж, гурван бизнес эрхлэгчидтэй болж, эмэгтэй сүмийн байгууллагад мөнгө гаргадаг болсон."
+  },
+  "https://www.entrepreneur.com/building-a-business/your-top-performer-just-got-promoted-heres-why-that-might-be-a-mistake": {
+    "title": "Таны хамгийн сайн жүжигчин яг л сурталчилсан. Тэгэхлээр энэ нь алдаа байж болох юм.",
+    "summary": "Хамгийн сайн ажилтанаа урамшуулах нь шагнал гэж бодож байна. Заримдаа энэ нь нэг биш оронд хоёр бүтэлгүйтлийн тохиргоо юм."
+  },
+  "https://www.entrepreneur.com/business-news/think-working-14-hour-days-sets-a-good-example-servicenow-cfo-says-its-actually-terrible": {
+    "title": "Ажиллах талаар бодох нь сайн жишээ болдог уу? Энэ CFO нь үнэндээ бол «аймшигтай» гэсэн юм.",
+    "summary": "Харин ажилчиддаа ямар мэдээ хүргэдэг вэ?"
+  },
+  "https://www.entrepreneur.com/business-news/walmart-and-sams-club-are-courting-cash-strapped-shoppers-with-a-new-deal-heres-what-you-get": {
+    "title": "Walmart, Sam's Club нь шинэ хэлэлцээртэй, бэлэн мөнгөний татагдсан худалдан авалтыг шийдэж байна — Энэ бол та авч буй зүйл юм",
+    "summary": "Хүнс, хийц өндөр үнэд хариу үйлдэл үзүүлэхэд Walmart, Sam's Club нь хэрэглэгчдэд хадгаламж, тохь тухтай байдал руу налдаг."
+  },
+  "https://www.entrepreneur.com/business-news/how-fanfeeds-co-founder-plans-to-outrun-the-big-players-in-ticketing": {
+    "title": "‘Зөвхөн Паранойд амьд үлдэх’: FanFeed-ийн C0 үүсгэн байгуулагч том тоглогчдыг тасалбар дээрээс яаж ажиллуулахаар төлөвлөж байна",
+    "summary": "FanFeed үүсгэн байгуулагч Коул Рубин яагаад өрөөнд хамгийн бага техникийн хүн байсны учрыг тайлбарлаж, үйлчлүүлэгч шигээ бодож, эрүүл сэжигтэй байх нь эхлүүлэх боломжийг олгодог."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates": {
+    "title": "АНУ-ын Нөөцийн Фьючерс орлогын дараа уналт хийх, тос олз: Зах зээлийн боолт",
+    "summary": "Мегакап компаниудын холимог орлогын дараа АНУ-ын хөрөнгийн талаархи фьючерсүүд хиймэл оюун ухааны худалдааны энэ долоо хоногийн ойлтын бат бөх байдлын талаар эргэлзээ төрүүлэв. Будааны тос Ойрхи Дорнодын хурцадмал байдал үүссэнтэй адил газар хөдлөв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/latest-oil-market-news-and-analysis-for-oct-22": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ 22-сарын өдөр",
+    "summary": "Саудын талбайд хүн амиа алдсан довтолгооны дараа сайжирсан тос Ойрхи Дорнодын довтолгоонд өртөж болзошгүй тул сүүлийн хэдэн сарын турш Гормузын хоолойгоор дамжуулан экспортын хэмжээ хурдассан байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/el-nino-stresses-china-s-power-market-with-return-to-costly-gas": {
+    "title": "Хятадын эрчим хүчний зах зээлийг өртөгтэй хий уруу буцаана гэж El Niño онцолсон",
+    "summary": "Хятадын Гуандун аж үйлдвэрийн зүрх сэтгэлийг Цахилгаан эрчим хүчний эрэлт хэрэгцээг бууруулахын тулд байгалийн хийн эргэж буцахаас өөр аргагүй болсон."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/pulp-maker-mercer-is-weighing-possible-chapter-11-bankruptcy": {
+    "title": "Pulp Maker Mercer нь 11 дампуурлын бүлэгт жинтэй",
+    "summary": "Канадын целлюлозын үйлдвэрлэгч Меркер Интернэйшнл Инк. Энэ асуудлыг мэддэг хүмүүсийн мэдээлснээр 11-р бүлэгт дампуурлын анхдагч үйл ажиллагааг тавьж байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/unisuper-cio-is-not-a-skeptic-on-ai-video": {
+    "title": "CIO UniSuper нь AI-ийн эргэлзээ биш юм",
+    "summary": "Unisuper-ийн хөрөнгө оруулалтын албаны дарга Жон Перс нар ховор BTV-ийн ярилцлагандаа хиймэл оюун ухааны салбар супер мөчлөгийн орой дээр ойртож байна гэж хэлсэн байна. Bloomberg's Haidi Stroud-Watts-тэй ярилцаж байхдаа хиймэл оюун ухааны бизнесийн зарим загвар, сансарт үүсэх эрсдлийг юу болгодог талаар ярилцав. (Эх сурвалж:…"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/santos-posts-record-quarterly-output-on-new-lng-oil-projects": {
+    "title": "Сантос Бичлэгийн Шинэ LNG, Газрын тосны төслүүдийн улирлын гаралт",
+    "summary": "Австралийн шингэрүүлсэн байгалийн хийн экспортлогч Сантос ХХК гурван сарын хооронд есдүгээр сард үйлдвэрлэх нь хоёр том төслөөс гарц нэмэгдэхийн хэрээр улирлын бүртгэлд өртсөн гэжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/braskem-creditor-bracebridge-starts-involuntary-chapter-11-case": {
+    "title": "Браскем Кредитор Брайсбридж Урьдчилсан 11-р бүлэг эхэллээ",
+    "summary": "Брайсбридж Капиталтай холбоотой гурван хөрөнгө нь Браскем СИ аж ахуйн нэгжийн эсрэг 11-р бүлэгт албан бус өргөдөл гаргасан байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/msci-pressed-by-investors-to-justify-drastic-indonesia-warning": {
+    "title": "MSCI-ийг хөрөнгө оруулагчид хүчирхийллийн Индонезийн сэрэмжлүүлгийг зөвтгөхийг дарж өгсөн",
+    "summary": "Мягмар гаригийн үдээс хойш Икарта дахь 100 гаруй оролцогчдын олонх нь индекс үйлчилгээ үзүүлэгчийн сануулгад Индонезийн хоёр дахин буурах магадлалтай байгааг мэдэгдсээр байв. Ийм хатуу алхам шаардлагатайг тэд асууж,..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/citi-targets-top-spot-in-china-as-it-awaits-securities-license": {
+    "title": "Үнэт цаасны тусгай зөвшөөрлийг хүлээж байгаа тул CITI нь БНХАУ-д дээд цэгийг чиглүүлдэг",
+    "summary": "Citigroup Inc нь Хятад улс дахь оффшор үнэт цаасны лицензийг баталгаажуулахын тулд тоолж байгаа тул АНУ-ын зээлдүүлэгч Ази даяар томоохон хэрэглэгчдийн гарцын дараа дэлхийн хоёр дахь том эдийн засагт үйл ажиллагааг өргөжүүлж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/eight-months-of-war-turns-china-petrochemical-glut-into-a-crunch": {
+    "title": "БНХАУ-ын Нефть химийн бодисын гялбааг хэдэн сарын дараа дарж эхэллээ",
+    "summary": "Хятад улс АНУ-ын Ираны дайн тулаанд оролцож буй газрын тосны урсгалын хувьд үйлдвэрлэсэн олон жилийн туршид нефть химийн бодисын гялбааг шатааж, үйлдвэрлэлийн массивын үнэ өндөр түвшинд хүргэж байна."
+  },
+  "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1": {
+    "title": "Хаалттай хөрөнгө оруулагчдын бага хуралд \"системийн\" хиймэл оюун санааны эрсдэлээс зайлсхийх",
+    "summary": "Сангийн нарийн бичгийн дарга буяны арга хэмжээнд санхүүгийн ажилтнуудтай ярилцсаны тийзний зардал $ 7,500 ам .доллар"
+  },
+  "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1": {
+    "title": "Амазон AI ашиглан илэрсэн кибер дутагдлыг \"өргөнөөр ашиглах\" гэж анхааруулж байна",
+    "summary": "Судлаачид OpenAI болон Google загваруудыг ашигласан програм хангамжийн ихэнх вэбсайт дээр ашигласан ноцтой алдааг олж"
+  },
+  "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1": {
+    "title": "Мета баялгийн татварын саналыг үл харгалзан Калифорни мужид Зукерберг-ийг байлгахыг зөвшөөрч байна",
+    "summary": "Үүсгэн байгуулагчийн хяналтыг алдагдуулахгүйгээр хувьцаа борлуулалт хийх боломжийг олгохын тулд санал хураалтын бус хэрэгслийн шинэ ангиллыг бий болгох бүлэг"
+  },
+  "https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1": {
+    "title": "'Өрөөнд насанд хүрэгчид’ таныг аврахгүй",
+    "summary": "Эрх мэдэлтнүүд Дональд Трампыг хөнгөвчлөх нь дандаа улс төрийг буруу ойлгодог байв"
+  },
+  "https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa": {
+    "title": "Иран улсын Гадаад хэргийн сайд: Бидний тухай худал таамаглал аюултай",
+    "summary": "Ирэх арга нь зөвхөн АНУ-ын удирдлага цэргийн сонголтгүй гэж хүлээн зөвшөөрөхөд л бодитойгоор нөлөөлөх боломжтой"
+  },
+  "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1": {
+    "title": "Вивек Рамасвамигийн кампанит ажил нь довтолгооны сурталчилгааны талаар маргаан гаргажээ",
+    "summary": "Биотех тэрбумтан өрсөлдөгчийн гажигтай эхийг харуулсан видео бичлэгийг давхцаж байна"
+  },
+  "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1": {
+    "title": "Мастер нь SpaceX нэгтгэгчийг судлах явцад Tesla-ийн борлуулалтын жижиг зорилтыг тогтоодог",
+    "summary": "Кармейкерийн цахилгаан тээврийн хэрэгслээс AI хүртэлх тулгуурлан хавтгай орлого, унаж буй ашиг тайлагнах"
+  },
+  "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1": {
+    "title": "Рокет, роботууд ба эрсдэл: Мастерын $ 3.6тн мөрийтэй тоглоом Тесла, SpaceX хоёр нийлүүлэх",
+    "summary": "«Дэлхийн хамгийн баян хүн» одоохондоо хамгийн зоригтой үг ярихыг хичээдэг. Гэхдээ хувьцаа эзэмшигчид болон дэлхийн зохицуулагчдыг үнэмшилтэй болгох хэрэгтэй болно"
   }
 }
