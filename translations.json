@@ -8722,5 +8722,285 @@
   "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1": {
     "title": "Бүгд Найрамдах намын ялагдлаа гэхэд Аляскийн Сенатын сонгуулийн сертификатыг хааж авахын тулд Trump",
     "summary": "АНУ-ын Шүүхийн газраас нэр дэвшигчийг «бузарладаг» юм гэж тайлбарлажээ."
+  },
+  "https://imaginationlibrary.com/": {
+    "title": "Долли Хэсгийн ургуулан бодох номын сан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://charliegerard.dev/blog/overgrown-extension/": {
+    "title": "Ургамал таны хаягдсан табуудыг дайрахад хэтрүүлэн хэрэглэдэг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.disneyanimation.com/process/": {
+    "title": "Хөдөлгөөнт кино бүтээхэд юу нөлөөлдөг вэ?",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.alfie.wtf/programming/why-i-am-a-programmer.html": {
+    "title": "Би яагаад програмист болдог вэ?",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html": {
+    "title": "Контекст Инженерийн Нөхцөл",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://lynchlab.net/llm-skin-cancer": {
+    "title": "10 настай CNN арьсны хорт хавдрын оношлогоонд LLMs-ийн хил хязгаарыг хэмждэг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://talkweb.eu/openweb/4558/": {
+    "title": "Би цензур авсан интернэтийг хүлээн зөвшөөрөхөөс татгалзав. Надтай нэгдээрэй FOSDEM 27",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/": {
+    "title": "Орегон цагдаагийн газар нутгийн мэдээний гарцыг $ 2.5М Нэг Cop тухай бичлэгийн хувьд цэнэглэж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/": {
+    "title": "Сербийн Вюкийн оюутны хөдөлгөөнд зориулсан түүхэн ялалт байсныг хүлээн зөвшөөрсөн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://minimaxir.com/2026/10/cheap-llms/": {
+    "title": "OpenAI Антропик хоёр LLM-ийн үнийг хэдхэн сарын дотор 80% -р бууруулна.",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/": {
+    "title": "Грокк хиймэл оюун ухаанаар үүсгэсэн ‘Odyssey‘ -ийн эхний 7 минутыг гаргадаг",
+    "summary": "Урлаг, урам зориг, эсвэл хүний ашиг сонирхлыг татахгүй л бол бичлэг нь зүгээр харагдаж байна."
+  },
+  "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/": {
+    "title": "‘Cyberselfish’ зохиолч Техно-либертианизмыг номоо үхэгсдээс буцааж авахад хамаг анхаарлаа хандуулдаг",
+    "summary": "\"Энэ бол 12 настай дэлхий дээрх үзэл юм.\""
+  },
+  "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/": {
+    "title": "AI нь ихэнх компанид \"тэг санхүүгийн төлбөр\" төлдөг гэж Аполо эдийн засагч хэлсэн",
+    "summary": "\"Томоохон хөрөнгө оруулалт, хиймэл оюун ухааны эргэн тойронд өргөн тархсан хэдий ч, технологийг технологийн гадна Америкийн корпорацийн аж ахуйн нэгжийн төлбөрийг тэгоор хүргэж байна.\""
+  },
+  "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/": {
+    "title": "TechCrunch Хөдөлгөөн: Цэнхэр ногоон нь бие даасан өнгө юм",
+    "summary": "TechCrunch-н хөдөлгөөнд буцаж тавтай морил, тээврийн ирээдүйн төлөөх төв, одоо урьд хожид байгаагүй олон үүрэг AI-д тоглож байна."
+  },
+  "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/": {
+    "title": "Хамгийн халуун хиймэл оюун ухааны зүүлт, таны мэдэх ёстой хэрэгсэл",
+    "summary": "Бид хамгийн халуун хиймэл оюун ухаантай бүх хувцаслалтын жагсаалтыг зохиосон."
+  },
+  "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/": {
+    "title": "Starlink Украинд дахин хэвийн ажиллаж байна",
+    "summary": "Елон Маск мэдээгээр Украины Starlink нэвтрэх хандалтыг түргэсгэх SpaceX захиалсан."
+  },
+  "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/": {
+    "title": "AI нь интернетийн ер бусын дэд бүтцийг илтгэх үү?",
+    "summary": "Интернэтийг \"цавуу, мөрөөдөлөөр хамт явдаг\" гэдгийг ухаарах мөч."
+  },
+  "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": {
+    "title": "AI graveyard: төсөл, гарааны бизнесүүдийн гүйлтийн жагсаалт",
+    "summary": "Apple-ийн сири AI-ийг олон удаа хойшлуулсанаас OpenAI-ийн замбараагүй \"супер програм\" эхлүүлэх хүртэл энд хаагдсан эсвэл хүлээгдэж байгаагүй AI төслүүдийг харцгаая."
+  },
+  "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/": {
+    "title": "Инстакарт нь Хаалганы даш, Uber-тай өөрийгөө зарах талаар хэлэлцсэн гэж мэдэгдсэн",
+    "summary": "Инстакарт өөрийгөө том өрсөлдөгчид зарж болно."
+  },
+  "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/": {
+    "title": "Блокийн шинэ дууны загвар эелдэг хүн сонсогдож байна",
+    "summary": "Дууны загвар нь MacBook M4 Max дээр орон нутагт ажиллуулж чадна гэж блок хэлэв"
+  },
+  "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge": {
+    "title": "iFixit-ын Iphone Duo дотор харагдах байдал нь эвдэрсэн дэлгэцүүд, нугасуудыг тайлбарлаж болох юм",
+    "summary": "Уламжлалуудын нэгэн адил iFixit нь хамгийн сүүлийн үеийн iPhone-ийг нээж, эд ангиудыг ширээн дээрээ нүцгэн тавьсан. Энэ нь Apple-ийн татуургыг Дуогийн нугалах дэлгэц дээр хэрхэн нууж байгааг харуулсан сонирхолтой дэлгэрэнгүй мэдээллийг олоод 5/10 нөхөн сэргээх чадварын оноог өгсөн. Энэ нь тийм ч өндөр биш байж магадгүй ч..."
+  },
+  "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review": {
+    "title": "Скотт Вокерын дрифт таны арьсан дор орох болно",
+    "summary": "Спуки улирлын хөгжим хоёр онцлогтой. \"Мангас мэш\", Жон Карпентерийн \"Halloween-ийн Сэдэв гэх мэт хааяа нэг муу дуунууд байдаг.« Дараа нь үнэхээр аймшигтай нь: Буталж буй Грристл, Бүлэг, Скотт Вокерийн дугуйлан. Энэ 2006 он…"
+  },
+  "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen": {
+    "title": "YouTuber нь iPhone Duo-г гаргаж, эвдэх шалтгааныг олсон гэж бодож байна",
+    "summary": "Нийгмийн сүлжээ, iPhone Duo subreddit нь Apple-ийн эвхэгддэг алдаа хурдан, гайхалтай загварын талаар мэдээлж байна. Зарим хэрэглэгчид нугасыг ямар нэг зүйл дээр барьж байгаа юм шиг санагдсанаас хэдхэн цагийн өмнө утсаа авсан гэж мэдэгдэж, дараа нь чанга хагарч дэлгэцийг хагарлаа гэж мэдэгдэж байна..."
+  },
+  "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement": {
+    "title": "Зэн Браузер бол миний хайж байсан Arc солих хэрэгсэл юм",
+    "summary": "Та нарын олон хүн нуман хөтчийн алдагдал гашуудаж байгааг би мэдэж байна, би авчихлаа. Энэ нь хөтчийн загварт шинэ хандлагыг санал болгохын тулд удаан хугацааны туршид анх удаа аппликейшн шиг санагдсан. Атласиан компани нь өнгөрсөн жил худалдан авч, ДИА-г хөгжүүлэхэд анхаарлаа төвлөрүүлжээ."
+  },
+  "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on": {
+    "title": "Энэ 2 дарааллын дагалдах хэрэгсэл нь хэдэн миллиметрийн сайн байхаас хол байв",
+    "summary": "Crkd Nitro Deck бол анхны Nintendo Switch-ийн хэмнэлтийн нигүүлсэл юм. Слайд дээр $ 59.99 дагалдах хэрэгсэл нь танхимын үйлчлэлийг сэлүүртүүлсэн консолуудад наалддаг байсан - засвар нарийн төвөгтэй засвар хийхэд баяр баясгалан-Коноо нээх шаардлагагүй. Анхны свич болон авгалд зориулагдсан Nitro Deck 2..."
+  },
+  "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv": {
+    "title": "Одоо та Instagram Reels-г Apple-ийн ТВ дээр үзэх боломжтой",
+    "summary": "Instagram нь Apple TV-ийн хувьд Instagram-тай амьд өрөөнүүд рүүгаа өргөжин тэлсээр байна. Тус компани эхлээд Reels, live stream болон бусад видео агуулгад чиглэсэн платформын хувилбарыг туршиж эхэлсэн бөгөөд өнгөрсөн оны арванхоёрдугаар сард илүү том дэлгэцэнд цацагдаж эхлэв. Дараа нь, 6-р сард,…"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban": {
+    "title": "r/opensource нь зөвхөн AI, Англи хэлгүй хүмүүс болон бусад зүйлийг хориглосон",
+    "summary": "R/openource дахь модулиуд AI-ийг ашигладаг хориотой төслүүдээс бусад зүйлсээс гадна ирүүлэх шинэ дүрмийг нийтэлжээ. Бямба гарагийн үдшийг нээсэн нийтлэл \"Хэрэв таны төсөл AI-г ашигладаг бол AI-ийн хийсэн эсвэл AI-д зориулагдсан бол r/opensource дээр тавтай морилно уу. AI, өнөөдөр байдаг шиг..."
+  },
+  "https://www.theverge.com/column/1017983/google-ai-search-online-publishing": {
+    "title": "Google-ийн AI хайлт онлайн хэвлэл өөрчлөгдсөн",
+    "summary": "Энэ бол Долоо хоног тутмын сонин бөгөөд Технологийн ертөнцөөс нэг чухал түүхийг таслан зогсоох явдал юм. Интернетэд хиймэл оюун санааны нөлөөний талаар дэлгэрэнгүй мэдээллийг Эмма Ротыг дага. Алхам нь бүтэн сайнд 8 цагаас эхлэн захиалагчийнхаа хайрцагт ирдэг. The Stepback-г эндээс сонгоно уу. Энэ хэрхэн эхэлсэн бэ…"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai": {
+    "title": "Blue Planet III нь AI-ийн насандаа бүдүүлэг ирмэгийг хадгалж байна",
+    "summary": "BBC's Blue Planet III нь төгс бус зурган дээр гарч, жинхэнэ эсэхийг батлахыг зорьж байна. Өмнө нь байгалийн цувралын нээлтүүдийг тэдгээрийн гоёмсог, болор тунгалаг бичлэгээр тодорхойлсон бөгөөд энэ нь бодит байхын аргагүй тийм ч сайн санагдсан юм. Гэхдээ нэг нь тухайн үед AI-ийн үхсэн бэлэг юм..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act": {
+    "title": "Пенсильвани улсад хиймэл оюун ухаанаар үүсгэсэн зар сурталчилгааны шошго шаардагдана",
+    "summary": "Пүрэв гарагт Пенсильвани мужийн захирагч Жош Шапиро хиймэл оюун ухааныг хууран мэхлэх зар сурталчилгааны тухай хуульд гарын үсэг зурж AI үйлдвэрлэсэн зар сурталчилгаанаас тодруулав. Хуульд \"мэдэгдэхүйц өөрчлөгдсөн эсвэл..."
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXhaSHI3X3d5UmZNb1M5cnlUZEhGbFJ6Q0RVUWI4LVM2VmFpLW94XzVJQjBiUnN4akJKOHp4S01qeXV0dWxpNmJrUUhnanM5RDJvWi1tUVNOVEJFTzV3TjdRZ2RzRzNrYmdqbVhvQnFwQkRsQTVucjZBZFVYaVpaMlBTZmFjQTFuZU9IRGg5dHdvSklIOV9RMHY3cE9nZjFlYzhFcjFudGJCUTRNc3FxVW1jY3QxSW1Yc2c?oc=5": {
+    "title": "Антропик нь Клод чат, Аж ахуйн нэгжийн хэрэглэгчдийн төлөө ажилладаг - PYMNTS.com",
+    "summary": "Антропик нь Клод чат, хамтран ажиллах үйлчилгээг Enterprise Users  PYMNTS.com"
+  },
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5": {
+    "title": "Аксиос - Антропийн Клод нь Гүржийн сонгогчдын өгөгдлийг зөвшөөрөлгүйгээр хандахын тулд цалингаа хөлсөлсөн",
+    "summary": "Антропийн Клод нь Аксиос зөвшөөрөлгүйгээр Гүржийн сонгогчдын датаг хандахын тулд цалин хөлсгүй өнгөрчээ"
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3hIVEJReWhldnNyNVRzeGhuZjdJNHh6X1dkSG9CbkliWXducy14dlhrdk0yM09mLTJNcmtRak5JRTlCSW5oVm1vVnY0ZDJod0ZZZmxCd2JScllXdHVvLXlLR1BsOFNuLXBsWGhWWjNoMm1tY0FoN3BaM2F4LUpLZjFVNTI4VmNySFBneWNCWFMxSFRDNUhiWW1WVzhITUIy?oc=5": {
+    "title": "Хятадын хиймэл оюун ухааны загвар Kimi K3.1 Pro Антропийн Клод Опус 5.5 - Декодер",
+    "summary": "Хятадын AI загвар Кими К3.1 Pro Антропийн Клод Опус 5.5 Декодер дээр хаагдаж байна"
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2xhUk9UN09Xa21neEc2TVN2RjVMREhVekVyVmVuQlZZYVhHa3RwSUpncFFFUWNBNzg5bU11YjdyZk1odFItM213Y2dwX3NtQzBvVWF1Y3JkTVVHRnF4a3ZyRVczU1RzLXZPNjNVRlZRcm0wNjR1cTgwNEN6bWItWWw5RXI2dm9DMHRVX0M2ZDNleER3MVNUblRnSm5aUUt6elh4WVI5Z0cwOGxEcDVtMDltRC1vZmpGamZwbGg3MzFKQQ?oc=5": {
+    "title": "Элвис Пресли эрх эзэмшигч нь Антропикийг ялладаг, Клодыг зөвшөөрөлгүй дуугаар сургасан гэжээ - Лос Анжелес Таймс",
+    "summary": "Элвис Пресли эрх эзэмшигч нь Антропикийг шүүхэд, Клод Лос Анжелес Таймс"
+  },
+  "https://news.google.com/rss/articles/CBMinAJBVV95cUxPT0R4ZTBtQWtQMTBJWGx2NGV2TVNxRl9aa2liNDQ2SGJFVFEta0I2M2lhaEkwR2hWMmxDMlZXamdQYkpFRkU1Wl9PN3JOLXljb3JuTFJ1Z0wwTFp6ZVlqQkRnVHpZOW1uMkpnR0hUYzkzZm9BXzNXSEQ1cnBic2M2cHpqM0FSempQUGNoQzVhWmdyQksxcVN4QVJGZ2NSaEZ3N0pZMno3SFFIQm9ORVBaWWhkM25DQm1pRkIzd1dyOEZvSmxtMnRBTkxYSXp5dW1IZmhNTC1CczY2T0ZDVlBPT1NvZnZ2YXRxLXZxbklsVnQtSVoxQWlsd0hlbVBEUkxpbTNlNUlBRUJmUXdpQ3BCaUVEQTR0SjRVQTdxQw?oc=5": {
+    "title": "Швабын Антропийн Клодыг бүх РНҮ-г 16,000 гэж нэрлэсэн боловч 20 суудалтай аж ахуйн нэгж, хамгийн багадаа 11,000 гаруй жижиг компаниуд --- 2026 - RIABiz нөлөө үзүүлэхээс өмнө",
+    "summary": "Швабын Антропийн Клодыг 2026 РИАБИЗ-д нөлөөлөхөөс өмнө 20 суудалтай аж ахуйн нэгж гэнэт 11,000 гаруй жижиг компаниуд"
+  },
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeW84bkNGMXB5bnI0ODRraDVXTjkwM2l2X215a283czRjWHZwMGpWNm01UkNxVnJwUWRYMnEzSmRia2xuQjExWXE2cl8zVklCVHRWSzFIcWg2S0JZYzhYTTJoRDJ1YjNRYlVHSzFkdFVhUlF3NlI4TVRUQU16S1g0cEpTVTFnMkZuOTJPNmtzSU5NNGhPbHlPcVJKM3FRTFV6NUFkVlBTYw?oc=5": {
+    "title": "Google Cloud - Google Cloud дээр Клаудын бэлэн байдал, байршуулах сонголтыг өргөжүүлэх",
+    "summary": "Google Cloud  Google Cloud дээр Клаудын бэлэн байдал, байршуулах сонголтыг өргөжүүлэх"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/uk-firms-optimistic-healey-will-remove-levies-from-energy-bills": {
+    "title": "Их Британийн батлан даалтууд оновчтой Healey Эрчим хүчний хуулийн төслөөс Левисийг устгана",
+    "summary": "Их Британийн бизнес эрхлэгчид төлөвлөгөөний талаар мэддэг салбарын удирдагчдын хэлснээр эрчим хүчний зардлаар туслахыг хэлснээс хойш төсөвтөө цахилгааны төлбөрөө хасна гэж Exchequer John Healey-ийн канцлер итгэл найдаж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-25/trump-mulls-iran-move-machado-returns-to-venezuela-more": {
+    "title": "Макадо, Венесуэл руу буцаж ирэв",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/nextdc-ceo-to-forgo-incentives-after-australia-data-center-delay": {
+    "title": "Nextdc-ийн гүйцэтгэх захирал Австралийн Дата Төвийн саатал дууссаны дараа Forgo урамшуулал руу",
+    "summary": "Nextdc ХХК-ийн гүйцэтгэх захирал Австрали дата төвийн хөгжүүлэгч Мельбурн дахь өөрийн томоохон төслүүдийн нэг дээрээ цахилгаан хангамжийг хойшлуулахтай холбоотой орлогын удирдамжаа тасалсны дараа ФИ27 богино хугацааны урамшуулал, урт хугацааны урамшууллын боломжийг орхих болно."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-25/interest-rate-rise-helen-haines-australiansuper-australia-briefing": {
+    "title": "Хүүгийн хэмжээ өсөх, Хелен Хайнс, АвстралиСуп: Австрали Товч танилцуулга",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-25/trump-weighs-iran-decision-machado-venezuela-return-more": {
+    "title": "Срамп Иран шийдвэрийг дарж, Махадо Венесуэл буцаж ирнэ, Илүү их",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-25/trump-says-it-s-time-to-strike-iran-or-make-a-deal": {
+    "title": "Трамп хэлэхдээ Ираныг мөргөх эсвэл хэлэлцэх цаг ирнэ",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-25/trump-iran-decision-near-machado-back-in-venezuela-more": {
+    "title": "Трамп: Иран ойрхон шийдвэр гаргая, Махадо Венесуэл рүү буцаж оч.",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-heir-boosts-editorial-plans-with-offer-for-italy-s-fatto": {
+    "title": "Рэй-Бан Хэйр Италийн Фатто-д зориулсан редакцийн төлөвлөгөөг санал болгодог",
+    "summary": "Рей-Бан үүсгэн байгуулагч Леонардо Мария дел Векчио Италийн Il Fatto Quotidiano компанийн хэвлэлийн компанид 7,15 сая еврогийн (8.3 сая ам .доллар) татан авч, хэвлэл, сэтгүүл зүйн хүсэл эрмэлзлийг нь нэмэгдүүлж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-25/trump-decision-nearing-on-iran-machado-returns-to-venezuela": {
+    "title": "Трамп: Иран улсын гаргасан шийдвэрийг Махадо Венесуэл рүү буцав",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-25/for-defense-firms-too-much-demand-is-the-new-problem-tkms-embj-lmt-dez": {
+    "title": "Батлан хамгаалах фирмүүдэд хэт их шаардах нь шинэ асуудал (TKMS, EMBJ, LMT, DEZ)",
+    "summary": "Цэргийн зардалын өсөлт нь чадавхыг өргөтгөх, хөрөнгө оруулалт хийх, гэрээ байгуулах талаар шийдвэр гаргахад удирдлагуудыг шахаж байна. Мөн Техасын нийслэлийн Мэтт Scurlock Nasdaq-ыг орхиход."
+  },
+  "https://newsbywire.com/a-space-startup-is-coming-out-of-stealth-with-seven-figure-deals/": {
+    "title": "Сансрын хөлөг онгоцноос долоон бясалгалын хэлэлцээр гарч ирж байна",
+    "summary": "Артикулын URL: https://newsbywire.com/a-space-startup-is-coming-out-of-stealth-with-seven-figure-deals/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50231312 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/": {
+    "title": "Ривиан худалдан авалтаар 400,000 өдөр тутмын клипийг 3D SIM- болгон хувиргана",
+    "summary": "Дугаар зүйл URL: https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50230059 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/": {
+    "title": "Мэдээллийн технологийн дэд бүтцийг олон нийтэд арилжаалсан Небиусын сонин хэрэг (2024)",
+    "summary": "Артикулын URL: https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50229386 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.neuroplusgbrain.net/": {
+    "title": "Эхлэхийн тулд хэрхэн эхлэх вэ",
+    "summary": "Дугаар зүйл URL: https://www.neuroplusgbrain.net/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50225603 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://rentry.co/themis-docket-e61b189e37": {
+    "title": "Шалгагдсан AI архитектур нь эрүүл мэндийн гарааны бизнес эрхлэгч, батлан хамгаалах гэрээт байгуулсан",
+    "summary": "Артикулын URL: https://rentry.co/themis-docket-e61b189e37 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50222576 Оноо: 4 # Сэтгэгдэл: 0"
+  },
+  "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/": {
+    "title": "АНУ-ын-Израиль хөтөч $ 6.4В үнэтэй эхлэх",
+    "summary": "Артикулын URL: https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50219588 Оноо: 17 # Сэтгэгдэл: 29"
+  },
+  "https://nypost.com/2026/10/23/business/silicon-valley-startup-raises-200m-to-create-genetically-engineered-military-dogs-captain-america-meets-iron-man/": {
+    "title": "Гарааны бизнес нь генетикийн инженерийн цэргийн нохойг бий болгохын тулд 200м $ доллар гарна",
+    "summary": "Артикулын URL: https://nypost.com/2026/10/23/business/silicon-valley-startup-raises-200m-to-create-genetically-engineered-military-dogs-captain-america-meets-iron-man/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50217340 Оноо: 1 # Сэтгэгдэл: 2"
+  },
+  "https://www.entrepreneur.com/building-a-business/she-bootstrapped-her-way-to-7-figures-heres-how-a-big-nordstrom-win-signaled-it-was-time-to-raise": {
+    "title": "Тэрээр 7 дүр төрхөөрөө түүний замыг татаж эхлэв. Нордстромын хожлын дохио хэрхэн гарч ирснийг авч үзье.",
+    "summary": "Холличикийг олон жилийн турш саатуулж, долоон бохирдол бүхий бизнес эрхэлсний дараа брэнд нь 2026 оны 5-р сард анх удаа 1.5 сая $ үрээ өсгөсөн. Тэр цагаас хойш борлуулалт 47% -г эзэлж байна. Мега Рао бусад гурван асуултыг үүсгэн байгуулагчдаас харахыг уриалж байна..."
+  },
+  "https://www.entrepreneur.com/building-a-business/your-teams-mistakes-may-start-with-you-ask-these-3-questions-before-assigning-blame": {
+    "title": "Багийн чинь алдаа чамтай эхэлж болно. Бусдыг буруутгахаасаа өмнө дараах 3 асуултыг асуугаарай.",
+    "summary": "Ихэнх эзэд хүснэгтийн урсацын үүрэг хариуцлагыг тооцдог. Бодит хариуцлага нь үүсгэсэн удирдагчийн нөхцлөөс эхэлдэг."
+  },
+  "https://www.entrepreneur.com/starting-a-business/3-lessons-from-building-a-venture-fund-that-can-help-you/505517": {
+    "title": "3 СУРГААЛТ ҮЙЛ АЖИЛЛАГАА БИЗНЕСИЙН ШИЙДВЭРЛЭХ АЖИЛЛАГАА.",
+    "summary": "Бизнесийн илүү сайн шийдвэр гаргахын тулд нотолгоо хийж, арга барилаа өөрчилж, туршлагаас сургамж авч сураарай."
+  },
+  "https://www.entrepreneur.com/business-news/nvidia-vs-amd-vs-apple-heres-what-the-numbers-actually-say-about-which-ai-machine-is-right-for-you": {
+    "title": "NVIDIA vs. AMD vs. Apple — Ямар машин таны зөв талаар бодитоор тоо өгнө үү",
+    "summary": "Орон нутгийн хиймэл оюун ухааны машин худалдаж авахаасаа өмнө юу хийхээр оновчтой байгаагаа мэдэж аваарай. Энд NVIDIA, AMD, Apple-ийн задаргаа байна."
+  },
+  "https://www.entrepreneur.com/business-news/tech/ai-hasnt-cracked-local-search-yet-heres-why-thats-an-opportunity-for-local-businesses": {
+    "title": "AI Орон нутгийн хайлтыг хараахан эвдээгүй байна. Орон нутгийн бизнес эрхлэгчдэд ийм боломж бий",
+    "summary": "Орон нутгийн бизнес эрхлэгчдийн хувьд Google Maps нь интернетийн хамгийн сайн үл хөдлөх хөрөнгө хэвээр байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap": {
+    "title": "АНУ-ын Нөөцийн Фьючерс нь буталсан тосны үнийн мэдээлэл хэлбэрээр авирах: Зах зээлийн боолт",
+    "summary": "АНУ-ын хөрөнгийн талаархи фьючерсийн дэвшилтэт болон газрын тосыг тогтворгүй долоо хоногийн дараа буцаан авч, хиймэл оюун ухааны худалдаа, төв банкны гол шийдвэрийг турших мегакапын орлого олоход чиглэсэн хөрөнгө оруулагчид хүргэсэн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ 26-сарын өдөр",
+    "summary": "Зөрчилдөөнтэй зөрчилдөөнөд АНУ, Иран танил үг хэллэгийг дагаж мөрдөхийн зэрэгцээ техникийн хэмжүүр хэт их зөрчлийг заасан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/senegal-premier-raises-constitutional-option-in-budget-standoff": {
+    "title": "Сенегал Сенегалийн Ерөнхий сайд төсвийн суурин дахь Үндсэн хуулийн сонголтыг босгов",
+    "summary": "Сенегалийн Ерөнхий сайд Ахмаду Аль Амину Ло засгийн газраас 2026 оны төсөвтөө зөрчилдөөнийг шийдвэрлэх арга хэрэгслийг ашиглан хууль тогтоогчидтэй яриа бол Олон улсын Валютын сангийн хөтөлбөрийг хэрэгжүүлэхэд хүндрэл учруулж болзошгүй тул засгийн газар хэрэглэж болно гэжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/byd-s-korea-expansion-challenges-hyundai-dominance-on-home-turf": {
+    "title": "BYD's БНСУ-ын тэлэлтийн асуудлууд Хьюндай эзэнт гүрэн гэртээ байрлах Хьюндай эзэнт гүрэн",
+    "summary": "Ли Сонгдонг 2016 оны дөрөвдүгээр сард Chevrolet Spark-ийг солихоор шийдэхдээ Hyundai Motor Co's Casper Electric-ийг хоёр жилийн хүлээх нь түүнийг BYD ХХК-ийн Dolphin руу түлхэж байсан. Тэр боломж баян явахдаа маш их гайхсан учраас газар дээр нь гэрээнд гарын үсэг зурав."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-25/de-olho-nas-eleicoes-video-mvo4e3rz": {
+    "title": "Де olho nas eleições",
+    "summary": "Флавио Булсонаро и Лула chegam in segundo turno tecnicamente empatados após нь e atos realizados no país nesta sábado хэлэлцэх. Com reportagem e edição de Patricia Xavier e produção de Beatriz Amat e Fabiola Moura. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-25/bloomberg-this-weekend-10-25-2026-video": {
+    "title": "Дундын сонгуульд 9 хоног, Том технологийн орлого",
+    "summary": "Дэлгүүр хаагдах үед мэдээ зогсохгүй. Дэвид Гүра, Кристина Раффини, Лиза Матео зэрэг оршин суугчид амралтын өдрүүдийн хамгийн том гарчигт тодорхой, нөхцөл байдал, хошигнолыг Нью - Йоркоос амьдардаг. MetLife Хөрөнгө оруулалтын менежментийн ерөнхий стратеги Drew Matus, Санхүүгийн Тим..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-25/inside-the-two-argentinas-under-javier-milei-video": {
+    "title": "Javier Milei доорх хоёр Аргентины дотор",
+    "summary": "Ерөнхийлөгч Javier Milei инфляцийг авчирч, Аргентиныг илүү хөрөнгө оруулалтад нээж, эрчим хүч болон экспортын бусад салбарт өсөлтийг түлхэхэд тусалсан. Гэхдээ үйлдвэрлэл, жижиглэн худалдаа, жижиг бизнес эрхлэгчид тэмцэж байгаа бөгөөд нөхөн сэргээх үр дүндээ b хүрч байна гэж олон Аргентины мэдэрч байгаа..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/zero-day-option-traders-are-betting-against-big-s-p-500-swings": {
+    "title": "Тэг-өдөр хувилбарын худалдаачид Big S&P 500 свинг эсрэг арилжаалагдаж байна",
+    "summary": "Зарим хөрөнгө оруулагчид хиймэл оюун ухааны орлого, геополитик, хүүний ханшийг шинээр өндөрлөг газарт эсвэл сүүлээр илгээх боловч, өдрийн тэг сонголттой худалдаачид S&P 500 индекс тайван байх болно гэдэгт улам бүр итгэж байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-25/halloween-candy-prices-reflect-cocoa-s-wild-ride-video": {
+    "title": "Halloween чихрийн үнэ Какоагийн зэрлэг аяллыг тусгасан",
+    "summary": "Энэ амралтын өдрүүдэд Игнас Канаралас Поло Блумберг дээр Какао нарын оргилуудаас буцаж гарсны дараа ч, Какао болон Гана дахь нийлүүлэлтийн дарамт шахалтыг зааж, зардлыг удирдах үйлдвэрлэгчдийн хүчин чармайлтыг зааж өгсний дараа шоколад, Halloween чихэр яагаад үнэтэй хэвээр байгааг тайлбарлав. Ви ярих…"
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-25/fed-looks-set-to-pause-after-september-rate-hike-video": {
+    "title": "Fed нь есдүгээр сарын ханшийн явсны дараах түр зогсоохоор харагддаг",
+    "summary": "Энэ амралтын өдрүүдэд Bloomberg News Federal Reserve сэтгүүлч Мария Элиса Капурро Fed-ийн удаагийн шийдвэрийг урьдчилан үздэг бөгөөд бодлого боловсруулагчид есдүгээр сарын эхний түвшинг 2023 оноос хойш зогсоохоор төлөвлөж байна. h-тэй ярих..."
+  },
+  "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1": {
+    "title": "Бразилийн Дээд Шүүх мар сонгуулийн талаар санал хураалтаа өргөжүүлсэн",
+    "summary": "Баруун өрсөлдөгч нь зүүн ерөнхийлөгчөөсөө холдож, улс орноо Trump-тэй ойртуулахыг эрмэлздэг тул автобус, усан онгоцны хомсдол ноцтой өрсөлдөөнд нэмдэг."
+  },
+  "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1": {
+    "title": "Венесуэлийн эсэргүүцлийн удирдагч Макадо цөллөгөөс буцаж ирсэн",
+    "summary": "Нобелийн шагнагчийн ирэх нь тус улсын Трампын дэмжигдсэн завсрын засаглалд сөргөөр нөлөөлдөг"
   }
 }
