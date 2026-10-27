@@ -9002,5 +9002,297 @@
   "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1": {
     "title": "Венесуэлийн эсэргүүцлийн удирдагч Макадо цөллөгөөс буцаж ирсэн",
     "summary": "Нобелийн шагнагчийн ирэх нь тус улсын Трампын дэмжигдсэн завсрын засаглалд сөргөөр нөлөөлдөг"
+  },
+  "https://openai.com/index/building-scientific-understanding-with-academic-communities/": {
+    "title": "Математик, компьютерийн шинжлэх ухаан, физикт гурван шинэ нээлт зарлах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf": {
+    "title": "Экспоненциал цагийн таамаг нь худал юм [pdf]",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://magazine.sebastianraschka.com/p/building-reasoning-models": {
+    "title": "Ухаалаг загваруудыг бий болгоход Себастиан Рашка-аас авсан видео курс",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md": {
+    "title": "Төрөл Серверийн Протокол",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.cloudflare.com/kv-cache-exposure-remediation/": {
+    "title": "GLM-5.3 Ажилчдын AI загварт загалмайн КВ-ийн кэшийн өртөлт (155 хариу урвал)",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/": {
+    "title": "Windows 11 дээр ажиллаж байгаа GUI хамгийн хуучин програм",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://twitter.com/macrofying/status/2112904628509528219": {
+    "title": "Цаасан дээр Хэвлэгч Хэвлэх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://css-tricks.com/css-tricks-has-a-new-owner/": {
+    "title": "CSS-Трак нь шинэ өмчлөгчтэй",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://t3x.org/lisp64k/index.html": {
+    "title": "64k байт цөмд хийж болох LISPy зүйлс (2019)",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/DilawarShafiq/nietzschian-debugger": {
+    "title": "Nietzschian Debugger",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/": {
+    "title": "Мэдээллийн санг хамтран үүсгэн байгуулагч нь томоохон аж ахуйн нэгжийн үйлчлүүлэгчдийг ялсан нууцаа хуваалцдаг",
+    "summary": "Том компаниудад зарах нь хамгийн жижиг технологи биш юм. Аварга том борлуулалтын баг дээр аялах тухай юм."
+  },
+  "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/": {
+    "title": "Ажиглаарай, YouTube — Instagram богино хэлбэрээс 90 минутын видео бичлэгүүд рүү явдаг",
+    "summary": "Олон жилийн дараа нийгмийн платформ бүр (тэр ч байтугай LinkedIn!) богино хэлбэрийн видео бичлэгийг маш хүчтэй дагаж мөрддөг бөгөөд энэ нь Instagram-ийн стратегийн чухал өөрчлөлт юм."
+  },
+  "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/": {
+    "title": "Өө, энэ нь Iphone Duo хагарч байгаа юм шиг сонсогдож байгаа бөгөөд хэрэглэгчид үүнд сэтгэл хангалуун байдаггүй",
+    "summary": "Apple-ийн хэт хэлбэртэй шинэ эвхэгддэг утасны хэд хэдэн эрт хэрэглэгч дэлгэцийг эвдэхээс үүдэлтэй гомдоллосон байна."
+  },
+  "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/": {
+    "title": "Fusion стартапууд нь шагналын хариуд засгийн газруудад хувь нэмэр оруулж байна. Энэ нь үнэ цэнэтэй юу?",
+    "summary": "Сийвэнгийн физикийн хамааралгүй нэгэн шинэ бэрхшээлтэй тулгардаг Fusion startups: Засгийн газраас санхүүжилтийн шагнал солилцох юм уу ганцааранг нь явуулах уу?"
+  },
+  "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/": {
+    "title": "Энэхүү гарааны экскаватор нь шинэ санхүүжилтэд $ 600 метр зарцуулдаг",
+    "summary": "Одоо 4.1 тэрбум $ үнэлэгддэг Bedrock Robotics нь чадварлаг операторуудын өсөн нэмэгдэж байгаа учраас автономит экскаваторуудад онцгой анхаардаг."
+  },
+  "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/": {
+    "title": "Антропийн IPO баримтжуулалт нь аж ахуйн нэгжийн үйлчлүүлэгчдийг дэгээ хадгалах стратегийг илтгэнэ",
+    "summary": "Антропийн с-1 нь $ 100,000 нэмэх үйлчлүүлэгчдийн талаас илүү хувийг харуулж байгаа бөгөөд одоо Клод платформ болон анхны талын аппликейшныг ашигладаг."
+  },
+  "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/": {
+    "title": "Apollo-тай харьцах $ 40B GPU санхүүжилтийн хэлцэлд SpaceX түгжигддэг",
+    "summary": "Санхүүжилт нь зөвхөн уламжлалт өрийн зах зээлд найдахгүйгээр өргөжин тэлэх хиймэл оюун ухааны хүсэл эрмэлзлийг санхүүжүүлэх өөр нэг арга замыг SpaceX олгодог."
+  },
+  "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/": {
+    "title": "Microsoft нь 60,000 орчим ажилчдад худалдан авалтыг санал болгодог",
+    "summary": "Худалдан авалт нь зардлыг бууруулах, ажиллах хүчээ дахин хэрэгжүүлэхийн тулд Microsoft-ийн хамгийн сүүлийн үеийн хүчин чармайлтыг тэмдэглэж байна."
+  },
+  "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/": {
+    "title": "Антропик албан ёсны олон нийтийн анхдагчаар хийсэн файлууд",
+    "summary": "Антропик нь IPO-д албан ёсоор өсөн нэмэгдэж буй орлого, өсөн нэмэгдэж буй алдагдал, томоохон аж ахуйн нэгжийг нэвтрүүлэх, үүсгэн байгуулагчийн хяналт, түүний AI аюулгүй ажиллагааны эрхэм зорилго зэргийг хадгалах зорилготой ер бусын засаглалын бүтцийг мэдэгдсэн."
+  },
+  "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/": {
+    "title": "Apple-ийн шинэ IPAD MINI-ыг OLED дэлгэцтэй танилцуулж, A20 Pro чипийг илүү хурдан дэлгэсэн",
+    "summary": "IPAD MINI нь өмнөхөөсөө илүү нимгэн, хөнгөн загвартай байдаг."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics": {
+    "title": "OpenAI нь шинжлэх ухааны гурван том нээлтийг зарлаж, академич нартай хамтран ажиллах шинэ арга замыг зарлав",
+    "summary": "Маш олон зуун гар бичмэлийг сар хүрэхгүйн дараа удаан хугацааны математикийн асуудлын шийдлийг агуулдаг гэж хэлсэн бөгөөд OpenAI нь математик, компьютерийн шинжлэх ухаан, физикийн гурван \"том\" нээлттэй буцаж ирдэг. Энэ удаад юу өөр байна вэ гэсэн сонголт байна..."
+  },
+  "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale": {
+    "title": "Samsung's Switch 2-ready MicroSD Express карт 50 $ -с бага үнээр худалдаалагдаж байна",
+    "summary": "Nintendo Switch 2 дээр зайнаас гарах уу? Аз болоход, Samsung-ийн P9 MicroSD Express картыг олон жижиглэнгийн худалдаачид хөнгөлнө. 256GB хувилбар нь 47.99 (Amazon, B&H Photo) $ болон 512GB хувилбар $ 99 (Амазоны, B&H фото) -ийн 256GB хувилбартай. Жижиг карт нь ихэвчлэн хямдралтай..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk": {
+    "title": "Антропик нь AI-ийн өсөлтийг хангах хий шатдаг",
+    "summary": "Олон нийтэд нээлттэй байхаар бэлтгэж байгаа тул Антропийн S-1 мэдүүлэг нь үүсгэсэн хиймэл оюун ухааны метаны хамаарал нь илэрхий илэрхий харагдаж байна. \"Цахилгаан хангамж, мэдээллийн төвийн байршилд хангалттай эрчим хүчний хүртээмжтэй хандах тэмцээн эрчимтэй байна.\" АНУ-ын Үнэт цаас, эксчээр тусгагдсан баримт бичиг..."
+  },
+  "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil": {
+    "title": "iPhone Duo одоо Apple-ийн Харандаа iOS 27.2-ийг дэмждэг",
+    "summary": "Apple-ийн iOS 27.2-г саяхан гаргаж, Apple-ийн харандаа дэмжлэгийг Iphone Duo-д авчирлаа. Програм хангамжийн шинэчлэл нь \"Edge Light\" функцийг агуулсан Iphone Duo нь видео дуудлагын үеэр таны нүүрийг гэрэлтүүлэх зорилготой юм. Өмнө нь Apple-ийн Iphone Duo t-д дэмжлэг үзүүлэх болно гэж хэлсэн..."
+  },
+  "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket": {
+    "title": "Мөрийтэй тоглоомын сүйрэлд NBA-ийн хариу үйлдэл нь илүү мөрийтэй тоглоомын түншлэлийг нэмж оруулах явдал юм",
+    "summary": "FTX Arena болон NBA Топ Shot NFT maketplace-ийг авчирсан тод оюун ухаануудаас (өнгөрсөн сард борлуулалт 762,781 $ болж буурсан бол 2021 оны 2-р сарын оргилтой харьцуулахад 99.66 хувиар буурсан гэсэн бол NBA даваа гаригт 226,350,843 $ шинэ \"давуу\" таамаглалыг бий болсныг зарласан..."
+  },
+  "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal": {
+    "title": "RealReal нь хиймэл оюун ухааны агентуудад дизайнер хувцаслахыг зөвшөөрдөггүй",
+    "summary": "Тансаг зэрэглэлийн загварын борлуулагч RealReal нь Bot хамгаалах системээ шинэчилж байгаа бөгөөд хиймэл оюун санааны төлөөлөгчдийн талбай дээрээ дэлгүүрээс авахад илүү хэцүү болгодог гэжээ. Энэхүү өөрчлөлт нь Вергерийн давуу талыг ашиглахад хиймэл оюун ухааны төлөөлөгч ашиглаж болно гэж мэдээлснээс хойш хэд хоногийн дараа гарч ирдэг..."
+  },
+  "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack": {
+    "title": "Apple-ийн Iphone Duo дэлгэцийн эвдэх дэлгэцийн тайланд орсны дараа ’Асуудлыг' хүлээн зөвшөөрдөг",
+    "summary": "Дэлгэц дотор хагарсан, эвдэрсэн iPhone Duos-ийн тайланд дурдсанаас хойш Apple-ийн Bloomberg болон 9to5Mac гэсэн мэдэгдэлд \"дотоод дэлгэцэнд нөлөөлсөн асуудал\" цөөн тооны iPhon дээр..."
+  },
+  "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale": {
+    "title": "Хэн ч нүд тагласан чихний чихний 3A дугуйлангууд өнөөг хүртэл хамгийн сайн үнийг тааруулж байна",
+    "summary": "Хэрэв та эд хөрөнгөө зарцуулахгүйгээр дуу шуугианыг цайруулах зохистой хосыг хүсвэл юу ч гэсэн 3A-ийн чихийг авч үзэхгүй байна. Утасгүй чихний савнууд нь үнийн хувьд маш олон боломжуудыг санал болгодог бөгөөд энэ нь бүх дөрвөн өнгийг Amazon, Walmart, Best дээр худалдаалагдаж байгаа тул илүү сайн үнэ цэнэтэй юм..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details": {
+    "title": "Антропийн IPO файлын таван сонин дэлгэрэнгүй мэдээлэл",
+    "summary": "Антропик с-1 давуу талаа сек-ээр гаргасан бөгөөд хөрөнгө оруулагчдад өөрийн бизнесийн бүрхүүл дор харагдахаар бүтээгдсэн баримт бичиг, түүний удирдлагууд IPO тэрбумдаа өөрийн сонирхлыг бууруулж болзошгүй эрсдэлд зарцуулахаар төлөвлөж байна. 300 гаруй үедээ..."
+  },
+  "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health": {
+    "title": "Бүх хуучин Fitbit Edge-тай дахин шинэ юм",
+    "summary": "Өнгөрсөн долоо хоногт би зочны өрөөний дэргэд сандалд суугаад, жинхэнэ илрүүлэгчийн 1-р улиралд тамхины чиргүүл хийжээ. \"Нэг хүн надад цаг хугацаа гэж хэлсэн нь хавтгай тойрог шүү дээ. Бидний хийсэн, эсвэл хийх бүх зүйл бол бид дахин дахин хийх болно..."
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5": {
+    "title": "Антропийн Клод AI загвар АНУ-д Гүржийн сонгогчдын өгөгдөлд хандсан - The Guardian",
+    "summary": "Антропийн Клод AI загвар нь Гүржийн сонгогчийн өгөгдлийг АНУ-д хандсан The GuardianAnthropic's Клод нь зөвшөөрөлгүйгээр Гүржийн сонгогчдын мэдээлэлд нэвтрэх цалин хөлсөлсөн AxiosClaude AI нь олон нийтэд хандсан Гүржийн сонгогчдын мэдээлэлд нэвтрэх боломжийг олгож, антропик Fox Business баталж байна"
+  },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWRLbnU1SW5mV0hFN0luc05jT3VYaU4yTEc2MVdvTGpZUnVkcXJsTElPZUNWNEM0TDZBalFMYWhEeHVNY2hUYjB2cUhBYUEtV3BCT1JLQjF0ZnBmNkJkY3FGamZBdlJmS2hVV21neFJHblpROHZYTVN2OFU3LTZ5Zy14ZGdQMjcz?oc=5": {
+    "title": "Бичлэг эвдэж чадах IPO-ийн Аварга том антропик файлууд - NPR",
+    "summary": "AI аварга том антропик файлууд нь антропийн IPO-д илэрсэн NPR10 Surprises илэрсэн IPO-ийн бүртгэлийг эвдэж чаддаг IPO: Гүйцэтгэх захирлын хувийн аюулгүй байдлын зардал, ‘Аюулгүй байдал’ 250 удаа дурдсан. Дэлгэрэнгүй ForbesI нь Антропийн IPO CNN-ыг тайлбарлахыг хүсжээ"
+  },
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTE03bGhpOG1mUzh2WXFSdGRXcDAwMlh1eE0xUkZseXkzbUhOSmFEb1NNM2hKbmw1X29ERW9zcHBKT2ltbDF3ZVhRRDZwalhqOE5mYXM0NS0yY3c4SEFDNEdDUDk2cElLbGl2VkE2RHp3TmhJQ25IM0E?oc=5": {
+    "title": "AI компани Антропик Элвис Пресли зохиогчийн эрхийн зөрчлийг шийтгэсэн гэж буруутгасан байна - Fox News",
+    "summary": "AI компани Антропик Элвис Пресли зохиогчийн эрхийн зөрчсөн  Fox News дээр яллагдлаа"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUU3c1J4d3dSdEpIT1lXNnFpUmhOeHBzSmszd2RkZzh6dklXYWNGZzNfU0NJdHhBdjBQX3lnZjVnSXJwMjhOVUdJNUIzSjZpVUozZGRfNWhvNmVzR1dZWHc3ZDhwRnFqU3hJN2ZKZmdxR2U3a2dOVWpXTHFRcVpsV1hNZG5CNHc0UU9wcGJDbWJEd0o5MG1qM2xFUjlQV00?oc=5": {
+    "title": "Elvis Presley-ийн каталогийг эзэмшигчид Sue Anthropic 41.1 сая $, AI компани Клодыг сургах хөгжим дээрэмдсэн - Yahoo",
+    "summary": "Elvis Presley-ийн каталогийг эзэмшигчид Sue Anthropic 41.1 сая $, AI компани Клод Yahoo-г сургах хөгжим дээрэмдсэн"
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXZTRUhadExyYWlsOTZxS3AyeEJMNXVWYVMyeHQ4OXhqU2R2TThIZlBwU0Y3ZTdHalVlbGo4S0c5MVhxVE9zYTlxZ0NSOGNiRm5hRVEycVZlS3FpX0dYLXRuaXVweEtWekNMX3JpbWhGOXprZU82VVNLVVRqYlRPckVxWno0alJGV20xcDVxMVZOa0cxaUZwQ2QyYjVEVUlYQVE5b2NNRzI?oc=5": {
+    "title": "Клод - Reuters дасгалжуулдаг Элвис дууг Энтропик шүүхээр шийдэв",
+    "summary": "Клод Ростыг сургахад ашигладаг Элвисийн дууг шүүхэд Антропик"
+  },
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnZPWXdUUTFNZGM1VHp0dGg3OTVhdndRVlRVZTNiRTBKWTdnZzhQdXVqbHJKcjNfR3VwcUlNeXRHOGk5RXZBMlBIa2hIV3FMSHlPVzktYzFOS0dJREJLN3QwQ0tPWWFMaFB1bUZpQjRESV84S1hySmgxcGd5Tnc1bFRSUFdhdFRhWV9RTmRn?oc=5": {
+    "title": "Anthropic Claude Duet юуг саатуулдаг талаар дэлгэрэнгүй - Туслах цэвэр аюулгүй байдал",
+    "summary": "Антропик нь Клод Дүүг яарах тусламжийн цэвэр аюулгүй байдлыг зогсоохыг нарийвчлан үздэг"
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Sc21oZHRnRHFFU3NVeFJHenB1SjIxelNrc3NkaUlIdk9FWXE5VFpfbk1NQ0JOM0NreUhIR3FJRGNlT1c3YS1kOC11eEdsbHdZU2lsOUZYQUVBeTJNUVdhRWdyeUwwZ25aRFJyeFJrVEZlU3lUaTJLaTZNUEZRWG8?oc=5": {
+    "title": "Антропик Өрсөлдөгчид: 4-ийн Клодын хувилбарууд - Motley Fool",
+    "summary": "Антропик өрсөлдөгчид: 2026  оны 4-н CLAUD хувилбарууд"
+  },
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGtTZzRlRzJEZkRwNjM3TTROOGU5OXl0MlBnZzVmOUhvTjZld0N4UXNJeVZvR2xrc2dlM1lrT1NVUlNqVDV4Tm51X280WDUwc0dTcmN2Uks5TjNmdzY1eW9IUU5LMXFLYktVbnVmdkJURFMxVXo1cnkzRFhUcU5mRjlEdm41TzJHSjNQMDRIYzBOdzAzX3FVaFVfTnFhWE5zTm9OZldJdUlnZXdjS0VHQW1nREo0d3NNaHRxMGhFOVFKOWdteVhR?oc=5": {
+    "title": "ANT IPO News - хиймэл оюун ухааны загвар хөгжүүлэгч Антропик PBC файлууд нь ойролцоогоор $ 75 тэрбум IPO-ийн хувьд, 11-р сарын дунд үеэр хамгийн том IPO-уудын нэгийг туушлах - Ренасанс Капитал",
+    "summary": "ANT IPO News - AI загвар хөгжүүлэгч Антропик PBC файлууд нь 11-р сарын Сэргэн мандалтын үеийн хамгийн том IPO-ийн нэгийг тууштай, 75 тэрбум $ IPO-ийн тооцоолсон"
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaVlRb2JCSk8tMy02VzRqcEsxb29ZaW9qZDFORlJuajZPZFkyTVVLSW4xdGhuTkdDWE5FTTVGTndZcE5OUHBSSkR1d3AzYXI1U2d6VUpEUTMzWEYxYmNrYW1YdUdORFYyY2xTNXRocE5YSWFibDVINGlQaXRrbkVjelJMaURReGZOWEptRmYwMThGMnJhTkduZ2xMNnBxSFJfbGpaSTUtZXJxMzUtZVFEemFYTEhrU1nSAcsBQVVfeXFMTTMtWFBiTkx6dmFoVmRWZ041RFlkWFlXRlZNbDlVZ3dCY1g3RGFMd3pNanY2N1paN2RmeVN0NzZTMzVCYTFPeWZSRzJMcXdWcV9SU3g1a0kwd1RRNkRkYUpGd3BpeWNDRVBScHBuYWdRdDdGQXFuQlFMakg1OXpGRjNKVVpCT053YmFOMTNYSW1oTTQxbUtDeHBxUGZ2Tk83Unp5a051Um54Q0x2UHJ0R1hNWU85LWdHR3BES1hySEpWYzA4NDlhbTF0bDQ?oc=5": {
+    "title": "Клод хүний өдөөлтгүйгээр олон нийтэд санал өгөх мэдээлэлд нэвтэрсэн, аюулгүй байдлын асуудлыг нэмэгдүүлэх - WSFA",
+    "summary": "Клод хүний өдөөлтгүйгээр олон нийтэд санал өгөх мэдээлэлд нэвтэрсэн, аюулгүй байдлын асуудлыг нэмэгдүүлэх WSFA"
+  },
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXI0RkxyYmM0SFZHMmVHWklzOEVpczNIYjZPdDNkOWc1ZjFaaFFoSGRwV0NBZkUxWkFVVlRKVnRjczc5bmttcHhNV3c2d19DT083RHp6SlFjUjB1NTU3dmkzclctV1A2d0pycWRHOU1SR01CbmdudHp3WjZ3bzZxeVNZZzZLbktsMFZtcjRIeFBDUGlZMnJibW9fNXNZcE9Kc0xaVVN3cTVVV01rUFlodkJYdUtQbkZFelVpSXRydGFrazZqSll1SnE4RHNaZHIwVmNZb3BsUQ?oc=5": {
+    "title": "Клод төөрөгдөл Гүрж Paywall, Шинжээчдийн маргаантай аюулгүй байдлын үр дагавар - Аюулгүй байдлын мэдээлэл Watch",
+    "summary": "Клод типс Гүрж Paywall, Шинжээчид хэлэлцэх аюулгүй байдлын үр дагаврыг  аюулгүй байдлын мэдээллийн цаг"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-27/anthropic-unveils-ipo-filing-comey-charged-again-by-doj-more": {
+    "title": "Антропик нь IPO файлыг бүтээжээ, Ирээдүйд DOJ, Илүү их төлбөр хийнэ",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/la-mayor-s-race-billionaire-rick-caruso-backs-karen-bass-over-nithya-raman": {
+    "title": "ЛА хотын даргаын Тэмцээ: Тэрбумтан Рик Карузо Нитья Раман гаруй Карен Бассыг нөөцлөнө",
+    "summary": "Лос Анжелес хотын захирагч, сонгуульд оролцож буй ардчилсан социалист Нитья Рамантай тулалдаж сонгуульд оролцдог."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-27/anthropic-outlines-ipo-plan-comey-faces-new-federal-charges": {
+    "title": "Антропик IPO төлөвлөгөөний тойм, Comey тулгардаг шинэ Холбооны хураамж",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-26/anthropic-files-for-landmark-ipo-comey-faces-new-charges-more": {
+    "title": "Хот суурин газрын IPO-ийн антропик файлууд, Comey шинэ хураамжтай тулгардаг, бусад",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-26/anthropic-ipo-filing-day-comes-with-warning": {
+    "title": "Антропийн IPO-ийн анхдагчийн өдөр сэрэмжлүүлэгтэй ирдэг",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-26/anthropic-ipo-filing-doj-brings-more-charges-against-comey": {
+    "title": "Anthropic IPO filing, DOJ нь Comey-ийн эсрэг илүү их төлбөр авчирдаг",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-26/tasmania-electric-ferry-rba-on-superannuation-asic-warning": {
+    "title": "TASMАНИА ЦАХИЛГААН ГАРЫН АВЛАГА, АСИК АНХААРУУЛГА",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-26/bloomberg-businessweek-daily-anthropic-files-for-ipo-podcast": {
+    "title": "Bloomberg Businessweek Daily: IPO-ийн антропик файлууд (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-26/bloomberg-talks-jennifer-garner-podcast": {
+    "title": "Блүүмбергийн яриа: Женнифер Гарнер (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 7:36"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-26/bloomberg-talks-keisha-lance-bottoms-podcast": {
+    "title": "Блүүмбергийн яриа: Кеша Ланцын ёроолууд (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://news.ycombinator.com/item?id=50249836": {
+    "title": "ХН: Чиний эхлэх Halloween хувцас ямар байх вэ?",
+    "summary": "Хувцас нь таны бүтээгдэхүүнийг элемент, алдааны мэдэгдэл эсвэл гарааны бизнестэй холбоотой ямар нэгэн зүйлийг агуулж болно. Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50249836 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://www.reuters.com/world/americas/brazils-itau-agrees-buy-ai-startup-neospace-589-million-2026-10-26/": {
+    "title": "Бразилийн Big bank Itau AI startup NeoSpace 589M $ худалдан авахаар зөвшөөрч байна",
+    "summary": "Артикулын URL: https://www.reuters.com/world/americas/brazils-itau-agrees-buy-ai-startup-neospace-589-million-2026-10-26/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50244801 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites": {
+    "title": "АНУ-ын гарааны гэрэлтүүлгийн жагсаалыг сансарт шүүмжлэлд хүргэдэг",
+    "summary": "Артикулын URL: https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50242543 Оноо: 12 # Сэтгэгдэл: 0"
+  },
+  "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/": {
+    "title": "Кибер аюулгүй байдлын үед эхлүүлэх сүмийн судлаачид антропик дотор байсан",
+    "summary": "Артикулын URL: https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50241543 Оноо: 8 # Сэтгэгдэл: 2"
+  },
+  "https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1": {
+    "title": "Их Британид хэрхэн эхлүүлэх вэ: Хэсэг 1",
+    "summary": "Артикулын URL: https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50240393 Оноо: 10 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/science-technology/the-ai-arms-race-nobody-talks-about/505408": {
+    "title": "AI Arms Race Хэн ч тухай ярихгүй, бизнес эрхлэгч бүрээс асуулт асуух хэрэгтэй",
+    "summary": "AI, дата, алгоритмууд хүний анхаарлыг хэрхэн өрсөлдөж байгааг судалж, бие даасан байдал, нөлөөлөл, ёс зүйн манлайллыг өөрчлөхөд хэрхэн өрсөлдөж байгааг судал."
+  },
+  "https://www.entrepreneur.com/business-news/megan-thee-stallion-says-this-is-the-biggest-mistake-she-made-early-on-in-her-career": {
+    "title": "Меган театрын зогсонги гэлээ. Энэ бол ажлаа эхлүүлэхдээ хамгийн том алдаа гаргажээ.",
+    "summary": "Entrepreneur's Over Impossible event дээр Грэммигийн шагналт гурван удаа од хүмүүсийн алдаанаас хэрхэн зайлсхийх талаар ярилцав."
+  },
+  "https://www.entrepreneur.com/building-a-business/i-pitched-my-business-to-target-and-did-400000-in-sales-last-month-scoops": {
+    "title": "Би бизнесээ 1 түүвэртэй, мөнгөгүй болгов. Энэ нь хурдан тавиуруудыг цохиж, өнгөрсөн сард $ 400,000 худалдаа хийдэг байсан.",
+    "summary": "Лиз Лэйн хоол хүнс, ундааны гарааны бизнесүүдэд арав гаруй жил ажилласан боловч өөрийн брэндийг бий болгохыг хүсчээ."
+  },
+  "https://www.entrepreneur.com/building-a-business/before-you-invest-in-your-business-idea-make-sure-someone-will-actually-pay-for-it-heres-how": {
+    "title": "Өөрийн хүсэл сонирхолд хөрөнгө оруулахаасаа өмнө хэн нэгэн таны төлөө мөнгө төлнө гэдэгт итгээрэй. Энэ яаж байна вэ?",
+    "summary": "Цаг зав, мөнгө, эд хөрөнгөө гаргахаасаа өмнө алдаагаа төлөх, зайлсхийхэд бэлэн байдлыг шалгах таван бодит аргыг олж аваарай."
+  },
+  "https://www.entrepreneur.com/business-news/tech/dont-deploy-an-ai-agent-in-your-business-until-you-answer-these-questions": {
+    "title": "Эдгээр асуултад хариулах хүртлээ AI-ийн төлөөлөгчийг битгий байрлуул",
+    "summary": "Ажилд авах сэтгэлгээ нь бизнесүүдэд AI-ийн төлөөлөгч байршуулахаасаа өмнө үүрэг ролийг тодорхойлох, хил хязгаарыг тогтоох, үр дүнг хэмжихэд түлхдэг."
+  },
+  "https://www.entrepreneur.com/building-a-business/hiring-the-cheapest-vendor-can-cost-you-more-than-you-save-heres-how-to-avoid-paying-twice": {
+    "title": "Хамгийн хямд Нийлүүлэгчийг ажилд авах нь Хадгалахаас илүү өртөгтэй. Хоёр удаа төлөхгүйн тулд яах хэрэгтэй вэ?",
+    "summary": "Та үнэхээр цалингаа авсан зүйлээ үнэхээр олж авдаг, үүний шалтгааныг энд дурдана."
+  },
+  "https://www.entrepreneur.com/business-news/gary-vaynerchuk-makes-900-social-media-posts-make-your-business-dramatically-explode": {
+    "title": "Гари Вайнерчук энгийн зардлаа хулгайлах нь таны бизнесийг нийгмийн сүлжээнд \"эрс дэлбэрэх\" болно гэж хэлсэн",
+    "summary": "Вайнерчук бизнес эрхлэгчид үйлчлүүлэгчдэд хүрэхийн тулд үнэгүй хэрэгсэлтэй гэжээ."
+  },
+  "https://www.entrepreneur.com/building-a-business/before-you-hire-another-employee-answer-these-4-questions-you-may-not-need-the-role-after-all": {
+    "title": "Өөр ажилчин ажилд авахаасаа өмнө эдгээр 4 асуултанд хариулаарай (Та ямар ч үүрэг хүлээх шаардлагагүй)",
+    "summary": "Аж ахуй эрхлэх чадваргүй бол өөр ажилчин хөлслөхөд ихэнхдээ хариу үйлдэл үзүүлэх нь бий. AI, автоматжуулалт, мэргэшсэн авъяас гэдэг нь бизнес эрхлэгч нарыг эхлээд асуухад илүү чухал асуулт байна гэсэн үг юм."
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/taco-bell-and-other-chains-are-using-app-games-to-keep-customers-coming-back-is-it-working": {
+    "title": "Taco Bell болон бусад гинжүүд нь App Games-ийг ашиглаж, үйлчлүүлэгчдийг буцаж ирдэг. Ажиллаж байна уу?",
+    "summary": "Зоогийн газар эргэн тойронд тоглохоо зогсоож чадахгүй. Шагналын зураг, эргүүлэн-хэрэглэх шагналууд нь Тако Беллээс Smoothie King хүртэлх үнэнч аппликейшн дээр гарч байна."
+  },
+  "https://www.entrepreneur.com/business-news/tech/why-marketing-engineers-are-becoming-the-most-dangerous-advantage-in-the-age-of-ai-search": {
+    "title": "Маркетингийн Инженерүүд яагаад хиймэл оюун ухааны эрин үед хамгийн аюултай давуу талтай болж байна",
+    "summary": "Шинэ техникийг бизнесээ шинэчлэн авчрахын хэрээр тоглоомын ном бүхэлдээ өөрчлөгддөг."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates": {
+    "title": "Технологийн Ралли нь антропийн, тосны хүрхрээ дээр Ази руу сунадаг: Зах зээлийн бооно",
+    "summary": "ТАГНУУЛЫН ХЯНАЛТЫН ТӨСЛИЙН ҮНЭЛГЭЭНИЙ ТӨЛӨВЛӨГӨӨНИЙ ҮЙЛДВЭРЛЭЛИЙН ТЕХНОЛОГИЙН ҮНЭЛГЭЭНИЙ ТӨЛӨВЛӨГӨӨН ТАНИЛЦУУЛГА. Гүзээлзгэнэтэй тос энэ буурлаа сунгав."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/latest-oil-market-news-and-analysis-for-oct-27": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ ба дүн шинжилгээ 10-р сарын 27-нд",
+    "summary": "Газрын тос хоёр дахь өдрийн турш буурсанаас хойш зургаан сарын өндөр болтол буцаж, улмаар дипломат арга хэмжээ авахад АНУ-ын Ираны дайны өргөн цар хүрээг хамарсан хүлээлтийг бэхжүүлсэн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus": {
+    "title": "Тэжээлийн үнийн дуудлагад бэлдэхэд худалдаачид $ 4,000 орчим алтан урсдаг",
+    "summary": "Энэ долоо хоногт Холбооны Нөөцийн шийдвэрт бэлтгэн худалдаачид $ 4,000 орчим унци үзүүлэх алт тогтмол байх төлөвтэй байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/indonesia-s-rupiah-defense-seen-needing-a-rate-hike-turbocharge": {
+    "title": "Индонезийн Рупиа Батлан хамгаалах хурдтай турбо цэнэглэх хэрэгтэй байна",
+    "summary": "Банкны Индонез нь шинжээчдийн мэдээлснээр рупиаг ойролцоох утасны цооногоос тасралтгүй өргөхийн тулд хурдыг оруулаад илүү түрэмгий арга хэмжээ авах шаардлагатай байж болох юм."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/dave-lee-anthropic-brings-anti-sell-strategy-to-ipo-video": {
+    "title": "Дэйв Ли: Антропик нь IPO-д\"Эсрэг худал\" стратегиа төрүүлдэг",
+    "summary": "Дэйв Ли, Блумберг АНУ-ын технологийн баганач өдөр бүр Bloomberg Businessweek-тэй нэгдэж Антропийн IPO-ийн мэдэгдлийн талаар ярилцав. Ли компани болон хүн төрөлхтний ирээдүйн талаар сэрэмжлүүлэг агуулсан пүүсийн s-1-ийн талаар бичжээ AI технологи урагшлах тусам.…"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-remains-mum-on-investment-grade-as-it-flags-more-debt": {
+    "title": "Илүү их өрийг сэрэмжлүүлсэн тул хөрөнгө оруулалтын антропик ээж",
+    "summary": "Антропик PBC нь IPO-ийн нягт ажиглагдсан баримт бичгийн хүрээнд хөрөнгө оруулалтын зэрэглэлийн зээлийн зэрэглэлд гарах боломжит замын талаар бага ярихдаа хиймэл оюун ухаантай компаний бодсоноос илүү хурдан санхүүжилт авах шаардлагатай байж магадгүй гэдгийг анхааруулсан."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/duke-s-mayo-ceo-our-room-for-growth-is-substantial-video": {
+    "title": "Дюкийн Гүйцэтгэх захирал: Бидний өсөлтийн өрөө зайлшгүй чухал",
+    "summary": "Бэйсийн компанийн гүйцэтгэх захирал Э. Юрий Эрмида тус компанийн нэрийг Сауэр Брэндээс шинэ өсөлтийн бүлэгт оруулснаар өөрчлөгдсөн талаар ярилцав. Амтлагчны бизнест хувааж өгсний дараа компани нь түүний өв, жор 1917 он сар хүртэл, мөн эзэмшсэн Duke-ийн Мэйо гэдгээ төвлөрүүлж байна..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/ai-funding-needs-drive-us-high-grade-bond-sales-to-annual-record": {
+    "title": "AI-ийн санхүүжилт нь АНУ-ын өндөр зэрэглэлийн бондын борлуулалтыг жил бүрийн бүртгэлд хүргэдэг",
+    "summary": "АНУ-ын хөрөнгө оруулалтын оруулалтын бондын борлуулалт нь компаниудыг хэдэн зуун тэрбум доллар зээлүүлэхэд хүргэдэг хиймэл оюун ухааны зарцуулалтын өсөлт учраас даваа гаригт жил бүр амжилт тогтоожээ."
   }
 }
