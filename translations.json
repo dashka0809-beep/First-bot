@@ -9598,5 +9598,321 @@
   "https://www.ft.com/content/51dbeefc-442b-4aac-b48b-042a0d6862a0?syn-25a6b1a6=1": {
     "title": "АНУ-ын сонгогчид ба Трампын халхавч",
     "summary": "Америкийн цалин сайтай хямрал ба авлига нь одоо нэг зоосны хоёр тал гэж тооцогддог"
+  },
+  "https://nullpt.rs/fingerprinting-bioweapons": {
+    "title": "Энэхүү хурууны хээтэй скрипт нь биоэпоныг яагаад бий болгодог вэ?",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://divagr.com/blog/qwenputer": {
+    "title": "Qwenputer: Qwen3.5 дотор үйл ажиллагаа, RISC-V CPU тодорхойлох",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html": {
+    "title": "GitLab-ийн аюулгүй байдлын тохиолдол: CVE-2026-97229-ийн хүчин чармайлтыг ашиглах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/": {
+    "title": "Нью - Йорк Таймс олон хиймэл оюун ухааныг хоол хийх аппликэйшн дээрээ нэмдэг. Хэрэглэгчид сэтгэл хангалуун биш байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://furbo.org/2026/10/28/a-health-update/": {
+    "title": "Эрүүл мэндийн шинэчлэлт",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://carmelitegothic.com/cnc-stone-carving/": {
+    "title": "CNC чулуу сийлбэр",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/": {
+    "title": "Gemini 4 Нүүрстөрөгч",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.google/products-and-platforms/platforms/android/xreal-aura/": {
+    "title": "Android XR-ээр ажилладаг анхны утастай ХР шил",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md": {
+    "title": "Бичил Зигийг хатуу чанд хэрэглэхэд LLM/AI-ийн ямар ч бодлого байхгүй",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.apple.com/macbook-pro/proled-xdr-display/": {
+    "title": "PROLED XDR дэлгэц ба мэдрэгчтэй MacBook Pro",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/": {
+    "title": "Датадогаас холдоод явсны дараа 400м $ өсөлт",
+    "summary": "Үүлний аюулгүй байдлын гарааны эхлэл нь ижил үнээр өөрийгөө худалдахын оронд $ 3.8B үнэлгээнд цуврал С-тэй өсгөсөн."
+  },
+  "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/": {
+    "title": "Apple-ийн мэдрэгчтэй дэлгэц MacBook Pro нь зөөврийн компьютерийн үнийг шинэ туйл руу түлхэж өгдөг",
+    "summary": "Шинэ мэдрэгчтэй MacBook Pro шинэчлэлт бүрийг хийхийг хүсвэл $ 14,549 орчим ханиалгахад бэлэн байх."
+  },
+  "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/": {
+    "title": "Microsoft Azure-ийн бодит орлогыг сая $ 33.2 тэрбум доллараар хуваалцжээ",
+    "summary": "Майкрософт Azure-ийн улирлын орлогыг ам .доллараар нь хэзээ ч мэдэгдээгүй байна. Гэхдээ анх удаа бид AWS зах зээл дээрх хамгийн том өрсөлдөгчийг шилжүүлэхэд хичнээн ойртож байгааг харж болно."
+  },
+  "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/": {
+    "title": "Google нь зар сурталчилгааны үндсэн өсөлт удаашрах болох AI Хайлтын зарыг дэлхий даяар тэлдэг",
+    "summary": "Энэхүү мэдэгдэл нь толгой компани Alphabet-ийн гурав дахь улирлын ашгийн тайлантай зэрэгцэн орлогын орлогыг жилээс жилд 25% -иас 127.6 тэрбум $ хүртэл өсгөсөн гэж үзсэн."
+  },
+  "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/": {
+    "title": "Microsoft OpenAI-ээс $ 10 тэрбум орлого бүртгэсэн",
+    "summary": "Microsoft компани OpenAI-тай арилжааны зохицуулалтаас $ 10 тэрбум доллар, үүнд орлого хуваалцах төлбөр, есдүгээр сарын 30-ны эцэст улиралд оруулсан гэжээ. Энэ нь хамтын ажиллагааны хараат бус санхүүгийн хамаарлыг харуулдаг."
+  },
+  "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/": {
+    "title": "Microsoft дараалан бичлэгийн нөхөх орлогын 10 улиралд дайрна",
+    "summary": "AI-ийн ирээдүй ямар ч байсан, Microsoft-ийн хувьд өнөөгийн байдал маш сайн хэвээр байна. Технологийн аварга Лхагва гаригт улирлын орлогын дахин нэг рекорд мэдээлсэн: 92.3 тэрбум $, жилийн улиралд 19% -иар өссөн байна."
+  },
+  "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/": {
+    "title": "Хакер нь CBP, мөсний агентуудыг оролцуулаад дотоодын аюулгүй байдлын мянга мянган ажилтантай холбоотой мэдээллийг хулгайлсан",
+    "summary": "40,000 гаруй Дотоодын Аюулгүй Байдлын Хакерыг онлайнаар хэвлэв."
+  },
+  "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/": {
+    "title": "Антропик компаниудад хиймэл оюун ухааны зарцуулалтаа юу худалдаж байгааг харуулах хэрэгслийг эхлүүлсэн",
+    "summary": "Хилийн лаборатори нь хэрэглэгчид IPO төлөвлөсөнөөс өмнө загвар дээр мөнгөө хэрхэн зарцуулдаг талаар хөшиг өргөж байна."
+  },
+  "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/": {
+    "title": "PHP2Shell ба ирэх ‘vulnpocalypse‘ дээр Wiz-ийн CTO",
+    "summary": "PHP айдас таны тэжээлээс алга болсон байж магадгүй ч цэвэрлэгээ дуусах аргагүй юм. Өнгөрсөн долоо хоногт вэбсайтуудын ойролцоогоор 70% -ийн цаана нээлттэй хэл дээрх хоёр ноцтой алдаанууд байгууллагууд системээ засах гэж оролдсон бөгөөд зарим нь эмзэг байдал кул хүртэл офлайн газруудаар явж байна."
+  },
+  "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/": {
+    "title": "Apple-ийн шинэ мэдрэгчтэй MacBook Pro-г эхлүүллээ",
+    "summary": "Apple-ийн шинэ мэдрэгчтэй MacBook Pro нь $ 2,899 -с эхэлнэ."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity": {
+    "title": "Адам Массери хэлэхдээ, хиймэл оюун ухааны эргэн тойронд сөрөг хандлага нь \"дордох болно\"",
+    "summary": "AI болон коллежийн оюутнуудын талаар асуусан төгсөлтийн ёслол дээр технологийн гүйцэтгэх захирал-ыг ачаалах, Instagram дарга Адам Моссери олон хүн үнэхээр AI-д дургүй байсныг ярилцлагадаа хүлээн зөвшөөрсөн бөгөөд энэ нь зөвхөн залуучууд, бүтээлч биш юм. Колин ба Самирийн нэвтрүүлэгт өртөж байна t..."
+  },
+  "https://www.theverge.com/tech/1021528/ice-cbp-data-leak": {
+    "title": "Хакер нь 40,000 DHS-ийн ажилтны бүртгэлээс илүү хулгайлсан",
+    "summary": "Хакер нь Дотоодын Аюулгүй Байдлын Департаментын (DHS) хувийн мэдээллийг хулгайлсан. зөрчил нь АНУ-ын Цагаачлал, Гаалийн хэрэгжилтэд хамрагдсан хүмүүсийг оролцуулаад 41,000 гаруй ажилчдын нэр, ажлын нэр, утасны дугаар, имэйл хаяг, оффисын байршлыг илтгэнэ (…"
+  },
+  "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key": {
+    "title": "Akai нь Vibe-кодлогдсон модыг нээлттэй эх сурвалжтай MPC-тэй хүлээн зөвшөөрч байна",
+    "summary": "МХТ-ийн Дээжний түлхүүрийг албан ёсоор зарлаагүй ч Акай нь Vibe кодлох замаар модинг хийж байгаа зүйлээ аль хэдийн харуулж байна. АКАЙ нь хакерууд, тусгай програм хөгжүүлэгчдийн дэлбэрэлтийг хүлээн авахаар шийдсэн бөгөөд энэ төхөөрөмжид эрт нэвтрэх эрхийг өгснөөр..."
+  },
+  "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store": {
+    "title": "Readwise нь Kindle болон Кобо дээр номоо мундаг номонд хамрагдаж байна",
+    "summary": "Эрчим хүчний уншигчдад зориулсан ном хэвлэлийг сүүлийн хэдэн жил барьж ирсэн. Уншсан зүйлээ санахад туслахын тулд таны Kindle-ийн онцлох үйл явдлыг дэлгүүрүүд болон ангилдаг эфирийн бүтээгдэхүүн байдаг. Уншигчийн, Мэдээллийн товхимол, PDF-үүд, W унших програм байдаг..."
+  },
+  "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026": {
+    "title": "Google-ийн AI дахь хөрөнгө оруулалт нь илүү их хайлт хийж байгааг хэлж байна",
+    "summary": "Гүүглээс Эцэг эхийн компани Альфает хэлэхдээ, түүний хиймэл оюун ухаанын хөрөнгө оруулалт нь өнөөдөр 3 2026 оны 2-р улиралд дурдсан, эрэл хайгуулын жилийн өсөлтөд хүргэдэг гэжээ. \"Манай хиймэл оюун ухаанын хөрөнгө оруулалт ерөнхий хайлтын өсөлт, тэр дундаа арилжааны асуулт, асуулга явуулж байна\" гэж Гүйцэтгэх захирал Сандар Пичаи статт хэлэв..."
+  },
+  "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027": {
+    "title": "Майкрософт санхүүгийн тайланг шинэчлэх явцад үүлний бат бөх өсөлтийг илтгэнэ",
+    "summary": "Майкрософт 2027 оны санхүүгийн үр дүнгийн эхний улирлыг хэвлүүлсэн. Програм хангамж үйлдвэрлэгч 1-р улирлын туршид 92.3 тэрбум $ орлого, цэвэр орлогыг хийсэн. 33.6 тэрбум $ байна. Орлого 19 хувиар өсч, цэвэр орлого 32 хувиар нэмэгдсэн. Энэ бол Microsof-ийн шинэ санхүүгийн жил..."
+  },
+  "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced": {
+    "title": "Apple-ийн бүрэн хурцадмал мэдрэгчтэй MacBook Pro-д $ 14,549 төлбөр хийдэг",
+    "summary": "OLED дэлгэц болон мэдрэгчтэй дэлгэцийн чадварыг ашиглан өнөөдөр зарласан шинэ MacBook Pro Apple-ийн хувьд энэ оны эхээр зарласан MBP-ээс илүү үнэтэй байдаг нь гайхах зүйл биш юм. Гэхдээ 14 инчийн $ 2,899, 16 инчийн хувьд 3,399 $..."
+  },
+  "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier": {
+    "title": "Google кибер хамгаалалтад Gemini 4 нүүрстөрөгчийг \"чухал цохилт\" -оор эхлүүлжээ",
+    "summary": "Google өөрийн хамгийн сүүлийн үеийн хилийн загвар болох Gemini 4 Carbon, кодлох, агентлагийн үүрэг, кибер аюулгүй байдлыг \"ач холбогдол бүхий олз\" санал болгож байна. Лхагва гаригт зарлахад Google нь Хиймэл Шинжилгээний Тагнуулын Индекс (v5.0) дээрх нүүрстөрөгчийн дээд цэгийг Клау-тай онцолжээ..."
+  },
+  "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream": {
+    "title": "Гадаад тогооч хориглох: Хятад технологийн талаар FCC-ийн нураах тухай бүх мэдээ",
+    "summary": "Онгоц, чиглүүлэгчид, Ромбас нар юугаараа адилхан бэ? АНУ - ын засгийн газар хятад хүмүүсээ улс руу орохгүй байхыг хүсдэг. АНУ-ын засгийн газрын хилэнгийн эсрэг байр суурьтай холбоотойгоор тэд де факто импортын хориг тулгарч байгаа анхны хэрэглэгчдийн тогоо бөгөөд тэдгээр нь эцсийнх байж болзошгүй юм...."
+  },
+  "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell": {
+    "title": "Шинэ OLED iPad MINI-тай гар дээр",
+    "summary": "Apple-ийн энэ долоо хоногт IPAD MINI шинэ том OLED дэлгэцээр зарласан бөгөөд бид Apple-ийн \"Pro and tell\" арга хэмжээнд үүнийг туршиж үзэх гэж байна. Энэ бол баттай iPad, гэхдээ Mini дээр шинэ OLED нь онцгой харагдаж байна, мөн нэмэлт нано-текст мэтийн өнгөлгөө гайхалтай юм. \"Про ба тэ..."
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFBaWDBVa3BKM0dEcGpjZldpYXlJb1pZdDYtMFFOaDJpMEtjWkVyaGMtVHhGd0pwZDRLLUJhNnlveHJwZHNsckY1STlMZXBuc1Z4SUpiSEJVTFlWR0I5d1o3X3ZabkRNMkE0TDRTaVNiVnRzS0o4S1JTcllTVUVPZ1JXOFI1bFV2dm1JaE00YzluSGZwY2V4NDk1aVB3c1RTX2pFZUk5SzQ?oc=5": {
+    "title": "Антропик нь хуульч нарт зориулсан Клодын нэмэлт хэрэгслийг танилцуулдаг - Reuters",
+    "summary": "Антропик нь хуульчуудад нэмэлт Клодын хэрэгслийг танилцуулав  Reuters"
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSlY5T3JkOG5YNHVNTDNhWGV2Q3dnVjdLX29OUWRGSllaT3p3NmFKUlFZdzM4NTJ3SzJKcWJMa1UxS1dHLXRrLVpGN1JhTXBfZ0xEdk5FODZQZzVpTWdBbHlubWlMX2dZQkM4?oc=5": {
+    "title": "IPO-ийн антропик файлууд, хүний «хэрхэн амьдардгийг сайжруулах» хиймэл оюун ухааны чадавхыг touting - CBS News",
+    "summary": "IPO-ийн антропик файлууд, \"хүний амьдарч байгааг сайжруулах\"  CBS NewsAI аварга том антропик файлуудыг IPO-ийн хувьд ашиглах чадварыг touting NPRI нь антропийн IPO  CNN тайлбарлахыг хүссэн"
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGRfa29NR1l4a19INEZWSXZWakhia2ZKTnRpQTVYeFNTUXRhdURvSTltbV9RRVJkbzVndVhsMUg0Y3N1MkZVNm11QVB5ZWtFVlhGY2NSSkp1MU84Qm0taWMtcURQcm9EbjZFTjV4Sk9NMTFwLV9Xc1BqM3RqWFhlLWpQZl8tOHJwdktBT2kxTUV6d2ZnWXg1cWwyVWtNSVl2UVA2LU1mWkNlcFZKd1BhNlpRbXZMeGZ0SEdR?oc=5": {
+    "title": "Өмнө нь-DOGE-ийн ажилтнуудын үүсгэн байгуулсан хиймэл оюун ухаан хэрхэн антропик руу нэвтэрсэн бэ - Вашингтон Пост",
+    "summary": "AI-ийн гарааны ажилтнуудын үүсгэн байгуулсан эхлүүлэлт Антропик The Washington Post руу хэрхэн нэвтэрсэн бэ?"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3hIMUZpekhyUm5IWXhkcnBxcG1SWmJPTzJCTkVPOVhQRmxsNXMyZHZjdGNNUmZWQk9xR1lPenppcS1iWTA0OUJrdkV6VGQ4dkpKSkE5TU9WQ284OV81bjY5Nm9oU3ljTnQyUjBOSjkzYXVpZjlHQkN4MDMwaFFIWHhrWkxLQmJhMDRwR3Y1cGxfY3RlVFpWVTlTSms?oc=5": {
+    "title": "Мэргэжлийн шүүлтийг хиймэл оюун ухаанаар амархан залилж болно, антропын судалгаанууд - Gizmodo",
+    "summary": "Мэргэжлийн шүүлтийг хиймэл оюун ухаанаар амархан хакердаж болно, антропик судалгаагаар Гизмододод  олжээ"
+  },
+  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTJlbERhR2hXeUJNbkw5cUVwd0Q1MTZkQUNMU0hWbnlfZmhlTmdOVi1CWm8yVjMwZ1NGaC1TZmdkOWg2S1c5bUpxelowTXdXcTh0aTExU0o4d2lEaDZHY1BIVlJFRTFpQ3FZUHM1VnZmNUxEb1d1eGpkR2U4ZkdvNjVnMGc5VEVpQ1pON28yaGs0alY0Tm1TOGRaQ1BMWWJmZlFYRm5nZHkxYXZZOEFxOWs5YU52QzI2VFBybzU5MW42NVpveEkxdGFwUEZpSWtkZmp2MThR?oc=5": {
+    "title": "Anthropic Releases Claude for Legal Artifacts, Хууль зүйн хэрэглэгчдэд зориулсан шинэ интерактив хэрэгслийн багц - Law.com",
+    "summary": "Anthropic Releases Claude for Legal Artifacts, Хууль зүйн хэрэглэгчдийн хуулийн шинэ интерактив хэрэгслийн багц"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-29/alphabet-misses-mark-microsoft-beats-fed-holds-rates-more": {
+    "title": "Цагаан толгойн алдаа Марк, Microsoft Beats, Fed Holds хувь, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-28/alphabet-disappoints-microsoft-tops-expectations-fed-holds": {
+    "title": "Цагаан толгойн алдаа, Microsoft Tops хүлээлт, Fed Holds",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-28/bloomberg-businessweek-daily-alphabet-msft-earnings-podcast": {
+    "title": "Блумберг Бизнес долоо хоногийн өдөр тутмын: Цагаан толгой ба MSFT орлого (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-28/alphabet-tanks-microsoft-delivers-fed-stands-pat-more": {
+    "title": "Цагаан толгойн танк, Майкрософт хүргэлт, Fed Stands PAT, More",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-28/bloomberg-law-parents-demand-justice-copycat-drugs-podcasts": {
+    "title": "Блумберг хууль: Эцэг эхчүүд Хууль зүй, Хууль зүйн болон Copycat мансууруулах бодис шаарддаг (Подкас)",
+    "summary": "Эх сурвалж: Блүүмберг, 32:08"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-28/bloomberg-businessweek-daily-schwab-ai-integration-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: Шваб AI Интеграци (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-28/bloomberg-talks-charlie-morrison-podcast": {
+    "title": "Блумберг Яриа: Чарли Моррисон (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-28/bloomberg-talks-terry-duffy-podcast": {
+    "title": "Блумберг яриа: Терри Дуффи (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-28/bloomberg-talks-chris-wright-podcast": {
+    "title": "Блумберг хэлэлцүүлэг: Крис Райт (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-28/bloomberg-talks-lorenzo-simonelli-podcast": {
+    "title": "Блүүмбергийн яриа: Лорензо Симелли (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.entrepreneur.com/building-a-business/should-entrepreneurs-go-to-business-school-the-answer-isnt-as-straightforward-as-you-think": {
+    "title": "Бизнес эрхлэгчид Бизнесийн сургуульд явах ёстой юу? «Таны бодлоор хариулт нь шулуун биш»",
+    "summary": "Сүлжээг эхнээс нь барьж болно, AI нь нахиалах бизнес эрхлэгчийн хэрэгцээнд багтах ур чадварыг хааж чаддаг. Гэхдээ MBA нь өөр зүйлийг санал болгож чадна."
+  },
+  "https://www.entrepreneur.com/business-news/this-company-gives-employees-an-unlimited-candy-buying-perk-heres-why-that-is-healthy-for-business": {
+    "title": "Энэ компани ажил олгогчдод хязгааргүй чихрийн худалдан авалтад зориулсан хөнгөлөлт үзүүлдэг.",
+    "summary": "Ер бусын Snack's Кевин Маккарти Америкийн хамгийн сайн, чиний чихэр брэндийг бий болгох талаар"
+  },
+  "https://www.entrepreneur.com/careers/the-cost-of-ambition-is-finally-catching-up-with-women-in-business": {
+    "title": "Амбицын өртөг хожим нь эмэгтэйчүүдтэй бизнес эрхэлдэг",
+    "summary": "Эмэгтэйчүүд зорилгоосоо татгалздаггүй; тэд үнийг нь хасаж байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/telling-an-agency-exactly-what-to-build-can-limit-your-results-heres-what-to-share-instead": {
+    "title": "Чухам юуг бүтээх арга хэмжээ авах нь таны үр дүнг хязгаарлаж болох вэ? Үүний оронд юу хуваалцах хэрэгтэй вэ?",
+    "summary": "Хүчтэй вэбсайт болох RFP нь бүх хариултыг тодорхойлохгүй, бизнесийн асуудлыг тодорхойлох ёстой."
+  },
+  "https://www.entrepreneur.com/building-a-business/marketing/why-youtube-marketing-is-the-new-backbone-of-digital-discovery": {
+    "title": "YouTube-ийн маркетинг яагаад дижитал нээлтийн шинэ тулгуур болдог",
+    "summary": "YouTube бизнесдээ онлайнаар хаанаас ч олоход хэрхэн тусалж болохыг олж мэдээрэй."
+  },
+  "https://www.entrepreneur.com/building-a-business/grow-your-business/your-best-customers-are-already-out-there-heres-why-you-keep-missing-them": {
+    "title": "Таны хамгийн сайн үйлчлүүлэгчид одоо болчихсон байна. Иймээс та нар тэр хүмүүсийг төөрөлдөггүйн учир юу вэ?",
+    "summary": "Бараг 20 жил, 900 гаруй үйлчлүүлэгчийн оролцоог хэрэгжүүлсний дараа ихэнх бизнес эрхлэгчид харилцагч эзэмшихийн тулд буруу асуудлыг шийдэж байгааг би ойлгосон. Мэдээлэл яг юу харуулж байна."
+  },
+  "https://www.entrepreneur.com/entrepreneurs/your-business-is-successful-so-why-are-you-still-chasing-approval": {
+    "title": "Ажил хэргээ амжилттай явуулдгийн учир юу вэ?",
+    "summary": "«Эйфелийн цамхаг» сэтгүүлд хилийн чанадад нэрээ тоогдуулахын тулд бизнес эрхлэгчдийг юунд сургадаг вэ?"
+  },
+  "https://www.entrepreneur.com/building-a-business/i-created-a-sneaky-sustainable-product-to-change-the-way-you-snack-it-saw-about-20000-in-sales-before-launch": {
+    "title": "Би хоолныхоо замыг өөрчлөхийн тулд Sneaky Тогтвортой Бүтээгдэхүүн бүтээсэн. Энэ нээхээс өмнө худалдаанд 20,000 $ орчим харсан.",
+    "summary": "Линдсай Леополд амьдралынхаа туршид 100 гаруй SKU үйлдвэрлэсэн байсан ч өөр бараа үйлдвэрлэхэд бэлэн болсон байна."
+  },
+  "https://www.entrepreneur.com/business-news/one-of-the-scariest-jobs-in-the-u-s-pays-335550-a-year-new-data-reveals": {
+    "title": "АНУ дахь хамгийн аймшигтай ажилуудын нэг нь жилд 335,550 $ төлдөг, шинэ мэдээлэл илэрдэг",
+    "summary": "Дараагийн дугаарт дурдсан \"аймшигтай\" ажил ч мөн жилд $ 300 000 хүрдэг."
+  },
+  "https://www.entrepreneur.com/business-news/toys-r-us-is-opening-120-stores-by-thanksgiving-heres-why-some-toymakers-are-nervous": {
+    "title": "Талархлын өдрөөр бид 120 дэлгүүр нээлээ. Тоглоом бүтээгчдийн зарим нь сандарч байдгийн учир энэ юм.",
+    "summary": "2017 онд \"R\" АНУ-ын Женга цамхагыг нураахыг харсан тоглоом үйлдвэрлэгч борлуулагчид дахин овоолж өгөхийг хүсэхгүй байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates": {
+    "title": "АНУ-ын фьючерсүүд цагаан толгойгоор унаж, Samsung Disappoint: Markets Wrap",
+    "summary": "Samsung Electronics Co болон Alphabet Inc-ийн орлогын аль алинд нь сэтгэл дундуур байгаа, олон тэрбум долларын компаниудын талаар санаа зовниж байгаа асуудлууд хиймэл оюун ухаан руу урсаж байгааы дараа АНУ-ын хувьцааны таамаглалууд буурчээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/shapoorji-seeks-to-raise-up-to-200-million-to-repay-debt": {
+    "title": "Өрийг буцаахын тулд Shapoorji 200 сая $ хүртэл өсгөхийг хичээдэг",
+    "summary": "Энэтхэгийн коммунистууд өрийн үүргийг нэмэгдүүлж байгаа тул энэ асуудлыг мэддэг хүмүүсийн мэдээлснээр Shapoorji Pallonji групп 150 сая доллараас 200 сая ам .доллар хүртэл өсгөх гэж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/ambani-magic-captivates-india-once-more-with-blockbuster-deal": {
+    "title": "Ambani Magic нь Энэтхэгийг Блокбустерийн хэлэлцээртэй дахин нэг удаа Captivates",
+    "summary": "Мүкеш Амабани олон тэрбум долларыг өсгөж, хөрөнгө оруулагчдыг ялж чадсанаар олон арван жил үргэлжилсээр байна. Тэр үүнийг Jio Platforms ХХК-тай дахин нэг удаа үзүүлэв, энэ нь Энэтхэгийн хамгийн том анхны олон нийтийн өргөлийг таслан зогсоосон бөгөөд зах зээлийн хүнд хэцүү давхцал үл хамааран хүчтэй арилжааны дебют юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran": {
+    "title": "Иран улсад худалдаачид шинэ дипломат харилцааны шинж тэмдгийг задалж, тос буурсан",
+    "summary": "Иран улсад АНУ-ын цэргийн довтолгооныг дахин эхлүүлэхээс зайлсхийхийн тулд Ойрхи Дорнододын шинэ дипломат хүчин чармайлт гаргахыг худалдаачид үнэлсэн шиг тос буурсан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/bankers-in-failed-firmus-ipo-probed-by-australian-regulator-asic": {
+    "title": "Австралийн зохицуулагчийн баталгаат фирмийн алдаатай IPO-д банкны ажилтнууд",
+    "summary": "Австралийн аж ахуйн нэгжийн зохицуулагч энэ сарын эхээр амжилтгүй болсон Firmus Grid ХХК-ийн анхны олон нийтэд санал болгосноор энэхүү асуудалд албан ёсны мөрдөн байцаалт нээхгүй байгаа талаар хөрөнгө оруулалтын банкуудаас мэдээлэл хайж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/china-s-green-exports-enough-to-offset-brazil-s-emissions-crea": {
+    "title": "Бразилийн ялгаралтыг зогсооход Хятадын ногоон экспорт хангалттай.",
+    "summary": "Энэ жил Хятадын цэвэр технологийг экспортлох нь чулуужсан түлшээс жил бүр Бразилын ялгаралтын тэнцүү болж эрчим хүчний шилжилтийг хурдасгахад Ази улсын үүрэг гүйцэтгэдгийг онцлон тэмдэглэж болно."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/irish-government-spending-to-aid-economic-growth-aib-says": {
+    "title": "Ирландын Засгийн газар тусламжийн эдийн засгийн өсөлтөд зарцуулж байгаа нь AIB байна",
+    "summary": "AIB Group Plc Ирландын дотоодын эдийн засаг урьд өмнө урьдчилж таамаглахаас илүү өсөхийг шаарддаг бөгөөд энэ нь орон сууцны дэд бүтцэд төрийн хөрөнгө оруулалтаас үүдэлтэй юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance": {
+    "title": "Тэжээлийн хязгаарлагдмал удирдамжийн дагуу үнэт цаасны үнэ буурах алтны ирмэгүүд",
+    "summary": "Холбооны нөөцийн хүү өөрчлөгдөхгүй байсан дараагаар Алт буурч, дараагийн нүүдлийнхээ талаар бага удирдамж санал болгосны дараа худалдаачид жилийн эцэст явагдах магадлалыг таамагласан байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/the-china-show-12-27-26-video": {
+    "title": "ҮНДСЭН ЦОГЦОЛБОРТОЙ БУСАД ӨӨРЧЛӨЛТИЙГ ДЭЛГЭРҮҮЛЖ БАЙНА",
+    "summary": "“Блүүмберг: Хятад шоу” нь дэлхийн хоёр дахь том эдийн засгийн талаархи мэдээ, дүн шинжилгээний цогц эх үүсвэр юм. Улс төр, бодлогоос эхлээд технологи, чиг хандлагууд хүртэл Yvonne Man and David Ingles нь дэлхийн хөрөнгө оруулагчдад өвөрмөц ойлголт өгч, сонин сэтгүүлчдэд гүн гүнзгий яриа өрнүүлж байна. …"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/byd-short-sellers-retreat-ahead-of-expected-profit-rebound": {
+    "title": "BYD Богино Худалдагч талууд Хүлээгдэж буй ашгийн эргүүлэхээс өмнө ухардаг",
+    "summary": "Богино худалдагч талууд нь гадаадад борлуулалт хийх, дотоодын зах зээлийн сэргэлтийг хурдасгахад тусалсан ашигт даатгалыг байрлуулахаар төлөвлөж буй Хятадын цахилгаан тээврийн хэрэгслийн аварга бүхий эргэж буцааж бооцоо BYD ХХК-ийн эсрэг paring back bets байна."
+  },
+  "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1": {
+    "title": "Хумсны манлайлал нь түншүүдийн пүүсийг цуцлах ёстой гэжээ",
+    "summary": "Шийдвэр нь Америкийн хамгийн том, хамгийн нэр хүндтэй хүний нэг болох зуунд болсон хуулийн фирмийн бараг л бүтэлгүйтсэнийг харуулж байна"
+  },
+  "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1": {
+    "title": "Инфляци ихэссэн ч Холбооны хүүгийн хүүний хувийг галладаг",
+    "summary": "Централ банк ирэх жилээс найман жил өөрчлөгдөж мөнгөний бодлогын асуудлаар санал хураалт хийнэ"
+  },
+  "https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1?syn-25a6b1a6=1": {
+    "title": "Трампын ах дүү нар Globetrotting",
+    "summary": "Ерөнхийлөгчийн хөвгүүд Дональд Жер Эрик хоёр ертөнцийн удирдагчид болон гадаадын түшмэдтэй танилцан, санхүүгийн ашиг сонирхлын талаар ашигтай вэбсайт барьж байна"
+  },
+  "https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1": {
+    "title": "Америкийн «хамаатан» ч гэсэн энэ дарамтыг мэдэрч байдгийн учир",
+    "summary": "Даатгалаас зүлгэнцэл хүртэлх зардал нь АНУ-ын гэрийн эздийн бараг тал хувь нь санхүүгийн амьсгалын өрөөнд байхгүй гэсэн үг юм"
+  },
+  "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1": {
+    "title": "51bn AI $ - аас хойш Google нь бэлэн мөнгө шатаахад 10% -ийг эзэлдэг",
+    "summary": "Аварга хайх нь ‘AI mode’ -ийг хүлээн зөвшөөрсөн нь уламжлалт хайлтыг борлуулалт, ашгийн хүлээлт гэж гэмтээсэн"
+  },
+  "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1": {
+    "title": "Майкрософт капиталын зардлын дата төвийн сааталыг буруутгадаг",
+    "summary": "Програм хангамжийн бүлгийн нийт орлого 9-р сарын сүүл хүртэл 19% -иас $ 92.3bn хүртэл өссөн байна"
+  },
+  "https://www.ft.com/content/6a370b14-23e9-43e9-8489-2732ac5a74f3": {
+    "title": "Израильчууд Нетаниахугийн эсэргүүцлийг хэрхэн богиносгосон бэ?",
+    "summary": "Ерөнхий сайдыг эртнээс айдаг эртнээс айдаг хүмүүс өөрийг нь устгах түүхэн боломжийг алдсан юм"
+  },
+  "https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b?syn-25a6b1a6=1": {
+    "title": "Израильчууд эрх мэдлийн уудам хайдаг",
+    "summary": "Арабын намууд Палестины Израйлын санал хураалтад орсноос хойш Книтийн суудал болон хаанчны боломжит үүрэг ролийг үзэж байна"
+  },
+  "https://www.ft.com/content/5835eefc-acb2-4e4e-9693-60f5c2467977?syn-25a6b1a6=1": {
+    "title": "Бүгд найрамдах хүмүүс Epstein-ыг ардчилсан ард түмэнд уураа дарахыг эрмэлздэг",
+    "summary": "Дональд Трампын намын дундын кампанит ажилд мега-donor Рид Хоффманы дэмжлэгийг эсэргүүцэгчдийг чиглүүлдэг"
+  },
+  "https://www.ft.com/content/7526e915-2590-4b42-85df-20bb89040db8?syn-25a6b1a6=1": {
+    "title": "Трамп Аляскийн ардчилсан нэр дэвшигчийг Сенатын уралдааныг хориглохыг уриалав",
+    "summary": "Мари Пелтола кампанит ажлын үеэр бусад өрсөлдөгчдийг бүгд найрамдах улсуудын дэмжигчдийг төөрөлдүүлжээ"
+  },
+  "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories": {
+    "title": "Лумитумын хувьцаа нь хөрөнгө оруулагчид Марквелл руу боломжит борлуулалтыг хөхүүлэн дэмждэг",
+    "summary": "Компаниудын хооронд байгуулсан гэрээ ирэх долоо хоногт болно гэж Bloomberg мэдээлсэн"
+  },
+  "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories": {
+    "title": "Хар тамхины хадгаламж хамгийн сүүлийн үеийн үр дүнгээс хойш хэдэн жилийн дараа хамгийн муу бууралтаа яагаад хардаг вэ?",
+    "summary": "Хөрөнгө оруулагчид компанийн хайлтын асуултаас мөнгө олох чадварыг алдагдуулж байгаад илүү их санаа зовох нь үүлний орлого хоёр дахин нэмэгдэхэд хангалтгүй байв."
+  },
+  "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories": {
+    "title": "«Шүүгч Шүүгчийг хар л даа». 70 гаруй настай. Хүмүүс ийм алдаа гаргасаар байна гэхийн учир юу вэ?",
+    "summary": "\"Муу шийдвэрийн зарим танил жишээг авч үзье: зээлийн картын өрийг хуримтлуулах эсвэл тэтгэвэрт гаргахаар төлөвлөөгүй.\""
+  },
+  "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories": {
+    "title": "Майкрософтын үндсэн нөөц орлого авснаас хойш илүү өндөр болж байна",
+    "summary": "Майкрософт зарлагадаа үлдээхийн зэрэгцээ хурдацтай өсч болохыг хөрөнгө оруулагчид харуулсан."
   }
 }
