@@ -10478,5 +10478,289 @@
   "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1": {
     "title": "АНУ дахь ногоон хэрэгслүүд Украинд 2.1 тэрбум $ Патитротын оролцогчоор худалдаалагдаж байна",
     "summary": "Влодиимир Зеленский Трампын захиргаа улс орнуудын хоорондын харилцаа муудаж байгаа тул зэвсэгээ хойшлуулахыг буруутгасан"
+  },
+  "https://karpathy.bearblog.dev/hacker-tube/": {
+    "title": "ХакерTube: НН-ийн санал болгосон видеонуудаас YouTube-ийг бүтээсэн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/": {
+    "title": "Италийн тариачин дээвэр дээрээ үл мэдэгдэх үр олоод тарьсан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": {
+    "title": "TCP ашиглахад чөлөөтэй: CVE-2026-98432 / CVSS 9.8",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve": {
+    "title": "Memdoor: LiveCodeBench Hard дээр Fable 5 Qwen3.8-27B загваруудаас бүтдэг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://spectrum.ieee.org/early-electric-vehicles": {
+    "title": "Эмэгтэйчүүдэд цахилгаан машин байсан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://pivotlake.io/blog/its-the-memory-latency-stupid/": {
+    "title": "Энэ нь санах ойн хоцролт, тэнэг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://uvdn7.github.io/altoids-project/": {
+    "title": "Алтоид төсөл",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/": {
+    "title": "Төслийн Suncatcher prototype хиймэл дагуулын эхний хариу үйлдэл",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood": {
+    "title": "Үг 86% -иар нь анимений шугам 38% -ийг л ойлгоно",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate": {
+    "title": "«Төгсөгчийг» амьд үлдсэн нь",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/": {
+    "title": "Apple компаний гүйцэтгэх захирал хэлэхдээ, компани нь \"AI-ийг AI-ийн төлөө тээвэрлэхийг хүсэхгүй байна\"",
+    "summary": "Apple компаний шинэ гүйцэтгэх захирал AI-ийн ландшафт компанийн одоогийн байр суурийг хамгаалсан."
+  },
+  "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/": {
+    "title": "4 өдрийн үлдсэн: TechCrunch үүсгэн байгуулагчийн чуулга уулзалт нь илүү их ач холбогдолтой холболтыг нэмэгдүүлэхэд хэрхэн тусалдаг вэ",
+    "summary": "Бостоны's SoWa Power Station-д 11-р сарын 4-ны өдөр бүр сүлжээний утга төгөлдөр боломжууд, ажиллагаатай ойлголт, холболтыг ашиглан таны санаа, гарааны замыг өөрчлөхөд бэлэн байгаарай. Бүх үнийг хаалган дээр өсгөхөөс өмнө бүртгүүлнэ үү."
+  },
+  "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/": {
+    "title": "Шүүгч нь NAACP-ийн xAI мэдээллийн төвийн бохирдлын эсрэг шүүхэд урагшлах боломжийг олгодог",
+    "summary": "NAACP-ийн нэхэмжлэл нь SpaceX өмчит AI компанийг Цэвэр агаарын тухай хуулийг зөрчсөн гэж буруутгаж байна."
+  },
+  "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/": {
+    "title": "OpenAI нь шинэ шатны санхүүжилтийн зорилтыг бууруулдаг гэж мэдэгджээ",
+    "summary": "OpenAI-ийн хамгийн сүүлийн үеийн санхүүжилтийн үе нь хүлээлтийн дагуу амьдардаггүй юм шиг байна."
+  },
+  "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/": {
+    "title": "Ресторанаас төлбөр хүртэл чиглүүлдэг бол энд TikTok супер аппликейшн барьж байгаа нь",
+    "summary": "TikTok хүмүүс дижитал үйл ажиллагаандаа ашигладаг програм болохын тулд ажиллаж байж болох юм."
+  },
+  "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/": {
+    "title": "Би амралтаараа хоёр iPhones авсан. Жоу намайг яллаа.",
+    "summary": "Iphone Duo нь сэтгэлээр унадаг ч энэ нь бас хөгжилтэй, миний Pro Max руу буцаж очихыг хүсээгүй хангалттай сонирхолтой юм."
+  },
+  "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/": {
+    "title": "Pile-ins, payouts, pacing pressure: VCs-ийн цаадах хөрөнгө оруулагчид нээлттэй",
+    "summary": "Мөнгөний цаадах мөнгийг баярлуулдаг."
+  },
+  "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/": {
+    "title": "Nvidia нь Баруун Виржиниа дахь Nscale-ийн AI мэдээллийн төвийн сансрын хөлөг тоглож байна",
+    "summary": "Хөрөнгө оруулагчид хиймэл оюун ухааны зардлын талаар санаа зовдог бол зээл өгөх чипс борлуулдаг чип үйлдвэрлэгчтэй болоход тус болдог."
+  },
+  "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror": {
+    "title": "YouTubeээс эдгээр аймшигт явдлаар хандагтун",
+    "summary": "Гялалзсан улирал маань эргээд орвонгоорой ганц удаагийн аймшигт кино эсвэл бухимдсан цомог санал болгохын оронд би та бүхэнд айдас төрүүлэх, анхаарал сарниулах, YouTube-аас энгийн хачин видеонуудыг сонгоорой. Энд хүн бүрт бага юм бий. Та ч бас..."
+  },
+  "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks": {
+    "title": "Баталгаатын гарууд",
+    "summary": "Анхны тархи компьютерийн интерфейс биш бол гар гэж юу вэ? Та мэдрэгчтэй дэлгэцэн дээр товшино уу эсвэл компьютертэй ярилцаж болно, гэхдээ хэрэв таны ажил нь мэдээлэл толгойноос гарч, компьютерт орж ирвэл та гараа ашиглаж маш их цаг зарцуулж магадгүй юм. Бид abou бичиж байна..."
+  },
+  "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto": {
+    "title": "Бинанс компанийн гүйцэтгэх захирал хэлэхдээ хулгайлсан хөрөнгийн 90 хувь нь \"нөхөн сэргээгдсэн\" байна",
+    "summary": "Хакерууд бинансын үйлчлүүлэгчдээс 6.3 тэрбум $ хулгайлсаны дараа компанийн гүйцэтгэх захирал санхүүжилтийн 90 хувийг сольж, компани нь мөн үлдсэн 10 хувийг эзлэхээр төлөвлөж байна. Хулгайн санг хамарсан Binance..."
+  },
+  "https://www.theverge.com/games/1024085/happy-pikmin-day-eve": {
+    "title": "Аз жаргалтай пикмин өдөр үдэш",
+    "summary": "Энэ өглөө Нинтендо арваннэгдүгээр сарын 1-ний өдөр болох гэж мэдэгдэв. Pikmin Day Direct-ийн богино хугацааны хүрээнд Шигеру Майамото 2 шилжих Pikmin 4-ийн тухай шинэ мэдээлэл, мөн мобайл апп Pikmin Bloom-ийн шинэчлэлтийг хуваалцаж, “He…"
+  },
+  "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
+    "title": "Би Мета болохоос өмнө AI Tamagotchi-ийг бүтээсэн",
+    "summary": "Марк Зукербергын Мета нь бодвол өхөөрдөм харагдаж байв. Энэ амралтын улирал нь тэр танд Тамаготчи шиг эргэн тойронд таныг жигтэй хиймэл оюун ухаант Туслагчаа авч явахыг хүсч байна. Гэхдээ бидэнд гэртээ ид шид байдаг тул би нэгийг нь худалдаж авахгүй. Энэ [...]"
+  },
+  "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings": {
+    "title": "Windows 11 нь Xbox тоглоомын горим, хайлтын шинэ товчлолуудыг оролддог",
+    "summary": "Хамгийн сүүлийн үеийн Windows 11 Insider build нь Xbox горимд хүчирхэг шинэ хайлтын функцүүд болон хурдан тохиргоог нэмдэг. Xbox товчлуурууд нь тоглоомын горимоос гарах шаардлагагүйгээр Bluetooth, WiFi, хүч чадлын тохиргоог хянах боломжийг олгоно. Хайлтын сайжруулалт нь нэлээд цогц байна..."
+  },
+  "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale": {
+    "title": "ШИЛДЭГ Худалдан авалт нь MacBook Pro-ийн захиалга бүхий $ 100 бэлэг дурсгалын картыг багцлах болно",
+    "summary": "PROLED XDR дэлгэцтэй шинэ мэдрэгчтэй MacBook Pro нь хэдэн томоохон жижиглэн худалдаачдад урьдчилан сэргийлэхэд бэлэн байдаг боловч шилдэг худалдаж авах нь $ 100 бэлгийн картыг багтаасан гэрээг чихмэл болгож байна. Apple-ийн гоо сайхны нэгийг урьдчилан захиалах үед бэлгийн картыг автоматаар таны сагсанд нэмэх болно..."
+  },
+  "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview": {
+    "title": "Vic Mensa Voice Memos аппликейшнгүйгээр амьдрах боломжгүй",
+    "summary": "Вик Мэнса бол олон үйлдсэн хүмүүсийн нэг юм. Энэ нь түүний анхны мөөгөнцрийн Innanetape байсан бөгөөд үүний сүүлд есдүгээр сард анх удаа хамгийн их урсгалын үйлчилгээг цохисон юм болов уу? Эсвэл түүний гэрийн тэжээмэл дуу..."
+  },
+  "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer": {
+    "title": "Хаа сайгүй мэдрэгчтэй хэсэг!",
+    "summary": "Сайн уу, найзууд аа! 150 дугаар суулгагчд тавтай морилно уу, дэлхийн хамгийн сайн, үзэгчдийн хамгийн сайн зүйлсийн удирдамжийг тавтай морилно уу. (Хэрэв та энд шинэ бол тавтай морил, Halloween-ийн мэнд хүргэе, мөн та Суулгагчийн нүүр хуудсан дээрх бүх хуучин хувилбаруудыг уншиж болно.) Энэ долоо хоногт би гэртээ Теннесси дэх Smoky ууланд байсан..."
+  },
+  "https://www.theverge.com/policy/1023899/political-texts-midterm-elections": {
+    "title": "Тиймээс та эдгээр амьсгалгүй улс төрийн бичвэрүүдийг сэгсэрч чадахгүй",
+    "summary": "\"Жеймс Таларико ITS. Та 1 $ ч гэсэн яарч байна уу?\" Хэн Жеймс Таларико-г сонгож байна? Марксистууд \"\" Пөөх! Пөөх! Пөөх! Марк Келли ч том мэдээ дуулгажээ! \"Бид Бен Верландер, MLB шинжээч, мөн Tigers-ыг туршиж үзэхийг хүсчээ..."
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0V2cUVWOVl0eFNNN0tEVjluRlliOHR0MkVQbXdWaERXUzhTSFZfend2OTVmZldaT3k0b3pINTlacGEtdmNXV243bnZUbXFqVW1sZ3ZnT2t2REdyaENNOEJuS3ZlV3VwbGhxZEZnYTJKa2NlOHRTd1RubTZuVlA2bElhQ24yS2VvLWV6MlBMU0RnOU9nSGRjaXhQNG9DVmly?oc=5": {
+    "title": "Антропик нь урвуу инженерийн видео тоглоомоос Клодыг хаах арга хэмжээ авдаг - Mashable",
+    "summary": "Антропик нь урвуу инженерийн видео тоглоомоос Клодыг хаах арга хэмжээ авдаг"
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0FUUndYLVIwQi00eEt2YjlaSlNmd2FNYldOZ0dhbFg4ZDRtUjdTb200Y0dhMHVoVGRqSmxMSTZGU1lxMWtScVN4RTNmVGZMMjVxTkczY292TF82d1lMdl9lLXZzT0ZRMV9YVW16RW1vY0F2TDZUalU1WThZa0JMTk56djEyc1kxREtYUjNyVnhSTkY2SHpnWmdWS1h0RGVxWHfSAacBQVVfeXFMTkZUMFpBZ0QzWmJGbUdhN2VSZ056VTFfSHhpVlM0UDZUMkNwdFFzRVlyQXdhcHlERUF3ajBnaGpCb0ZjSVB4b0pMQmdXTUs2QnZjcXJ6RmpqRTFYZHN3LXBfMkVNUGtzZlRwVXdZRUE1N1dEOGdYbDhieGtsQThVV1M4eko4QWJfdGh6ekRrTnMwbm8xWkpSMWxFVGV2UG5rMVJDaDQzQlE?oc=5": {
+    "title": "Антропийн хориг AI Тоглоомын клон ба урвуу инженерчлэл Клод - TechPowerUp",
+    "summary": "Клод TechPowerUp-тай антропик хориг AI Тоглоомын клон ба урвуу инженерчлэл"
+  },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84cHZlMURNNDdZcjg1STBlNU1WMHA4YmlWMFM4RzExMGx6aDYxeHR1T252MG1OVmdySXdGMERHTTAwejBrMzIycFJ4MzR2UGFFVTlRX2w3eFRBVWZNdE5BZVI0d1YxTWM?oc=5": {
+    "title": "Чиний өмнө гарах үед чихмэл сорвийг хэрхэн ашиглах вэ - Engadget",
+    "summary": "Таныг Engadget руу гарахдаа Клод бариулыг хэрхэн ашиглах вэ"
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5": {
+    "title": "Шинжлэх ухааны хиймэл оюун ухаан нь суурь, эрдэм шинжилгээний байгууллагуудаар өргөжин тэлж байна - Антропик",
+    "summary": "Шинжлэх Ухааны AI нь сан, судалгааны байгууллагууд Антропикоор өргөжин тэлж байна"
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUM5ajlQY185WllyenBmQ012U2RHbWdmQUtHQ25aekJiQ3VUX0xKcjd4alBuMUxwUk9IdkJ5WGRsTXhidjNJaHI2c0gxZlk3anR1TVpIaUhMUnpGQjlQRWs3Wm5jZi0wUTg0OW9qbGkzN1l4TDRTVDQxTWNOODZTdFI4TGY5bVBNcDk4MWpmbjhDRGV5Qm9SV194NHFEdnE5a2ZfZDFSd3FaNE5MSjdyRA?oc=5": {
+    "title": "Антропийн Клод AI хакерууд үндэс нэвтрэх боломжийг олгодог чухал Линуксийн алдаа олжээ - How-To Geek",
+    "summary": "Антропийн Клод AI хакерууд эх нэвтрэх боломжийг олгодог чухал Линуксийн алдаа олдлоо How-To Geek"
+  },
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDlBbXhmcEdpSXhaQ1YyY0llV1JaU29fZzFvZ2xBdDZzdlEyVWhuR3k4QWpSQ196MXI1SUVVVlBzMER5ZUZHOUF6bVJYZVg5cXh1TTlOdWJWc2I4N0laSmpRNGg1Um1qQ05obkVPRDJiUm9lQks1WFdQdUp1SldtVV9PMnVicVRJcTlUMWQzZDFjbXZqS2lVU3hNeVBCb2FKdXV5YWNjZGdpUmY2TWs0ckxXdHgzZw?oc=5": {
+    "title": "Антропик компани хиймэл оюун санааны зарцуулалт нь юу худалдаж байгааг харуулах хэрэгслийг эхлүүлсэн - TechCrunch",
+    "summary": "Антропик компаниудын хиймэл оюун санааны зардлаа TechCrunch худалдан авч буйг харуулах хэрэгслийг эхлүүлсэн"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-31/alaska-says-trump-demand-meritless-trump-s-wsj-suit-dismissed": {
+    "title": "Аляска Trump's WSJ Suit татгалзсан гэж мэдэгдэв",
+    "summary": "Эх сурвалж: Блүүмберг, 6:39"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-31/alaska-says-ballot-demand-meritless-trump-s-wsj-suit-dismissed": {
+    "title": "Аляска Трампын WSJ Suit татгалзсан санал хураалтын эрэлтийг өршөөгүй гэж хэлэв",
+    "summary": "Эх сурвалж: Блүүмберг, 6:21"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-31/weekend-law-comey-ice-shooting-copycat-drugs-podcast": {
+    "title": "Амралтын өдрүүдийн тухай хууль: Comey, ICE Shooting & Copycat Drugs (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 37:35"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-31/alaska-calls-trump-demand-meritless-trump-s-wsj-suit-dismissed": {
+    "title": "Аласка Трампын эрэлтийг хямдралгүйгээр дуудаж, Trump's WSJ Suit татгалзсан",
+    "summary": "Эх сурвалж: Блүүмберг, 6:39"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-31/iran-threatens-retaliation-gop-scrambles-ahead-of-midterms-more": {
+    "title": "Иран улс гомдол, GOP скраммууд дундын өвөөс өмнө,дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 5:30"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-31/iran-threatens-us-retaliation-midterms-russia-at-g20-more": {
+    "title": "Иран АНУ-ын гомдол, Midterms, ОХУ-ыг G20, Илүү олон зүйлд заналхийлж байна",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-31/bloomberg-this-weekend-markets-react-midterm-outlook-podcast": {
+    "title": "Bloomberg This Weekend: Markets React; Midterm Outlook (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-31/iran-threatens-wider-us-strikes-gop-scrambles-ahead-of-midterms": {
+    "title": "Иран АНУ-ын өргөн цар хүрээтэй довтолгоо, GOP скриптүүдийг дундаас өмнө заналхийлж байна",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-31/weil-made-its-name-handling-bankruptcies-from-enron-to-lehman-brothers": {
+    "title": "«Бид Лийман ах дүүсээс эхлээд Энрон хүртэл дампуурлаа» гэсэн нэртэй болсон",
+    "summary": "Пүүс нь Бүлэг 11 тохиолдол бүхий нарийн төвөгтэй эхлэгчээр үйлчилж чадсанд талархлаа илэрхийлсэн."
+  },
+  "https://www.bloomberg.com/news/audio/2026-10-31/ap-iran-strikes-us-air-defenses-bases-in-mideast-us-midterms": {
+    "title": "АП: Иран АНУ-ын агаарын хамгаалалт, АНУ-ын дундын Мидаст байрлах сууриудыг мөргөдөг",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.msn.com/en-au/news/other/anthropic-hacked-by-ai-startup-in-less-than-12-hours/ar-AA2gaEHw": {
+    "title": "Антропик 12 цагаас доошгүй хугацаанд хиймэл оюун ухааны гарааны түгээлтийг хакерджээ",
+    "summary": "Артикулын URL: https://www.msn.com/en-au/news/other/anthropic-hacked-by-ai-startup-in-less-than-12-hours/ar-AA2gaEHw Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50317327 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26": {
+    "title": "AI стартап нь антропикийг хакердаж, ажилчдын дэлгэрэнгүй мэдээлэл, дотоод мессежүүдэд хандах эрхийг олж авдаг",
+    "summary": "Артикулын URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50315990 Оноо: 74 # Сэтгэгдэл: 18"
+  },
+  "https://techfuelhq.com/data/mcp-server-bench/": {
+    "title": "MCP серверийн нөөцийн жишиг: RAM, startup хугацаа, хэрэгсэл 11 серверийн тоо",
+    "summary": "Артикулын URL: https://techfuelhq.com/data/mcp-server-bench/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50315802 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://startupfortune.com/a-startup-raised-13-million-for-silent-speech-glasses-and-a-developer-built-the-free-version-in-nine-minutes/": {
+    "title": "YC нь чимээгүй яриа хийхэд $ 1.3M гарааны эхлэлийг санхүүжүүлсэн – x дээр нь 9 минутын дотор барьсан",
+    "summary": "Артикулын URL: https://startupfortune.com/a-startup-raised-13-million-for-silent-speech-glasses-and-a-developer-built-the-free-version-in-nine-minutes/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50315496 Оноо: 9 # Сэтгэгдэл: 4"
+  },
+  "https://www.entrepreneur.com/building-a-business/why-playing-it-safe-is-the-riskiest-marketing-decision-youll-make": {
+    "title": "Яагаад Тоглох Энэ нь Маркетингийн хамгийн аймшигтай шийдвэр бөгөөд Та хийх болно",
+    "summary": "Шилдэг дадлагыг зорилготойгоор цуглуулдаг. Хажуу тал нь аюулгүй гэдгээ батлахаас өмнө хөдлөх хэнтэй хамт байдаг. Чи тийм хүн байж л болно »гэж хэлжээ."
+  },
+  "https://www.entrepreneur.com/business-news/tech/ai-and-emerging-tech-are-changing-how-people-travel-heres-how-travel-businesses-can-stay-visible-and-valuable": {
+    "title": "AI ба шинээр гарч ирж буй техник нь хүмүүсийн аялал хэрхэн өөрчлөгдөж байна. Аялал жуулчлалын бизнесүүд үргэлж нүдэнд үзэгдэж, үнэлж баршгүй ач холбогдолтой байдгийн учрыг эндээс үзье.",
+    "summary": "AI, виртуал бодит байдал, урьдчилан таамаглах анализ аялал төлөвлөлт, хайлт, зөвлөх үнэ цэнийг хэрхэн өөрчилж байгааг үзээрэй."
+  },
+  "https://www.entrepreneur.com/building-a-business/starting-an-ai-side-hustle-is-easy-steal-this-system-2": {
+    "title": "AI талын хясаа эхлүүлэх нь амархан (Энэ системийг хулгайлах)",
+    "summary": "Зөвхөн бизнес эрхлэгчдийг ажилд томоохон багтай ажиллах, багаж хэрэгсэл бүтээх, ажиллахад AI-ийн агентууд хэрхэн туслахыг харна уу."
+  },
+  "https://www.entrepreneur.com/real-estate/more-isnt-always-better-how-the-constant-push-for-more-content-makes-everyones-branding-identical": {
+    "title": "Илүү сайн биш л дээ — Тогтмол түлхэх зорилгоор илүү их агуулга авдаг нь хүн бүрийг брэндийн ижил төстэй болгодог",
+    "summary": "Технологи, хиймэл оюун ухаан нь мэргэжлийн агуулгыг үйлдвэрлэхэд хялбар болгохын хэрээр өрсөлдөхүйц бодит давуу тал нь үйлдвэрлэлийн чанараас бодит үнэ цэнэтэй үг хэлэх хүртэл өөрчлөгддөг."
+  },
+  "https://www.entrepreneur.com/growing-a-business/my-stop-start-playbook-5-practical-changes-to-become-a-top/505550": {
+    "title": "Цаг заваа сайжруулж, бизнесээ өсгөхийн тулд миний 5-р хэсэг манлайллын тоглоомын ном",
+    "summary": "Шийдвэр бүр танаас хамаарах бол бизнесээ хэмжиж чадахгүй. Эдгээр таван манлайллын ээлж нь танд цаг хугацаагаа эргүүлж, илүү хүчтэй багийг бүрдүүлэхэд тусална."
+  },
+  "https://www.entrepreneur.com/building-a-business/ive-hired-independent-contractors-for-20-years-here-are-7-downsides-every-business-owner-should-know": {
+    "title": "Би бие даасан гүйцэтгэгч нарыг 20 жил үнэллээ. Энд бизнесийн өмчлөгч бүр мэдэх ёстой 7 бууралт байна",
+    "summary": "Хараат бус гүйцэтгэгчид уян хатан, мэргэжлийн ур чадварыг санал болгодог ч хадгаламж нь худалдааны хаалттай ирдэг."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response": {
+    "title": "Туркийн анхны зах зээлийн зохицуулагчийг сангийн хямралын хариу арга хэмжээнд томилох",
+    "summary": "Туркийн Ерөнхийлөгч Режп Тайип Эрдоган санхүүгийн зах зээлийг сөргөсөн хөрөнгө оруулалтын сангийн хямралыг даван туулахад туслахын тулд улсын татварын хяналтын зөвлөлийн дарга Мухсин Атиыг томилсон."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies": {
+    "title": "Рубио найрамдлын шүүмжлэлийг үл харгалзан ОХУ-ын G20 байгаа байдлыг хамгаалдаг",
+    "summary": "Төрийн нарийн бичгийн дарга Марко Рубио АНУ-ын шийдвэрийг Европын Холбоо болон бусад холбоотнуудын шүүмжлэснээр Оросыг энэ жил 20 уулзалтад багтаах шийдвэрийг хамгаалж, Украины дайныг зогсоох цорын ганц арга зам гэж хэлэв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk": {
+    "title": "Сенегалийн Хууль тогтоогчид төсвийг дахин татгалзах, IMF-ийн хэлцэл хийхээс зайлсхийх",
+    "summary": "Сенегалийн хууль тогтоогчид Засгийн газраас 2026 оны санхүүгийн тухай шинэчилсэн хуулийг дахин няцааж, Олон улсын мөнгөний сангийн чухал хөтөлбөрийг батлахад сөргөөр заналхийлж байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video": {
+    "title": "Сүүлийн тооллого дундын сонгууль, технологийн хувьцаа танк",
+    "summary": "Дэлгүүр хаагдах үед мэдээ зогсохгүй. Дэвид Гра, Лиза Матео, Натан Хажер нар оршин суугчид амралтын өдрүүдэд болсон хамгийн том гарчиг, ойлгомжтой, нөхцөл байдал, хошин шогчийг Нью - Йоркоос амьдардаг. Эрүүл мэндийн түүхч, \"Sleuth-Hound\" зохиогч Линдси Фитжаррис, Европын Комисс нар нэгдэв..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-31/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video": {
+    "title": "Эрсдэл-үйлдвэрлэгчдэд зориулсан долоо хоног тутмын сэтгүүлийн асуулт хариулт",
+    "summary": "Тослогдогсод мэдээний асуулгын форматыг стратегийн ээлжлэн, зөвхөн мэдээний талаар тоглогчдын мэдлэгийг туршихаас гадна тэдний хариултанд итгэх итгэлээ шалгахыг санал болгодог. Bloomberg's Lisa Mateo, Christina Ruffini, David Gura нар тоглож байхдаа өөртөө зориулж Bloomberg.com (S..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates": {
+    "title": "АНУ-ын дундын нэр дэвшигчид ховор хоёр талын асуудал дээр дарна уу: Зээлийн картын хувь хэмжээ",
+    "summary": "Олон тооны сахлын нимгэн уралдаанд өлгөөтэй Конгрессын хяналтаар ардчилсан болон Бүгд найрамдах хүмүүс хоёулаа кредит картын өрийг нэмэгдүүлж инфляцээр Америкчуудыг ялж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes": {
+    "title": "ЕХ-ны Каллас Дайн гэмт хэрэгт хилэгнэх магадлалтай Путиныг Хостинг хийх нь",
+    "summary": "Европын Холбооны дээд дипломат Kaja Калласын хэлснээр Флорида дахь 20 удирдагчдын дээд хэмжээний уулзалтад Владимир Путин оролцсон нь Оросыг олон улсын хэлэлцүүлэгт тогтмол оруулж болзошгүй юм."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-31/stadiums-rethink-the-women-s-restroom-video": {
+    "title": "Цэнгэлдэх хүрээлэн Эмэгтэй ариун цэврийн өрөөнд орох нь",
+    "summary": "Энэхүү Амралтын өдрүүдэд Блүүмберг дээр зохиолч, сэтгүүлч Бентон Грахам нар цэнгэлдэх хүрээлэн, анагаах ухааны цэнгэлдэх хүрээлэн эмэгтэйчүүдийн спортоор өсч, амралтын газар нь унтлагын өрөөний ижил зай гэсэн үг биш гэдгийг тайлбарласан. Хост Лиза Матего хэлэхдээ Грахам шинэ айлдаж байна..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-31/haunted-attractions-help-revive-neighborhoods-video": {
+    "title": "Хөршийг сэргээхэд аргагүй дурсамж тусалдаг",
+    "summary": "Сэтгүүлч Элизабет Юко Блүүмберг Энэ амралтын өдрүүдэд Балтимор хотын хуучин хот, Канзас-Сити, Солт Лейк хотод байсан аж үйлдвэрийн дүүрэг зэрэг хөршүүдтэй тэмцэхэд сэтгэл татам зүйлүүд болон хөрөнгө оруулалт хийж байгааг тэмдэглэжээ. Дэвид Гура, Лис нартай хостуудтай ярилцав..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-31/eu-foreign-policy-chief-warns-against-normalizing-russia-video": {
+    "title": "ЕХ-ны гадаад бодлогын ахлагч Оросыг зохицуулахаас сэрэмжлүүлсэн",
+    "summary": "ЕХ-ны гадаад бодлогын ахлах дарга Кажа Каллас энэ долоо хоногт Блумберг хэлэхдээ ОХУ Украинд дайнаа улам эрчимжүүлж байгаа бөгөөд Атланта дахь G20 гадаад хэргийн сайдын хурлын үеэр ОХУ-ын Гадаад хэргийн сайд Сергей Лавовын мэдэгдлийг шүүмжилж, нормааас сэрэмжлүүлж, энх тайвны талаар ноцтой биш болохыг мэдэгдсэн."
+  },
+  "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1": {
+    "title": "Хөрөнгө оруулагчид трим өсөлт бооцоо нь АНУ-ын эдийн засгийн AI өртөлтөөс айсан үед",
+    "summary": "Урт хугацаагаар зарагдсаны дараа бондын буцаалт нь технологийн зардлаар хэтэрсэн өөрчлөлтийн талаар санаа зовниж байгаатай холбоотойгоор гарч ирдэг"
+  },
+  "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1": {
+    "title": "Дональд Трампын төгсгөлийн нэр",
+    "summary": "Вашингтонд сүүлийн хоёр жилд АНУ-ын ерөнхийлөгч юу болох вэ?"
+  },
+  "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1": {
+    "title": "Энэ нь хөдөлмөрийн зах зээлд AI-ийн нөлөөллийн анхны тодорхой нотолгоо мөн үү?",
+    "summary": "Бүтээмж өндөр, ажил эрхлэлт нь технологийн салбарт буурсан, өөр хаа нэгтээ зураг хаа нэгтээ шавьж байна"
+  },
+  "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1": {
+    "title": "Улс төрийн бус байх эрх",
+    "summary": "«Эцэг эх» киноны гол зорилго нь хэвлэгдээгүй зүйлд хэтэрхий харгис хэрцгий ажээ"
+  },
+  "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1": {
+    "title": "Мичиган feud нь Сенатын гол уралдаанд Ардчилсан эв нэгдэлд аюул учруулж байна",
+    "summary": "Абдул Эл-Sayed Израилийн дээгүүр үг хэлэхэд кампанит ажлын үеэр Халлей Стивенс асан гол өрсөлдөгч Халлей Стивенсийг үл тоомсорлодог"
+  },
+  "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1": {
+    "title": "Стив Баннон: Бүгд найрамдах хүмүүс дундын сонгуулийн дараа «иргэний дайн» дэгдэж байна",
+    "summary": "Хуучин Цагаан ордны ахлах стратегийн мэргэжилтэн Конгрессийгтангараглахаас өмнө \"мангас\" хууль тогтоох тулалдааныг таамагладаг"
+  },
+  "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1": {
+    "title": "Иран довтолгоонд өртвөл газарзүйн хорио хязгаар байхгүй бол хариугаа авах болно гэж анхааруулж байна",
+    "summary": "Катарийн зуучид айдас түгшүүртэй, Израйлын бөмбөгдөлтийн кампанит ажил болохоос зайлсхийхийг эрмэлздэг тул Аятолла Халени цэргийн командлагч нарт \"тэр даруй\" хариу өгөх болно гэж хэлдэг."
   }
 }
