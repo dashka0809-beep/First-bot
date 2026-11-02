@@ -10762,5 +10762,325 @@
   "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1": {
     "title": "Иран довтолгоонд өртвөл газарзүйн хорио хязгаар байхгүй бол хариугаа авах болно гэж анхааруулж байна",
     "summary": "Катарийн зуучид айдас түгшүүртэй, Израйлын бөмбөгдөлтийн кампанит ажил болохоос зайлсхийхийг эрмэлздэг тул Аятолла Халени цэргийн командлагч нарт \"тэр даруй\" хариу өгөх болно гэж хэлдэг."
+  },
+  "https://hackerbooks.org": {
+    "title": "НҮБ-ын харуулах: HackerBooks – HackerTube, гэхдээ НҮБ-ын талаар дурдсан номонд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html": {
+    "title": "Постгрес 19 хожимдож байгаа бөгөөд AI нь буруу юм",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/raphlinus/nibnib": {
+    "title": "Нибниб: Хэт задралын хурдаар зураг шахалт",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://news.ycombinator.com/item?id=50328896": {
+    "title": "ХН: Та аль телевизийн нууцлалыг хүсэж байна вэ?",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://nullprogram.com/blog/2025/02/05/": {
+    "title": "Илүү үр дүнтэй AFL++ шинжилгээнд зориулсан зөвлөмжүүд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/": {
+    "title": "«Эелдэг зүс царайтай бай» – Оршуулах ёслолд оролцдог эмэгтэйчүүд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.sciencedaily.com/releases/2026/10/261025073051.htm": {
+    "title": "Шинэ 3D дулааны үл үзэгдэх нөмрөг нь объектыг хэт улаан туяаны камераас алга болгодог",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/ivankovic/omnidiff": {
+    "title": "НҮБ-ын харуулах: OmniDiff – Зэврэлтэнд, маш хурдан, агуулгатай GIT difftool",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/": {
+    "title": "Математик өөрчлөгдсөн бөгөөд тэгж бодоцгооё",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/": {
+    "title": "OpenAI нь дата төвүүдийг \"AI compute campus \" гэж рефлекс хийж болно",
+    "summary": "Мэдээллийн төвүүд маш их түгээмэл байдаг. Хэрэв бид тэднийг өөрөөр нэрлэвэл яах вэ?"
+  },
+  "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/": {
+    "title": "AI нь технологийн гүйцэтгэх захирлуудын амьдралыг хялбар болгож чадна. Тэгвэл бусад хүн яах вэ?",
+    "summary": "Хандивын талаар бид технологийн гүйцэтгэх захирал мэдэгдлүүд яагаад ийм дүлий юм шиг санагдаж болохыг хэлэлцэнэ."
+  },
+  "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/": {
+    "title": "TechCrunch Хөдөлгөөн: Шинэ, том AV өсөлт байна",
+    "summary": "TechCrunch-н хөдөлгөөнд буцаж тавтай морил, тээврийн ирээдүйн төлөөх төв, одоо урьд хожид байгаагүй олон үүрэг AI-д тоглож байна."
+  },
+  "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/": {
+    "title": "Binance $ 6.3 тэрбум гэмтлийн дараах зарлагын гүйлгээг дахин эхлүүлнэ",
+    "summary": "Криптовалют солилцох нь одоо хулгайлсан хөрөнгийн 95% -ийг хамарсан гэсэн байна."
+  },
+  "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/": {
+    "title": "Пиксел 11 Pro нугалах: Өргөн өнцөгтэй бат бөх тэгш өнцөгт",
+    "summary": "Google нь бат бөх утас бүтээсэн ч эвхэгддэг ертөнцөд өрсөлдөөн улам бүр нэмэгдэж байна."
+  },
+  "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/": {
+    "title": "25 жилийн дараа анхны шинэ эслэг нэг иймэрхүү санагдаж байна",
+    "summary": "Everbloom-ийн шинэ материалыг эхлүүлэх нь 25 жилийн дараа анхны шинэ эслэг бөгөөд маш танил санагддаг."
+  },
+  "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/": {
+    "title": "Мэдээллийн төвүүд одоо Бруклинд хүртэл дундын асуудал болжээ",
+    "summary": "Сонгуулийн өдөр болохоос тав хоногийн өмнө Бруклин дэх дундын тэнгисийн намын үеэр зөвлөлийн гишүүдийн гал сүйрлийн чатаас ардчилсан намын тухай мэтгэлцээн хүртэл ярилцлага болгон эргэн хиймэл оюун ухаан, мэдээллийн төв рүү явсаар байв."
+  },
+  "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble": {
+    "title": "НАСА арилжааны сансрын салбар нь Хабблыг аврахад тусална гэж найдаж байна",
+    "summary": "Таталцлын хүч бол аймшигтай эзэгтэй бөгөөд алдарт телескопыг аажмаар өдөр бүр хамгийн сүйрэлд ойртуулдаг. Хаббл дэлхийн агаар мандалд шатах аюул тэр даруй байдаггүй ч энэ нь тойрог замыг нэмэгдүүлэхээс нааш 2030 - оод оны эхээр дуусна. Тиймээс НАСА би..."
+  },
+  "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts": {
+    "title": "Сүрэг гэрээг цуцлах хүсэлтийг үл тоомсорлодог",
+    "summary": "Хэдийгээр олон хот сүрэгийн аюулгүй байдалд гэрээгээ цуцалж байна. Плимут, Миннесота хотын зөвлөл 9-р сард сүрэгтэй гэрээг цуцлах санал өгсөн боловч хотын хүсэлтийг хүлээн авч чадаагүй. Фо…"
+  },
+  "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features": {
+    "title": "Apple-ийн HomeView нь аюулгүй байдлын камерыг нэмж болно",
+    "summary": "Reddit хэрэглэгч pdfu HomeView 27.2 код дээр нуугдаж байдаг тул Apple-ийн аюулгүй байдлын камеруудыг ухаалаг гэрийн төвд нэмж болно. Лавлагаа нь хөдөлгөөн илрүүлэх, шууд дамжуулалт хийх, бичлэг хийх тохиргоог мөн хувийн нууцлалын функцтэй хамгаалалтын камерын горимыг тодорхойлдог. Accordi..."
+  },
+  "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak": {
+    "title": "Порталын урьдчилсан нөхцөлийн бүрэн тоглож болох хувилбар F-Stop цутгасан",
+    "summary": "Тоглогчид цуцлагдсан Порталын өмнөх F-Stop-ийн тоглуулах боломжтой хувилбарыг нэгтгэсэн. Энэ наймдугаар сард унагсан 12 үе шаттай томоохон дайралтаас хөрөнгө оруулсан. Энэ нь тоглоомын эх код эсвэл газрын зурагны өгөгдлийг оруулаагүй боловч эдгээр эцсийн хэсгүүд нь хавхлага Cut C-ийг цохих бололтой..."
+  },
+  "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist": {
+    "title": "Хойд Солонгос нь асар их Бинанс крипто Heist-тэй холбоотой",
+    "summary": "Хойд Солонгос аравдугаар сарын 29-нд Бинансыг мөргөсөн том $ 6.3 тэрбум крипто тэргэнцэрийн цаана байсан гэж ХМТ хэлэв. ХМТ нь \"TraderTraitor\" үйл ажиллагааг шошголж, \"Ethereum руу жетон хөрвүүлж, цаашид угаахад бэлдэх ажилтнуудыг хийсэн гэдгээ ажигласан..."
+  },
+  "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker": {
+    "title": "HomePod Mini 2 эхний харц: Миний хайрт гурван зүйл, нэг нь урам хугарсан",
+    "summary": "Би өнгөрсөн сард Apple-ийн тавтай морилно уу Нүүр хуудасны арга хэмжээнд 149 $ HomePod Mini 2-ын тухай анх сонсоод сэтгэл дундуур байсан. Apple компанийг нэвтрэх түвшний ухаалаг чанга яригчаа эхлүүлснээс хойш зургаан жил болж байгаа бөгөөд хоёр дахь генэнд авсан бүх зүйл нь чип, зарим өнгөт тод, илүү сайн AirPlay байсан уу?..."
+  },
+  "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists": {
+    "title": "Шинэ Зелда, ГТА нь тоглоомын үйлдвэрлэлийг бэлэгддэг.",
+    "summary": "Энэ бол Долоо хоног тутмын сонин бөгөөд Технологийн ертөнцөөс нэг чухал түүхийг таслан зогсоох явдал юм. Жилийн хамгийн том хувилбарын талаар илүү ихийг мэдэхийг хүсвэл Эндрю Вебстерийг дагаарай. Алхам нь бүтэн сайнд 8 цагаас эхлэн захиалагчийнхаа хайрцагт ирдэг. The Stepback-г эндээс сонгоно уу. Энэ нь хэрхэн..."
+  },
+  "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy": {
+    "title": "Калифорнийн Проперти 45 нь өгөгдлийн төвүүдийн цоорхойг нууж болно",
+    "summary": "Байгаль орчны өмгөөлөгчид сануулж, Калифорнийн төвийн хөгжүүлэгчид мэдээллийн төвийг дамжуулж, олон нийтийн хяналтаас зайлсхийх цоорхойг хүргэж болзошгүй \"чухал\" дэд бүтцэд түргэн шуурхай чиглэсэн Калифорнийн санал хураалтын арга хэмжээ. Санал 45 нь төрийн зохион байгуулалттай байгаль орчны цагийн хуваарийг богиносгох болно..."
+  },
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEM4THdHaktsdExGbnVyMWxVLWhuRmx4S3hYSEMwWFIxcjIydjA2TVl6bkZidU10QmYyWEZWYkNsM0NXdTBHc2pIY0tXU1ZiMTdYbDZvYVNUUDduTDB2eU1DRU0yVERyS3ppRFpHWjZ5OUFxdXU5ZTRCbk5hSG9UNkgxQTJmX1BKWlJkOXAtNA?oc=5": {
+    "title": "Антропик 11-р сараас эхлэн хуучин Клодын хувилбаруудад текстийг тэлдэг",
+    "summary": "Антропик нь 11-р сарын 3-аас эхлэн хуучин Клодын хувилбаруудад текстийг тэлдэг"
+  },
+  "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5": {
+    "title": "Антропийн Клод AI нь видео тоглоомын клон ба урвуу инженерчлэлийг блоклодог — шинэ хязгаарлалтыг арилгах нь хууль ёсны хөгжүүлэгчид болон шийдвэрлэх үндсэн даалгаваруудыг мөрддөг - Том Тоног төхөөрөмж",
+    "summary": "Антропийн Клод AI нь видео тоглоомын клон ба урвуу инженерчлэлийг хориглодог — шинэ хязгаарлалтыг арилгах нь хууль ёсны хөгжүүлэгчид болон Томын Тоног төхөөрөмжийн үндсэн алдааг олж засварлах үүргийг мөрддөг"
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE01ZU5qTkttUWgxLW5mbWVCb3lVVWZrQjRJLU5nbXozRjRhMDhmSGswckNlZGpMMWZwQlZHT3g5Mm1KM2JMaWQzcGFoRWg1d2N0dTlDQkhWR0RPa1puRWRfUlZXWXh6YmxOZDRKdEdWV2VFbXAwV3hzZnNzckptQQ?oc=5": {
+    "title": "Антропик хэлэхдээ, чи Клод гэдэг байж болохгүй гэсэн. Өөрөөр хэлбэл, CNN",
+    "summary": "Антропик хэлэхдээ, чи Клод гэдэг байж болохгүй гэсэн. CNN-ийн мэдрэмжийн тухай биш"
+  },
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5": {
+    "title": "Гүн Секийн дусал Сайжруулсан Кодлох Агентыг Сорви Антропик болгох зорилготой - Bloomberg.com",
+    "summary": "Гүн Секийн дусал Сайжруулсан Кодлох Агент Сорилын Энтропик Блумберг  .цом"
+  },
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa01aQjVFVVZUbFotUUNQQktJb3k4dE1DckRnSW12Q19laXpNTDJEVWZibGQ2MWhDbWVJbTZqdGRuc3dRRTFQNXhZWDNZQnAwUDJXbHdKVEszOHhYUExYdWlHUXpYX242X1YzMjZNMzFOeWdlUjVoZ3hCNWtJaFhudklrS281OERmUlZLdVRHWVpKRTVsLWFuU3FB?oc=5": {
+    "title": "Антропик ажилд авах менежер хэлэхдээ Клодыг тэдний дээр илүү сайн тул ярилцлага бичихээ больсон гэжээ — мөн \"өлсгөлөн зоддог\" гэж залуу инженерүүдэд хэлдэг - Yahoo Tech",
+    "summary": "Антропик ажилд авах менежер хэлэхдээ Клод тэдний талаар сайн болохоор ярилцлага бичихээ больсон гэжээ — мөн \"өлсгөлөн зарлах\"  Yahoo Tech гэж залуу инженерүүдэд хэлдэг"
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMV2xzcjZLX1ZxR0E5Tm5aTWpOZmlVNnFiMFFuWXlOR3RxRTI4bWJQWllCN01UU0F0b05tejdMMXFpc0NaM1VkdG0tN2pjcHlIaXQ1RWFkQQ?oc=5": {
+    "title": "Карпати Клод Опус 5.5 - X-тай хоёр цагийн дотор видео сайтыг бүтээдэг",
+    "summary": "Karpathy Клод Опус 5.5  X-тай хоёр цагийн дотор видео сайтыг бүтээдэг"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-02/stevens-backs-rogers-judge-tosses-alaska-election-suit-more": {
+    "title": "Стивенс Рожерс, Шүүгч Аляскийн сонгуулийн нэхэмжлэл, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-01/stevens-backs-gop-s-rogers-alaska-election-suit-dismissed-more": {
+    "title": "Стивенс GOP-ийн Рожерс, Аляскийн сонгуулийн албанаас татгалзаж байна. Илүү",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-01/stevens-backs-rogers-in-mi-alaska-ballot-suit-tossed-more": {
+    "title": "Аляскийн Аляскийн санал хураахад ЭМҮ-д буцаж очдог Стивенс",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-01/rba-rate-hike-house-prices-fall-westpac-earnings-miss-australia-briefing": {
+    "title": "RBA Rate Hike, House Prices Fall, Westpac Earnings Miss: Австрали Товч танилцуулга",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-01/stevens-endorses-rogers-doj-alaska-ballot-suit-dismissed-more": {
+    "title": "Стивенс Эйдэс Рожерс, DOJ Alaska Ballot Suit татгалзсан, Илүү",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-01/binance-restarts-withdrawals-after-record-hack": {
+    "title": "Бичлэгийг хийсний дараа Binance дахин татан авалтыг эхлүүлнэ",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-01/stevens-backs-rogers-judge-rejects-alaska-election-challenge": {
+    "title": "Стивенс буцаж Рожерс, шүүгч Аляскагийн сонгуулийн асуудалд татгалзсан",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-01/what-gm-lumen-and-others-gain-from-switching-stock-exchanges-gm-lumn-khc": {
+    "title": "Хувьцааны арилжаанаас (GM, LUMN, KHC) ямар GM, Lumen болон бусад хүмүүс олж авдаг",
+    "summary": "Стратегийн тохирох, хөрөнгө оруулагчдыг уялдуулах, бүх хүчин зүйлийг шийдвэрт оруулахыг хураана. Түүнээс гадна, СХЗ дундуур юу харж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-01/trump-s-final-midterm-push-stevens-backs-rogers-in-mi-more": {
+    "title": "Трампын сүүлчийн Midterm Push, Stevens Backs Rogers дахь MI, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-01/trump-i-ll-be-mr-veto-if-dems-win-haley-backs-rogers-more": {
+    "title": "Трамп: Би \"Ноён Вето\" болно Хэрэв Dems Win, Haley Backs Рожерс, Илүү",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.entrepreneur.com/business-news/cheap-ai-output-can-still-be-expensive-work-heres-how-to-tell": {
+    "title": "Хямд хиймэл оюун ухааны гаралт илүү үр ашигтай хэвээр байж болно. Энд хэлье.",
+    "summary": "Ихэнх эзэн нь хиймэл оюун ухааныг худалдан авч, дараа нь шалгах зардлыг олж мэдэв. Өрсөлдөгч хүн гаралтыг хямдхан шалгаж, үгүй гэж хэлж болно."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide": {
+    "title": "Алт Climbs 1 жилийн өмнө буцаж худалдан авагчид баривчлах слайд",
+    "summary": "Газрын тосны үнэ бага хэмжээгээр инфляцийн дарамт шахалтаас бага хэмжээгээр өссөн бөгөөд баасан гаригт металлын слайдаас жилд хамгийн бага хэмжээгээр худалдан авагчид татагдсан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates": {
+    "title": "Азийн худалдаанд байгаа нөөцийн хямдрал, тосны бууралт: Зах зээлийн боолт",
+    "summary": "ҮНДЭСНИЙ ҮНЭТ ЦААСНЫ ҮНДЭСНИЙ ҮНДЭСЛЭЛИЙН ҮНДЭСНИЙ ҮНДЭСНИЙ ҮНДЭСЛЭЛИЙН ХӨРӨНГӨ ОРУУЛАЛТЫН АРИЛЖ БАЙНА НЬ ӨНГӨ ОРУУЛАЛТЫН ҮНД"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2": {
+    "title": "Газрын тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ 11-р сарын 2",
+    "summary": "АНУ-ын Ерөнхийлөгч Дональд Трамп Мягмар гаригийн дунд сонгуулийн дараах Иран улсад дайралт хийлгэх эсэхээ шийдэхийн өмнө дипломат журмыг дахин өгөхийг хүсдэг гэсэн байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook": {
+    "title": "Японы хувьцаанууд Tech Selloff дээр унах, Киоксийн ашгийн хэтийн төлөв",
+    "summary": "Японы хувьцаа унагаж, технологийн хувьцааг АНУ-ын үе тэнгийнхэн дээрээ эгц худалдаа эрхэлж байхад чип үйлдвэрлэгч Киоксиа Холдингс Корпорац нь урам хугарсан ашиг олж харсаны дараа унагахаар тохируулагдлаа."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/gulf-states-fear-iran-retaliation-if-us-strikes-again-video": {
+    "title": "Персийн орнууд хэрэв АНУ-ын дахин довтолгоонд өртвөл Иранаас айдаг",
+    "summary": "Иран, Израйлын өөр нэг довтолгооноос айдаг Персийн булангийн орнууд бүс нутагт илүү их хор хөнөөлтэй дайн гаргаж, хэсэг хэсгүүдийг түүж авахаар орхиж болзошгүй юм. Блүүмбергийн Майкл Хейт сүүлчийнх байдаг. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say": {
+    "title": "Тайланд хэлэхдээ: Хятад улс Хөрөнгийн зах зээлийг дэмжих уулзалт зохион байгуулах тухай",
+    "summary": "Орон нутгийн хэвлэл мэдээллийн хэрэгслээр мэдээлснээр Хятадын төв банк болон Үнэт цаасны зохицуулагч нь тус улсын хөрөнгийн зах зээлийг дэмжих зориулалттай багаж хэрэгслийг ашиглах тухай даваа гаригт хуралдана."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-01/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine": {
+    "title": "Филиппиний бонд хэрэв Дайн дайралтанд өртвөл Азиаг устгаж чадна гэж Брандвин хэлэв",
+    "summary": "Дэлхийн хөрөнгө оруулалтын менежментийн мэдээлснээр инфляцийн дарамт шахалтад орж, Иран дайнаас үүссэн эрсдэлийг хөнгөвчлөхөд Филиппиний холбоо Азийн шилдэг уран бүтээлчдийн нэг болж болох юм."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video": {
+    "title": "Флоридагийн хөрш дэх Финляндад суурьшсан Plummets",
+    "summary": "Ням гарагт Флорида мужийн Палм-Бич Каунтид осолд орж ирэхэд Багамын зүгт Остинаас нисч явсан есөн хүн амиа алджээ. Тухайн үйл явдлын нотолгоог видеог үзүүлэв. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-01/billionaire-friedland-to-build-major-us-backed-rare-earths-mine": {
+    "title": "Тэрбумтан Фрийдланд АНУ-ын дэмжигдсэн ховор ховор уул уурхайг барих",
+    "summary": "Тэрбумтан Роберт Фрийдлэндийн удирдаж, АНУ-ын засгийн газрын дэмжлэгтэйгээр Австралийн олборлогч ховор томоохон газар шорооны төсөлд тэргүүлж эхлэв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-01/colombia-is-at-risk-of-default-without-fiscal-fix-restrepo-says": {
+    "title": "Колумбын Үндсэндээ засаагүй эрсдэлд орсон, рестрепо Семана хэлдэг",
+    "summary": "Төсөвт зохицуулах хуулийн төслийг зөвшөөрөхгүй бол Колумбын хувьд тухайн улсын эдийн засгийн хүнд хямралтай тулгарч байгааг Хосе Мануэл Рийпу орон нутгийн сэтгүүл Семана компанитай хийсэн ярилцлагадаа дурджээ."
+  },
+  "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1": {
+    "title": "Трамп нь midterms кампанит ажлын үеэр нөхөн сэргээх сонгогчдод эцсийн шатанд хүргэж байна",
+    "summary": "Бүгд Найрамдах намын ерөнхийлөгчийн үймээн довтолгооны шинж тэмдэгээс Конгрессын хяналтыг хамгаалж байна"
+  },
+  "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1": {
+    "title": "Сербийн удирдах удирдагчгүй хөдөлгөөний дотор",
+    "summary": "Гүнзгий \"plenums\", Teletubbies дээр үндэслэсэн код нэр, авлигад үндэслэсэн уур хилэн: Оюутнуудын босогчид парламентын ялалт байгуулсан"
+  },
+  "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1": {
+    "title": "Weil Gotshal: Одоо Wall St-ийн эмгэнэлт хуулийн фирмд юу болж байна вэ?",
+    "summary": "Дээд авъяас гарсны дараа 95 жил бизнес эрхлэхэд Нью Йоркийн эрх зүйн хүчин чадал зогсож байна"
+  },
+  "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7": {
+    "title": "Франц, Их Британи хоёр шинэ нэвтрэх шаардлагатай",
+    "summary": "Сьюз хямрал нь Европын төслийг төрснөөс хойш хүндрэлтэй харилцааны талаар чухал сургамж өгдөг"
+  },
+  "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1": {
+    "title": "Флорида дахь бизнесийн тийрэлтэт осолд орж 9 хүн нас барсан",
+    "summary": "Learjet нь Дональд Трампын Mar-a-Lago амралтын өдрөөс найман километрийн гудамжинд унасаны дараа нисэхийн эрх баригчид судалж үзэх"
+  },
+  "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1": {
+    "title": "Персийн булан АНУ - ын Израйлын холбоо болон Ираны хоорондын дайныг эрчимжүүлэхээр зогсоно",
+    "summary": "Дипломатууд шинэчилсэн зөрчил маргаан өмнөх үеийнхээс илүү аюултай болохыг анхааруулсан"
+  },
+  "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1": {
+    "title": "Цэргийн товч мэдээлэл: АНУ-ын болон Ираны өөр нэг мөргөлдөөн ямар байх бол?",
+    "summary": "Усан замын (далайн) тээврийн кампанит ажлын хүрээг хамарч дэглэмийн өөрчлөлтийг оролдлого хийх боловч хариу авах эрсдэлтэй"
+  },
+  "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1": {
+    "title": "Кредит хөрөнгө оруулагчдад хог өрийн зам нь\"цус алдалт\" үүсгэдэг",
+    "summary": "Зээлдэгчид хүрэхгүй газар хөрөнгийг шилжүүлэх хүчирхийллийн тактикийг зарж борлуулах түлш нэмж өгсөн"
+  },
+  "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1": {
+    "title": "Бондын хөрөнгө оруулагчид АНУ-ын дундын сонгуулийг жилд \"хамгийн үр дүнтэй\" суулгадаг",
+    "summary": "Том сангийн менежерүүд санал хураалт болон эдийн засгийн өгөгдлийг суллахад \"Завсарлага\" дарж байна"
+  },
+  "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories": {
+    "title": "Энэ нь хиймэл оюун ухаанаар ажилладаг бух зах зээлд хамгийн том аюул занал учруулж байна",
+    "summary": "2026 онд хөрөнгийн зах зээлийг дээшлүүлэхэд блокбустерийн орлогын өсөлт тусалсан. 2027 онд тэр хөдөлгүүр зогсоно."
+  },
+  "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories": {
+    "title": "Apple-ийн шинэ орлого нь Big Tech-ийн чухал цаг үед эхэлнэ",
+    "summary": "Apple компанид зориулсан даваа гаригт болсон ховор орлогын тайлан нь хөрөнгө оруулагчид шинэ гүйцэтгэх захирал Жон Тернус inflated санах ойн үнэ, хэрэглээний зарцуулалтын хүнд нөөцийг хэрхэн удирдаж байгааг харуулна."
+  },
+  "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories": {
+    "title": "Эхнэр маань намайг 401(k) -д 80,000 $ байгааг мэдээд уйлсан. Надад 2.2 сая $ байна. Гайхах нь буруу юу?",
+    "summary": "\"Би өнгөрсөн хавар тэтгэвэртээ гаргаад, тэр намайг байх хугацаандаа бэлэн байгаагаа хэлэхэд, бид хоёр сайн хүн байсан гэж хэллээ.\""
+  },
+  "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories": {
+    "title": "‘Шал чимэглэлтэй үнэт эдлэл, чамин машин давж заалдах шаардлагагүй’: Амьдралаа хэмнэх магадлал 99% байна. Энэ бүхнийг яагаад мөнгөө үрэх ёсгүй юм бэ?",
+    "summary": "“Би 68 настай, 74 настай, бид хоёр хоёр эрүүл саруул байна. Бид дараа нь гэрлэсэн, хүүхэдгүй.”"
+  },
+  "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories": {
+    "title": "Миний аав Альцхаймертай бөгөөд түүний асрагч дебит картаа хаалган дээрээ ашиглаж байна. Би үйл хэрэгт оролцдог уу?",
+    "summary": "\"Би амьд асран халамжлагчийг эцэг эхийнхээ өгөөмөр сэтгэлээс ашиг тус хүртэж байгаа гэж сэжиглэж байна.\""
+  },
+  "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories": {
+    "title": "«Миний нөхрийн хүүхдүүд үхэж байхдаа түүнийг орхиод явсан. Бүх юмыг надад үлдээх нь зөв үү?",
+    "summary": "\"Эцэст нь хэлэхэд тэр тэднийг хэдэн сэтгэл санааны дүрслэл, зарим нь цуглуулга, хуучин зургуудыг орхисон.\""
+  },
+  "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories": {
+    "title": "Grand Theft Callout: ‘GTA 6’ фенүүд тоглолтыг чөлөөлөх өдөр ажиллахаа больсон. Учир нь ‘хүлээхийг хүсэхгүй байна’",
+    "summary": "Энэ видео тэмцээнд 13 жил хүлээсэний дараа арваннэгдүгээр сарын 19-нд унах үед бараг тавны нэг нь ажилчин ‘Grand Theft Auto VI’ -г тоглуулахаар төлөвлөж байна."
+  },
+  "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories": {
+    "title": "Америк таны бодлоос ч илүү сайн байна. Таны алгоритм зүгээр л нуугдаж байна.",
+    "summary": "2019 оноос хойш америкчуудын доод тал хувь нь түүний цэвэр хөрөнгийг хоёр дахин нэмэгдүүлсэн байна. Нийгмийн сүлжээг гүйлгэж байгааг нь мэдэхгүй байх."
+  },
+  "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories": {
+    "title": "Хэн Трампын эдийн засаг дор үнэхээр ялалт байгуулсан бэ? Эргийн либералчууд түүнийг үзэн яддаг.",
+    "summary": "Өөрөөр хэлбэл, ард түмэн бүгд найрамдах хүмүүс гэж бодож байгаагүй."
+  },
+  "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories": {
+    "title": "Гэмтсэн нөхөр маань хүүхдүүдийн боловсрол эзэмшихээр 20,000 $ амласан. Одоо тэр төлөхөөс татгалзав. Тэрбээр хууль ёсны эрхтэй юу?",
+    "summary": "\"Гэр бүл салахаас өмнө хуучин хадам ээж маань охид тус бүрдээ 20,000 $ хөрөнгө оруулах даалгавар өгөв.\""
+  },
+  "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss": {
+    "title": "Хэрэглэгчид хуурамч цацраг илэрч болзошгүй аюул заналыг хүлээн авахад Украины агаарын халдлагын аппликейшныг хакердсан бололтой гэж Агаарын алба хэлэв",
+    "summary": "Эрх баригчид ямар ч аюул заналхийлэлгүй, тайван байж, мэдээлэл авахыг албан ёсны сувгийг дагахыг олон нийтэд зөвлөдөг."
+  },
+  "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss": {
+    "title": "Kherson дайн дуусахад ОХУ Украинд мянга мянган удаа хүчээ тасалсан",
+    "summary": "Хүн төрөлхтөн дайн довтолгооны улмаас иргэд Оросын гаралтай Оцки хотоос нүүлгэн шилжүүлэх боломжтой болсон."
+  },
+  "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss": {
+    "title": "Ардчилсан ардчилал нь Мичиганы сенатын гол уралдаанд Бүгд найрамдах нэр дэвшигчийг намын хуйвалдаан болж дэмждэг",
+    "summary": "Абдул Эл-Саядыг ардчилсан Сенатын нэр дэвшүүлэхээ больсон Халлей Стивенс энэ алхмыг ардчиллын нэгэн тэргүүнээр \"жигшүүрт урвасан\" гэж нэрлэжээ."
+  },
+  "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss": {
+    "title": "Газын Израйлын довтолгоонууд хүүхэд, эмнэлэгүүд",
+    "summary": "Хамасаар ажилладаг цагдаа нарын таван ажилтан Хан Юнис, Газа хотод хүүхэд нас барсан гурван хүн амиа алджээ."
+  },
+  "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss": {
+    "title": "Франц цагдаа нар дээр бензин бөмбөг хийсний дараа хүн амины хэргийн мөрдөн байцаах гэж оролдсон",
+    "summary": "Олон зуун хүн баривчлагдаж, Францын өнцөг булан бүрт байдаг хотуудын гудамжинд гурав дахь амралтын өдрүүдэд баривчлагджээ."
+  },
+  "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss": {
+    "title": "Испанийн галт тэрэгний осолд орсон Кэмбрижийн их сургуулийн эрдэмтэн",
+    "summary": "Марта Шабази «урам зоригтой, авьяаслаг, эрдэмтэн» байлаа."
+  },
+  "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss": {
+    "title": "Бонди наран шарлагын газар руу дайрсны дараа зэвсэглэсэн цагдаа нар Сиднейд эргүүл хийж эхэллээ",
+    "summary": "Шинэ цагдаагийн нэгж нь Ханукагийн баяр наадмын дайралтад өнгөрсөн жил үхлийн цохиулсан довтолгооны хариуд аюулгүй байдлын арга хэмжээ юм."
+  },
+  "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss": {
+    "title": "Германы зардлыг хэмнэх хөдөлгөөн хүчирхийллийн эхлэл болсон гэж гутарсан дэлгүүрүүд",
+    "summary": "ХБНГУ, түүний дотор Берлин, Гамбург, Франкфурт зэрэг хотуудад хэдэн зуун мянга орчим эсэргүүцэл гарав."
+  },
+  "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss": {
+    "title": "Энэтхэгийн эсэргүүцэгчид сонгуулийн удирдагчийг огцруулахыг эрэлхийлж буй мега уулзалтыг зохион байгуулав",
+    "summary": "Сонгуулийн удирдагчийг огцруулахыг хүсэхэд делигийн зүрхэнд олон мянган хүн иржээ."
+  },
+  "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss": {
+    "title": "Крипто пүүс Binance $ 6.3bn хакердсаны дараа алдагдлын 90% -ийг эзэлдэг",
+    "summary": "Холбооны мөрдөн байцаах товчоо (FBI) Хойд Солонгос хакердах үүрэгтэй гэжээ."
   }
 }
