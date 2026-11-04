@@ -11374,5 +11374,297 @@
   "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3": {
     "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ 3-р сар",
     "summary": "Өмнөх чуулганы үеэр бараг 8% -иар цохилсоны дараа АНУ, Иран улсууд дундын Дорнодын дайн есдүгээр сард орж байхад энх тайвны яриа мөрдөхөд бэлэн байгааг илтгэж байна."
+  },
+  "https://www.interdb.jp/pg/index.html": {
+    "title": "PostgreSQL дотоод хүмүүс",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://neufangled.com/": {
+    "title": "Stringman, $ 800 нээлттэй эхийн өрөөний цар хүрээтэй атгагч робот",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.nns.ee/2026/11/02/renault-hack/": {
+    "title": "Машиныхаа навигацийн системийг Jailbreaking Ингэснээр цаг хугацааг өөрчлөх боломжтой",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://hackertv.org": {
+    "title": "НҮБ-ын харуулах: ХакерТВ – НҮБ-ын 24/7 телевизийн сувгууд болох хамгийн алдартай Youtube видеонууд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/": {
+    "title": "Японы 2026 оны Jimi 'Mundane' Halloween хувцас",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/": {
+    "title": "Миний зөөврийн компьютер дээрх Qwen 3.8 27b нь загвар жинг мөн тайлбарлаж чаддаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://arxiv.org/abs/2605.29713": {
+    "title": "Үеийн хиймэл оюун ухааны бяцхан ном: Ухаалаг математикийн анхдагч",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/": {
+    "title": "Фужифильм соронзон хальсны үйлдвэрлэлийг AI түлш архивлах эрэлт хэрэгцээгээр 5x нэмэгдүүлэх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/finic-ai/kairos": {
+    "title": "ХН харуулах: Kairos – Нээлттэй эхийн эрсдэл ба залилангийн шийдвэрлэх платформ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/postmanlabs/postman-app-support/issues/14370": {
+    "title": "Шуудангийн чимээгүйхэн автоматаар суулгах AI плагинууд ба бүх API өгөгдлийг хуваалцах оролдлого",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/": {
+    "title": "Энтропик нь хиймэл оюун ухааны загварыг таних тэмдгийг батлах систем дээр ажиллаж байна",
+    "summary": "FlashProve гэж нэрлэдэг систем нь AI-ийн хариу үйлдэл нь тухайн загвараас ирсэн эсэхийг хэн ч шалгах боломжийг олгоно."
+  },
+  "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/": {
+    "title": "Өгөгдлийн төвүүд хүч нэмэгдэхийн хэрээр хуучин тийрэлтэт хөдөлгүүртэй эргэдэг",
+    "summary": "Хүснэгт болон шинэ турбинуудыг ашиглахыг олон жил хүлээх нь өгөгдлийн төвийн барилгын ажилчдыг ер бусын, бага үр ашигтай, байгаль орчинд ээлтэй шийдлийг гаргахад хүргэдэг: нэг удаа буурсан тийрэлтэт хөдөлгүүр."
+  },
+  "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/": {
+    "title": "Тед Шлейн баллистик Аж ахуйн нэгжүүд нь хиймэл оюун ухаанаар удирдуулсан кибер аюулгүй байдлын өсөлтөнд $ 490м хөрөнгө оруулахыг эрэлхийлдэг",
+    "summary": "Кибер аюулгүй байдлын чиглэсэн бөмбөгийн Аж ахуйн нэгжүүд нь шинэ тэргүүлэх сангийн хувьд 360 сая доллар, тусдаа хөрөнгө оруулалтын автомашины 130 сая долларыг босгохыг зорьж байна."
+  },
+  "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/": {
+    "title": "Палантирын зогсоолын улиралд нуугдах нь урьдчилан бэлдсэн дохио юм",
+    "summary": "Палантир АНУ-ын арилжааны орлогыг анх удаагаа АНУ-ын засгийн газрын орлогыг давсан."
+  },
+  "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/": {
+    "title": "Orbital Matter 3D-сайн орон зайны вакуум эхний хатуу цацраг хэвлэсэн",
+    "summary": "Эхлээд сансарт бүтээн байгуулалт нь ирээдүйн сансрын мэдээллийн төвийн идэвхжүүлэгч байж болох юм."
+  },
+  "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/": {
+    "title": "Судлаачид Хойд Солонгосын хакердах тактикийг $ 6.3B Binance heist бичлэг хийхээс олон жилийн өмнө анхааруулсан",
+    "summary": "Кибер аюулгүй байдлын мэргэжилтнүүд Хойд Солонгосын урт хугацааны хакеруудаас тэвчээртэй, өвчтөний заналхийллийн талаар аль эртнээс анхааруулж ирсэн. Дэлхийн хамгийн том крипто бирж хамгаалалтгүй хэвээр байна."
+  },
+  "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/": {
+    "title": "AI INFORTIFION STARTUP FAL нь эрэлтийн өсөлт болох $ 16B хүртэлх үнэлгээг хоёр дахин нэмэгдүүлдэг",
+    "summary": "Таван настай стартап нь Бисемерээр удирдуулсан 1.3 тэрбум $ эргэлт гарчээ."
+  },
+  "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/": {
+    "title": "Замын хөдөлгөөний бууралт болон өсөлтийн асуудал нэмэгдэхийн хэрээр Reddit-ийн хайлтын үр дүн дэх зарыг шалгах",
+    "summary": "Шинэ зар сурталчилгааны байршил нь Reddit-д одоо байгаа хэрэглэгчдийн орлогыг багасгахад тусалж болох юм Google-ийн AI-ийн хайлт нь хүмүүс контентаа хэрхэн олж мэдсэнийг өөрчилдөг."
+  },
+  "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/": {
+    "title": "10 жилийн дараа ‘Pokémon Go to the polls' одоо ч гэсэн интернетээс айдаг",
+    "summary": "Хиллари Клинтон хотын 2016 оны улс төрийн гүтгэлэг нь эгшигтэй, торгон залуу сонгогчдод хандан хашхирах явдал болжээ."
+  },
+  "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/": {
+    "title": "Феррарийн маргаантай Люс EV 2027 онд зарагдсан",
+    "summary": "Феррарийн анхны цахилгаан машин, хамгийн туйлшралын загваруудын нэг болох Лүүсийг 2027 он хүртэл \"бүрэн хуваарилсан\" гэж Бенедетто Вигна хэлэв."
+  },
+  "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc": {
+    "title": "AMD-н аялж байгаа дата төвийн баялаг түүхийн хамгийн том, хамгийн ашигтай улиралд",
+    "summary": "AMD-ийн гүйцэтгэх захирал Лиза Су Мягмар гаригт компанийн улирал тутмын орлогын дуудлагад Q3 2026 нь \"бидний түүхэнд хамгийн том, хамгийн ашигтай байсан.\" АМД улирлын орлогын $ 13.4 тэрбум долларыг мэдээлсэн бөгөөд дараагийн улиралд 17 тэрбум $ болно..."
+  },
+  "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news": {
+    "title": "«Зелдагийн яриа» - ийн тухай бүх мэдээ",
+    "summary": "Рокстарын \"Grand Theft Auto VI\" тоглоомын гарснаас өмнө Nintendo өөрийн намар juggernaut-ийг ажиллуулж байна: Зельдагийн домгийн 2 хувилбарыг дахин эхлүүлжээ: цаг хугацааны Ocarina. Nintendo 64 дээр анхны хувилбарыг эхлүүлснээс хойш 28 жилийн дараа гаргасан дахин сэргээх нь илүү их байна…"
+  },
+  "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures": {
+    "title": "Компьютерийн тоглоомын хамгийн том модинг сайт нь AI дээр байр суурь эзэлж байна",
+    "summary": "PC тоглоомын модулиудын агуулгын Nexus Mods нь шинэ модулиудыг байршуулах үүрэгтэй хиймэл оюун ухааны тухай тодруулгыг хийж байна. Энэ нь мод зохиогчид \"AI нь ажлаа хийж байгаа эсэх\" гэж зарлах ёстой гэсэн үг юм. Энэ сайт нь өнөөдөр хиймэл дагуул дээрх AI үүсгэсэн контентын талаархи том нийтлэлийн хэсэг болгон зарласан..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds": {
+    "title": "AI бөмбөлөг хэзээ гарч ирэх вэ гэж надаас асууж зогсооно уу",
+    "summary": "AI бөмбөлөг дэлбэрэх үед хүмүүс надаас янз бүрийн сэтгэл хөдлөл, айдас түгшүүрээр дүүрэн өөр өөр түвшинтэй байгааг энэ ажилтнуудаас оролцуулаад үргэлжлүүлээрэй. Би та нарт юу гэж хэлэхээ хэлье: Хэрэв би үүнийг мэдэж байсан бол би амьдралаа өөрчлөх бооцоо зах зээл дээр гаргаад, чадах чинээгээрээ нааш цааш, намайг бүтээсэнийхээ дараа..."
+  },
+  "https://www.theverge.com/tech/1025971/canva-changes-layoffs": {
+    "title": "Канва нь ажилтнуудынхаа 22 хувьд нөлөөлсөн өөрчлөлт, шилжүүлэлтийг зарлаж байна",
+    "summary": "Канва нь 1 271 хүмүүст ноцтой өөрчлөлт үзүүлж байгаа бөгөөд түүний ажилтнуудын 22 хувь, үүсгэн байгуулагч, гүйцэтгэх захирал Мелани Перкинсийн өнөөдөр зарласан. Перкинс: «Зарим хүнд энэ нь үүргээ биелүүлэх юм уу төвлөрсөн байранд нүүж очно гэсэн үг юм» гэж ярьжээ. \"Харамсалтай нь, тэр болно..."
+  },
+  "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access": {
+    "title": "Сонос нь шинэ бэлтгэлүүдийг нэмж 27 нэхэмжлэлийн AI бета-д бэлтгэж байна",
+    "summary": "Sonos шинэ Presets болон AI дуу хоолойн туслахад эрт нэвтрэх зэрэг програмын том шинэчлэлтийг хийж байна. Та дуу хөгжимээ тухайн өрөөнд тодорхой хэмжээгээр тоглуулах урьдчилсан хувилбар үүсгэж болно. Энэ нь хуудсан дээр шууд гарч ирэх бөгөөд ингэснээр та хурдан тоглуулах боломжтой болно. Хэрэв та т..."
+  },
+  "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions": {
+    "title": "Уур тоглолтонд \"мэдэгдэхүйц өсөлт\" -ийг шийдвэрлэхийн тулд хавхлага өөрчлөгдөж байна",
+    "summary": "Өнөөдрийн шинэ нийтлэлд Valve нь \"дэлгүүр болон хуудасны хянан дүгнэлтэд ихээхэн нэмэгдсэн\" бөгөөд 3-5 хоногийн оронд \"ажлын 12 хоног хүртэл\" хянан үнэлгээ хийхэд бага зэрэг \"арагшаа явуулж байгааг хүлээн зөвшөөрсөн байна. Энэтхэгийн хөгжүүлэгчид..."
+  },
+  "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained": {
+    "title": "Binance хакерууд 6.3 тэрбум $ өсгөгчийг татахын тулд хуурамч ажлын ярилцлага, дотоод AI хэрэгсэл ашигласан гэж хэлсэн",
+    "summary": "Binance-ийн дагуу өнөөг хүртэл хамгийн том крипто хулгай нь хэдхэн сарын хугацаанд хакердах зарим аргыг нэгтгэснээр татсан байна. Компанийн постмартем нь процессыг 6-р сард эхэлсэн бөгөөд хөгжүүлэгчид нь сүйрсэн суулгагчийг татаж эхэлсэн бололтой..."
+  },
+  "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch": {
+    "title": "Энд Apple Watch дээрх Аудио Тагнуулын програмыг ашиглахтай адил юм",
+    "summary": "Apple Watch Series 12 болон Ultra 4 дээрх аудио тагнуул яг одоо ямар байх вэ гэдгийг бүрэн дүрслэх боломжгүй. watchOS 27.3 Developer beta энэ үдээс өмнө бета унагаж, эдгээр онцлогууд нь өдөр тутмын амьдралтай хамт амьдрах зорилготой юм. Бид мэдээж г..."
+  },
+  "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk": {
+    "title": "Эдгээр Жефф Безос үс засалт зурагнууд нь маш хуурамч байдаг",
+    "summary": "Амазоны үүсгэн байгуулагч Жефф Безос, жүжигчин Жэйсон Статам нар нийтлэг шинж чанартай байдаг: Тэд хоёулаа алдартай бүдүүвч, сүүлийн хэдэн өдрүүдэд өөрчлөгдөөгүй байна. Гэсэн хэдий ч X, Threads, Bluesky гэх мэт тархсан хоёр хүний зарим зургууд байдаг бөгөөд тэдгээр нь хоёулаа..."
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5": {
+    "title": "Дээд зэргийн бүтээгдэхүүний удирдагч Кату Клодын хуулийн нүүр царай нь гараагаа орхисон - Бизнес Дотоод",
+    "summary": "Дээд зэргийн бүтээгдэхүүний удирдагч Кату Клодын хуулийн нүүр царай нь эхлүүлэх  Бизнес Дотоодыг орхисон"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnpwS0FzRk9KWUhPNC1rT3JnNWdLN1NhTWM0VU5zWHkyZEo5NVR1dXJhTWdVY2R0ZGEwcVhDTGZ3TkR5SGRIemoyenlCUU1TV2xMTzNBa0xtZDJSb1hGeUVqVlhBVmJNRVFkVS1qb21LdmtqOUxmWEtVOEgwd3JnRnNJMHJIQXdfYndBMUpjZWNPaGRwSW55ZWJsdEk?oc=5": {
+    "title": "Anthropic Touts Клодын Chip загварын ур чадварыг IPO хөрөнгө оруулагчдад дамжуулдаг - Мэдээлэл",
+    "summary": "Anthropic Touts Клаудын Chip загварын ур чадварыг IPO хөрөнгө оруулагчдад өгөх мэдээлэл"
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5": {
+    "title": "Том хэлний загваруудад тууштай хандлагад тулгуурлан ахиц дэвшил - Антропик",
+    "summary": "Том хэлний загваруудын бат бөх байдлын явц Антропик"
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxObGl6Z1lPb2hocjU2aGRvdWx6aVhQWU9HdGlNQVdyaTB5WWlUSy1OX2loVkJ3Mnh0M3l2M3lWS1NMdXk2SHNYTDI5ZmFkNnBFM1ZBd1RLYmQ1aDB1d3ZudlRlWTJZQUFDZlA3d09pQ25oVTFuRUF6WFEyNk5nQ3JtYzlB?oc=5": {
+    "title": "Антропик хаягууд Бага Клод шинэчлэлттэй Видео Тоглоомын клонинг - CNET",
+    "summary": "Антропийн хаягууд Видео тоглоом Бага Клодын шинэчлэлттэй CNETAnthropic нь тоглоомын клонингоос урьдчилан сэргийлэх шинэ Клод Кодын хязгаарлалтыг баталж байна — хэрэглэгчид Опус 5.5 нь урвуу инженерийн даалгавруудыг  Tom HardwareAnthropic-ийг идэвхтэй хаах арга хэмжээ авч байна..."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-04/breaking-democrats-flip-first-senate-seat-with-cooper-win-in-nc": {
+    "title": "ШУУРХАЙ ХУВЬЦАА: Ардчилсан хүмүүс Эхний Сенатын суудлыг цээжилж, Күүпер Виннитэй NC",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/democrat-ager-wins-north-carolina-house-race-ddhq-projects": {
+    "title": "Ардчилсан Ager Хойд Каролина Хаусын Тэмцээний, DDHQ төслүүдийг ялсан",
+    "summary": "X-ийн шийдвэрийн ширээний хурлын дагуу Хойд Каролина мужийн 11 дахь Конгрессийн дүүрэгт сонгууль авна гэж Ардчилсан Жэйми Ager таамаглаж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-04/democrats-notch-early-us-midterm-wins-for-ossoff-warner-more": {
+    "title": "Ардчилсан хүмүүс АНУ-ын эрт Мидтерм Ософ, Уарнер, Илүү ихийг яллаа",
+    "summary": "Эх сурвалж: Блүүмберг, 5:49"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/democrat-pappas-wins-new-hampshire-senate-race-ddhq-projects": {
+    "title": "Ардчилсан Папас Нью-Хэмпширийн Сенатын Тэмцээнд яллаа, DDHQ төслүүд",
+    "summary": "Ардчилсан Крис Папас нь Нью-Хэмпширийн АНУ-ын Сенатын уралдаанд ялалт байгуулж, Бүгд найрамдах иргэдэд ерөнхийлөгч Дональд Трамп, эдийн засгийн байдлыг дургүйцэхийн эсрэг саналаа нэмэгдүүлэхийн тулд цөөн тооны хувийг нь хамгаалахыг зорьж байсан суудлыг үгүйсгэнэ гэж таамаглаж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/republican-moody-wins-florida-senate-race-ddhq-projects": {
+    "title": "Бүгд найрамдах Мооди Флоридагийн Сенатын Суудал, DDHQ төслүүдийг хадгалдаг",
+    "summary": "Флорида улсын Бүгд Найрамдах Эшли МОДИ АНУ-ын Сенатад дахин сонгон шалгаруулж, гэнэтийн томоохон бэрхшээлийг даван туулсны дараа DDHQ гэж таамаглаж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/democrat-pritzker-wins-illinois-governor-race-ap-projects": {
+    "title": "Ардчилсан Притзкер Иллинойсын Засаг даргын Тэмцээний, АП төслүүд яллаа",
+    "summary": "Associated Press-ийн мэдээлснээр Ардчилсан JB Pritzker нь Иллинойсын захирагчийн сонгуульд ялалт байгуулсан байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/democrat-castor-wins-florida-house-race-nbc-projects": {
+    "title": "Демократ Кастор NBC төслүүд Флоридагийн ордны гүйлтийг ялсан",
+    "summary": "NBC-ийн мэдээлснээр, Флорида мужийн 14 Конгрессийн дүүрэгт Ардчилсан Кати Кастор сонгуульд ялах төлөвлөгөөтэй байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-04/votes-trickle-in-with-house-senate-control-up-for-grabs-more": {
+    "title": "Танилцуулгыг гэрт нь төөрөлдөхгүйн тулд Сенатыг татан буулгана. Илүү их",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-04/bloomberg-businessweek-daily-us-midterms-kick-off-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: АНУ-ын дундын өшиглөх (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-03/us-midterm-polls-begin-closing-early-voters-break-records-more": {
+    "title": "АНУ-ын дундын санал хураалтууд нь хаагдаж эхэлнэ, эрт сонгогчид бүртгэлийг эвдэж, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://endlessfootnote.substack.com/p/startup-red-flags": {
+    "title": "Startup Улаан дарцаг",
+    "summary": "Артикулын URL: https://endlessfootnote.substack.com/p/startup-red-flags Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50358580 Оноо: 3 # Сэтгэгдэл: 0"
+  },
+  "https://github.com/anthonyGosme/speedrunner": {
+    "title": "HN харуулах: Speedrunner – Хурдан эхлүүлэх: Python, Ruby, PHP болон Node CLI хэрэгсэл",
+    "summary": "Артикулын URL: https://github.com/anthonyGosme/speedrunner Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50354212 Оноо: 2 # Сэтгэгдэл: 1"
+  },
+  "https://nh66.ai/negative-space/": {
+    "title": "ХН харуулах: Сөрөг орон зай – YC компаниудын хоорондох цоорхойг эхлүүлэх санаанууд",
+    "summary": "Хэдэн жилийн өмнө [1] тоглоомын шинэ санааг олох энгийн аргыг жиргээгээр дүрсэлжээ: уур дээрх тоглоом бүрийн тайлбарыг оруулах, юу ч байхгүй газар нутгийг олоод тэдгээр цэгүүдийг тайлбар руу буцаан оруулна уу. Энэ хөгжилтэй санаа, тиймээс би ямар нэг асуултыг кодлосон..."
+  },
+  "https://pawelbrodzinski.substack.com/p/startup-advice-at-major-events-is": {
+    "title": "Голлох үйл явдлуудын гарааны зөвлөгөө эвдэрч байна",
+    "summary": "Артикулын URL: https://pawelbrodzinski.substack.com/p/startup-advice-at-major-events-is Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50353616 Оноо: 2 # Сэтгэгдэл: 1"
+  },
+  "https://www.entrepreneur.com/business-news/the-best-idea-for-his-business-came-from-a-customer-and-it-led-to-300-growth": {
+    "title": "Үйлчлүүлэгчээс ирсэн бизнесийнхээ хамгийн сайн санаа. Энэ нь 300% хүртэл өссөн: ‘Бид энэ бүхнийг хийх болно’",
+    "summary": "FIT: Тоглолтын эхлэгч Ханиф Браун нь худалдан авагчдад тохирсон хувцас олоход нь туслах технологийн барьсан."
+  },
+  "https://www.entrepreneur.com/building-a-business/7-mistakes-founders-and-ceos-make-when-talking-to-the-media-and-how-to-avoid-them": {
+    "title": "7 Алдаа зохион байгуулагчид болон гүйцэтгэх захирал нар хэвлэл мэдээллийн хэрэгсэлтэй ярилцахдаа байгаарай (тэдгээрээс хэрхэн зайлсхийх вэ)",
+    "summary": "Бизнесийн удирдлагууд хүртэл мэдээллийн ярилцлагын үеэр алдаа гаргадаг. Таны найдвартай байдлыг эвдэн бусниулж, хамрах үнэ цэнэтэй долоон буруу ойлголтоос хэрхэн зайлсхийх талаар эндээс дурдъя."
+  },
+  "https://www.entrepreneur.com/business-news/before-he-was-a-billionaire-24-year-old-mark-cuban-had-5-roommates-and-lived-in-hell-hotel": {
+    "title": "Тэр тэрбумтан болохоосоо өмнө 24 настай Марк Кубын 5 өрөөний найзуудтай байсан бөгөөд \"Там зочид буудалд\" амьдарчээ",
+    "summary": "Ирээдүйн тэрбумтан эрт цагийн амьдралын нөхцөл байдал тансаг зэрэглэлийн хашхираан байв."
+  },
+  "https://www.entrepreneur.com/entrepreneurs/that-100-tax-write-off-on-your-company-car-isnt-what-you-think-heres-what-to-know-before-you-buy": {
+    "title": "\"100% татварыг хасах\" гэж танай компанид хийсэн автомашин таны бодлоор биш юм. Худалдан авахаасаа өмнө мэдэх ёстой зүйлсийг энд оруулав.",
+    "summary": "Таны бизнес машины унтралт нь нийгмийн сүлжээнээс бага байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/how-to-decide-whether-to-build-in-house-buy-an-existing-solution-or-partner-with-another-company": {
+    "title": "Гэрт барих эсэхээ хэрхэн шийдэх вэ, Одоо байгаа шийдэл эсвэл Түншлэлийг өөр компанид худалдаж аваарай",
+    "summary": "Компани нь хэзээ барьж, худалдан авах эсвэл хамтрагчаа бүтээх ёстой вэ? Та мэдэх ёстой зүйлээ энд оруулав."
+  },
+  "https://www.entrepreneur.com/building-a-business/daves-hot-chicken-ceo-jim-bitticks-leadership-lesson-generosity-boss-valet": {
+    "title": "Дэйв-ийн Халуун тахианы гүйцэтгэх захирал нь Валетийн санд суугаад Boss-ийн 100 $ билл, 3 Үг зөвлөгөөг өгсөн. Ехова энэ үгэндээ хэрхэн ханддаг вэ?",
+    "summary": "Жим Битк ахлагчаа эргэн тойрныхоо хүмүүст өгөөмөр сэтгэлээр өгөхийг хараад олон жил өнгөрчээ. Тэрбээр, Дейвийн Халуун Тахианы хэрхэн ургадаг тухай нэгэн дадал зуршилтай гэжээ."
+  },
+  "https://www.entrepreneur.com/building-a-business/what-clients-need-before-they-trust-you-with-sensitive-work": {
+    "title": "Эмзэг ажил хийвэл ямар үйлчлүүлэгчдэдээ итгэх хэрэгтэй вэ?",
+    "summary": "Таны үйлчлүүлэгчид болон боломжит үйлчлүүлэгчид нууц мэдээлэлдээ итгэх боломжтой гэдгийг мэдэж байх хэрэгтэй."
+  },
+  "https://www.entrepreneur.com/building-a-business/seo-or-ppc-how-to-choose-between-long-term-growth-and-instant-traffic-on-your-website": {
+    "title": "SEO эсвэл PPC? Вэбсайт дээрээ урт хугацааны өсөлт, түргэн хөдөлгөөнийг хэрхэн сонгох вэ?",
+    "summary": "Эцэст нь бизнес эрхлэгч бүр ижил маркетингийн хөндлөн огтлолтой тулгардаг: Хайлтын системийг оновчтой болгох (SEO) хөрөнгө оруулалт хийх эсвэл цалингаа дарах (PPC) зар сурталчилгаанд мөнгө зарцуулах."
+  },
+  "https://www.entrepreneur.com/business-news/she-won-8-olympic-medals-then-retired-now-shes-rethinking-her-mindset": {
+    "title": "Олимпийн 8 медаль хүртэж, дараа нь 25 настайдаа тэтгэвэртээ гарсан. Охин \"маш хүчтэй\" бодлоо хэрхэн өөрчилсөн нь эндээс харагддаг.",
+    "summary": "Олимпийн өмнөх тамирчин Ариарн Титмус цөөрөм дэх амьдралыг нь бий болгосон бүх эсийн бодлыг эргэн бодож байна."
+  },
+  "https://www.entrepreneur.com/business-news/the-1999-foldable-iphone-duo-is-selling-out-so-why-is-apples-stock-cooling-off": {
+    "title": "$ 1,999 нугалах iPhone Duo зарагдаж байна. Тэгвэл Apple-ийн хөргөлт ямар учраас болдог вэ?",
+    "summary": "Apple-ийн орлого дуудлагын үеэр шинэ гүйцэтгэх захирал Жон Тернус санах ойн өсөн нэмэгдэж буй зардлыг бөөгнөрч байх болно гэж хэлсэн. Apple-ийн хувьд үнэ хямдралтай юу?"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates": {
+    "title": "Нөөцийг доллараар тоолох боломжтой Демократууд: Маркетууд бооно",
+    "summary": "Дэлхий дахины зах зээлд конгрессын ардчилсан арчиж, АНУ-ын хөрөнгийн эрсдэлийн фьючер, долларыг бага илгээж, эрт үеийн сонгууль эрт үед эргэж ирэх үед үнэт цаасны тоормосыг хаах аюултай байдалд түлхэц өгчээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans": {
+    "title": "Эрдэнэсийн өсөлт нь худалдаачид Демократ журмыг эхний саналаар манлайлахад хэрхэн нөлөөлдөг вэ?",
+    "summary": "Сангийн сангийн улирал тутмын олгох төлөвлөгөөнөөс урвалдаж, худалдаачид ардчилсан сонгуульд тэтгэсэн дундын сонгуулийн эхний үр дүнг харгалзан үзсэн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results": {
+    "title": "АНУ-ын Нөөцийн Фьючерс Демократууд эртийн хоромыг санал болгосноор бууруулна",
+    "summary": "АНУ-ын хөрөнгийн фьючерсүүд нь Уолл гудамжинд бухын зах зээлд эрхэлдэг салбаруудад илүү хатуу зохицуулалтын хяналт тавихад түгшүүртэй байгаа нь хүчтэй ардчилсан харагдах тоонд тулгуурлан өргөтгөсөн алдагдал юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains": {
+    "title": "UOB нь ашиггүй алдсан шинжээчдийн хүлээлтийн адил хямралыг хуваалцдаг",
+    "summary": "Нэгдсэн Хилийн чанад дахь банкны LTD. Арилжаа болон хөрөнгө оруулалтын орлогын бууралтыг зээлийн болон шимтгэлээс нарийн үржил шимтэй хослуулан мэдээлсэн. Хувьцаа унав."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ 4-р сарын 4-ний өдөр",
+    "summary": "АНУ-ын Ираны энх тайвны ярианы зам дээр наймаачид жинтэй зөрчилдөөн дохиогоор хоёр өдрийн буурсаны дараа тос өссөн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/india-s-middle-class-spending-boom-comes-with-growing-debt-bill": {
+    "title": "Энэтхэгийн дунд зэргийн зарцуулалт өсөлттэй өрийн тооцоотойгоор гарч ирдэг",
+    "summary": "25 настай рестораны ажилтан Навжот Сингх iPhone-ийг хүссэн үедээ сар бүр 50,000 Энэтхэгийн рупи (521 $) цалингаа төлж чадахгүй байсан бөгөөд худалдан авалтыг боломжтой болгосон жижиг зээл. PlayStation болон телевизийн багц нь дарс, сүнсний сургалтад зориулсан зээлтэй хамт хийгдсэн..."
+  },
+  "https://www.bloomberg.com/news/live-blog/2026-11-04/hkma-investment-summit-day-2": {
+    "title": "ШУУД: HK Хөрөнгө оруулалтын дээд хэмжээний уулзалтын өдөр 2 сигми, Топ Мөнгө менежерүүд ярьж байна",
+    "summary": ""
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/gold-steadies-as-traders-track-iran-talk-prospects-us-midterms": {
+    "title": "Иран Talk Pros-ийн хэтийн төлөв, АНУ-ын Midterms-г дагадаг худалдаачид алтан зогсонги",
+    "summary": "Алт арилжаачид Ойрхи Дорнододод дипломат харилцааний хүчин чармайлтыг хянан, АНУ-ын дундын сонгуулийн үр дүн нь хүүгийн хувь, АНУ-ын санхүүгийн бодлогын зам дээр сэжүүр гарлаа."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/amlo-s-son-denies-crime-allegations-ahead-of-mexico-congress-run": {
+    "title": "AMLO-ийн хүү Мексикийн Конгрессийн өмнөх хураамжийг татгалзсан",
+    "summary": "Мексикийн ерөнхийлөгчийн хүү, эрх баригч намын гишүүн Андрес Мануэл Лопез Белтран ирэх жил Конгрессыг аюултай гэж мэдэгдсэн авлигатай үгүйсгэжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008": {
+    "title": "Ихэнх IPO-тай Хонг Конгын Хонконг 2008 оноос хойш цуцлагдсан дийлэнх хэсэг",
+    "summary": "Дэлхийн санхүүгийн хямралаас хойшхи хаягдсан хөрөнгийн жагсаалт хамгийн өндөр хүртэл нэмэгдэж байгаа тул Хонконгын хоёр жилийн эх үүсвэрийн өсөлт удааширч байна."
+  },
+  "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1": {
+    "title": "Жоржиа улсад Жон Ософтыг ялсан анхны дайн сенатын суудал Ардчилсан ардчиллууд",
+    "summary": "Дональд Трампын ерөнхийлөгчийн санал асуулга болох дундрын сонгууль хоёр дахин нэмэгдэж байна"
+  },
+  "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1": {
+    "title": "Трампын хоёр дахь удаагын оргилуун байдал",
+    "summary": "‘чөлөөлөх өдөр’, бондын зах зээлийн хямралаас Мадуро баривчлах хүртэл Иран дахь Зеленский ба дайн явган болсноор АНУ-ын улс төр үүнтэй бараг адилхан харагдаж байна"
+  },
+  "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1": {
+    "title": "АНУ — ын дундын дундын сонгуулийн үр дүнг график болон газрын зураг дээр",
+    "summary": "Вашингтон хотод хүч чадлын тэнцвэрийг бий болгоно уралдааны тухай шинэчлэлтүүд"
+  },
+  "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1": {
+    "title": "Трамп ФТ-д Ираныг довтлох гэж яаралтай төлөвлөөгүй байна",
+    "summary": "Ерөнхийлөгч Тегеран асуулга дуусахаас хэдхэн цагийн өмнө ярилцлага хийхдээ албан тушаалаа \"гайхалтай\" гэж хэлжээ"
+  },
+  "https://www.ft.com/content/4dde93b5-60ec-4ad4-ad14-c870fa17db2c?syn-25a6b1a6=1": {
+    "title": "Пенсильвани мужийн хонхны хот АНУ-ын дундын төвөөс хэрхэн шийдвэрлэх вэ?",
+    "summary": "Вашингтон хотод эрх мэдлийн тэнцвэрт байдлыг бий болгодог суудал дахь ардчилагчид нүдний ялалт"
   }
 }
