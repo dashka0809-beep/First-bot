@@ -12294,5 +12294,309 @@
   "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007": {
     "title": "Америкт өглөө, хоёр үдшийн зах зээлд",
     "summary": "Гайхалтай дундын сонгуулийн үр дүн нь бизнес, санхүүгийн мөчлөгийн эргэлтийг хүчингүй болгоно"
+  },
+  "https://mitchellh.com/writing/libghostty-1-0": {
+    "title": "Термостит 1.0",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://hightouch.com/blog/llm-judges-identity-resolution": {
+    "title": "Опусаас тусламж гуйж болох Jev нь 4x-ийн хямд үнээр нарийвчлал өгдөг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817": {
+    "title": "Тесла Цибертрукийн үйлдвэрлэлийг салгах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://pwn.ai/blog/firecracker-escape": {
+    "title": "Firecracker VM Escape: PwnEscape-р хэсэг 2",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/": {
+    "title": "АНУ-ын ФАА 2028 он гэхэд агаарын хөдөлгөөний хяналтын усан онгоцны дискүүдийг хөнгөвчлөх гэж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai": {
+    "title": "AI нь хиймэл оюун ухааны судалгааг эрс нэмэгдүүлж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://developers.openai.com/api/docs/guides/voice-sip": {
+    "title": "Гарах SIP дуудлага нь бүх байгууллагад одоо ашиглах боломжтой",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/": {
+    "title": "Натрийн-ион батерей LFP-тай харьцуулах өртөгтэй",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/": {
+    "title": "Энэ олон жилийн дараа GROUP-ийг оновчтой болгож чадах уу?",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://kevinboone.me/efitest_index.html": {
+    "title": "UEFI ашиглан нүцгэн металл програмчлалын эхний алхамууд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/": {
+    "title": "OpenAI нь 1.25 их наяд долларын үнэлгээнд нэмэлт 11 тэрбум доллар нэмэгддэг гэж мэдэгдсэн",
+    "summary": "OpenAI нь санхүүжилтийн шатанд хараахан хаагдаагүй боловч ирэх долоо хоногт хүлээгдэж буй нэмэлт 11 тэрбум $ нэмэгдсэн байна."
+  },
+  "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/": {
+    "title": "Apple-ийн хэлснээр, Duo аппууд ирж байна",
+    "summary": "Аппликешн хэлэхдээ, өдөр бүр 100.000 гаруй Duo-optimized апп-ууд байдаг ба өөр мянга мянган ирэх болно."
+  },
+  "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/": {
+    "title": "Олон зуун Артекс AI хакердах хэрэгслүүд интернетэд олон нийтэд илэрсэн",
+    "summary": "Аюулгүй байдлын судлаачид нэвтрэх тестийн хэрэгсэл Артексийг интернетэд илэрч, хакердах хэрэгсэлд хэн ч хандах боломжийг олгож, хэдэн зуун серверийг олжээ."
+  },
+  "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/": {
+    "title": "Мета нь орон зайг танилцуулдаг бөгөөд таны Muse агенттай хамтран ажиллах шинэ арга зам юм",
+    "summary": "Мета ялгадас агентууд нь шинэ функц, интеграцийг үргэлжлүүлэн олж авдаг. Талбай нь хиймэл оюун ухааны туслагчидтай харилцах шинэ арга зам байхаа амласан."
+  },
+  "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/": {
+    "title": "Үе мөчний дараагаар хиймэл оюун ухааныг хоёр жил ширүүн үйлдвэрлэх үү?",
+    "summary": "Энэ долоо хоногт АНУ-ын дундын сонгуульд ардчиллын түүхэн ялалт байгуулж, технологийн салбарыг өөрчилж болно. Олон нийт 41 дата төвтэй холбоотой санал хураалтын арга хэмжээнд Мягмар гаригт санал өгсөн — зөвхөн нэгт, дата төвийн хөгжилд илүү хязгаарлалт тавих санал өгсөн. Мөн бүр..."
+  },
+  "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/": {
+    "title": "Пентагон нь АНУ-ын үйлдвэр байгуулах 6K $ 250 сая зээлийн багцыг санал болгодог",
+    "summary": "Пентагон нь 6к -р богино долгионы зайны материал үйлдвэрлэлийг өргөжүүлэхэд туслах зорилгоор 250 сая $ зээлийг нөхцөлөөр баталсан."
+  },
+  "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/": {
+    "title": "Fox нь Рокүгийн худалдан авалтад $ 22б долларын үнийг гүйцээнэ",
+    "summary": "DOJ-ийн судлаачид энэ гэрээг хийсэнээс хэдхэн сарын дараа FOX урсгалын аварга Року компанийг $ 22 вольт доллараар худалдан авчээ."
+  },
+  "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/": {
+    "title": "RAMP өгөгдөл нь IPO-д ойрхон байгаа шигээ хиймэл оюун ухааны зарцуулалтыг зогсоно.",
+    "summary": "AI хэрэглээ авирсаар байдаг боловч зарцуулалт зогссон байна. Хамгийн том зарцуулагчдын дунд үнэ тасарч, илүү ухаалаг зардлын хяналт нь хөрөнгө оруулагчдын AI hypergrowth-ийн таамаглалд сөргөөр нөлөөлж болзошгүй юм."
+  },
+  "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/": {
+    "title": "Muse хориглосны дараа Amazon нь хэрэглэгчдэд дэлгүүрээ туслахын тулд Alexa руу мессэж бичихийг зөвшөөрдөг",
+    "summary": "Амазоны хэлснээр энэ функц нь ирэх хэдэн долоо хоногт сая хэрэглэгч рүү шилжих болно."
+  },
+  "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/": {
+    "title": "Дордог нь шинэ демо дахь 32MB ярианы загварыг харуулна",
+    "summary": "Хэдийгээр жижигхэн ч гэлээ шинэ загвар нь илтгэлээ хөгжимтэй болгодог."
+  },
+  "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy": {
+    "title": "Хятадын мэдэгдснээр Женсен Хуанг дахь оюуны гүйцэтгэгчийг тагнуулахаар ажилд авна",
+    "summary": "Нью-Йорк Таймс сэтгүүлд дурдсанаар Хятадын тагнуулын агентлаг Мегаспед гүйцэтгэх Алис Хуангыг Нвидیاийн гүйцэтгэх захирал Женсен Хуанг руу тагнуулахаар болов. Төрийн аюулгүй байдлын яам (MSS) түүнд Америкийн хиймэл оюун ухааны чипсийн талаар мэдээлэл авахыг уриалж, \"болзошгүй компани түлхэж болзошгүй..."
+  },
+  "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news": {
+    "title": "Starlink Mobile: SpaceX-ийн томоохон гар утасны зорилтуудын талаархи бүх мэдээ",
+    "summary": "SpaceX нь Starlink Mobile нь \"том\" гар утасны оператор болох болно гэж мэдэгдэв. Елон Маск-ийн өмчит компани мянга мянган шууд эсхүл хиймэл дагуул түгээсэн боловч түүний дараагийн том сорилт нь дэлхий дээрх 5G сүлжээг бий болгож байна. AT өрсөлдөх төлөвлөгөөнийхөө нэг хэсэг болох..."
+  },
+  "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale": {
+    "title": "4K Blu-Ray дээрх КПОП Демон агуулагч нь Netflix Дээд зэрэглэлийн нэг сар хүрэхгүй үнэтэй",
+    "summary": "КПИП Демон агнууруудын 4K Blu-Ray дискний хувилбарыг худалдан авах нь зарим хүмүүст, ялангуяа $ 26.99 Netflix Дээд зэрэглэлийн захиалгыг зөвхөн 4K-д хит хөдөлгөөнт анимацтай үзэхийн тулд ухаалаг санаа болж байв. Гэхдээ Барнс, Нобл, Ама нараас ердөө 24.99 $..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy": {
+    "title": "Мэдээллийн төвийн бүх сүүлийн үеийн шинэчлэлтүүд",
+    "summary": "Томоохон шинэ мэдээллийн төвүүд бол технологийн компаниудын найдвар, AI-ийн мөрөөдлийн физик суурь юм. Гэхдээ агуулахуудаар дүүрэн эрчим хүчний бодисын серверүүдийг өргөтгөхөд яаралтай ажиллах нь эрчим хүчний сүлжээ, хэрэглээний төлбөр, ойролцоох олон нийтэд үзүүлэх нөлөөллийн улмаас дэлхийн өнцөг булан бүрт тулалдаанд нэрвэгдэж байсан..."
+  },
+  "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale": {
+    "title": "Шурын алдартай нэвтрүүлэг болон урсгал микрофон нь бараг $ 50 OFF байна",
+    "summary": "Шүрэ Mv7 Plus нь урсгал болон подкастуудтай түгээмэл байдаг боловч найз нөхөд, хамтран ажиллагсадаа уулзалт, залгамжлах дуудлагад нөлөөлөх нь адилхан ач холбогдолтой юм. Энэ нь одоогоор Amazon, Гитар төв, Шюрээс шууд борлуулагчдад $ 255 тэмдэглэгдсэн байна. Энэ бол…"
+  },
+  "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote": {
+    "title": "Lame duck Конгресс нь үнэндээ ямар нэг зүйл хийж магадгүй: эрчим хүчний төслийг хурдасгах",
+    "summary": "Эрчим хүчний төслүүдийг онлайнаар хийхэд нь туслах асар их зөвшөөрөл авах төслийг Америкчуудын хувьд илүү хурдан, бага хэрэглээний төлбөр хийх нь хоёр талын дэмжлэгтэйгээр ахиц дэвшиж байна. Мөн энэ нь маш олон цэвэр эрчим хүчний хурдасгагч байж болох ч бохирдуулагч төсөл, лими хурдасгаж болно..."
+  },
+  "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces": {
+    "title": "Meta‘s Muse AI нь одоо танд хэрэгтэй програмын хувилбарын хувьд \"зай\" -г үүсгэх боломжтой.",
+    "summary": "Мета нь одоо танд Музузей дотор өөрчилсөн, апп-тай төстэй туршлагыг бий болгох боломжийг олгоно. \"зай\" гэж нэрлэдэг шинэ боломж нь хиймэл оюун ухааны туслах нь дэлгүүрийн төв, сургуулийн хяналтын самбар, хөгжмийн Tracker, trivia тоглоом гэх мэт зүйлсийг бий болгох боломжийг олгодог бөгөөд энэ нь Muse-д шууд холбогдож болох юм."
+  },
+  "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video": {
+    "title": "Амазон одоо Мелани Трамп телевизийн цуврал хийж байна",
+    "summary": "Энэхүү жилийн эхэнд илтгэл тавьсан Мелани улсын баримтат киноны дараа Амазон анхны эмэгтэйд зориулан хоёр хэсгийн анхны видео цуврал хэвлэн нийтлэхээр төлөвлөж байна. Мелани: Энэ цуврал арваннэгдүгээр сарын 20 - нд эхэлнэ. \"Мелани, Цуврал урьд өмнө хэзээ ч хэлсэнгүй..."
+  },
+  "https://www.theverge.com/tech/1028835/white-house-residential-proxy": {
+    "title": "Хэн ч White House IP хаяг руу нэвтрэх эрхийг түрээслэх боломжтой тухай л",
+    "summary": "Цагаан ордны хэн нэгэн үйл ажиллагаа явуулж байгаа програм хангамжийг ашиглан гадныхныг ерөнхийлөгчийн сүлжээнд \"хэдхэн доллараар\" түрээслэх боломжтой бололтой. Энэ нь аюулгүй байдлын фирмүүд Layer3 Intel болон Synt-ийн үр дүнгээс хамаарч байна..."
+  },
+  "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files": {
+    "title": "Кобо удахгүй танд үнээр төхөөрөмжүүд дээр өөрийн э-номыг байршуулах болон синхрончилох боломжийг олгоно",
+    "summary": "Кобо нь сарын захиалгын шинэ үйлчилгээг танилцуулж байгаа бөгөөд энэ нь таныг өөрийн э-ном болон баримт бичгийг компаний серверүүдэд байршуулах боломжийг олгодог бөгөөд тэдгээр нь таны унших явц, онцлох үйлдэл, тэмдэглэл зэрэг олон төхөөрөмжүүд болон програмуудтай ижилсэх болно. Кобо стек simi..."
+  },
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5": {
+    "title": "Төслийн үдэшлэг: Клод MMORPGs тоглодог - Антропик",
+    "summary": "Төслийн үдэшлэг: Клод MMORPGs антропик  тоглодог"
+  },
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1V5eTlOcFp2WTMzTmxDVlJrVEN3NkxtclJ0WWd1ZmNCOEFoeGlxSlY4aE96QWJlUmZtV0FZa1R2X1Q1MTJ4M0d0Zl9KSXRiT0tnMmluc01mVmN5NmhJbXlRWnB1bm1mbkF4dThtTVFsWjN1UkM0ZURzR3VqTUdrRXNKLXlSanhzNnFKYUNDc1FMTVBjWUNISDJwcExPNmRPVlhXOTBB?oc=5": {
+    "title": "Гүйцэтгэх захирал үүсгээрэй КАРТ-Т эсийн хөдөлгүүрүүдийг богиносгохын тулд Клод ашиглан \"асар том боломж\" -ийг хардаг - Fierce Biotech",
+    "summary": "Гүйцэтгэх захирал үүсгээрэй КАРТ-Т эсийн хөдөлгүүрийг богиносгохын тулд Клод ашиглан ‘асар том боломж’ -ийг хардаг"
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCSU9YMTU4eXZjZ2lISEd1OXNMSXVOb0JESS1WZE5VaWlBUV9hUzA2RmtrX1BjSG9KemFhLXkwUEhQdVAwQUtRdmxhVnh1aUhUNkltM3Q1U196WTZIVGd5X2w0Q2UxNWlWN25V0gFwQVVfeXFMUEVId1RlTy1yTTdyT0VPVUhhVkMyQ0V2UWZ4TjFKMXB3SDdDNXNjeGhRNjFoODl1M3B4TEQ2dVVFV244TzF6d3pYdjJPTjlWcFZWSE80eC0xUU5nMFZrUjgtZ0E0ZnRaaWdLT293RlJaZA?oc=5": {
+    "title": "Антропийн Клодын код нь HTTP хэрэглэгчийн тусламжтай толгойн тусламжтайгаар хэрэглэгчийн имэйл хаягийг гаргадаг гэж мэдэгдсэн - CyberSecurityNews",
+    "summary": "Антропийн Клодын Кодны мэдээгээр HTTP хэрэглэгчийн имэйл хаягийг ашиглан гаргадаг. Кибер аюулгүй байдлын  мэдээ"
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQURicUhYclN6VEZ0VEtFVW5uSVpzZEY2VktKRS11RXhaVTdFbWF3MnBZMTVvOWVtMzlnNW5OLTh4em9waGMxSTF0anNUWnBNSmVBaDlXQTBmQnJsNGZTYUR2UXJJX1NrZVBCaDg2YWtHY0h3b2ZqNlF1UXV2U1ktWGxsanEyNnVXcF9YY0x6d0h6X2tiZGU3Sl8xOGF6RnNMbnc2aWdwc3BNR05Iclc1dw?oc=5": {
+    "title": "Кибер аюулгүй байдал, зураг, санхүүжилтийн зориулалттай OpenAI болон Антропик дусал шинэ AI хэрэгсэл - CNET",
+    "summary": "Кибер аюулгүй байдал, зураг, санхүүжилтийн CNET-ийн OpenAI болон Антропик дусал шинэ AI хэрэгсэл"
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGVPOGo1UDd1TUxtU3AybjA3MXhXeWJmU0lkNndvc29oeTBpTWFJTnJJR3ZWSXlPak9rQUVSM2ZsbEFVUGlEdjMxMm5VbEtSdWprb3liSkp3dFFSdnJXMVBoM1dyQTJZNDZMMTc3UmgxVTFiUHpEcEJubVNUYTZlOGVFMkRNdGh1b3VuX3F5ekJwSGdFV21GNWFHVFRlZDIzdkRUZnhfdVhRa25ZZXRPWG02S0FXSURhbjBYMUZTekRVZw?oc=5": {
+    "title": "Антропик НАСДАК-ийн жагсаалтаас өмнө Клодын хувийн санхүүжилтийг эхлүүллээ - PYMNTS.com",
+    "summary": "Антропик НАСДАК-ийн жагсаалтыг PYMNTS.com-ийн өмнөх Клод Хувийн Санхүүжилтийг  эхлүүлжээ"
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWI5RFEyN1o0TUlzY0x6OUp4Y2JvWm1VSTJlTWx6cFZCaUxjdDVnNlJHRzMxZmgzTjE1WHhRelRXN2JXa0ZvZ29WYm9XQURTSS1QMmdnWHhoTzd4RFJGd0JsbnRPOWwwcnRkdzFRZ1dVVG9rUlpfSlVLNGdsdzlqR2I3Y3ltMHIyN2Njd0pzNmd2S19UMVI3MHpJNGRhOE52TzlITEhLa0pELXllNWc?oc=5": {
+    "title": "Битгий хэлээрэй Клод: Антропийн бусад шинэ дүрэм - Forbes",
+    "summary": "Битгий хэлээрэй Клод: Антропийн Forbes-ийн бусад шинэ дүрэм"
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQU9vQVQzS0dZY1NSMXFIUm1iZ0ZSQk5CaVREeDdidTlRTkxzaEM3cjJIS0I4VVFRNjFhdkoyeC1KOFpINkN6cjlqMkNMRm5XWWY4LW1wUlpiTHoyZmF5NVM2M0MzLUJOaU4zZFJjVnZ5bkVvQVZSV2tMM0Q0cUtIYzR1ZE9BUFIzSG54U0FheGVwYlg3NEdyNmNxN3JSdlRENmVSdGxtbVNJMUJVSFHSAbYBQVVfeXFMTUlHSjlNcWlIUnNHc2tZazU5Z21tREg3WkJacVEwUWRleExLUkpKTXAyYV9UbWNoeTUtQ19DN3NwOGxUUVphbTRmYXlBemYzbkFVRlhhX1gtc2FhYUdJY3R5MVhOZC1Wa0ppRWpJdF9Yc3J5MHVzYXh2cXFkeW4zX25hajVzRFB6LXBKQ0lfek5CZW0xTWphSzhKX25sVERqd19yNzRjQXRtNGVWQ0cyLVdLSEYyQXc?oc=5": {
+    "title": "Клодын хувийн санхүүгийн онцлогийг антропик өнхрөх - NDTV",
+    "summary": "Клод NDTV-ийн хувийн санхүүгийн онцлогуудаас Антропик өнхрөх"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-07/trump-names-miller-chief-of-staff-axios-vance-leads-iran-push": {
+    "title": "Трампын нэр Тамгын газрын дарга, Аксиос: Ванс Ираны тулгуурыг хөтөлдөг",
+    "summary": "Эх сурвалж: Блүүмберг, 6:07"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-07/what-democrat-party-s-victories-in-us-midterms-means-for-asia": {
+    "title": "Ардчилсан намын ялалт Азид ямар ач холбогдолтой вэ?",
+    "summary": "Гэхдээ Азид хэрхэн нөлөөлөх вэ?"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-07/stephen-miller-new-chief-of-staff-axios-vance-leads-iran-push": {
+    "title": "Стивен Миллер Нью Тэргүүн, Аксиос: Ванс Ираныг түлхэх ажлыг хөтөлдөг",
+    "summary": "Эх сурвалж: Блүүмберг, 5:30"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/hong-kong-restaurant-review-the-boar-serves-british-pub-food-made-for-foodies": {
+    "title": "Хонг Конг Рестораны тойм: \"Боар\" хүнсний бүтээгдэхүүнд зориулагдсан Британий пабын хоолоор үйлчилдэг",
+    "summary": "Загас чипс ч мөн адил, кофены шаврын наалдамхай нь зогсонги байжээ."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-06/bloomberg-hot-pursuit-ford-s-mike-levine-podcast": {
+    "title": "Блумберг Халуун Пьютит!: Фордын Майк Левин (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-06/masters-in-business-ann-berry-podcast": {
+    "title": "Бизнесийн магистр: Анн Берри (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-06/miller-new-chief-of-staff-openai-closes-funding-at-1-25t-value": {
+    "title": "Миллер шинэ ажилтны захирал, OpenAI нь $ 1.25 -ийн үнэ цэнээр санхүүжилтийг хаасан",
+    "summary": "Эх сурвалж: Блүүмберг, 4:54"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-06/anthropic-ipo-seen-as-ai-s-reckoning-evening-briefing-americas": {
+    "title": "Антропийн IPO нь AI-ийн Reckoning: Үдшийн товч танилцуулга Америкууд",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-06/bloomberg-money-november-6th-2026-podcast": {
+    "title": "Блумберг Мөнгө: 2026 оны 11-р сарын 06 (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-06/stock-movers-marvell-cleanspark-applovin-podcast": {
+    "title": "Нөөцийн Movers: Marvell, Cleanspark, Applovin (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://twitter.com/discord/status/2118755849367896539": {
+    "title": "Rusty Discord-тай гарааны хугацааны зөрүүг харах",
+    "summary": "Артикулын URL: https://twitter.com/discord/status/2118755849367896539 Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50395814 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/": {
+    "title": "Nvidia өнгөрсөн жил $ 100м гаруй эргэлтэд 11 гарааны эргэлтэд 1 болж байв",
+    "summary": "Артикулын URL: https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50392256 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/building-a-business/how-to-properly-lead-a-team-when-the-founder-still-calls-every-shot": {
+    "title": "Үүсгэн байгуулагчийг хальт бүрийг дуудах үед багийг зөв удирдах нь",
+    "summary": "Үүсгэн байгуулагдаад тайлагнах нь менежер рүү мэдээлэхээс ялгаатай. Энэхүү онцгой харилцааны ажлыг хийх дөрвөн арга бий."
+  },
+  "https://www.entrepreneur.com/building-a-business/customers-use-ai-search-still-googling-you": {
+    "title": "Таны үйлчлүүлэгчид хиймэл оюун ухааны хайлтыг ашиглаж байна. Тэд бас та нарыг гоожлож байна. Таны маркетингийн стратеги дутуу байж болох юм.",
+    "summary": "Шинэ үзэгчдийг олох нь хиймэл оюун ухааныг хайх Google-ийг солих гэсэн санаанд ашигтай залруулга юм. Мөн бизнесүүд нээлт, хэмжилтийн талаар хэрхэн бодох ёстойг өөрчилдөг."
+  },
+  "https://www.entrepreneur.com/business-news/tight-budget-this-familiar-destination-could-help-you-cut-expenses": {
+    "title": "Танил болсон газар нь зардлыг нь багасгахад тусална.",
+    "summary": "Төсөвтөө бага зай эзэлдэг тул хүмүүс орхисон байж болзошгүй танил нөөц рүүгээ эргэж байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/how-to-improve-ai-visibility-for-businesses": {
+    "title": "Таны бизнес хиймэл оюун ухаанд харагдахуйц байж болох юм. Энэ долоо хоногт хийж болох 7 энгийн засаглалыг энд оруулав.",
+    "summary": "Үйлчлүүлэгчид танай бизнесийг олж, үнэлэхэд тусалдаг долоон практик вэбсайт, агуулга, итгэлцлийн тохируулга бүхий AI харагдах байдлыг хэрхэн сайжруулах талаар суралц."
+  },
+  "https://www.entrepreneur.com/building-a-business/how-i-built-a-fully-remote-global-team-without-spending-a-dollar-on-job-ads-or-recruiters": {
+    "title": "Зар сурталчилгаа эсвэл сонгон шалгаруулагчдад доллар зарлахгүйгээр дэлхийн бүрэн зайн багийг хэрхэн байгуулсан бэ?",
+    "summary": "Цахим үйлчилгээг үзүүлдэг авьяас чадварын ертөнцтэй. Үүнийг та хэрхэн ашиглаж болох вэ?"
+  },
+  "https://www.entrepreneur.com/business-news/this-violinist-beat-350000-applicants-to-become-snoop-doggs-10000-a-month-ice-cream-taster": {
+    "title": "Энэхүү хийлчийг устгасан 350,000 хүн Snoop Dogg-ийн $ 10,000-а-сарын Ice Cream Taster болох өргөдөл гаргагчид — Энд тэр Chord-ийг хэрхэн Struck байна",
+    "summary": "Концерт хийлч Аннабелл Травес тэр Snoop Dogg компанид $ 10,000 сар тутмын гиг амтат зайрмаг хэрхэн үнссэн талаар тайлбарлажээ"
+  },
+  "https://www.entrepreneur.com/business-news/after-elizabeth-holmes-ate-his-product-everything-changed-for-his-business": {
+    "title": "Элизабет Холмс Тэгсэнийхээ дараа бүх зүйл өөрчлөгдөн «Энэ нийт, олон сая доллараар байна»",
+    "summary": "\"Think Jerky\" -ийн үүсгэн байгуулагч Рики Хирш брэнд нь дэлгэцээр гарч ирэхдээ \"балмагдсан\"."
+  },
+  "https://www.entrepreneur.com/business-news/apple-is-reportedly-slashing-ai-budgets-heres-why-employees-are-worried": {
+    "title": "Apple-ийн Slashing AI Budgets-ыг тайлагнадаг. Ажилчид яагаад санаа зовж байгаад байна вэ?",
+    "summary": "Apple нь хиймэл оюун ухааны хэрэгслийн хувьд зардлын хөнгөлөлтийг багасгаж байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/why-entrepreneurs-need-to-stop-carrying-everything-to-keep-their-business-growing": {
+    "title": "Бизнес эрхлэгчид ажлаа өргөжүүлэхийн тулд бүхнийг зөөх хэрэгтэйн учир",
+    "summary": "Бизнес эрхлэгчид өөрсдөө хичнээн хариуцлагатай үүрэг гүйцэтгэж байгаагаа тэмдэглэдэг. Гэхдээ бизнес эрхлэгчид өсөхийн хэрээр бүх юмыг авч явдаг."
+  },
+  "https://www.entrepreneur.com/business-news/sam-altman-took-on-a-new-identity-ram-altman-to-survive-internet-trolls": {
+    "title": "Сам Алтман интернетийн троллейбусыг амьд үлдэхийн тулд \"Рам Алтман\" гэсэн шинэ нэртэй танилцсан",
+    "summary": "Компьютерийн хэрэглэгчид RAM-тэй \"аймшигтай\" гэж нэрлэсэн хүндтэй давхцалдсаны дараа OpenAI-ийн гүйцэтгэх захирал царайг аврахын тулд 180 хүндрэлтэй оролдсон."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay": {
+    "title": "Дансны довтолгоо нь Парагвай дахь Трампын холбоотоноос татгалзсан нь",
+    "summary": "Парагвайн Юно банкны SA-ийн хаалгаар дайран өнгөрөхөд ямар нэг юм тасарсан гэж сэжиглэж байв."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/the-corner-store-brings-nyc-experience-to-vegas-strip-video": {
+    "title": "Булангийн дэлгүүр Нью - Йоркийн туршлага Лас Вегасын зурвасыг авчирсан нь",
+    "summary": "Космополитан дахь булангийн дэлгүүрийн Лас Вегасын байршлыг нээж байна. Хамтран үүсгэн байгуулагч, түнш Eugene Remm хэлэхдээ 150 суудалтай ресторан нь Вегас-sp санал болгохоос илүү 75 суудалтай Нью-Йоркийн анхны 75 суудалтай SoHo-ийн дотно, жинхэнэ туршлагыг хадгална гэжээ."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/elanco-shares-jump-after-q3-beat-and-outlook-raise-video": {
+    "title": "Q3 Beat ба Outlook-ийг босгосны дараа Elanco Shares Jump",
+    "summary": "Компани нь хүлээлтээс дээш дөрөвний гуравдахь орлого мэдээлснээс хойш Еланко Малын Эрүүл Мэндийн хувьцаа ойролцоогоор 8% өссөн ба жилийн бүрэн үзэл бодлыг өсгөсний дараа өссөн байна. Эланко компанийн Ерөнхийлөгч, гүйцэтгэх захирал Жефф Симмонс үүнийг өндөр чанартай улирал гэж нэрлээд 11% -ийн өсөлт, өргөн хүч чадлыг marke даяар дурдсан..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/sweetgreen-ceo-on-earnings-sales-rebound-video": {
+    "title": "Sweetgreen CEO нь Cyclospora-тай холбоотой замын хөдөлгөөний дусал хийсний дараа борлуулалтын урвалт гэж хэлж байна",
+    "summary": "Sweetgreen CEO болон үүсгэн байгуулагч Жонатан Нман зун Cyclospora-ийн дэгдэлтээс хойш борлуулалтын эрч хүч сайжирсан нь Sweetgreen-ийн дэлгүүрүүдтэй холбоотой боловч салбар дахь хөдөлгөөнд хохирол учруулсан гэжээ. Компани нь буцах тн-ийн дараа 10-р сарын ойролцоогоор 5% -ийн борлуулалтын өсөлтийг..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video": {
+    "title": "Нийлүүлэгчийн эрэлт хэрэгцээгээр FIGS-ийн орлого бууруулна, Гүйцэтгэх захирал Трина Спирт Гэнэ",
+    "summary": "FIGS нь хүлээлтээс дээш гуравдагч улирлын дээд болон доод шугамын үр дүнгийн талаар мэдээлсэн бөгөөд энэ нь 182.8 сая долларын тооцоотой харьцуулахад 190.7 сая ам .долларын орлого олсон байна. Тус компани дор хаяж 25% -ийн орлогын өсөлтийг дөрөвдүгээр улирал дараалан бүртгэсэн; оёдолгүй хувцасны орлого 35%, олон улсын мэдээгээр өссөн…"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags": {
+    "title": "Браскем өмчлөгчдийг өрийн яриа болгон санхүүжүүлэх санал болгох Snag хит",
+    "summary": "Бразилийн Браскем Сири болон түүний зээлдүүлэгчдийн хооронд яриа нэмэгдсэн, хувьцаа эзэмшигчид хэрэв яриа нь яг адилхан бол ширээн дээр санал болгож буй капитал тарих түлхүүрийг авч, тухайн асуудалтай танилцсан хүмүүс."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/ai-generated-movie-heading-theaters-video": {
+    "title": "AI-гаар үүсгэсэн киноны гарчиг театрууд",
+    "summary": "Хиймэл оюун ухаан туршилтын видеонуудаас том дэлгэц рүү хөдөлж байна. Fable Studio-ийн гүйцэтгэх захирал Эдвард Сахатчи хэлэхдээ, ердөө л 30 хүний баг ердөө л бурхад өгдөггүй бэлэг бий болгоход зарцуулсан бөгөөд энэ нь хүний захирал, зохиолч, дуу хоолойны актод тулгуурладаг AI-ан бүтээсэн онцлог шинж чанар юм."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video": {
+    "title": "Технологийн компаниудад капитал олгох: Анн Берритай бизнесийн магистр",
+    "summary": "Барри Threadneedle-ийн үүсгэн байгуулагч, удирдах хамтрагч Анн Берритэй ярилцав. Тэд Goldman Sachs M&A, хувийн өмчөөс цар тахлаар дамжуулан зочломтгой үйлчилгээний компани ажиллуулж байгаа талаар ярилцав. Мөн тэд ANN-ийн эрт үе шаттай бооцоог AI ба гүнзгийрүүлэн илрүүлэх, SU..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs": {
+    "title": "9 есдүгээр сараас хойш Канадын долларын хамгийн муу долоо хоног гараагүй",
+    "summary": "Канадын доллар 9-р сарын сүүлээс есдүгээр сарын сүүлээр дотоодын ажил эрхлэлтийн дата нь тус улсын эдийн засгийн хэтийн төлөвийн талаархи асуудлыг бэхжүүлсэний дараа хамгийн их долоо хоногийн алдагдалыг тавьсан."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/ann-berry-on-the-importance-of-learning-ai-video": {
+    "title": "Анн Берри суралцахын ач холбогдлын талаар",
+    "summary": "Барри Threadneedle-ийн үүсгэн байгуулагч, удирдах хамтрагч Анн Берритэй ярилцав. Тэд Goldman Sachs M&A, хувийн өмчөөс цар тахлаар дамжуулан зочломтгой үйлчилгээний компани ажиллуулж байгаа талаар ярилцав. Мөн тэд ANN-ийн эрт үе шаттай бооцоог AI ба гүнзгийрүүлэн илрүүлэх, SU..."
+  },
+  "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1": {
+    "title": "Трамп нь цагаачлалын хатуулагтай Стивен Миллерийг ажилтнуудын эрхлэгчээр тохируулдаг",
+    "summary": "Сюзи Виллсийг орлуулах шийдвэр нь Бүгд Найрамдах намын дундын сонгуулийн ялагдал гарснаас хойш хэдэн өдрийн дараа ирнэ"
+  },
+  "https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1": {
+    "title": "Үе мөчрийг гишгэсний дараа хэн галд ордог вэ?",
+    "summary": "Трампын захиргаа нь АНУ-ын дундуур Ардчилсан Тамгийн ялалтыг батлан харуулдаг"
+  },
+  "https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1": {
+    "title": "Жеймс Таларико: Техасыг цэнхэр болгожээ ардчиллын өсөн нэмэгдэж буй од",
+    "summary": "Тэр 37 настай сенаторын сонгогдсон христиан итгэл, авлигын эсрэг мессежийг олон арван жилийн турш зүүн тийшээ түрүүлсэн анхны улсынхаа ялалтыг"
+  },
+  "https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f?syn-25a6b1a6=1": {
+    "title": "Миний багцын буцаалт баатраас тэг болтлоо (үнэндээ би тэг авах болно)",
+    "summary": "Азийн сангийн нэг хувьцаа намайг хэдэн сар ухаантай харав. Одоо тийм ч их биш"
+  },
+  "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1": {
+    "title": "Дэлхийн тариф ямар ч ашиггүйг Трамп сургасан",
+    "summary": "Бүгд найрамдахчууд сонгуулийн дундуур нуугдсан нь мөсгүй хамгааллын эдийн засаг, улс төрийн зардлыг харуулсан"
+  },
+  "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1": {
+    "title": "Антропик нь $ 1.5тн үнэлгээг чиглүүлэх IPO-тэй урагшлах",
+    "summary": "Клод үйлдвэрлэгч хүчирхийллийн технологийн замыг үл харгалзан Талархлын өмнө жагсаахаар төлөвлөж байна"
+  },
+  "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1": {
+    "title": "Бага профайл Wall Street фирм технологийн чиглүүлэлтийг үл харгалзан антропикийг хоёр дахин нэмэгдүүлэх",
+    "summary": "XN хувийн дугуй хөрөнгө оруулалтаар дамжуулан AI лабораторид $ 5.3bn гадас хуримтлагдсан"
   }
 }
