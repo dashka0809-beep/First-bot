@@ -12598,5 +12598,313 @@
   "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1": {
     "title": "Бага профайл Wall Street фирм технологийн чиглүүлэлтийг үл харгалзан антропикийг хоёр дахин нэмэгдүүлэх",
     "summary": "XN хувийн дугуй хөрөнгө оруулалтаар дамжуулан AI лабораторид $ 5.3bn гадас хуримтлагдсан"
+  },
+  "https://hunch.net/?p=13764006": {
+    "title": "Microsoft Research's AI Frontiers бүлгийн төгсгөл",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again": {
+    "title": "Клод Кодын \"Дахин асуухгүй\" нь 1,122 олон нийтийн GitHub файл дахь нууц үгийг илчилдэг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/": {
+    "title": "GitHub Шинэ татах хүсэлтийн хуудсыг олон нийтэд харах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.bosscher.ch/posts/openstick/": {
+    "title": "Би $ 10 USD OpenStick homelab дээр ажиллаж байгаа зүйл",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you": {
+    "title": "Apple-ийн саарал жагсаалт: Таны Iphone үг ба хэллэгүүд танд үсэг бичихэд тусална",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/": {
+    "title": "Дөрвөн 2с (2025) бүхий бүхэл тоо хийх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://maxxbench.unlap.ai/research/why-maxxbench/": {
+    "title": "MaxxBench – \"Сайхан гүнзгий оноо. Гэхдээ үнэн үү?\"",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/hedgerow-dev/coldframe": {
+    "title": "НҮ-ний харуул: Супермаркет хөргөгч хянагчаар ажилладаг зөгийн балны хэсэг болох Хүйтэнфрам",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/": {
+    "title": "Уран куб нь Германы цөмийн төсөл яагаад бүтэлгүйтсэнийг илтгэнэ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://nfsu2.xyz/": {
+    "title": "Хурдны газар доорх 2 онлайнаар хөтөч дээр хэрэгтэй",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/": {
+    "title": "Үеийн дараагаар бүх зүйл Елон Маск, мэдээллийн төвүүдэд чулуу харагдаж байна",
+    "summary": "Үнэт цаасны дээр бид технологийн салбарын дунд үе мөчний утгыг задалж аваагүй."
+  },
+  "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/": {
+    "title": "АНУ-ын тагнуулын мэдэгдэлд заасны дагуу Megaspeed exec нь Nvidia-ийн гүйцэтгэх захиралд тагнуулын ажилд авна",
+    "summary": "Энэ оны эхээр тархсан нэг мэдэгдэл мэдэгдэв. Хятадын Төрийн аюулгүй байдлын яам Nvidia компанийн гүйцэтгэх захиралд тагнахаар эмэгтэй технологийн удирдлагыг элсүүлсэн гэжээ."
+  },
+  "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/": {
+    "title": "Эцэг эхчүүд хүүхдүүдэд аюулгүй гар утас хэрэглэхийг хүсч байна. Эдгээр компаниуд дуудлага хүлээн авч байна.",
+    "summary": "Эцэг эхчүүд хязгаарлагдмал ухаалаг гар утаснуудын хувилбарыг эрэлхийлэхийн хэрээр өсч буй тоо нь хүүхдүүдэд тусгайлан зориулагдсан утас, функц хязгаарлагдмал хөдөлгөөнт төхөөрөмжөөс хамгийн бага гэрийн гар утас хүртэл барьж байдаг."
+  },
+  "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/": {
+    "title": "Бинанс СХЗ 6.3 тэрбум $ хакердсаны дараа \"шинэ аж ахуйн нэгжийг мөрдөх\" гэж байна",
+    "summary": "Хакерууд Binance хэрэглэгчдийн $ 6.3 тэрбум ам .долларыг хулгайлснаас долоо хоногийн дараа бараг илүү мэдэгдэл ирнэ."
+  },
+  "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/": {
+    "title": "Амазоны шинэ үндсэн Kindle танд бүх хонх, шүгэл хэрэггүй гэдгийг баталж байна",
+    "summary": "Амазоны шинэчилсэн үндсэн Kindle нь урьдынхаасаа илүү өртөгтэй боловч илүү хөнгөн барьж, сайжирсан дэлгэц нь үнийн загварыг алгасахын тулд зайлшгүй хэрэг болдог."
+  },
+  "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/": {
+    "title": "Скаутын програмыг хаах нь эриний төгсгөлийг харуулж байна",
+    "summary": "Скаутын загварыг анхлан, VC олон пүүсүүд дагаж мөрддөг байсан бол одоо энэ загвар нь хязгаарлагдмал болж байгаа юм шиг санагдаж байна."
+  },
+  "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/": {
+    "title": "Урд эгнээнээс халуун суудал хүртэл — дундажууд нь Big Tech-ийн юу гэсэн үг вэ",
+    "summary": "Цагаан ордонд эвтэй байж хоёр жил болсоны дараа Big Tech гэнэт ардчилсан ардчилалтай найз нөхөдтэй болох гэж оролдож байгаа бөгөөд нээлттэй асуулт нь тухайн улс төр, орон нутгийн иргэд, зах зээлд ямар үүрэг гүйцэтгэхээс сэргийлж чадах эсэх юм."
+  },
+  "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/": {
+    "title": "Крузео нь Вайоминг мэдээллийн төвийн төслийг Google рүү зардаг",
+    "summary": "Энэхүү гэрээ нь асар их хиймэл оюун ухааны дата төвүүдийг хөгжүүлэхэд тулгарч буй бэрхшээлүүдийг онцолдог."
+  },
+  "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions": {
+    "title": "Хэт ягаан туяаны дагалдах эрдэнийн намайг зөвхөн миний гадаад төрх бус, нарны гэрэл миний эрүүл мэндэд хэрхэн нөлөөлж байсныг бодоход хүргэсэн",
+    "summary": "Лос Анжелес хотын 90 - аад он хүртэлх температурт дулаанаас зайлсхийж, 8 - р сард гэрийнхэн маань гадаа үдэшлэгт байх үедээ дулаанаас хол байх нь огт боломжгүй юм. Ойрхон байдаг хүчирхэг сэнстэй хашааны дээгүүр суудаг байв. Хагас цагийн дараа, би..."
+  },
+  "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale": {
+    "title": "Costco members to get $ 5 on the reimagined Ocarina of Time",
+    "summary": "Зарим жижиглэн худалдаачид Зельдагийн сэргээсэн алдарт урьдчилан сэргийлэх хөнгөлөлт үзүүлж байсан. Costco-ийн гишүүд одоо дижитал хувилбараас $ 5-г авах боломжтой бөгөөд үнийг 54.99 $ руу бууруулж болно. Жил бүр авч байна..."
+  },
+  "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview": {
+    "title": "Discogs ’Кевин Левандовски AeroPressгүйгээр амьдарч чадахгүй",
+    "summary": "Таван жилийн өмнө Кевин Левандовски Discogs байгуулжээ. Бичлэг худалдан авах, борлуулах зах зээл, мэдээж, гэхдээ илүү ихээр нэмэгдсэн. Энэ нь гайхмаар ойлгомжтой..."
+  },
+  "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": {
+    "title": "NYT Cooking's AI assistant миний долоо хоногийн шөнийн тахиа аварсан ч бараг л миний бялуу эвдэрсэн",
+    "summary": "Өдөр бүр 7 оройн 7 цагаас өмнө би нөхөртөө гомдоллохгүй ямар нэг юм хийхээр шийдэж, хөргөгчний өмнө зогсож байна \"гэж дахин тахиа уу?\" Тийм ээ, би илүү хооллох хэрэгтэй, гэхдээ би тэгэхгүй, энэ бол би байгаа газар. Тахианы ердийн шөнийн тулаан..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": {
+    "title": "АНУ - ын Nvidia Хятадын хоосон газруудад чипс зардаг болгожээ",
+    "summary": "Худалдаа, NVIDIA компанийн H200 AI чипсийг зохицуулахын тулд арилгасан хятад компаниудын оношлогоог шалгаж үзэхэд Худалдаа, NVIDIA аль нь ч өөрсдийн магадлан судалгаагаа хийж байгаа талаар санаа зовж байгаа юм. Нью Йорк Таймс сэтгүүлд бичсэнээр, Нью матриц нь батлагдсан фирмийн жагсаалтад багтсан боловч түүний оффис..."
+  },
+  "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": {
+    "title": "AI кибер аюулгүй байдлын ертөнцийг хугалав. Дараа нь яах вэ?",
+    "summary": "Одоо би танил, кибер аюулгүй байдлын мэргэжилтэн Алекс Стамостай ярилцаж байна. Энэ дугаар нь бодит амьдралд AI-ийг үзэж буй тусгай цувралуудын нэг хэсэг юм. Алекстай ярилцах надад дандаа сайхан байдаг, учир нь тэр ийм г..."
+  },
+  "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash": {
+    "title": "Сайн салхи, Cybertruck!",
+    "summary": "Би үүнийг дуудаж байна: Үхлийн цаг, 11-р сарын 06, 1:30 цаг, твиттерээр. Дараагийн жил Тесла Киберкабын үйл ажиллагаа явуулахаар \"ороомог дуугарах\" болно гэж Елон Маск хэдэн шалтгааны улмаас гайхаж байв. Нэгдүгээрт, энэ нь алах нь ичгүүртэй арга байсан..."
+  },
+  "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer": {
+    "title": "Зельда эргэж ирсэн бөгөөд урьдынхаасаа ч дээр",
+    "summary": "Сайн байна уу, найзууд! 151-р суулгагчд тавтай морилно уу, дэлхийн хамгийн сайн, үзэгчдийн хамгийн сайн зүйлсийн удирдамжийг тавтай морилно уу. (Хэрэв та энд шинэ бол тавтай морилно уу, албан ёсоор муу амралт кино улирал бөгөөд та Суулгагчийн нүүрэн дээрх бүх хуучин хувилбаруудыг уншиж болно.) Энэ долоо хоногт би..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": {
+    "title": "Антропийн автоматжуулалтын хиймэл оюун ухааныг хөгжүүлэх талаар шинэ тайлан яагаад сэтгэл түгшээж байгаа судлаачид",
+    "summary": "Антропик нь AI-ийг илүү хүчирхэг AI бүтээхэд ашигладаг. Компанийн загварууд нэг жилийн өмнө ойролцоогоор хоёр удаа сайжирч, удааширч байгааг илтгэхгүй бололтой. Энэ нь AI-ийн аюулгүй байдлыг хангасан Пүрэв гаригт нийтэлсэн шинэ тайланд заасны дагуу..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation": {
+    "title": "НээлттэйAI нь $ 1.25 их наяд доллараар үнэлэгдэж, өрсөлдөгч Антропик нь IPO-д ойрхон байна",
+    "summary": "Bloomberg-ийн мэдээлснээр OpenAI нь одоо 1.25 их наяд доллараар үнэлэгдэж байгаа бөгөөд энэ нь 11 тэрбум ам .долларыг босгосон шинэ санхүүжилт юм. Энэ нь гуравдугаар сард хөрөнгө оруулагчдаас 122 тэрбум ам .долларын үнэлгээг гаргасны дараа дэлхийн хамгийн үнэ цэнэтэй компаниудын нэг болох юм.…"
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLW9QUXo1Zktyc2dQVzZmUlo0aUxnUTJiRWpsSm1fMkptWkJpdXVjNkk3U3VTMnRXQ2RrOGtJSmY4RlF5TWRvRVBjTDE4TTUzQk1iTXBBUEpsVGx0bk90LVNVazJhcExwYXJmMmtES0x6RktDeHRmOTRuWkxPVHlfWnYtQUc5UHBZazVic2hVYnhKUQ?oc=5": {
+    "title": "Клод одоо зүүдлэж болох уу? Антропик хүн шиг машины санах ойг судалдаг - Сонирхолтой инженерчлэл",
+    "summary": "Клод одоо зүүдлэж болох уу? Антропик хүн шиг машины санах ой  Сонирхолтой Инженерийг судалдаг"
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHFkdDVmaGQxakRpUzhDLWJTdVNuTHhiMU9lUUxIZkZmS3VFUUp0VlJ2V1ljX2FXSUJrOHFBb1JFSVJvbnVrX0VLNnZBTVdJQWlaR2R2LWxsTUdweGFDSFJEWl9nRGZncERvbWVvQXllMUZlNnVuX0NpY3pEUXpRVEQzZzVuVThKMW5jSVhKNGNMLThhcVhpQjlWWmh2Z3BySXNkQ01KaXc?oc=5": {
+    "title": "Одоо Клод хуучин загваруудаас ирсэн Watermarks текстийг татгалзахгүй - Тэмдэглэлийн дэвтэр",
+    "summary": "Тэмдэглэлгүй, хуучин загваруудаас ирсэн watermarks текстийг одоо"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-08/eisenkot-s-chance-to-form-gov-t-trump-wants-white-for-press-sec": {
+    "title": "Эйсенкотын засгийн газрыг бүрдүүлэх боломж, Трамп нь хэвлэлийн сек-д цагаан байхыг хүсч байна",
+    "summary": "Эх сурвалж: Блүүмберг, 5:48"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-07/eisenkot-s-chance-to-form-gov-t-trump-wants-white-for-press-sec": {
+    "title": "Эйсенкотын засгийн газрыг бүрдүүлэх боломж, Трамп нь хэвлэлийн сек-д цагаан байхыг хүсч байна",
+    "summary": "Эх сурвалж: Блүүмберг, 5:04"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-07/trump-s-wish-ufc-s-white-for-press-sec-herzog-to-tap-eisenkot": {
+    "title": "Trump's Wish: UFC's White for Press Sec, Herzog to Tap Eisenkot",
+    "summary": "Эх сурвалж: Блүүмберг, 5:10"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-07/trump-wants-ufc-s-white-for-press-sec-herzog-to-tap-eisenkot": {
+    "title": "Трамп UFC-ийн цагаан хэвлэл мэдээллийн сек, Герзогийг Eisenkot-руу холбохыг хүсч байна",
+    "summary": "Эх сурвалж: Блүүмберг, 5:02"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-07/gop-flips-georgia-state-race-rubio-headsto-g7-wh-shakeup": {
+    "title": "GOP флэш Гүржийн улсын Тэмцээний уралдаан, Рубио Толгойн G7, WH сэгсрэх",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-07/gunman-kills-5-in-poland-rubio-heads-to-g7-amid-wh-shakeup": {
+    "title": "Гунман Польшид 5 хүн алсан, Рубио тэргүүнээр G7-д WH сэгсрэх үед",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-07/bloomberg-businessweek-daily-chip-stocks-rebound-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: Чипийн хувьцаа буцаах (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/acs-says-it-hasn-t-considered-tender-offer-for-hochtief": {
+    "title": "ACS нь Hochtief-ийн тендерийн саналыг хүлээн аваагүй гэж хэлсэн",
+    "summary": "Испанийн инженерчлэлийн компани ACS SA нь Германы Hochtief AG жагсаалтад орсон Германы охин компани саналыг биш, мөн Hochtief өмчит АНУ-ын барилгачин Тернер Констракшн ХХК-ийн хувьцааг борлуулах талаар бодож үзээгүй гэжээ."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-07/how-bankrupt-wine-distributor-rndc-preserved-6-000-jobs": {
+    "title": "Дарсны дистрибьютор RNDC 6,000 ажлын байрыг хэрхэн хадгалсан бэ?",
+    "summary": "RNDC-ийн зээлдэгчийг ойрын хугацаанд сэргээн босгосон"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-07/bloomberg-this-weekend-trump-cabinet-changes-podcast": {
+    "title": "Энэ долоо хоногт Bloomberg: Trump Засгийн газрын өөрчлөлт (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 29:20"
+  },
+  "https://www.entrepreneur.com/building-a-business/greenwashing-wont-save-you-how-gen-z-is-rewriting-the-rules-of-brand-authenticity": {
+    "title": "Ногоон хувцаслах нь таныг хамгаалахгүй — Gen Z брэндийн жинхэнэ дүрмийг дахин бичиж байгаа нь",
+    "summary": "Gen Z брэндийн үнэн зөвийг дахин тодорхойлж, ногоон угаах, ил тод байдал, тогтвортой байдал, бодит үйлдэл шаардах бэрхшээлтэй тулгарч байгааг олж мэдээрэй."
+  },
+  "https://www.entrepreneur.com/building-a-business/being-good-at-social-media-isnt-enough-to-run-your-business-accounts-heres-what-is": {
+    "title": "\"Нийгмийн сүлжээнд сайн\" байх нь бизнес дансаа ажиллуулахад хангалттай биш юм. Энэ бол чухам юу юм.",
+    "summary": "Өөрийн багийг сургахад хөрөнгө оруулалт хийж, таны нийгмийн сүлжээ нь асуултын тэмдэг болж, таны бизнесийн хамгийн хүчтэй хөрөнгийн нэг болж эхэлдэг."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india": {
+    "title": "AI Slump нь Азийн Хятадаас Энэтхэг хүртэл мартагдсан худалдааны нөхөн сэргээдэг",
+    "summary": "АНУ-ын дундын сонгуулийн дараа хиймэл оюун ухааны арилжаа нь хөрөнгө оруулагчид өөрсдийн Азийн тоглоомын номоо дахин эргэцүүлэн бодож, Хятад, Энэтхэгийн хувьцаа авах эрэлтийг сэргээх, мөн компаниудад инфляцийг хөнгөвчлөх, худалдааны хурцадмал байдлыг хөнгөвчлөхийн тулд эрэлт хэрэгцээг сэргээхэд түлхэц өгч байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery": {
+    "title": "Австрали Гэрийн борлуулалт нь эд хөрөнгийг сэргээх тал дээр тулгуурласан тэмдэг нэмэгдсэн",
+    "summary": "Австралийн гэрийн борлуулалт, дуудлага худалдааны цэвэрлэгээний ханш энэ жил хүүгийн түвшин өссөн гэж буурсан үл хөдлөх хөрөнгийн зах зээлийг сэргээх найдварыг санал болгож байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly": {
+    "title": "Мета-ийн $ 25 тэрбум бондын борлуулалт нь Технологийн өр төлбөрийн газрын гадаргууг өөрчилдөг",
+    "summary": "Сонгуулийн өдөр олон тэрбум долларын бондыг зарж байгаа нь үнэхээр мөрийтэй тоглоом шиг санагдсан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe": {
+    "title": "Сангийн датчикт баригдсан Туркийн шилдэг зохицуулагчид",
+    "summary": "Туркийн эрх баригчид улсын удирдлагуудын дээд албан тушаалтнуудыг бямба гарагт баривчилжээ."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video": {
+    "title": "Шинэ дарга, Гинжин урвалын технологийн борлуулалт",
+    "summary": "Дэлгүүр хаагдах үед мэдээ зогсохгүй. Дэвид Гүра, Кристина Раффини, Лиза Матео зэрэг оршин суугчид амралтын өдрүүдийн хамгийн том гарчигт тодорхой, нөхцөл байдал, хошигнолыг Нью - Йоркоос амьдардаг. Yorkville Ives & Co. Хамтрагч ба ахлах гүйцэтгэх захирал Дан Ives, Rutgers-Eagle нартай нэгдэв..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video": {
+    "title": "Эрсдэл-үйлдвэрлэгчдэд зориулсан долоо хоног тутмын сэтгүүлийн асуулт хариулт",
+    "summary": "Тослогдогсод мэдээний асуулгын форматыг стратегийн ээлжлэн, зөвхөн мэдээний талаар тоглогчдын мэдлэгийг туршихаас гадна тэдний хариултанд итгэх итгэлээ шалгахыг санал болгодог. Bloomberg's Lisa Mateo, Christina Ruffini, David Gura нар тоглож байхдаа өөртөө зориулж Bloomberg.com (S..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise": {
+    "title": "Berkshire Hathaway нь орлогын ашиглалтын хуудас хэлбэрээр буцаана",
+    "summary": "Berkshire Hathaway Inc. Гуравдахь улиралд өөрийн хувьцааг худалдаж авахад ойролцоогоор 9.6 тэрбум $ зарцуулсан, компанийн удирдлагууд хувьцааг үнэлээгүй гэж үздэг шинж тэмдэг юм. Гэхдээ компанийн хувьд түүний ашиглалтын орлого дээр жинлэгдсэн даатгалыг бууруулж байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video": {
+    "title": "Кен Chenault AI-ийн насандаа манлайллын талаар",
+    "summary": "Энэхүү амралтын өдрүүдэд Блүүмберг хотын ерөнхий катализаторын дарга, Гүйцэтгэх захирал, Америкийн Экспресс асан Гүйцэтгэх захирал Кен Ченалтийн манлайлал, олон янз байдал, хариуцлагатай AI-ыг хэлэлцэж, удирдлагууд улс төр, технологийн дарамт гэх мэт өөрсдийн үнэт зүйлийн дагуу батлах эр зориг хэрэгтэй гэж үзэж байна..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video": {
+    "title": "Нийслэлийн дуурийн түүхэн эмэгтэйчүүдийн түүх",
+    "summary": "Энэ амралтын өдрүүдэд зохиогч Мисси Мазолзи Бардо дахь Жорж Сандерсын Линкольны дасан зохицох, Нийслэлийн дуурийн ертөнцөд анх удаа хөгжмийн зохиолч эмэгтэй болсныг ярилцав. Мазолузын хэлснээр, Дэвид Гура, Кристина Раффини нар шоргоолж хэрхэн тусалсан тухай..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video": {
+    "title": "Ираны дайн баян ядуу аль алинд нь Аласканыг хэрхэн өдөөж байна вэ?",
+    "summary": "Иран улсад байнга дайны уршгаар газрын тосны үнэ нэмэгдсэн. Энэ нь ихэнх мужуудад өрхийн өрхийн зардал өндөр байгаа гэсэн үг боловч Аляскад муж улсын засгийн газар өндөр тосны ажлаас гарах орлогоо шинэ олгож байгаа бөгөөд эдгээр өндөр зардлыг нөхөн сэргээж байна. Зарим нь..."
+  },
+  "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1": {
+    "title": "Израилийн ерөнхийлөгч Гади Эйсенкотыг засгийн газрыг байгуулах анхны боломж олгож байна",
+    "summary": "Исаак Хезогийн шийдвэр нь эрх баригч улс төрчийг хамтад нь нийлүүлэхийн тулд 28 хоног байна гэсэн үг"
+  },
+  "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1": {
+    "title": "Трампын ялагдал АНУ-ын ухрахыг тунхагладаг",
+    "summary": "Америкийн нөөцлөлт нь Ойрхи Дорнодын эрх мэдлийн тэнцвэрийг өөрчилж, Хятадын боломжуудыг илэрхийлж болно"
+  },
+  "https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1": {
+    "title": "Америкийн бүх хичээлийн залруулгын эх",
+    "summary": "АНУ-ын midterms бол либерал ардчиллын нас барсан тухай мэдэгдэл хэтрүүлсэн болохыг хамгийн сүүлийн үеийн нотолгоо юм"
+  },
+  "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1": {
+    "title": "Жилиан Томт: «Америк яагаад AI үзэн яддаг юм бэ?",
+    "summary": "Том Текийн сонгогчдын дайсагнал нь АНУ-ын төв замыг бий болгоход тусалсан бөгөөд үүнтэй ижил төстэй айдас нь баруун хэсгээр тархаж байна. Гэхдээ зүүн болон хандлагыг харах нь илүү өөдрөг сэтгэлтэй байдаг"
+  },
+  "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1": {
+    "title": "АНУ-ын Nvidia's Huang БНХАУ-ын тагнуултай романтик харилцаа байсан гэж үзэж байна",
+    "summary": "Америкийн тагнуул технологийн дарга нь АНУ-ын бүлгийн талаар мэдээлэл цуглуулахын тулд Хятадаас ажилд авсан гүйцэтгэх захиралд хамрагдсан гэжээ"
+  },
+  "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1": {
+    "title": "Berkshire Hathaway нь худалдан авалтад $ 9.6 тэрбум долларын худалдан авалт хийж байна.",
+    "summary": "Даатгалын удааширалт гүйцэтгэлийг тойрч, улирлын ашиглалтын орлого 5.8 хувиар буурдаг жилээс жилд"
+  },
+  "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1": {
+    "title": "AI дээр Wall Street-ийн бүх бооцоо хэрхэн асгарсан бэ?",
+    "summary": "АНУ-ын дундын сонгууль нь хеджийн санг бүрдүүлж, жижиглэнгийн хөрөнгө оруулагчдыг хөрөнгийн зах зээлд эзэлж байсан арилжаанаас гарсан юм"
+  },
+  "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73?syn-25a6b1a6=1": {
+    "title": "Францын холын ерөнхийлөгчийн итгэл найдвар нь нийгэмлэгийг \"хувьсгалт\" шинэчлэх амлалт өгнө",
+    "summary": "Жан-Люк Меленчон үе шатанд өргөн тархсан эсэргүүцлийн үр дүнд 20,000 талаар хүчтэй ралли өрсөлдөх хүчийг харуулж байна"
+  },
+  "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories": {
+    "title": "Тэтгэвэрт гарсан энэ профессор Тэйлор Свифтийн эрдэмтэнээр өөрийгөө дахин хөгжүүлсэн",
+    "summary": "Тэгтэл эгч нь тэтгэвэрт гарсан Тэйлор Свифт үгээ бодож үзээд ятгажээ. Одоо тэр 72 настай подкаст амжилттай болжээ."
+  },
+  "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories": {
+    "title": "Зөвлөх хоёрдугаарт: Энэ зах зээл дээр жилийн зөв алхам мөн үү?",
+    "summary": "\"Би энэ стратегид хараат бус байгаа бөгөөд бие даасан ямар нэг хэтийн төлөвийг ойлгох болно.\""
+  },
+  "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories": {
+    "title": "Энд орлогын түвшин тус бүрийн 2027 капиталын олзын татварын хувь хэмжээ байна",
+    "summary": "Ирээдүйн жилийн капиталын олзын татварт та хэдийг төлөх вэ? IRS нь энэ чухал мэдээллийг саяхан гаргасан."
+  },
+  "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories": {
+    "title": "2027 онд эмийн жороор эмийн зардлыг 50% үсэрнэ. Юмыг ч өртгөөж чадахгүй шүү дээ.",
+    "summary": "Нээлттэй элсэлтийн явцад суухгүй байх."
+  },
+  "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories": {
+    "title": "Ардчилсан сонгуулийн том ялалт: «Хэн төлдөг вэ?",
+    "summary": "Нийгмийн даатгалыг хадгалах олон санаа байдаг. Тэд бүгд гашуудна."
+  },
+  "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories": {
+    "title": "Би 65 настай, $ 5.6 саяаас илүү үнэтэй. Би 200 000 $ ачаа тээж болно гэж үү?",
+    "summary": "Математик гэдэг нь хүйтэн, сэтгэл санаагаар унадаг төдий ч мөнгө төгрөг биш байж болох юм."
+  },
+  "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories": {
+    "title": "Америкийн хамгийн баян 10% нь бусдаас түрүүлж байна. Ийнхүү баян чинээлэг болно.",
+    "summary": "Хамгийн баян 10% нь гурван жилийн өмнөхөөс 800,000 $ их дундаж цэвэр үнэтэй."
+  },
+  "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories": {
+    "title": "«Нөхөр маань 500 000 $ өвлөсөн ч гэртээ өнгөрөөхгүй",
+    "summary": "\"Манай гал тогооны гал тогоо 1999 оноос эхлэн, зуухны зөвхөн хаалгыг нь тодорхой аргаар цохиж өгвөл л ажилладаг.\""
+  },
+  "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories": {
+    "title": "S&P 500 нь AI-д аюултай байж болно. Хэдэн энгийн хувилбарууд энд байна.",
+    "summary": "Таны бодсончлон том хэмжээтэй индекс нь хаана ч байхгүй."
+  },
+  "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories": {
+    "title": "Харин 2027 оны татварын хаалт дууссан. Ердийн суутгал болон давсны татварын хөнгөлөлт ямар байх вэ гэдгийг үзээрэй.",
+    "summary": "Америкийн орлогын албан татварын төлбөрийн талаархи татварын хаалтууд энэ жилийн инфляци үүссэн байгааг харуулж байгаатай харьцуулахад 2027 онд илүү төвшинд тохируулах болно."
+  },
+  "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss": {
+    "title": "Krakow бууг дайрснаас хойш өнөөг хүртэл бидний мэдэх зүйл",
+    "summary": "Хотын төв талбайд санамсаргүй буудалд зургаан хүн амиа алдсаны дараа гэртээ гурван цогцос олджээ."
+  },
+  "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss": {
+    "title": "Израилийн ерөнхийлөгч Эйсенкот засгийн газрыг бүрдүүлэхтэй сөрөг хүчний удирдагч үүрэг гүйцэтгэдэг",
+    "summary": "Ялангуяа өнгөрсөн долоо хоногийн ихэнх хүн амын тоонд ордоггүй."
+  },
+  "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss": {
+    "title": "Шинэ Зеландын ерөнхий сонгуулийн дараа тодорхой ялагч байхгүй",
+    "summary": "Эвслийн хурал зохион байгуулсан долоо хоногуудад урьдчилсан үр дүнгээс хойш олон удаагийн парламентын тухай тэмдэглэсэн байж болох юм."
+  },
+  "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss": {
+    "title": "АНУ-ын Ираны цөмийн хөтөлбөрийн талаархи мэдээлэлд 20 сая $ шагналыг санал болгож байна",
+    "summary": "Дональд Трамп Иран цөмийн барилга байгууламжийг шинэчлэх цохилтыг олон удаа гаргаж байна."
+  },
+  "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss": {
+    "title": "Үхэгсэд Саудын агаарын дайралтад дор хаяж 25 хүн амь насаа алдсан гэж ярьдаг",
+    "summary": "Саудын Араб Йемен дахь Хутнуудын эсрэг эвсэл явуулдаг."
+  },
+  "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss": {
+    "title": "Их Британид ЕХ-ны зах зээлийн ганц гэрээ \"интоорын сонгон шалгаруулах\" боломжгүй \"Барниер BBC-д хэлэв",
+    "summary": "Хуучин Brexit хэлэлцүүлэгчийн хэлснээр, ЕХ-ны орнууд эдийн засгийн дүрэм журмыг дагах гэсэн ямар ч Их Британийн оролдлогыг үгүйсгэх ажээ."
+  },
+  "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss": {
+    "title": "Стивен Миллерийг сонгож аваад Трамп тулаанд бэлдэж байна",
+    "summary": "АНУ-ын ерөнхийлөгч Миллерийг дэмжиж, түүний шинэ ажилтнуудын нэг нь Конгресст зөрчил үүсэх магадлалтай мөргөлдөөнийг бий болгосон."
   }
 }
