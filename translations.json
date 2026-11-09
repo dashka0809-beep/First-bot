@@ -12906,5 +12906,313 @@
   "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss": {
     "title": "Стивен Миллерийг сонгож аваад Трамп тулаанд бэлдэж байна",
     "summary": "АНУ-ын ерөнхийлөгч Миллерийг дэмжиж, түүний шинэ ажилтнуудын нэг нь Конгресст зөрчил үүсэх магадлалтай мөргөлдөөнийг бий болгосон."
+  },
+  "https://ketchup3d.github.io/app/": {
+    "title": "KetchUp – Rust болон WebGPU-ээр үүсгэсэн нээлттэй эхийн SketchUp хувилбар",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://isocpp.org/files/papers/P4454R0.pdf": {
+    "title": "Herb Sutter: Хэлний бүтээгч, эзэд нь [pdf] хүчтэй санал нийлэхгүй байх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://chimera-vocal-synth.vercel.app/": {
+    "title": "Chimera Vocal Synth",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/": {
+    "title": "Дэлхийн ихэнх брэндийн X брэндээс ямар ч машин онгойлгох",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://news.ycombinator.com/item?id=50417407": {
+    "title": "ХН: Та юугаараа ажиллаж байна вэ? (2026 оны 11-р сар)",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://duxlabs.dev/": {
+    "title": "DUX: Файлын менежер болон загварчлал бүхий үнэгүй, нээлттэй эх сурвалж Wayland ширээний бүрхүүл",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://declarative-dragging.github.io/": {
+    "title": "Зарлуулсан чирэх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc": {
+    "title": "Outlook.com DMARC-гүйгээр домэйнаас имэйлийг чимээгүй байдлаар татгалзаж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers": {
+    "title": "Goldman Sachs нь банкны ажилчид, худалдаачдаас Клод кодыг гаргаж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://ftrain.com/aboard-the-web-is-more-than-enough": {
+    "title": "«Вэб сайт хангалттайгаас хавьгүй илүү», Паул Форд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/": {
+    "title": "Аюулгүй байдлын төгсгөлийн мөчлөгээс анхаарлаа сарниулах програмууд",
+    "summary": "Мөчлөгийг эвдэхэд хэцүү ч сонирхолтой, үр бүтээлтэй агуулга дээр илүү их цаг зарцуулахад тусалдаг олон апп-ууд байдаг."
+  },
+  "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/": {
+    "title": "NVIDIA нь гүйцэтгэх захирал Женсен Хуанг Хятадын тагнуултай болзошгүй харилцааг судална",
+    "summary": "Компанид дурсахдаа Хуанг үүнийг хүлээн зөвшөөрчээ."
+  },
+  "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/": {
+    "title": "Хэрэв Snap-ийн зүйлчлэлийн хувьд үнэтэй хэвээр байвал энэ нь урьдынхаасаа хамаагүй илүү тав тухтай байдаг",
+    "summary": "Одоо олон жилийн турш хөгжиж буй Snap's Specs энэ намарыг зах зээлд гаргах гэж байна. Тэд хэрэглэгчдэд цохилт өгөх болов уу?"
+  },
+  "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/": {
+    "title": "Дэлхий дахинд зохицуулагдсан үс засалт. Судлаачид тэр нууцыг хэрхэн шийдсэн нь энд байна.",
+    "summary": "Гэтэл Германы судлаачид энэхүү шийтгэлийг олсон байна."
+  },
+  "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/": {
+    "title": "Роелоф Бота SpaceX самбард нэгдэхэд Sequoia түншүүд сохорсон гэж мэдэгдсэн",
+    "summary": "Шинэ тайланд гарсан Sequoia-ийн сүүлийн өөрчлөлтүүд нь пүүсийн хуучин няравын өвийг буцаах болно."
+  },
+  "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/": {
+    "title": "SNL 'Өмнөд Африкийн хамгийн муу зүйл‘ Елон Маскийн талаар шинэ сэтгэгдэлтэй байна",
+    "summary": "SNL технологийн ажилтнуудад зориулагдсан хутгатай байна."
+  },
+  "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/": {
+    "title": "Тэгээд 18 сар хакер баривчилжээ. Одоо тэр кибер аюулгүй байдлын VC юм.",
+    "summary": "Нууц үйлчилгээний төлөөлөгч, Home Depot CISO байсан Стивен وارд Brightmind түншүүдэд ойролцоогоор 250 сая $ сан гаргаж байна."
+  },
+  "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/": {
+    "title": "TechCrunch Хөдөлгөөн: Киберкрукийн туршилт дууссан",
+    "summary": "TechCrunch-н хөдөлгөөнд буцаж тавтай морил, тээврийн ирээдүйн төлөөх төв, одоо урьд хожид байгаагүй олон үүрэг AI-д тоглож байна."
+  },
+  "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/": {
+    "title": "Нинжагийн AutoBarista үнэхээр уян хатан байдаг ч нэг онцлог нь миний хувьд худалдааны богинологч байсан",
+    "summary": "AutoBarista's \"Grind iQ\" технологи нь машинд кофены шошны дүн шинжилгээ хийх боломжийг олгодог бөгөөд энэ нь эспрессо хэрхэн буун гаргадаг талаар мэдээлдэг."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia": {
+    "title": "Энд Женсен Хуангын дурсамжийг Nvidia руу оруулав",
+    "summary": "Ням гарагт Нвиди нь хятадын засгийн газрын гүйцэтгэх захирал Женсен Хуанг компани болох Алис Хуангтай харилцааг мөрдөн байцааж байгаагаа мэдэгдэв. Мөрдөн байцаалтыг зарласан Удирдах зөвлөлийн гадна Хуанг NVIDIA-ийн ажилтнуудад мэдэгдэл илгээх..."
+  },
+  "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review": {
+    "title": "Soul Glo's Diaspora Асуудлууд бол бусад шиг хатуу бичлэг юм",
+    "summary": "Soul Glo нь 1-р сард гарч ирж байгаа NA I 'm GON GRAB ALLAT нэртэй шинэ рекордтой бөгөөд нэгийг нь хүлээх боломжгүй. Хэдийгээр хоёр ганц бие унагаж байгаа ч намайг үнэхээр чангалахад хангалтгүй байгаа ч би 2022 оны Diaspora-ийн асуудлуудын хамгийн дуртай цомог болох Yeet-д дуунуудаа эргэж ирсэн. […]"
+  },
+  "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos": {
+    "title": "Epic Games Launcher уурынOS-д ирж байна",
+    "summary": "Аравдугаар сард Epic Games хавхлага дээр суурилсан SteamOS-тай нийцэж буй Fortnite-ийг \"мөрдөн байцаах\" гэсэн байна. Тухайн үед Epic Games Launcher-ийг урьдчилж харсан боловч SteamOS дэмжигдсэн distro гэж тодорхой бичээгүй. Одоо, Харилцаа холбооны захирал Жейк Жонс баталж байна..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy": {
+    "title": "NVIDIA нь Женсен Хуанг БНХАУ-ын тагнуултай харилцааг судалж байна",
+    "summary": "Нвидیا нь компанийн гүйцэтгэх захирал Женсен Хуанг болон Мегаспед гүйцэтгэх захирал Алис Хуангтайгаа мөрдөн байцаалт хийснийг зарласан бөгөөд Хятадын Төрийн аюулгүй байдлын яамнаас компанид тагнуулахаар ажилд авсан гэж мэдэгджээ. Удирдах зөвлөлийн нийтэлсэн мэдэгдэл нь:"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic": {
+    "title": "Apple компани Сири-г илүү сайн төлөөлөгч болгохын тулд уралдаанд оролцож байна",
+    "summary": "Bloomberg-ийн Марк Гурман хэлэхдээ, Гүйцэтгэх захирал Жон Тернус Сирийн замын зураглалыг хурдасгах, OpenAI-ийн цэгүүд эсвэл Мета-тэй өрсөлдөж чадах хүчтэй хиймэл оюун ухааны агентыг хүргэхийн тулд AI Czar Крейг Федергигийг шахаж байна. Федериги нь Siri AI функциональ хувилбарыг гайхалтай гутал дээр хүргүүлсэн бол..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit": {
+    "title": "Elvis, Eminem эрх эзэмшигч нар Сун мөргөж байна",
+    "summary": "Суно өөр нэг хоёр хэргийг даван туулж байна. Элвис Преслиигийн хөгжмийн эрх эзэмшигчид, Eminem-ийн хамгийн том бүртгэлүүдийн хэвлэгч AI хөгжмийн компанийг шүүхэд оролцож, тэдгээр уран бүтээлчдийн зохиол, дуу хөгжим, үг зохиолыг албан бусаар гаргадаг гэж мэдэгдэв. Өмнөх өмгөөлөгчдийн тухай хуульч..."
+  },
+  "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale": {
+    "title": "Apple-ийн M5 MacBook Air 7-р сараас хойш хамгийн хямд үнээр буурсан байна",
+    "summary": "Хамгийн сүүлийн үеийн 13 инчийн MacBook Air нь одоогоор $ 1 099.99 -ийн үнээр худалдаалагдаж байгаа бөгөөд компанийн зуны туршид өндөр үнийн өсөлтийг дагаж дараах 200 $ хөнгөлөлтийг харсан хоёр дахь удаагаа тэмдэглэнэ. Apple-ийн M5 процессор, 16GB RAM, 512GB-ийн суурь загварууд..."
+  },
+  "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview": {
+    "title": "Чатботууд нь Apple-ийн HomeView-д ирж магадгүй",
+    "summary": "Тагийн 27.3 бета дахь код нь Apple нь ухаалаг гэрийн төвд чатбод зориулсан дэмжлэгийг нэмж болохыг харуулж байна. \"Ярианы програмууд\" ангилалд багтсан дарцаг байна. Ямар апп-ууд энэ гарчигт багтах талаар нарийн ширийн зүйл байхгүй ч AI chatbots гэх мэт..."
+  },
+  "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot": {
+    "title": "Хэвлэл мэдээллийн хэрэгслийн тулгуур нь видео 2.0-ийг удаашруулдаггүй",
+    "summary": "Энэ бол Долоо хоног тутмын сонин бөгөөд Технологийн ертөнцөөс нэг чухал түүхийг таслан зогсоох явдал юм. Интернэтэд контент үүсгэх дарамт шахалтын талаар дэлгэрэнгүй мэдээллийг МИА САТО-г дагана уу. Алхам нь бүтэн сайнд 8 цагаас эхлэн захиалагчийнхаа хайрцагт ирдэг. Алхам авахаа энд сонгоно уу. Ho..."
+  },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBROEhVTXpyajhoZnAtUzUwMEp5WjY5OUtNd3pnUUZoVFFMUE9ELW1kSjFQdk1BbGpMWXRtWTZ5V2staUtzNWxxSVNBc1Fmd3dCLWwzUjBMN1VNc1J0Uk9GaHgxeUpVTms?oc=5": {
+    "title": "Бид хэрхэн Клодыг бүтээгдэхүүнийг агуулсан - антропик",
+    "summary": "Anthropic бүтээгдэхүүнүүдээр бид Клодыг хэрхэн агуулдаг вэ"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/new-zealand-s-pm-faces-deadline-in-finance-minister-search": {
+    "title": "Шинэ Зеландын Ерөнхий сайд Сангийн сайд хайхад эцсийн хугацаа нүүр тулсан",
+    "summary": "Шинэ Зеландын Ерөнхий сайд Кристофер Люксон нь 4-р сарын хүртэл дараагийн санхүүгийн сайд хэн болохоо шийдэх эрхтэй бөгөөд түүний Үндэсний Талууд дараагийн засгийн газар болох боломжтой гэж үзжээ."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-09/bloomberg-law-catholic-schools-versus-lgbtq-rights-podcast": {
+    "title": "Блумберг хууль: Католик сургуулиуд болон LGBTQ эрх (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 46:21"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-09/nvidia-launches-huang-investigation-dems-plan-to-act-more": {
+    "title": "Нвидиа Хуангын мөрдөн байцаалтыг эхлүүлжээ, Dems Plan to Act, More",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-08/jensen-huang-probed-by-nvidia-dems-plan-to-take-action-more": {
+    "title": "Jensen Huang Nvidia, Dems Plan to action, More",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-08/nz-election-anz-results-data-center-scrapped-australia-briefing": {
+    "title": "NZ сонгууль, ANZ үр дүн, Өгөгдлийн төв тасалсан: Австрали Товч танилцуулга",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-08/nvidia-probes-huang-democrats-react-to-miller-appointment-more": {
+    "title": "Nvidia Probes Huang, Ардчиллууд Миллер томилолтонд хариу үйлдэл үзүүлдэг, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-08/nvidia-board-to-probe-spying-claims-after-ceo-admits-to-affair": {
+    "title": "ГҮЙЦЭТГЭХ ЗАХИРАЛДСАН ГҮЙЦЭТГЭХ ЗАХИРАЛДАА ГҮЙЦЭТГЭХИЙГ ХҮЛЭЭН АЖИЛ",
+    "summary": "Баригдана уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-08/nvidia-investigates-huang-democrats-react-to-miller-more": {
+    "title": "Nvidia нь Хуанг, Ардчилсан ардчиллууд Миллер, Дэлгэрэнгүй мэдээллийг судалж байна",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-08/data-center-cfos-prepare-for-tougher-road-ahead-pld-aib-dbx-clsk-lumn": {
+    "title": "Өгөгдлийн төв CFOs Tougher Road Ahead (PLD, AIB, dbx, CLSK, LUMN) -д бэлтгэх",
+    "summary": "Дундаж үр дүн нь өрийн санхүүжилт илүү үнэтэй болж, хувьцааг дарамтанд оруулж байгаа үед төслүүдийг улам хянаж байх магадлалтай."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-08/democrats-to-tackle-costs-corruption-doj-defends-trump-more": {
+    "title": "Зардал, авлигад өртөхийн тулд ардчилагчид, DOJ Trump, More хамгаалдаг",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://asiprize.com/": {
+    "title": "HN: Клод Опус 5.5 (Max) -ийг гарааны эхлэх санаануудад хамгийн сайн харуулах",
+    "summary": "Артикулын URL: https://asiprize.com/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50416651 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/": {
+    "title": "AI startup-д сүмийн үүрэг ролийг \"ходоод\" гэж мэдэгдэж байгаа нь кредитийг хулгайлсан",
+    "summary": "Артикулын URL: https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/ Сэтгэгдэл URL: https://news.ycombinator.com/item?id=50402123 Оноо: 5 # Сэтгэгдэл: 0"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates": {
+    "title": "Азийн хувьцаа нь АНУ-ын олзыг дагах, Nvidia Probe Looms: Зах зээлийн бооно",
+    "summary": "Азийн хувьцаа АНУ дахь баасан гаригт олз болсны дараа өндөр өргөмжлөлтэй нээгдсэн ч Nvidia Corp-ийн гүйцэтгэх захирал Женсен Хуанг мөрдөн байцаалтад санаа зовниж байв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9": {
+    "title": "Тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ 9-р сарын 9",
+    "summary": "Газрын тос 2020 оны 4 дүгээр сараас эхлэн хамгийн том дусал дусал хийжээ. Худалдаачид бүс нутгийн шинэ халдлагуудтай тэмцэх АНУ-ын Ираны мөргөлдөөнийг зогсоохын тулд дипломат хүчин чармайлтаа хуримтлуулсан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/sudden-distress-at-top-rated-firm-tests-china-s-rating-crackdown": {
+    "title": "БНХАУ-ын Үнэлгээний хагаралыг даван туулах үед гэнэтийн хямрал",
+    "summary": "Зургаан сар хүрэхгүй жилийн өмнө Хятадын төв банк нь улсын 5.6 их наяд $ компанийн өрийн зах зээлд ховилдсон зээлийн зэрэглэлийг арилгахын тулд одоогоор хамгийн том түлхэц хийсэн. Одоо шууд шалгах тохиолдол бий."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets": {
+    "title": "АНУ-ын ажлын байрны мэдээлэл сэнстэй арванхоёрдугаар сарын ханш холдох бооцооны хувьд Алт Holds бууралт",
+    "summary": "АНУ-ын ажлын хатуу хүлээлтийг харуулсны дараа алтны хагас долоо хоногт буцаж байв Холбооны нөөцийн инфляцитай тэмцэх хүүг нэмэгдүүлэхийг эрэлхийлэх болно."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-08/nvidia-probes-huang-affair-amid-spying-controversy-video": {
+    "title": "Nvidia Probes Huang ажил хэргийн талаар маргааныг тагнуулснаар",
+    "summary": "Нвидیا Корпорацийн гүйцэтгэх захирал Женсен Хуанг гэрлэлтээс гадуурх харилцаанд орсоны дараа хараат бус ТУЗ-ийн мөрдөн байцаалттай бүрэн хамтран ажиллаж байна гэжээ. Энэ лавлагаа нь АНУ-ын тагнуулын зарчмыг хятадын оюун ухаанаар элссэн эмэгтэй хүний гүйцэтгэх үүрэг гүйцэтгэгчийг хүлээн авсан хэмээн сэжиглэж байгаа юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/australia-regulator-halts-private-credit-fund-on-bathla-risks": {
+    "title": "Австралийн зохицуулагч Батшла дахь эрсдэлийн хувийн зээлийн сан Halts",
+    "summary": "Австралийн зохицуулагч Angas Securities Ltd. хоёр удирдлагатай хөрөнгө оруулалтын схемийг зарахаас татгалзсан бөгөөд хамгийн сүүлийн үеийн үйл ажиллагаа нь хувийн зээлийн санг санал болгох бүтээгдэхүүнийг урьдчилан сэргийлэхийн тулд зохих эрсдэлийг тодруулахгүй байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/new-zealand-dollar-advances-as-ruling-party-gets-election-edge": {
+    "title": "Шинэ Зеландын долларын урьдчилгаа Тэргүүн Тал сонгуулийн хэсгийг хүлээн авдаг",
+    "summary": "Шинэ Зеландын доллар амралтын өдрүүдэд болох Үндэсний Тамаас хилийн чанад дахь амралтын өдрүүдэд сонгуульд оролцож буцаж эрх мэдэл олж, насанд хүрээгүй талуудтай хэлэлцээрийг удирдан чиглүүлэхийн тулд шинэ Зеландын доллар илүү эрт худалдаанд гарсны дараа ирэв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade": {
+    "title": "Сангийн Ралли нь хиймэл оюун ухааны худалдаа эрхлэх сонгуулийн хувьд шинээр нэмэгдсэн",
+    "summary": "Уолл гудамж Сангийн зах зээл нь АНУ-ын дундын сонгуулийн Ардчилсан газар нутгийг ялагчаар шалгарч, худалдаачдад энэ жилийн хурц борлуулалтыг дахин бодох өөр нэг шалтгааныг харжээ."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video": {
+    "title": "Цэнхэр долгионы дараа Польшид үхлийн довтолгоо, Уолл гудамжийг ажиглах",
+    "summary": "Дэлгүүр хаагдах үед мэдээ зогсохгүй. Дэвид Гүра, Кристина Раффини, Лиза Матео зэрэг оршин суугчид амралтын өдрүүдийн хамгийн том гарчигт тодорхой, нөхцөл байдал, хошигнолыг Нью - Йоркоос амьдардаг. МУИС-ийн Төрийн дэд нарийн бичгийн дарга, Fmr нартай нэгдэв. Хойд Солонгосын АНУ-ын тусгай төлөөлөгч..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video": {
+    "title": "Хөтлөгдсөн: Мэдээний өгүүллэгүүд бидний унших жагсаалтад",
+    "summary": "Met Гала нь 'норми' сэдэв, цэцэглэсэн дискний төгсгөл, McRib контентыг шүүх, тоглоомын нэрсийн танхимыг зарлав: Энэ амралтын өдрүүдэд Bloomberg дээр Давид Гура, Кристина Раффини, Лиза Матео нартай нэгдээрэй. Тэд анхаарлыг нь татсан түүхээ хуваалцдаг…"
+  },
+  "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1": {
+    "title": "Nvidia's Huang хятадын тагнуултай холбоотой гэж мэдэгдсэний дараа хэргийг хүлээн зөвшөөрсөн",
+    "summary": "Цахиурын хөндий чипмар ажилтнуудад гэрлэлтээс гадуурх харилцааг батлахын зэрэгцээ гүйцэтгэх захирлын мөрдөн байцаалтыг нээж өгсөн"
+  },
+  "https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1": {
+    "title": "‘Радикал зүүн тал’ гарчигтай ч төвийнхан АНУ-ын шинэ конгрессыг давамгайлдаг",
+    "summary": "Цэнхэр долгионоор хүчээ авч байсан ардчиллын дийлэнх нь дунд зэргийн хүмүүс юм"
+  },
+  "https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c": {
+    "title": "Америкийн эдийн засгийн шинэ хөтөлбөр",
+    "summary": "Бие даан өсөж өндрөөр төлөвшсөн бодлого нь сонгогчдын амьдралын зардлын талаар санаа зовох асуудалд нөлөөлөхгүй."
+  },
+  "https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1": {
+    "title": "Америк нийгэмд буцаж ирэхийг хүсч байна",
+    "summary": "Midterms бол зөвхөн хамгийн сүүлийн үеийн итгэл найдварын шинж тэмдэг юм"
+  },
+  "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1": {
+    "title": "Ардчилсан албаныхан Трампын албан тушаалтнуудыг дарангуйлж, Бүгд Найрамдах Доноруудыг судлахаа тангараглав",
+    "summary": "Пит Хегсет, Елон Муск, Венесуэлийн тос наймаа нь Конгрессийн шалгалтанд орж ирж буй хууль тогтоогчид эрт чиглэсэн байдаг"
+  },
+  "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1": {
+    "title": "Үе мөч дарсны дараа авлигад өртөх Найрамдах Бүгд Найрамдах дайны тоо",
+    "summary": "Трампын удирдлагын бодлогод компанийн нөлөөлөх тухай хуучин эрүүл мэндийн ажилтан үгийн дайныг өдөөсөн"
+  },
+  "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1": {
+    "title": "Apple-ийн Сингапурт $ 2.7bn татварыг хадгалдаг",
+    "summary": "Хотын муж Ирландыг Iphone компаний хамгийн том татварын хоргодох байр болж шинэ тодруулгад оруулав"
+  },
+  "https://www.ft.com/content/67575be7-5801-481e-9097-a1c0ba3ebf36?syn-25a6b1a6=1": {
+    "title": "Пап лео, Жавиер Мили нар Аргентиндаа зайлшгүй үзэгдлийг санал болгодог",
+    "summary": "Понтифийн үгэнд ерөнхийлөгчийнхээ шийдвэрийг шүүмжилсэн зүйл олон байсан"
+  },
+  "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1": {
+    "title": "Крипто салбар нь Трампын холбоог нягталж үзэхэд хүргэдэг",
+    "summary": "Ардчилсан ардчиллууд цөллөгт ялалт байгуулсны дараа ерөнхийлөгчийн гэр бүлд мөрдөн байцаахаа амласан байдаг"
+  },
+  "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories": {
+    "title": "Уламжлалт оршуулгын бизнес дуусах тул оршуулгын орон сууц шинэ амьдралыг олж байна",
+    "summary": "Нэг оршуулга гэрийн оператор хэлэхдээ: \"Энэ миний оршуулган биш — энэ чинийх биш — тэгээд чиний хүссэн зүйлээ хий\" гэж тэр хэлэв."
+  },
+  "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories": {
+    "title": "2027 онд татварын шинэ хаалтыг ашиглан Рот хөрвүүлэхэд хэр их тусалж болох вэ?",
+    "summary": "Математик нь үнэндээ \"хэрвээ\" -аас \"хэр их биш.\""
+  },
+  "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories": {
+    "title": "Та ухаалаг хувьцааны арилжааны дүрэм журмыг дагаж мөрддөг. Гэхдээ тэд зөв дүрмүүд үү?",
+    "summary": "Хөрөнгө оруулалтын давуу талуудын мэргэн ухааныг ашиглан өөрийн тууштай аргачлалыг хөгжүүлээрэй."
+  },
+  "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories": {
+    "title": "AI-ийн худалдаанд шинэ сэтгэгдэл: Nvidia-ийн ТУЗ-ийн гүйцэтгэх захирал Хуангын тагнуултай харилцааг судалж байна",
+    "summary": "Женсен Хуанг үүргээ гүйцэтгэж, мөрдөн байцаалтад хамтран ажиллана."
+  },
+  "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories": {
+    "title": "‘Хачирхалтай санагдаж байна’: Бид уламжлалт ердийн IRA-д 80 $ 950 000 - тай байна. Манай зөвлөх Ротыг хувиргахад түлхэх хэрэгтэйн учир юу вэ?",
+    "summary": "\"Жилийн тэтгэвэр, нийгмийн даатгалд $ 110,000 зардлууд маань үндсэн зардлууд багтдаг.\""
+  },
+  "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss": {
+    "title": "Хамтран ажиллагч хэлэхдээ, Краковын дэргэдэх хоолны дэргэд байсан эмчийн амийг аврах нь эргэлзээгүй",
+    "summary": "Польшийн буучлагчдыг илүү алахаас урьдчилан сэргийлэхгүй гэж магтсан хоёр цагдаагийн ажилтан дээр илүү дэлгэрэнгүй мэдээлэл гарав."
+  },
+  "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss": {
+    "title": "Египетэд галт тэрэг мөргөснөөс хойш долоон хүн амиа алдаж, 100 гаруй шархадсан",
+    "summary": "Хоёр галт тэрэг бас Гизагийн хотын гадаа осолджээ."
+  },
+  "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss": {
+    "title": "Энэтхэг даяар гэр орон, сүм хийдүүд Дивалид тэмдэглэхээр гэрэлтэж байна",
+    "summary": "Олон сая индианчууд гэрлийн баярыг гэрэл гэгээтэй дэнлүү, гялбаа, уламжлалт чихэрээр тэмдэглэж байна."
+  },
+  "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss": {
+    "title": "Иран нэгдүгээр сарын эсэргүүцлийн дараа гурван хүнийг \"зэвсэглэсэн эвдрэл\" -ийг гүйцэтгэсэн",
+    "summary": "Энэ нь Hassan Dioband, Hamid Kazemi, Reza Zanganeh нар энэ оны эхээр төр засгийн эсрэг эсэргүүцлийн үеэр оролцсон гэж мэдэгдсэн."
+  },
+  "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss": {
+    "title": "Арамко цамхаг нь Саудын нийслэл хотын төвд цохигдож Харвест шинэ цохиулж эхлэв",
+    "summary": "BBC Баталгаажуулсан бичлэг нь нийслэлийн төв санхүүгийн хорооллын байрыг гэмтээж байгааг харуулж байна."
+  },
+  "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss": {
+    "title": "'Хавтгай', 'ядарсан', инээдтэй: Кивис жирийн харанхуй харгис хэрцгий, шинэ Зеландын харанхуй сонгуулийг жил бүр эсэн мэнд даван туулж байна",
+    "summary": "Улс төрийн байдал нам дордож, улс төрд итгэхээ больж, сонгуулийн үеэр гол намуудаа орхин явдаг."
+  },
+  "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss": {
+    "title": "Парагвайгийн хуучин ерөнхийлөгч банкны унасны дараа төлбөр төлөгдсөн",
+    "summary": "Сантьяго Пена банкны хямралаас болж олон сая хүн мөнгөө авч чадаагүй юм."
+  },
+  "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss": {
+    "title": "Латин Америкийн аяллыг эхлэхдээ Пап лам \"нэлээд эрүүл мэнд\" -д",
+    "summary": "Пап лео Уушигны хорт хавдрын мэс засал хийлгэснээс дөнгөж гурван долоо хоногийн дараа Уругвай руу очжээ."
+  },
+  "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss": {
+    "title": "Италийн Гадаад хэргийн сайд хакерууд хувийн мэдээллээ гоожуулсан гэжээ",
+    "summary": "Ерөнхий сайд Жиорги Мелони онлайнаар дэлгэрэнгүй мэдээлэл нийтэлснийг нь буруутгаж байна."
+  },
+  "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss": {
+    "title": "Оросын довтолгооны есөн шархадаж, илтгэл ирэхээс өмнө Украины эрчим хүчний сүлжээг гэмтээсэн",
+    "summary": "Довтолгоо ирэх долоо хоногт Украйны болон Оросын төлөөлөгчид Абу Даби хотод гурвалсан талын хэлэлцүүлэгт оролцохоос үүдсэн."
+  },
+  "https://www.who.int/news/item/05-10-2020-covid-19-disrupting-mental-health-services-in-most-countries-who-survey": {
+    "title": "КОВИД-19 нь ихэнх улс орнуудад сэтгэцийн эрүүл мэндийн үйлчилгээг тасалдуулж, ДЭМБ-ын судалгааг явуулдаг",
+    "summary": "КОВИД-19 цар тахлын улмаас сэтгэцийн эрүүл мэндийн эрэлт нэмэгдэж байгаа улс орнуудын 93% -д сэтгэцийн эрүүл мэндийн чухал үйлчилгээг зогсоож, зогсоожээ. 130 орны судалгаа нь сүйрлийн нөлөөллийг үзүүлсэн анхны дэлхийн мэдээллийг гаргаж өгдөг..."
+  },
+  "https://www.who.int/news/item/28-09-2020-global-partnership-to-make-available-120-million-affordable-quality-covid-19-rapid-tests-for-low--and-middle-income-countries": {
+    "title": "Бага, дунд орлоготой орнуудад 120 сая хямд, чанартай КОВИД-19 хурдан туршилт хийх дэлхийн түншлэл",
+    "summary": "Бүрэн нэвтрэх багц нь ДЭМБ-ын бодлогын удирдамжийг агуулсан, антиген дээр суурилсан хурдан оношлогооны шинжилгээ, үйлдвэрлэгчийн эзлэхүүн нь бага болон дунд орлоготой орнуудад баталгаатай, сорилт хийхэд нь туслах катализаторын санхүүжилт, АНУ-ын анхны 50 сая $ худалдан авалтын сангийн..."
   }
 }
