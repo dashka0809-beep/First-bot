@@ -13214,5 +13214,325 @@
   "https://www.who.int/news/item/28-09-2020-global-partnership-to-make-available-120-million-affordable-quality-covid-19-rapid-tests-for-low--and-middle-income-countries": {
     "title": "Бага, дунд орлоготой орнуудад 120 сая хямд, чанартай КОВИД-19 хурдан туршилт хийх дэлхийн түншлэл",
     "summary": "Бүрэн нэвтрэх багц нь ДЭМБ-ын бодлогын удирдамжийг агуулсан, антиген дээр суурилсан хурдан оношлогооны шинжилгээ, үйлдвэрлэгчийн эзлэхүүн нь бага болон дунд орлоготой орнуудад баталгаатай, сорилт хийхэд нь туслах катализаторын санхүүжилт, АНУ-ын анхны 50 сая $ худалдан авалтын сангийн..."
+  },
+  "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
+    "title": "Клод Fable 5.2 ба Mythos 5.2",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://postalpro.usps.com/zcb": {
+    "title": "USPS одоо албан ёсны зип кодын хил хязгаарын полигоныг санал болгож байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy": {
+    "title": "Канадын төлбөр тооцоо нь Канадын бодит цагийн төмөр замын (RTR) төлбөрийн системийг эхлүүлэхийг зарлаж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://e-means.github.io/": {
+    "title": "Цахим маягууд: Орчин үеийн аравны нэгээр к-чинд шилжих",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.foldableflight.com": {
+    "title": "Нислэг: Шилдэг цаасны онгоц",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://maurycyz.com/projects/badcert/": {
+    "title": "Айхуу олон нийтийн түлхүүрийн заль мэх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://simonwillison.net/2026/Nov/9/mysterious-beeps/": {
+    "title": "Нууцлаг хонхны эх үүсвэрийг олж тогтоох",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://spectrum.ieee.org/find-my-ai-chip": {
+    "title": "AI Chips-ыг «олохын» төлөөх уралдаан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/expo/exact": {
+    "title": "Тохиромжтой – шинэ хөндлөн тавцан UI хүрээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html": {
+    "title": "AI кредитийн стресс нэмэгдэх тусам CoreWeave бондын гарцын орой 16%",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/": {
+    "title": "Антропик IPO төлөвлөгөөтэй ажиллахаар төлөвлөж байна",
+    "summary": "AI компани энэ долоо хоногт үнэлгээний хязгаараа тохируулах төлөвтэй байна гэж Уолл Стрийт Журнал мэдээлэв."
+  },
+  "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/": {
+    "title": "Женсен Хуанг мэдээж жилийн өмнө өндөр нэр хүндтэй бэлгийн садар самууныг зохицуулах түүхтэй PR фирмтэй оролцож байсан",
+    "summary": "Вэйдер мэдээлснээр Нью-Йорк Таймс сэтгүүлд 2025 оны 10-р сарын дугаарт Алис Хуангын бизнесийг дурдсаны дараа PR фирмд бүртгүүлэв."
+  },
+  "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/": {
+    "title": "Зочид буудлын аварга Виндхам програмын аюулгүй байдлын дутагдлаас хойш хэрэглэгчийн өгөгдлийг илчилсэн",
+    "summary": "Онцгой: Виндхам үйлчлүүлэгчийн програмд хатуу кодлогдсон итгэмжлэл үлдээж, хэн ч хэрэглэгчийн өгөгдөлд нэвтрэх боломжийг олгодог. Зочид буудлын аварга нь урьд нь зөвшөөрөлгүй нэвтрэх эрхтэй эсэхийг шалгах боломжтой эсэхийг хэлэхгүй."
+  },
+  "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/": {
+    "title": "Богино борлуулагч Нвиди компанийн гүйцэтгэх захирлын холбоо нь дуулианаас 6 сарын өмнө Хятадын сэжиглэгдсэн тагнуултай холбогджээ.",
+    "summary": "Нвидийн тагнуул дуулиан гарснаас зургаан сарын өмнө Кулпер судалгаа нь Хятадын гүйцэтгэх ер бусын ойр дотно харилцааг Женсен Хуангаас асуусан байна."
+  },
+  "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/": {
+    "title": "Энэ гүйлтийн тэмцээн Нвиди шүүхэд явагдаж байна",
+    "summary": "Нвидийн хувьцаа нь ТУЗ-ийн дараа 4% -иас дээш удаа хятадын сэжигтэй тагнуул бүхий Женсен Хуангын харилцааг судалж эхэлсний дараа, нэг үнэт цаасны хуулийн мэргэжилтэн компанийн өмнөх хэлснээр энэ нь бүгд \"хэвийн\" нь маш үнэтэй асуудал болж болзошгүй гэж үздэг."
+  },
+  "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/": {
+    "title": "Fervo нь гүний дулааны эрчим хүчний технологийн захиалгад $ 12B байна",
+    "summary": "Геотермийн компани Ферво нь Юта муж дахь 8.4 GW нөөцөөр газрын гүний дулааны өрөмдлөгийн өрөмдлөгийн зардлыг бууруулж байгаа тул байгалийн хийнийг чиглүүлж байна."
+  },
+  "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/": {
+    "title": "Jensen Huang нь Nvidia-ийн маргаантай асуудлаар ЕлевенЛабс дээд хэмжээний уулзалтыг гаргалаа",
+    "summary": "Нвиди компанийн гүйцэтгэх захирал өмнө нь антропик үйл явдлаас гарчээ."
+  },
+  "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/": {
+    "title": "YouTube-ийн урсгал өгөгдөл Billboard графикт буцаж очоод томоохон маргааныг арилгадаг",
+    "summary": "YouTube нь диаграмын томъёог өөрчилсний дараа 2027 онд Billboard-тай горхи өгөгдлийг хуваалцахаа үргэлжлүүлж, дэмжлэг үзүүлсэн хөгжмийн урсгалыг илүү жигд болгоно."
+  },
+  "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/": {
+    "title": "Энтропик нь RSI-ийн санаа зовнилын үед шинэ митос ба Fable загваруудыг гаргадаг",
+    "summary": "Антропик хэлэхдээ шинэ загварууд нь \"кодлох, сэтгэхүй, алсын хараа гэх мэт газарт сайжирч\", мөн хэрэглэгчидтэй илүү ойлгомжтой харилцдаг байна."
+  },
+  "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/": {
+    "title": "AI техник хангамжийн гарааны нэрлэсэн гурав дахин үнэлгээ 8 сарын дотор $ 3B байна",
+    "summary": "Нэрийн буюу тоног төхөөрөмжийн инженерчлэлийн хиймэл оюун ухааны платформыг санал болгож, Андурилыг гол үйлчлүүлэгчийн хувьд санал болгодог гарааны бизнес нь үнэлгээг нь гурав дахин том санхүүжүүлэхэд хүргэсэн."
+  },
+  "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai": {
+    "title": "Дэвид Элисон хэлэхдээ, AI нь орчин үеийн түүхэн дэх хамгийн том бүтээлч цоож байж болох юм гэжээ",
+    "summary": "Paramount Skydance-ийн хамгийн сүүлийн үеийн орлогын дуудлагын үеэр Гүйцэтгэх захирал Дэвид Элисон \"төсөөлөхөд хэцүү\" AI нь CGI-тай харьцуулахад киноны салбарт илүү хүчтэй нөлөө үзүүлнэ. Компанийн AI-ийн үзэл бодлын талаар асуусан асуултын хариуд Эллисон: \"Та ойртож, producti-г харахдаа миний бодлоор..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang": {
+    "title": "Женсен Хуангаас Хятад хүн яадаг байсан бэ?",
+    "summary": "Өнөөдрийн хиймэл оюун ухааны орчинд Nvidia-ийн хүчийг нэмэгдүүлэхэд хэцүү байдаг. Компанийн чипс нь АНУ-д хиймэл оюун ухааны дэвшилтэт технологийг бүтээж байгаа бөгөөд олон жилийн туршид эрэлт хэрэгцээ нь алга болсон. Нвидиа нь өргөн цар хүрээтэй хөрөнгө оруулагч байсан..."
+  },
+  "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference": {
+    "title": "Женсэн Хуангын талаар мэддэг байсан Трамп юу гэж хэлэв",
+    "summary": "Ерөнхийлөгч Трамп өнөөдөр өглөө Цагаан ордны хэвлэлийн товч танилцуулгыг хийж, Хятадын тагнуул бүхий NVIDIA-ийн гүйцэтгэх захирал Женсен Хуангын хэргийн талаархи хэд хэдэн асуултанд хариулав. Хуан энэ амралтын өдрүүдэд эхнэртээ «​​үнэнч бус» байснаа хэлсэн бөгөөд компани нь нээгдсэн…"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang": {
+    "title": "Гүйцэтгэх захирлыг Женсен Хуанг чиглүүлж буй Nvidia тагнуул дуулианын талаар өнөөг хүртэл бидний мэдэх бүх зүйл",
+    "summary": "Женсен Хуангын Новидийн арьс ширтэй ерөнхий захирал Мегаспед Алис Хуанг компаниасаа мөрдөн, дэлхий дахинд буй асар их хэлэлцүүлэг явуулсныг хүлээн зөвшөөрсөн байна. Сүүлийн үеийн мэдээ нь өнгөрсөн жилээс хойш АНУ-ын тагнуулын тайланд Алис Хуан танигдсан байна..."
+  },
+  "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale": {
+    "title": "MSI-ийн засварласан QD-OLED тоглоомын хяналтыг 300 $ хүрээнд худалдаалж байна",
+    "summary": "PC тоглоомын тохиргоондоо хийж болох хамгийн сайн шинэчлэлт бол OLED монитор юм. Аз болоход MSI-ийн үйлдвэрийг өөрчилсөн Mag 272QP x24 нь Woot-ээс 11-р сарын 18-оос $ 290.99 -ийн 180 хоногийн үйлдвэрлэгчийн баталгаат хугацаатай худалдаалагдаж байгаа бөгөөд энэ нь MSRP-ээс 100 $ -с илүү хямд байна."
+  },
+  "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31": {
+    "title": "Цаг уурын сайн сайхны төлөө хиймэл оюун ухааныг ашиглах амлалт нь аймшигтай хошигнол юм",
+    "summary": "Энэ үед орчны сайн сайхны тулд AI-ийг ашиглах хамгийн сүүлийн үеийн splashy амлалтыг уншиж байгаа нь согтууруулах ундаагүй шар айраг авах шиг санагддаг. Мэдээж, би эхнээс нь сэжиглэж байна. Энэ нь ямар сайн байж болох вэ? Гэхдээ би шар айраг, манай гаригт шүгэлдэхэд хангалттай дуртай - хөөе, яагаад болохгүй гэж…"
+  },
+  "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro": {
+    "title": "Apple-ийн $ 50 тагнуулын хэрэглээний сав нь хиймэл оюун ухааны зарим онцлогт нэвтрэх боломжийг олгоно",
+    "summary": "Тусламжийн нийтлэлийг 9-р сарын эхээр Apple Intelligence-ийн зарим онцлогт зориулагдсан хэрэглээний хязгаарлалтыг нийтлэсний дараа компани Logic Pro-ийг 9to5Mac-ийн нэг удаагийн худалдан авах үнээр \"Илүү хэрэглээ\" -г худалдан авах боломжийг шинэчилсэн Логик Pro $. Энэ нь суурилагдсан хиймэл оюун ухааны туслах t..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2": {
+    "title": "Антропик нь шинэ Клод Fable болон Mythos 5.2 загваруудыг эхлүүлжээ",
+    "summary": "Антропик өнөөдөр хоёр шинэ загварыг зарлаж байна: Клод Фэйтос 5.2, Клод Митос 5.2 гэсэн техникийн бэрхшээлийг даван туулахад зориулагдсан. Компани нь шинэ загварууд кодлох, тайлбарлах, алсын харааг сайжруулах, гаралтыг..."
+  },
+  "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale": {
+    "title": "Та сард $ 20-ын доод үнийн дүнг гурван сарын турш авах боломжтой",
+    "summary": "Xbox Game Pass Ultimate-ийн үнэ өнгөрсөн жилийн хугацаанд сард 20 доллараас 30 доллар хэлбэлзэж байсан ч та сард ойролцоогоор 19 долларын дээд төлөвлөгөөний гурван сарыг авч болно. Newegg дээр BNWF2656 купоны кодыг ашиглан гурван сарын subscr-ийн ердийн зардлыг 11 долларын үнээр..."
+  },
+  "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters": {
+    "title": "Инстаграмын Effect Builder нь хиймэл оюун ухааны хандлагаас шинэ шүүлтүүрийг үүсгэдэг",
+    "summary": "Өнгөрсөн долоо хоногт macOS програмаа өргөжүүлсний дараа Instagram-н дараагийн алхам нь энэхүү Effect Builder-ийг эхлүүлж байгаа бөгөөд энэ нь Түүхийн бичлэгт зориулагдсан захиалгат шүүлтүүр үүсгэдэг. 18-аас дээш насны АНУ-ын оршин суугчдын хувьд одоо ашиглах боломжтой бөгөөд энэ нь таны шүүлтүүрийн санааг chatbo-д тайлбарлах шуурхай хайрцагтай..."
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5": {
+    "title": "Клод нь цахим загварыг эхнээсээ дуустал загварчилж чаддаг - антропик",
+    "summary": "Клод Антропикийг дуусгахаас эхлээд цахим протипийг боловсруулж болно"
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5": {
+    "title": "IPO buzz-ийг барьж эхлэхэд Amodei-ийн дуудлагаас хойш антропик анхдагч хилийн загварыг гаргадаг - CNBC",
+    "summary": "IPO buzz нь CNBC-ыг барьж байдаг тул Amodei-ийн дуудлагаас хойш антропик анхны хилийн загваруудыг ялгаруулдаг"
+  },
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1ZtZzZWNUh2ejlBRmZIQ2prdlNzWnlNTFFkOFZXRWJCaXpBdzVtaUk3cDBXZG1uUXdEaEdqZHNtSWF5N2o4Ni1xdjkzVHp0azBKQTFZb0k0ZVpDYU5id2l3ZTdtNlltZVJyNUhRZjIxWDluWHd4TW5YLXhCcHNlejNyamFlZjZUbWJsaS1yb0VGZDJFQnJXZUhaNmNoUEJjM2s3TWltbFREMmNMVkdDbkNLaXNJQQ?oc=5": {
+    "title": "Антропик нь Клодын захиалгын маркетинг хийх нэхэмжлэлтэй тулгарах ёстой - Reuters",
+    "summary": "Антропик нь Клодын захиалгын маркетингийн  Reuters шийтгэлд өртөх ёстой"
+  },
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZXh5WWJvWmxMbkZBakNhNWhkR3R2YnFvS2Uwc3JuOFlPOGh0aU1mbWZXZEJJU0xuRDZ2TW1nLXdyMWxnWllFcnRnRGlHWDJBdWUxdHJaR1NIZDc5Y0djdEliTUhGTDlxazlFbER1cmZyTk9udlJ1eHJxRHo1cmlKV2QtMW0yVTFaVk55dFJJVE9DRVYyM21nMXl0eEVzVEVxR1lVVGJWb2lzNDl1MmJONWVsc2ZET2VST3dEUUxGQWdIeFFkQjB6TnlKY0M5WmFqck80Q1VaSHQ?oc=5": {
+    "title": "Антропикийн дебют Клод Fable, Mythos 5.2 загварууд, OpenAI-ийн GPT-6 Astra-ээс доогуур 20% - Fortune",
+    "summary": "Антропикийн дебют Клод Fable, Mythos 5.2 загварууд, OpenAI-ийн GPT-6 Astra Fortune-ээс доош 20% -ийг үнэлсэн"
+  },
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0hhX1U4aHV4OTRSb3JZRDZPQ1NEYWtzVDRVYU5jX2tUMVNpU2NZakVrN0hjRTV1Qy1vb2k1cElOOUxXZi1GeEdXX1B2WlhRMEZXUHMwWXlfNWs1TlpaR1FhLWliZEZpN3JIaHd4bWFmcmRTdGFFRTQyZWJsTjQ2TVE3bGNyMTY4dnFHVlk5Y0pIOGFLUExRVnFZTE52bkJncHJ1YUFTZG9RQk1RXzJBZDJn?oc=5": {
+    "title": "Санал бодол | Клод сэтгэлтэй юу? Антропик бус, Бурхнаас гуйгаарай. - Вашингтон Шуудангийн сэтгүүл",
+    "summary": "Санал бодол | Клод сэтгэлтэй юу? Бурханаас Антропик бус, харин гуйгаарай."
+  },
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5": {
+    "title": "Антропик дебют Клод Fable 5.2 ба Mythos 5.2 IPO ойрхон загварууд - Yahoo Finance",
+    "summary": "Антропик дебют Клод Fable 5.2 ба Mythos 5.2 IPO загварууд нь Yahoo Finance-ийг ойрхон байдаг"
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2Yta1hDZm1QakE4S2RXZTd0UXR0N2V5QVdtdFNxQVBZQW9XVklvODB3WGR1Wmc3Vk5tV1VoX1ltVHVEd0liM2Fka1Q2NS1nRVdMSWZKLVJQTUd6Wm9xd3JWWGlwX2M3Mkl2cjlIS0pSdUFmZEdWaWtkQnItbmRvaVRudDFnVXdGMmY4Vi1aLU9ma2RDM2VWd2loMGI3aE1i?oc=5": {
+    "title": "Антропик нь RSI-ийн санаа зовнилын үед шинэ митос ба Fable загваруудыг гаргадаг TechCrunch",
+    "summary": "Энтропик нь RSI-ийн санаа зовж буй үед шинэ митос ба Fable загваруудыг гаргадаг TechCrunch"
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5": {
+    "title": "Антропик шинэ Клод Fable болон Mythos 5.2 загварыг гаргалаа - Үйл явдал",
+    "summary": "Антропик нь шинэ Клод Fable болон Mythos 5.2 загварыг гаргалаа"
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzJkS1p0RHRLeV9LdWdGSzF5Vnhvd0dyU3NGalFXbzdoNmh5Xy1xc2o5SmFUeExYVnVoa0JSa0lob195RHFOcE5NRG1qRmhPNzEzUENPNm9SbTJVSVktelRrU1hrc3RxU3pvZk14MVNqdk96RWhJM19iS0stMk5CcHV5bEkweVZJUkRCMUViaTB6QzR5?oc=5": {
+    "title": "Клод Фэйт 5.2 нь найман өдрийн турш 1000 төлөөлөгчтэй ажиллах үйлдлийн системийг бий болгодог - Сонирхолтой инженерчлэл",
+    "summary": "Клод Fable 5.2 нь 8 хоногийн хугацаанд 1000 төлөөлөгчтэй ажиллах үйлдлийн системийг бий болгодог Сонирхолтой инженерчлэл"
+  },
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5": {
+    "title": "Антропик Клод Фэйт 5.2 болон Mythos 5.2-ийг зарлалаа. Хар нүхний физикийн асуудлуудыг аль хэдийн шийдсэн байна - Mashable",
+    "summary": "Антропик Клод Фэйт 5.2 болон Mythos 5.2-ийг зарлалаа. Тэдхар нүхний физикийн асуудлуудыг аль хэдийн шийдсэн."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-10/bloomberg-daybreak-asia-citi-plans-china-expansion-podcast": {
+    "title": "Bloomberg Daybreak Ази: CITI нь Хятад тэлэлтийн төлөвлөгөө (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-10/fbi-investigating-huang-cal-voters-say-no-billionaire-tax-more": {
+    "title": "FBI ХУАНГ СУДАЛГААНЫ СУДАЛГААНЫ АЖИЛЛАГАА ХУАН, КАЛ АЖИЛЛАГАА Санал өгөгчид Тэрбумтан Татвар",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-10/bloomberg-talks-jane-fraser-podcast": {
+    "title": "Блумбергийн яриа: Жейн Фрейзер (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-10/fbi-to-investigate-huang-affair-hegseth-impeachment-bid-more": {
+    "title": "Холбооны Санхүүгийн товчоо Хуанг хэргийг судалж үзэхийн тулд Хегсет Степрессийн тендер шалгаруулалт, дэлгэрэнгүй",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-10/fbi-probing-huang-affair-hegseth-impeachment-push-more": {
+    "title": "FBI Хуанг хэргийг хянаж, Hegseth Impeachment Push, More",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-10/fbi-to-look-into-huang-affair-hegseth-faces-impeachment-more": {
+    "title": "ХУАНГ ДАВЬД ОРОЛЦОХ БАРИМТ ХӨТӨЛБӨР, ХЕШЕТИЙГ СЭРГЭМЖҮҮЛЖ БАЙНА, БУСАД",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-10/huang-affair-reaches-fbi-massie-moves-to-impeach-hegseth-more": {
+    "title": "ХУАНГ ХААНГ ХЯНАЛТ FBI-д хүрч, Масси Hegseth, Илүү ихийг хийх болсон",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/white-house-nominates-mufarrige-to-ftc-commissioner-spot": {
+    "title": "Цагаан ордны Mufarrige-ийг FTC комиссарын Spot-д томилсон",
+    "summary": "Цагаан ордонд Даваа гаригт зарласнаар Кристофер Муфарриг АНУ-ын Холбооны Худалдааны Комисст нэр дэвшиж, хэрэглэгчийн хамгааллын хэлтэс рүү тэргүүлж, байгууллагын шилдэг удирдагчдын нэг болох болжээ."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-09/bloomberg-businessweek-daily-nvidia-falls-on-scandal-podcast": {
+    "title": "Bloomberg Businessweek Daily: Nvidia Falls on Scandal (Podcast)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-09/bloomberg-businessweek-daily-china-s-25-year-rise-podcast": {
+    "title": "Блумберг Бизнес Долоо хоног: Хятадын 25 жилийн өсөлт (Подкаст)",
+    "summary": "Эх сурвалж: Блүүмберг, 0:00"
+  },
+  "https://www.entrepreneur.com/business-news/he-has-85-7-million-youtube-subscribers-this-is-how-to-differentiate-your-videos-from-ai-slop": {
+    "title": "Энэхүү НАСА-гийн инженерийн ажилтан нь YouTube-ийн 85 сая захиалагчидтай. Энэ бол таны видеог AI налуугаас хэрхэн ялгах тухай юм гэж тэр хэлдэг.",
+    "summary": "YouTube-ийн оддыг тайлбарлав."
+  },
+  "https://www.entrepreneur.com/building-a-business/its-time-to-confront-the-realities-of-what-your-crm-can-do-and-what-it-cant": {
+    "title": "CRM-ээ юу хийж чадах, юу хийж чадахгүй байгаа талаар ярилцах цаг нь болжээ",
+    "summary": "ГМ нь хүчирхэг багаж хэрэгсэл байж болох ч эдгээр нь болор бөмбөг биш юм."
+  },
+  "https://www.entrepreneur.com/building-a-business/ai-is-making-expertise-cheaper-heres-what-will-make-you-more-valuable": {
+    "title": "AI нь мэргэжил дээшлүүлэх чадварыг хямд болгох явдал юм. Чамд илүү үнэтэй болно.",
+    "summary": "Үйлчлүүлэгчид хиймэл оюун ухаанаар дамжуулан нарийн мэдлэг олж авах боломжтой бол бизнес эрхлэгчид өөрсдийн мэдлэгийг үнэ цэнэтэй болгодог зүйлийг дахин бодох хэрэгтэй."
+  },
+  "https://www.entrepreneur.com/business-news/students-want-more-than-degrees-community-colleges-now-have-to-prove-economic-value": {
+    "title": "Оюутнууд градусаас илүүг хүсч байна. Орон нутгийн коллежууд Эдийн засгийн үнэ цэнийг нотлох үүрэгтэй",
+    "summary": "Орон нутгийн коллежууд сурагчдын амжилтын талаар бодож, амьдрах цалинтай ажил, өндөр цалинт анхаарлаа төвлөрүүлж байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/california-wine-country-saw-its-earliest-harvest-in-decades-heres-how-a-67-year-old-business-navigated-it": {
+    "title": "Калифорни мужийн дарсны орнууд хэдэн арван жил хамгийн хурц ургацыг харжээ. Энэ бол 67 настай бизнес эрхлэгчийг хэрхэн чиглүүлсэн, бизнес эрхлэгч бүр юу сурч болох талаар юм.",
+    "summary": "Нийлүүлэлтийн сүлжээнээс эхлээд тогтвортой байдалд орох хүртэл Родни хүчтэй усан үзэмчид амжилтад хүрэхийн тулд юу хэрэгтэйг мэддэг."
+  },
+  "https://www.entrepreneur.com/building-a-business/you-dont-need-a-full-time-executive-to-get-c-suite-expertise-heres-why": {
+    "title": "Танд С-Сайтын туршлагыг авахын тулд бүрэн цагийн гүйцэтгэх шаардлагагүй. Яагаад гэвэл энэ байна.",
+    "summary": "Бизнес эрхлэгчдийн хувьд хэсэгчилсэн байдлаар ажилд авах олон шалтгаан байдаг ч хүн бүрд тохирохгүй байж магадгүй юм. Энэ миний оролцоо байна."
+  },
+  "https://www.entrepreneur.com/business-news/tech/ai-is-changing-the-economics-of-saas-partnerships-heres-how-founders-can-capitalize": {
+    "title": "AI нь SaaS түншлэлийн эдийн засгийг өөрчилж байна. Үүсгэн байгуулагч хэрхэн капиталжуулж болох нь энэ байна.",
+    "summary": "AI нь уламжлалт лавлах комисс, бага захын үйлчилгээнээс өөр боломжуудыг бий болгох, SaaS түншийн загварыг дахин боловсруулах явдал юм."
+  },
+  "https://www.entrepreneur.com/business-news/tech/your-next-customer-is-an-ai-agent-heres-how-to-market-to-it": {
+    "title": "Таны дараагийн Харилцагч нь AI-ийн төлөөлөгч юм. Үүний тулд хэрхэн худалдаа хийх вэ?",
+    "summary": "AEO болон GEO нь нэг бүлэг боловч дараагийн том ээлж худалдан авалтын цутгамалаас цаашид хөгжиж байна"
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/customers-suing-mcdonalds-in-chicago-are-not-lovin-the-mcrib": {
+    "title": "Customers Suing McDonald's in Chicago's Not Lovin’биш McRib",
+    "summary": "Форт шүүгчийн хэлснээр үйлчлүүлэгчид МакРиб хэмээх сэндвичийг бодит хавиргыг агуулахыг шаардаж болох ажээ."
+  },
+  "https://www.entrepreneur.com/business-news/how-microsoft-employees-responded-to-the-companys-biggest-buyout-offer-to-date": {
+    "title": "Та энэ мөнгийг авах уу? Майкрософт нь ажилчдыг хамгийн том худалдан авалтын санал болгож байна.",
+    "summary": "Технологийн аварга нь зардлыг бууруулах бодолтой байгаа тул ажлын хүчнийх нь дөрөвний нэгийг худалдан авалт санал болгосон."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/japan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mwa53xcl": {
+    "title": "Япон 30 жилийн Бондын худалдаа нь 12 сараас илүү эрэлттэй байхыг шаарддаг",
+    "summary": "Японы 30 жилийн бондын дуудлага худалдаа нь хөрөнгө оруулагчийн сонирхолд жинтэй санхүүгийн бодлогын талаархи 12 сарын дундаж бодлогын хувьд илүү бага эрэлт хэрэгцээтэй болсныг харуулж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/copper-extends-rebound-as-global-technology-stocks-resume-rally": {
+    "title": "Зэс нь Глобал технологийн нөөцийн Ралли хэлбэрээр үүслийг өргөтгөдөг",
+    "summary": "Зэс нь металлын дэд бүтэц, өгөгдлийн төвүүдэд ашигласны улмаас технологийн хувьцааг дагаж, өнгөрсөн долоо хоногт хурцадмал байдлаа өргөжүүлсэн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/singapore-launches-gold-vaulting-service-for-central-banks": {
+    "title": "Сингапур төв банкны хувьд Алтны Vaulting үйлчилгээг эхлүүллээ",
+    "summary": "Сингапурын хилийн чанад дахь төв банкууд болон албан ёсны байгууллагуудад алтан яндангийн үйлчилгээ нээлтээ хийж, бух нөөцийг олон янзаар хадгалах эрэлт хэрэгцээг дэлхийн хэмжээнд нэмэгдүүлэхийг эрэлхийлж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates": {
+    "title": "Азийн нөөцтэй Ride Tech Rally нь газрын тосны дусал болох илүү өндөр: Markets wrap",
+    "summary": "Азийн хувьцаа 8-р сарын эхээр хамгийн том хоёр өдөр ахиц дэвшилд хүрч, технологийн уулзалтаар нэмэгдэж, газрын тосны үнийн өсөлт буурчээ."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video": {
+    "title": "Шүүмжлэгчид Масси уурладаг",
+    "summary": "Ерөнхийлөгч Дональд Трамп болон Төрийн Марко Рубио Батлан хамгаалах нарийн бичгийн дарга Пит Хейгетийг хамгаалж, Бүгд найрамдах төлөөлөгч Томас Масси Иран улсад цэргийн үйл ажиллагаанд захирагдах тухай өгүүллийг танилцуулав. Хегсет хүчин чармайлтыг тодорхойлохын тулд дуудлагаа хойшлуулахаас татгалзсан..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year": {
+    "title": "Сингапурын банк хоорондын ханш жилээс илүү хугацаанд хамгийн өндөр ханддаг",
+    "summary": "Сингапурын жишиг хүү АНУ-ын хүүгийн хурдыг цаашид авахын тулд орон нутгийн хөрвөх чадвар болон хүлээлтийн талаар жилээс илүү өндөр түвшинд өссөн байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10": {
+    "title": "Газрын тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, дүн шинжилгээ 10-р сарын 10",
+    "summary": "АНУ-ын Ерөнхийлөгч Дональд Трампаас 8-р сараас хойших хамгийн бага ойроос тосыг уртасгахад Иран улсад цаашдын дайралт шаардлагагүй болно гэжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/kioxia-leveraged-product-debuts-in-hk-after-one-year-hiatus": {
+    "title": "Киокси Нэг жилийн дараа Хонг Киокси Лимбэний Бүтээгдэхүүний Урьдчилгаа",
+    "summary": "Х хөшүүрэг болсон бүтээгдэхүүний хянах Kioxia Holdings Corp. Мягмар гаригт Хонг Конг-д дебютс. Үүнтэй төстэй SK Hynix Inc. бүтээгдэхүүн нь үндсэн хувьцаанд хэт тотгорыг өдөөж зах зээлийн хяналт тавихад тусалсан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/china-water-environment-seeks-410-million-loan-restructuring": {
+    "title": "Хятад Усны орчин 410 сая $ зээлийг сэргээн босгохыг эрэлхийлж байна",
+    "summary": "Улс орны хамгийн том бохир ус цэвэршүүлэх компаниудын нэг болох Хятад Усны Байгаль орчны групп энэ асуудалтай танилцаж буй хүмүүсийн мэдээлснээр 410 сая $ оффшор зээлийг сэргээн босгохыг эрэлхийлж, улмаар Хятадын төрийн дэмжигддэг олон фирмүүд өрийн бэрхшээлтэй тулгарч байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/berkshire-tests-wider-yen-spreads-in-latest-japan-bond-deal": {
+    "title": "Berkshire хамгийн сүүлийн үеийн Японы Бондын хэлцлийн туршилтын өргөн тархалт",
+    "summary": "Berkshire Hathaway Inc нь 4-р сард санал болгосоноосоо илүү өргөн түвшинд өөрийн хамгийн сүүлийн үеийн иен бондын хэлцлийг маркетинг хийж байгаа бөгөөд хөрөнгө оруулагчид өрийг худалдаж авахад илүү их нөхөн олговор олгохыг шаардаж байгааг онцолж байна."
+  },
+  "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1": {
+    "title": "Трамп хэлэхдээ FBI нь Новидийн Женсен Хуанг руу’харсан' гэж",
+    "summary": "АНУ-ын компани хятадын тагнуултай хэргийг гүйцэтгэх захирал нь гэж буруутгаж байна"
+  },
+  "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1": {
+    "title": "Nvidia ахлах байгуулсан AI чипийн хэлэлцээрийг хөрөнгө оруулагчдад холбосон хятадын тагнуул зарласан",
+    "summary": "Алис Хуанг Nvidia GPU-тэй холбогдож байгаадаа бахархаж байна"
+  },
+  "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1": {
+    "title": "Дэлхий ертөнц Женсэн Хуанг руу хэтэрхий их найддаг болсон",
+    "summary": "Гүйцэтгэх захирал аяллаа бол нэг удаагийн бүтэлгүйтэл нь томоохон компанид хэзээ ч сайн зүйл биш гэдгийг сануулдаг"
+  },
+  "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1": {
+    "title": "Женсен Хуанг тагнуул дуулсны дараа Новидийн гүйцэтгэх захиралаар амьд үлдэж чадах уу?",
+    "summary": "Чипмейкерийн үүсгэн байгуулагч нь дэлхийн хоёр дахь том компанийн удирдагчаар тодорхой залгамжлагч байхгүй"
+  },
+  "https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1": {
+    "title": "Трамп, Путин, богино дайн хуурмаг",
+    "summary": "Америкийн болон Оросын удирдагчид бүтэлгүйтэж дайн эхлүүлжээ. Ши Жинпинээс юу сурч болох вэ?"
+  },
+  "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1": {
+    "title": "Япон дэлгэрүүлж явахдаа юу чухал болохыг дэлхий дахинд мэдүүлж чаддаг",
+    "summary": "Иргэний найдвартай байдлыг хуримтлуулахыг япон хэлтэс илүү их хүчин чармайлт гаргах шаардлагатайг мэднэ"
+  },
+  "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1": {
+    "title": "Хятадын худалдааны илүүдэл жилд эхний 10 сарын турш $ 1тн-аас давсан",
+    "summary": "Үлдэгдэл нь худалдааны түншүүдтэй зөрчилдөж буй шинэ жилийн бүртгэлд хамрагдах сургалт юм."
+  },
+  "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9?syn-25a6b1a6=1": {
+    "title": "Трампын Энх тайвны зөвлөл Газад \"яаралтай тусламж\" байдгийг анхааруулж байна",
+    "summary": "Израильчууд тухайн нутаг дэвсгэрт хангалтгүй тусламж үзүүлснээр үер болж, америкчуудыг аюултай нөхцөлд орхижээ гэж байгууллага хэлдэг."
+  },
+  "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1": {
+    "title": "Бүгд Найрамдах хууль тогтоогч нь АНУ-ын батлан хамгаалах нарийн бичгийн дарга Пит Хигсетийг өмгөөлөхийг хөдөлгөдөг",
+    "summary": "Трампын шүүмжлэл Томас Масси АНУ-ын байгууллагын эрх мэдлийг урвуулан ашиглахыг дурджээ"
+  },
+  "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1": {
+    "title": "Трамп Иран дайныг зогсооход «эерэг эрч хүчтэй» байдаг",
+    "summary": "АНУ-ын ерөнхийлөгчийн саналууд нь бүс нутгийн удирдагчидтай уулзаж, Катарын ерөнхий сайдтай уулзсаны дараа ирдэг"
   }
 }
