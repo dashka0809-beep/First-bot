@@ -14058,5 +14058,309 @@
   "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1": {
     "title": "Нvidia-гийн удирдах зөвлөл Жэнсэн Хуангийн доод албан тушаалтантайгаа хайр сэтгэлийн холбоотой байсан нь илэрсний дараа түүний хувь заяаг шийдэх гэж байна",
     "summary": "АНУ-ын чип үйлдвэрлэгч аварга компанийн тэргүүн Хятадын тагнуулч эмэгтэйтэй дотно харилцаатай байсан гэх мэдээлэл гарсанаас хойш хэдхэн хоногийн дараа улам бүр нэмэгдэж буй дарамтанд орлоо"
+  },
+  "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f": {
+    "title": "Женсен Хуан огцорлоо",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/": {
+    "title": "Зэв 1.100",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/": {
+    "title": "Gemini 4 Устөрөгч ба Оркестратор",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/simpsoka/zigzag": {
+    "title": "HN-ийг харуулах: Миний 300 долларын нэхмэлийн машин захиалга шаардсан тул би өөрийн гэсэн апп бүтээсэн.",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/": {
+    "title": "Манай нарыг тойроход ойролцоогоороо 280 жил шаарддаг одой гараг нэр дэвшигч гарч ирлээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://developer.apple.com/foundation-models-framework/": {
+    "title": "Үндсэн загваруудын хүрээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html": {
+    "title": "Хиймэл оюун ухаан нь Apple-ийн аппликейшнийг хянах процессыг синтезаторын хөгжүүлэгчдийн хувьд аймшигт зүйл болгож байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://status.cloud.microsoft/": {
+    "title": "Microsoft 365 дээрх үйлчилгээний доройтол",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer": {
+    "title": "Edge0-145B: Таны өөрийн компьютер дээрх хиймэл оюун ухааны хил хязгааргүй чадварууд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/": {
+    "title": "22 жилийн настай Postgres төрлийн андуурлын үндсэн элементээс RCE-г гаргах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/": {
+    "title": "Ардчилсан намынхан Nvidia-гийн мөрдөн байцаалтыг эхлүүлж, Хуангийн Трамптай хамтран зохион байгуулсан \"хуйвалдаан\"-ы талаар хатуу шүүмжлэлтэй захидал бичжээ",
+    "summary": "Nvidia-гийн Хятад дахь борлуулалт болон Трамптай хийсгэн харилцааг шалгаж буй Конгрессын энэхүү мөрдөн байцаалт нь тагнуулын үйл ажиллагаа явуулсан гэх мэдээлэл гарч ирснээс хойшхи хоёр дахь мөрдөн байцаалт юм."
+  },
+  "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/": {
+    "title": "Хэрэв та төлбөрөө төлсөн бол Muse одоо АНУ-ын компаниуд руу дуудлага хийх боломжтой боллоо",
+    "summary": "Muse-ийн хиймэл оюун ухаан одоо АНУ-ын бизнесүүдэд гарах дуудлага хийх боломжтой болсон ч энэ нь үнэ төлбөргүй биш юм."
+  },
+  "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+    "title": "Өрнөж буй Женсен Хуангийн дуулиан: цаг хугацааны хуваарь",
+    "summary": "Женсен Хуан АНУ болон Хятад улсууд хамгийн дэвшилтэт хиймэл оюун ухааны дэд бүтцийг хөгжүүлэхийн төлөө өрсөлдөж буй үед үндэсний аюулгүй байдалд нөлөөлж болзошгүй харилцааны улмаас Nvidia компаниас огцорсон байна."
+  },
+  "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/": {
+    "title": "Nebius нь neocloud гарын авлагыг 40 тэрбум долларын төлөвлөсөн зардлаар туршиж байна",
+    "summary": "Nebius нь Microsoft-ийн өгөгдлийн төвийн хоцрогдол нь санхүүжилтийн загварын талаар асуулт үүсгэж байгаа ч үйлчлүүлэгчдийн урьдчилгаа төлбөр, зээлээр дамжуулан 40 тэрбум ам.долларын хиймэл оюун ухааны дэд бүтцийг өргөтгөхөд санхүүжилт олгохоор төлөвлөж байна."
+  },
+  "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/": {
+    "title": "Женсен Хуан гурав дахь удаагаа хайр сэтгэлийн холбоотой байсан гэж Ройтерс мэдээлж байна",
+    "summary": "Ройтерс агентлаг Хуантай холбоотой шинэ ажилтны нэрийг нууцалж байгаа ч тэрээр Nvidia-ийн ажилтан гэж мэдэгджээ."
+  },
+  "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/": {
+    "title": "Google-ийн хамгийн сүүлийн үеийн Хайлтын шинэчлэл нь таны хамгийн төвөгтэй асуултуудад илүү сайн хариулт өгөх болно гэж амлаж байна",
+    "summary": "Gemini 4 Hydrogen-ийн дэмжлэгтэйгээр Google-ийн хиймэл оюун ухааны горим нь нарийн төвөгтэй асуултуудыг ойлгох, холбогдох холбоосыг гаргаж ирэх, илүү баялаг дүрслэл бүхий хариултуудыг өгөх чадвараа сайжруулж байна."
+  },
+  "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/": {
+    "title": "Nectar нь брэндүүдэд зориулсан бүтээгчдийг илрүүлэх, тэдэнтэй холбогдох үйл явцыг автоматжуулах хиймэл оюун ухааны агентийг нэвтрүүлж байна",
+    "summary": "Nectar-ийн шинэ хиймэл оюун ухааны агент нь инфлюэнсер маркетингийг автоматжуулж, брэндүүдэд бүтээгчдийг олж илрүүлэх, харилцаа холбоо, түншлэлийг удирдах, кампанит ажлын үр дүнг хянахэд тусалдаг."
+  },
+  "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/": {
+    "title": "Microsoft-ын Outlook имэйл шинэ сааталд орлоо",
+    "summary": "Microsoft компани Outlook цахим шуудангийн хэрэглэгчдэд нөлөөлж буй үйлчилгээний тасалдлын шалтгааныг одоогоор мэдэгдээгүй байна."
+  },
+  "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/": {
+    "title": "Женсен Хуангийн гарц нь Nvidia-гийн нээлттэй эхийн дэмжлэгийг эргэлзээтэй болгож байна",
+    "summary": "Женсен Хуангийн огцролт нь Nvidia компанийн нээлттэй эхийн хиймэл оюун ухаанд үнэнч байх, түүний дотор Hugging Face-ийг худалдан авах, нээлттэй жинтэй загварууд, хязгаарлалтын эсрэг үг хэлэх зэрэг асуудлуудыг хөндөж байна. Учир нь тус компани удирдлагын шилжилтийг хийж байна."
+  },
+  "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/": {
+    "title": "Hugging Face-ийн Гүйцэтгэх захирал Женсен Хуангийн гарсан ч нээлттэй эхийн хиймэл оюун ухааны төлөө тэмцсээр байхаа амлалаа",
+    "summary": "Hugging Face-ийн Гүйцэтгэх захирал Хуангийн гарсан хойно ч нээлттэй эхийн хиймэл оюун ухааны төлөө тэмцсээр байхаа амласан нь Nvidia-ийн 12.9 тэрбум долларын худалдан авалтын талаар асуулт үүсгэсэн."
+  },
+  "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang": {
+    "title": "Дональд Трамп Тим Кукийг Nvidia-г удирдуулахыг үнэхээр хүсэж байна",
+    "summary": "Женсен Хуан өнөө өглөө Хятадын тагнуулч байсан гэх эмэгтэйтэй харилцаатай байсан гэх мэдээлэл гарсаны дараа Nvidia компанийн Гүйцэтгэх захирлын албан тушаалаасаа огцорлоо. Одоогоор тус компанийг санхүүгийн захирал нь түр хугацаанд удирдаж байна. Гэхдээ Ерөнхийлөгч Дональд Трамп аль хэдийнээ энэ албан тушаалыг авах ёстой гэж бодож буй нэг хүний нэрийг хэлж байна..."
+  },
+  "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3": {
+    "title": "Xbox Wolfenstein 3-ыг зарлалаа",
+    "summary": "Bethesda-гийн MachineGames 2017 онд Wolfenstein II: The New Colossus-ыг гаргаснаас хойш бараг арван жил өнгөрч, одоо Xbox студийн үргэлжлэлийг зарлахад бэлэн болжээ. Wolfenstein 3-ыг өнөөдөр албан ёсоор зарласан бөгөөд үүнээс хэдхэн хоногийн өмнө Bethesda дараагийн Elder Scrolls-ыг... гэдгийг мөн баталсан юм."
+  },
+  "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network": {
+    "title": "Whoop нь хэрэглэгч бүр \"батлагдсан зүрхний цохилт\"-той нийгмийн сүлжээг нээлээ",
+    "summary": "Пүрэв гарагаас эхлэн Whoop-ийн гишүүд өмсдөг төхөөрөмжүүдээсээ авсан өгөгдлөө аппликэйшний шинэ Whoop Humans нийгмийн сүлжээнд хуваалцах боломжтой болно. Хэрэглэгчид өөрсдийн үзүүлэлт, үйл ажиллагаа, ололт амжилтаа бусад Whoop хэрэглэгчдэд харагдахуйц болгож, зураг, тайлбартай Стори шиг \"Мөчүүд\"-ийг нийтэлж, сэтгэгдэл нэмж болно..."
+  },
+  "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings": {
+    "title": "Humble Bundle-ийн шинэчлэлт нь тохиргооноос хоёр хүчин зүйлийн баталгаажуулалтыг хассан",
+    "summary": "Тоглоом болон бусад программ хангамж худалдаж авах зориулалттай Humble Bundle дэлгүүрийн нүүр хуудас саяхан шинэчлэгдсэн боловч тохиргооны хуудаснаа хоёр хүчин зүйлт баталгаажуулалтын аргыг нэмэх эсвэл шинэчлэх боломжгүй болсон тухай Kotaku мэдээлсэн байна. PC Gamer мөн Humble Bundle-ийн дэмжлэгийн хуудсууд байгааг онцолж байна..."
+  },
+  "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down": {
+    "title": "Microsoft Outlook одоо ч ажиллахгүй байна",
+    "summary": "Пүрэв гарагийн 13:00 цагаас (ET) өмнөхөн дэлхий даяар хүмүүс Outlook цахим шуудангаа вэбээр болон аппликейшнээр нэвтэрч чадахгүй байгаа тухай мэдээлэл ирсэн байна. Microsoft компани энэ асуудлыг Microsoft 365 Status данснаасаа шууд хүлээн зөвшөөрч, \"Бид хэсэг хэсгийг тогтоосон..."
+  },
+  "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature": {
+    "title": "Xbox-ийн эзэд дэвсгэр болон Гарын авлагын цэсэнд илүү олон тохируулга хийх боломжтой болж байна",
+    "summary": "Microsoft өнөөдрөөс эхлэн Xbox консолуудын шинэ тохиргооны сонголтуудыг туршиж эхэлж байна. Xbox Insiders нь шинэ эргэлдэх дэвсгэрүүд, дижитал тоглоомуудын шинэ номын сангийн сонголтууд, Xbox Guide цэсийг баруун тал руу шилжүүлэх боломжийг туршиж эхлэх боломжтой болно. \"Xbox Insiders одоо..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen": {
+    "title": "Google-ийн шинэ Gemini загвар нь төвөгтэй асуултуудыг илүү сайн ойлгодог",
+    "summary": "Google-ийн шинэ Gemini 4 Hydrogen загвар нь \"олон хэсэгтэй асуултууд, ойлгоход хэцүү бичгийн алдаатай эсвэл маш тодорхой хүсэлттэй\" зэрэг төвөгтэй асуултуудад илүү тустай хариултуудыг өгөх боломжтой гэж мэдэгджээ. Шинэ загвар нь таны асуултуудыг задлан шинжилж, хариултдаа хэсэг бүрийг нь авч үзэх боломжтой. Энэ нь…"
+  },
+  "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions": {
+    "title": "\"Энэ бол алдаа\": Жэнсен Хуангийн огцролтын талаарх технологийн удирдагчдын хариу үйлдэл",
+    "summary": "Nvidia компани өнөө өглөө Женсен Хуан Хятадын тагнуулч гэх эмэгтэй болон өөрийн шууд удирдлага доор ажилладаг эмэгтэйтэй хайр сэтгэлийн холбоотой байсан гэх хоёр мэдээллийн дараа гүйцэтгэх захирлын албан тушаалаасаа огцорсныг зарлалаа. Хуангийн эргэн тойрон дахь нөхцөл байдал хурдан өрнөж, \"Нью-Йорк Таймс\" сонин зөвхөн Баасан гарагт мэдээлсэн нь..."
+  },
+  "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale": {
+    "title": "Oura Ring 4 нь шинэ загвартай бараг адилхан боловч 150 доллараар хямд юм.",
+    "summary": "Өмнөх үеийн Oura Ring 4 нь Amazon, Best Buy, Target-д 249 доллараар худалдаалагдаж байгаа бөгөөд энэ нь жижиглэнгийн үнээс 100 доллараар хямдарсан бөгөөд долоодугаар сараас хойш уг төхөөрөмжид олгосон анхны том хөнгөлөлт юм. Үнэ нь хэмжээ, өнгөнөөс хамаарч арай өөр байдаг бөгөөд ихэнх мөнгөлөг, хар загварууд хамгийн хямд үнээр байгаа..."
+  },
+  "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility": {
+    "title": "Энд та одоо компьютер дээр тоглож болох 25 анхны Xbox тоглоом байна",
+    "summary": "Xbox-ийн 25 жилийн ойгоор Microsoft нь төлбөртэй \"дараагийн үеийн тоглоомыг хадгалах\" амлалтаа биелүүлж эхэлж байна. Өнөөдрөөс эхлэн та дижитал хуулбартай (эсвэл худалдаж авахад бэлэн) бол Windows компьютер дээрээ 25 өөр анхны Xbox тоглоомыг тоглох боломжтой. Долоодугаар сард Microsoft..."
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5": {
+    "title": "Claude Fable 5.2 болон Claude Mythos 5.2-ыг танилцуулж байна - Anthropic",
+    "summary": "Claude Fable 5.2 болон Claude Mythos 5.2-ыг танилцуулж байна  Anthropic"
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWRmQ1BneGdsLUtIeUJmSS1HeUpjVnRib1o1cnJOamNsV3k1aGNFZnR4X0J2ZjdxR1VfcGg4VUt0dHBNWlQ1SDJXRDREaDZwYk80clNHVGdoeG5icjFOdFFHUmNQLWtYOV9RWkRudWRlQ3cyQzNRdVQyRllBalFjUlEtQ0Y5RnFnV1VNbmE4ckFDc1ZK?oc=5": {
+    "title": "Anthropic компани \"Claude for Manufacturing\" бүтээгдэхүүнийг нэвтрүүллээ - Manufacturing Dive",
+    "summary": "Anthropic компани \"Claude for Manufacturing\"  Manufacturing Dive-ийг нэвтрүүллээ"
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWJjaHQ4a09ibHpfdWZQUWVfcEVjOGMyT2h1aUU5ZTNfWnRUdlJnWVVIWmxEd05qVGtQT2JjczQ1SVlfNXlPMERBdE1GMzBxb2ZySF9TQjNUSnkxRVM3eV9nMlB4YUxGNlFTbVJnZzJkQ28zNDAtMkxtZC1CVnhhdDRCeENVRGRCTXpIQnQ1U2hPdUQySWJ1Z09xM2g2dw?oc=5": {
+    "title": "Хиймэл оюун ухааны хамгийн том зарлагын ангилал \"тогтворжих эхлэлтэй\" тул Голдман Клод Кодыг арилжаачдаасаа татлаа - Yahoo Finance",
+    "summary": "Хиймэл оюун ухааны хамгийн том зарлагын ангилал \"Тогтворжих эхлэлтэй\" болж байгаа тул Голдман Клод Кодыг арилжаачдаасаа татлаа  Yahoo Finance"
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWJmZ01vZE41aVVUeFA2VTZyVVNFeHBLMFctdVNfd0hieVNON1gtb1gxZl9zbDNzOVVQUGNfVVd4OHd5UVltQ3hRRUZzZzdsRWtyMmRFcEp5elczUk40X0hDYm1BRlRrckwwZFlZUFB2c3gyMmI3WDE3a2pSVTMzdVA3T1BrcERmdE50N3diUkRhVk0taEZ3dVZQWEZtdFVyUVFDZHdtRXJReENwTmxwenBHMC1WaUU?oc=5": {
+    "title": "Метагийн хиймэл оюун ухааны робот таны санхүүг өөрчлөхгүй - Bloomberg.com",
+    "summary": "Метагийн хиймэл оюун ухааны робот таны санхүүг өөрчлөхгүй  Bloomberg.com"
+  },
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEVybEhWTW9jVmREamMxQnRobi1pZjk1NFl0eGl3REd5SlJsLTNubEpsVmZyUHF4Q0FjMl9UX2dkcWhYWndMWEw2azdWTUhXQTFTZzhXcjJnSGp3OHZNVDFXNTNKUGszcWFJeDE2SXU3dlZTQWlabDI3eC1sY2RKRHRHZTJHcjRNRnpHQmtRNkVDNnpxUHNiWTRXejR1clF1SnJwVVd3UjhjN1hoU1I1UkxHT1l1eTFWUGdNcExyTQ?oc=5": {
+    "title": "АНУ-ын хиймэл оюун ухааны чат хэрэглэгчдийн гуравны нэг нь ботуудад уурлаж, LLM-үүдийг доромжилж байна - The Register",
+    "summary": "АНУ-ын хиймэл оюун ухааны чат хэрэглэгчдийн гуравны нэг нь ботуудад уурлаж, LLM-үүдийг доромжилж байна  The Register"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVFzTkpNdV9uc2JnQUFWcTF0c0Y1UnRVcU1ETUZHRGZVUjlRNGpBWXI5UGF4TThRWEFEc1J2alNTbmFYSUEzXzNhb1p4RlRpRDdmd1BSdi1xeXB4aFgwQTlUalZYc19yM2U1S2JYWFVWQWRvSUM3RF9ETkN2bWY0T2g1ZEtWemNpYThCM3lBZFhMRlM5VHRuTG94WDA?oc=5": {
+    "title": "IPO ойртож буйтай холбогтойгоор Anthropic компани үйлдвэрлэгчдэд зориулсан Claude бүтээгдэхүүнээ нэвтрүүллээ - Business Insider",
+    "summary": "IPO ойртож буйтай холбогдуулан Anthropic компани үйлдвэрлэгчдэд зориулсан Claude бүтээгдэхүүнээ гаргалаа  Business Insider"
+  },
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlczWW5CYUlhR3h6QzBPcDk2aEZyMjhHZWMtYjJSTWtESjlQRmJBRUJvR0hrc2NfZGxDRDFrWjhaN0llbkhWVkdCdlU5WFhoVmhHUF9sX0U4WW1abWxrd2Rya25XRVdiaGFqZ0VodmhWWWZDMWZpYzBVdXAzbktKejlpQS05S1pYRjJfc3FaaGtxYk9XTzIwV3hlemFOX3hvclhsamFGNFdpM2FBLXczclZseDVpQnppOUNVd0tR?oc=5": {
+    "title": "OpenAI кибер загварыг хязгаарласнаар Anthropic-ийн Claude хиймэл оюун ухааны жагсаалтыг тэргүүллээ - PYMNTS.com",
+    "summary": "OpenAI кибер загварыг хязгаарласнаар Anthropic-ийн Claude хиймэл оюун ухааны жагсаалтыг тэргүүллээ  PYMNTS.com"
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iRzZDUXNtcVprMlhVNzR0MU1ZaHRmY3dsWTNaRUZEMy1LTjNPRFZGcktGQWpkdVBEUmszSGllRXFKamNyNmhXMzA4LXBmdWtpaG9WbFI4WVdjbXd6UmJWY2xkcnViWUNOa1p4MFc1UmdrMDgwTE5hblkxaw?oc=5": {
+    "title": "Anthropic нь Claude-ийг таны төхөөрөмжүүдийг задлахыг хориглож магадгүй бөгөөд нээлттэй эхийн хиймэл оюун ухаан нь үүнээс зайлсхийх цорын ганц арга байж магадгүй юм - XDA",
+    "summary": "Anthropic нь Claude-ийг таны төхөөрөмжүүдийг декомпиль хийхээс хориглож болох бөгөөд нээлттэй эхийн хиймэл оюун ухаан нь үүнээс зайлсхийх цорын ганц арга байж магадгүй юм.  XDA"
+  },
+  "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWGZPd2VWV1dZamRySElIc1FiNmwyTUxYVFplWEtQTHRYYVlUQmZTUW11UzloUUJOUU45aU1yWDk1N0pCX1FhdzhZaG51eVFaN3dFU0hBTjdyYi1JNTZDamhQU005MF83OXVCTlRsQ0p3YkZBcUFfNmlBRW5jZ3BHVFRCVkNaWDk3djBZNTNuSG9Odl9BNWxhby1QWlVjRGRXb2xvQjBIanpfX1J0eUpvUXhHY1lWbTZQb3V3bUxYUW9razhaSVYtMG9xRVdmcEFTSk01eWNLa2dHbFY4SDdBQkdpdjI3OWF1SEVWTnpoeXVFbVQtd1RlZjRHazVCUdIBgwJBVV95cUxNNlpoeU5KSmNpMWVWaXRnMXlLVmp6aDM4UG1MUXFlcGF2aUpneHRjTEJqdEp2azl1Q0tEQlBPTG1vS0ZVTnJVYVJkTUJHUUtZcjNvaTl0MS1USFRaZnpLMzltc0Q4QlU1Yjh3MUNhZktiNUl3SHd2ZlNLeDhHb0NaZlkxN0VicVoycEg1RkxfanBUODg0cDJhbVlNdnF6Y3BESXI4cmx6cmVuSkhLQnJNV3dia2doa3RXS0hESERBdFE1NnFoLVY1bDVVUGducC04TGVBWm1TQVdBaFJYaW5mS3RnMy1QWGJPZ3JNMUlBeWc3S0E3NW9UT0lReFF0d1JMZnpz?oc=5": {
+    "title": "Антропикийн IPO: Энэтхэгийн хөрөнгө оруулагчид Клод үйлдвэрлэгчийн 64 тэрбум долларын хувьцааны борлуулалтад өргөдөл гаргаж болох уу? Дүрмийг шалгах - The Economic Times",
+    "summary": "Anthropic-ийн IPO: Энэтхэгийн хөрөнгө оруулагчид Claude-ийн бүтээгчийн 64 тэрбум долларын хувьцааны борлуулалтад өргөдөл гаргаж болох уу? Дүрмийг шалгах  The Economic Times"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-13/nvidia-ousts-huang-spacex-tesla-s-record-merger-talks-more": {
+    "title": "Nvidia Хуан, SpaceX, Tesla-гийн түүхэн нэгдэх хэлэлцээрийг хассан нь, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-13/everybody-s-business-the-downfall-of-nvidia-s-ceo-podcast": {
+    "title": "Бүгдийн асуудал: Nvidia-гийн Гүйцэтгэх захирлын уналт (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-13/nvidia-cuts-ties-with-huang-spacex-tesla-merger-talks-more": {
+    "title": "Nvidia компани Хуантай харилцаагаа таслав, SpaceX, Tesla-гийн нэгдэх тухай яриа хэлэлцээр, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-13/bloomberg-law-the-administrative-state-blue-ags-podcast": {
+    "title": "Bloomberg Law: Захиргааны улс ба Цэнхэр Ерөнхий прокурорууд (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 40:27"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-13/joly-is-fed-up-but-there-s-no-clear-solution-for-stellantis-problem": {
+    "title": "Жоли \"уйдсан\" ч \"Стеллантис\"-ийн асуудалд тодорхой шийдэл байхгүй байна",
+    "summary": "Нэмэлт: Nvidia-гийн хэрэг(үүд)"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-12/nvidia-s-huang-out-spacex-tesla-talk-record-merger-more": {
+    "title": "Nvidia-ийн Хуан гарч, SpaceX, Tesla-ийн ярианы бичлэгийн нэгдэл, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-12/nvidia-s-stock-tumbles-after-huang-s-exit-wall-street-reacts": {
+    "title": "Хуангийн гарсан мэдээний дараа Nvidia-гийн хувьцаа унаж, Уолл Стрийт хариу үйлдэл үзүүллээ",
+    "summary": "Хоцрогдсон зүйлээ гүйцээрэй."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-12/nvidia-ousts-huang-spacex-tesla-s-record-merger-talks-more": {
+    "title": "Nvidia Хуангыг халах, SpaceX, Tesla-гийн түүхэн нэгдэх хэлэлцээр, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/from-jane-street-to-point72-finance-giants-drive-hong-kong-office-rents-higher": {
+    "title": "Жейн Стрийтээс эхлээд Пойнт72 хүртэл санхүүгийн аварга компаниуд Хонконгийн оффисын түрээсийн үнийг өсгөж байна",
+    "summary": "Жейн Стритээс эхлэн Пойнт72 хүртэл зах зээлийн оролцогчид болон хедж сангууд илүү олон оффисын давхарыг эзэлж, хоосон байх хувь нь гурван жилийн доод түвшинд хүрсэн байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-12/bloomberg-businessweek-daily-nvidia-s-huang-ousted-podcast": {
+    "title": "Bloomberg Businessweek Daily: Nvidia-гийн Хуан огцорлоо (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.entrepreneur.com/business-news/small-business-owners-have-more-ai-insight-than-ever-but-its-stuck-in-dashboards-heres-how-to-put-it-to-work": {
+    "title": "Жижиг бизнесийн эзэд урьд өмнөхөөсөө илүү их хиймэл оюун ухааны ойлголттой болсон - Гэхдээ энэ нь хяналтын самбаруудад гацсан байна. Үүнийг хэрхэн ашиглахыг эндээс үзнэ үү.",
+    "summary": "Өнөөдөр жижиг бизнесийн эзэд бизнесээ удирдахдаа их хэмжээний өгөгдөлд нэвтрэх боломжтой бөгөөд тэдний ажилтнуудын өгөгдөл нь нүдэнд харагдахгүй нуугдаж буй ойлголтуудыг илрүүлж магадгүй юм. Ихэнх бизнесийн удирдагчид ажилтнуудын эргэлт, цагийн илүү ажил, оролцоог хянах зорилгоор ажиллах хүчний хяналтын самбарт нэвтрэх боломжтой байдаг..."
+  },
+  "https://www.entrepreneur.com/building-a-business/3-ways-businesses-can-create-value-international-expansion-global": {
+    "title": "Бизнесүүд хил дамнасан үнэ цэнийг бий болгох 3 арга",
+    "summary": "Харилцаа тогтоохоос эхлээд орон нутгийн зах зээлд дасан зохицох хүртэл тогтвортой өсөлт нь зөвхөн компанийн хүрээг тэлэхээс илүү их зүйлийг шаарддаг."
+  },
+  "https://www.entrepreneur.com/business-news/the-ceo-of-ebony-eden-bridgeman-shares-leadership-lessons": {
+    "title": "Wendy's-ийн Drive-Thru-д ажилласнаас эхлээд EBONY-ийн Гүйцэтгэх захирал болох хүртэл — Идэн Бриджман өөрийн манлайллын хэв маягийг бүрдүүлсэн сургамжуудаа хуваалцаж байна",
+    "summary": "EBONY-ийн Гүйцэтгэх захирал Идэн Бриджман франчайзын туршлага, эцгийнхээ удирдлагын сургамжаас хэрхэн суралцаж, 80 жилийн түүхтэй соёлын байгууллагыг хэвлэл мэдээллийн ирээдүй рүү чиглүүлж байгаагаа тайлбарлав."
+  },
+  "https://www.entrepreneur.com/building-a-business/what-ceos-need-to-know-about-deepfakes-disinformation-and-the-new-rules-of-brand-defense": {
+    "title": "Гүйцэтгэх захирлууд дипфейк, ташаа мэдээлэл, брэндийг хамгаалах шинэ дүрмийн талаар юу мэдэх хэрэгтэй вэ?",
+    "summary": "Гүйцэтгэх захирлууд яагаад брэндийн тэсвэржилтийг нэн тэргүүнд тавьж, хямрал болохоос өмнө урьдчилан сэргийлэх нэр хүндийн дэд бүтцийг бий болгох ёстойг мэдэж аваарай."
+  },
+  "https://www.entrepreneur.com/business-news/dont-delete-your-old-slack-selling-it-to-ai-can-be-quite-lucrative": {
+    "title": "Хуучин Slack-аа устгаж болохгүй. Үүнийг хиймэл оюунд худалдах нь \"нэлээд ашигтай\" байж болно.",
+    "summary": "Хиймэл оюун ухаан таны хуучин PowerPoint танилцуулга болон Slack мессежүүдийг хүсэж байгаа бөгөөд нэг зуучлагч зарим компаниудад хэдэн сая доллар төлсөн гэж хэлж байна."
+  },
+  "https://www.entrepreneur.com/business-news/would-you-pay-18-to-get-costcos-1-50-hot-dog-combo-delivered-to-your-door-this-new-app-is-betting-youll-bite": {
+    "title": "Та Costco-гийн 1.50 долларын хот догийн комбог гэртээ хүргүүлэхийн тулд 18 доллар төлөх үү? Энэхүү шинэ апп таныг татгалзахгүй гэдэгт итгэлтэй байна.",
+    "summary": "Косткогийн хоолны газрын үйлчилгээ нь хямд үнээрээ алдартай боловч шинэ хүргэлтийн апп нь тав тухтай байдлын төлөө төлбөрийг нэмэгдүүлж байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/entrepreneurs-make-2-common-mistakes": {
+    "title": "Би 131,201 бизнес эрхлэгчтэй хамтран ажилласан бөгөөд тэдний 95% нь эдгээр 2 алдааг гаргадаг",
+    "summary": "131,000 гаруй бизнес эрхлэгчдэд тусалсны дараа би тогтвортой өсөлт нь ихэвчлэн хоёр гайхалтай нийтлэг алдаанаас зайлсхийхэд оршдогийг ойлгосон."
+  },
+  "https://www.entrepreneur.com/building-a-business/what-changing-college-enrollment-trends-reveal-about-the-future-of-work": {
+    "title": "Коллежид элсэлтийн чиг хандлагын өөрчлөлт нь ажлын ирээдүйн талаар юуг илэрхийлж байна вэ?",
+    "summary": "Энд оюутнуудын сонголтод өөрчлөлт оруулж буй зүйлс болон их сургуулиуд хэрхэн сургалтын хөтөлбөрүүдээ өөрчилж, сургалтын хөтөлбөрүүдээ ажиллах хүчний хэрэгцээнд нийцүүлж, оюутнуудад илүү сайн мэргэжил сонгоход нь туслах талаар өгүүлнэ."
+  },
+  "https://www.entrepreneur.com/business-news/americans-are-under-extreme-financial-pressure-debt-report": {
+    "title": "\"Би зүгээр л урагшлах боломжгүй\": Шинэ тайлангаас үзвэл америкчууд яагаад хэт их санхүүгийн дарамтанд орж байгаа вэ?",
+    "summary": "73 настай нэгэн зээлдэгч 19 зээлийн картаар бараг 40,000 долларын өртэй гэж ярьсан."
+  },
+  "https://www.entrepreneur.com/side-hustle/10-most-profitable-side-hustles-make-extra-money-now-fiverr-data": {
+    "title": "Fiverr-ийн мэдээлснээр эдгээр 10 нэмэлт ажил нь одоо хүмүүст хамгийн их мөнгө олж өгч байна.",
+    "summary": "Номын дизайн хийхээс эхлээд подкаст бүтээх хүртэл эдгээр боломжууд нь ердийн фриланс ажлуудаас давсан байдаг."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates": {
+    "title": "Nvidia-гийн хөрөнгийн үнэ унасны дараа Азийн хөрөнгийн үнэ өсч, газрын тосны үнэ тогтвортой байна: Зах зээлийн тойм",
+    "summary": "Nvidia Corp.-ийн удирдлагын хямрал нь хиймэл оюун ухааны салбарын хувьцааны өргөн хүрээний арилжааг зогсоож болзошгүй гэсэн болгоомжлол буурч байгаатай холбогдуулан хөрөнгө оруулагчид технологийн салбарын хувьцаанд дахин хөрөнгө оруулалт хийж эхэлснээр Азийн хувьцааны ханш өсчээ. Газрын тосны үнэ тогтворжсон байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/singtel-raises-profit-outlook-as-overseas-businesses-gain-ground": {
+    "title": "Singtel \"Nvidia-аас харьцангуй тусгаарлагдсан\" гэж мэдэгдэж, урьдчилсан төлөвлөгөөгөө нэмэгдүүллээ",
+    "summary": "Сингапур Телекоммьюникейшнс Лтд. компани нь Nvidia Corp.-ийн эргэн тойронд болж буй үйл явдлаас ихэнхдээ тусгаарлагдсан бөгөөд өгөгдлийн төвийн хүчин чадлын зөвхөн багахан хэсгийг нь чип үйлдвэрлэгчтэй холбоотой байж болох неоклаудын үйлчлүүлэгчдэд нээлттэй болгосон гэжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/compass-sues-multiple-listing-services-ramping-up-antitrust-row": {
+    "title": "Компас олон листингийн үйлчилгээ үзүүлэгчдийг шүүхэд өгч, монополь эсрэг маргааныг өдөөж байна",
+    "summary": "Орон сууцны үл хөдлөх хөрөнгийн АНУ-ын тэргүүлэх зуучлагч хэрэглэгчид хэрхэн орон сууц худалдаж авах, худалдах талаарх маргаан пүрэв гарагт улс даяар өрсөлдөөний эсрэг олон арван нэхэмжлэл гаргаснаар улам хурцадсан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/new-world-suspends-trading-as-investors-watch-for-next-steps": {
+    "title": "Хөрөнгө оруулагчид дараагийн алхмуудыг хүлээж байхад Нью Ворлд арилжаагаа түр зогсоов",
+    "summary": "\"New World Development Co.\" компани нь рекордын хэмжээний жилийн алдагдалтай гэдгээ мэдээлснээс нэг сарын дараа хөрөнгө оруулагчдад мэдэгдэл хийхээр бэлтгэж байгаа тул хувьцааны арилжаагаа түр зогсоожээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13": {
+    "title": "11-р сарын 13-ны газрын тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, шинжилгээ",
+    "summary": "АНУ Ирантай тохиролцоонд хүрэхээс татгалзаж магадгүй гэж Ерөнхийлөгч Дональд Трамп мэдэгдсэний дараа газрын тосны үнэ өсөлтөө хадгалсан нь Ойрхи Дорнодын нийлүүлэлтийг сэгсэрсэн дайныг зогсоох шийдвэрлэх алхам хийх боломжийг бууруулж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/india-equity-surge-brightens-outlook-for-exchanges-brokerages": {
+    "title": "Энэтхэгийн хөрөнгийн зах зээлийн өсөлт нь бирж, брокеруудын ирээдүйн төлөвийг сайжруулж байна",
+    "summary": "Энэтхэгийн 5.4 их наяд долларын хөрөнгийн зах зээл сэргэж, арилжааны идэвхжил нэмэгдэж, орлогын төлөв байдал сайжирч байгаа нь бирж, брокеруудын хувьд таатай нөхцөл бүрдүүлж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/singapore-tuition-center-learning-lab-tll-buyout-advent-seeks-sell": {
+    "title": "Advent компани Сингапурын Tutor-Chain Learning Lab-ыг дахин худалдахыг оролдож байна",
+    "summary": "Энэ асуудлыг сайн мэдэх хүмүүсийн хэлж буйгаар, АНУ-ын худалдан авах компанийн Advent International Corp. нь Сингапурын The Learning Lab сургалтын сүлжээг худалдахаар гаргасан нь 2021 оноос хойш уг хөрөнгийг борлуулах хоёр дахь оролдлого бөгөөд энэ нь хэсэгчлэн өрийг төлөх зорилготой ажээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/silver-market-set-for-deficit-even-as-solar-makers-cut-back": {
+    "title": "Нарны эрчим хүчний үйлдвэрлэгчид үйлдвэрлэлээ багасгаж байгаа ч мөнгөний зах зээл хомсдолд орох төлөвтэй байна",
+    "summary": "Нарны эрчим хүчний үйлдвэрлэгчид энэ металыг ашиглахаа багасгаж, хөрөнгө оруулагчид худалдаагаа багасгаснаар физик зах зээл дээрх дарамт буурч байгаа хэдий ч мөнгөний зах зээл 2026 онд зургаа дахь жилдээ дараалан нийлүүлэлтийн хомсдолд орох төлөвтэй байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/australia-bond-yield-falls-below-us-peer-as-rate-paths-diverge": {
+    "title": "Хүүний хувь хэмжээний чиглэл өөрчлөгдсөнөөр Австралийн бондын өгөөж АНУ-ынхаас доогуур боллоо",
+    "summary": "Хоёр улсын мөнгөний бодлогын талаарх хүлээлт өөр өөр байсан тул Австралийн жишиг бондын өгөөж нэг жил гаруйн хугацаанд анх удаагаа АНУ-ынхаас доогуур болжээ."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-12-2026-video": {
+    "title": "Хуан ажлаа өгснөөр хувьцаа унаж, Nvidia санхүүгийн захирал руу шилжлээ",
+    "summary": "Bloomberg телевиз танд Уолл Стрийтийн хаалтын хонх дуугарахаас өмнөх болон дараах сүүлчийн минут, секунд хүртэлх хамгийн сүүлийн үеийн мэдээ, шинжилгээг хүргэж байна. Өнөөдрийн зочид бол Гербер Кавасаки Хөрөнгө, Хөрөнгө Оруулалтын Менежментийн хамтран үүсгэн байгуулагч, Ерөнхийлөгч, Гүйцэтгэх захирал Росс Гербер, Эмили Килкрис..."
+  },
+  "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1": {
+    "title": "Nvidia-гийн дуулиан өргөжихийн хэрээр АНУ-ын хууль тогтоогчид Ховард Лютникэд дарамт шахалт үзүүлж байна",
+    "summary": "Хууль тогтоогчид Трампын худалдааны сайдаас Хятадын тагнуулчтай холбоотой гэх компанид чип зарахыг яагаад зөвшөөрснийг тайлбарлахыг шаардаж байна"
+  },
+  "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1": {
+    "title": "Хуангийн явахтай холбоотойгоор ч гэсэн хиймэл оюун ухааны өсөлт нь Nvidia-г өргөх болно гэж хөрөнгө оруулагчид хэлж байна",
+    "summary": "Пүрэв гарагийн зах зээл хаагдах үед хувьцаа эзэмшигчид үнийн уналтыг ашиглан худалдан авч, Гүйцэтгэх захиралгүй бүлгийн ирээдүйг харж байсан тул хувьцааны үнэ ихэнхдээ сэргэсэн."
+  },
+  "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1": {
+    "title": "Nvidia-гийн тэргүүн Женсен Хуан гэрээс гадуурх харилцааны талаарх илчлэлтээр унасан",
+    "summary": "Чип үйлдвэрлэгч компанийг хиймэл оюун ухааны хөгжлийн хөдөлгүүр болгосон удирдагчийн гучин жилийн ажилласан хугацаа гайхалтайгаар өндөрлөж байна."
+  },
+  "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1": {
+    "title": "Силикон хөндийн ахмад дайчид одоо Nvidia-г удирдаж байна",
+    "summary": "Шинэ дарга Харви Жонс болон гүйцэтгэх захирал Колетт Кресс нар үүсгэн байгуулагч Женсен Хуангийн гэнэтийн огцролын дараа чип үйлдвэрлэгч компанийг тогтвортой байлгах шаардлагатай байна."
+  },
+  "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1": {
+    "title": "Хуангийн уналт бол Томоохон Технологийн компаниудад үүсгэн байгуулагчийн горим ноёрхож байгаагийн нотолгоо юм.",
+    "summary": "Хиймэл оюун ухаан эдийн засаг, үндэсний аюулгүй байдал болон бараг бүх зүйлийн гол цөм болсон энэ үед удирдагчдад эрх чөлөө олгох эрсдэл одоо тодорхой болжээ."
+  },
+  "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1": {
+    "title": "АНУ Европгүйгээр Украины дайныг зогсоох хэлэлцээрт хүрэх боломжгүй гэж Кушнер хэлэв",
+    "summary": "Европын удирдагчид Европын аюулгүй байдлыг шинэчлэх оролдлогыг Оросын тал гаргаж байгааг эсэргүүцэж байгаа үед Америкийн элчин сайдын хэлсэн үг гарч байна."
+  },
+  "https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1": {
+    "title": "АНУ-ын элч нар Москвад ирэхэд Украины Starlink-ийн хязгаарлалт дахин эхэллээ гэж мэдэгдэв",
+    "summary": "Стив Виткофф, Жаред Кушнер нар Владимир Путинтэй уулзаж байхад арми Оросын реактив хөдөлгүүртэй нисгэгчгүй онгоцыг барих гэж тэмцэж байна."
   }
 }
