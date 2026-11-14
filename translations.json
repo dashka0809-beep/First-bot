@@ -14362,5 +14362,309 @@
   "https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1": {
     "title": "АНУ-ын элч нар Москвад ирэхэд Украины Starlink-ийн хязгаарлалт дахин эхэллээ гэж мэдэгдэв",
     "summary": "Стив Виткофф, Жаред Кушнер нар Владимир Путинтэй уулзаж байхад арми Оросын реактив хөдөлгүүртэй нисгэгчгүй онгоцыг барих гэж тэмцэж байна."
+  },
+  "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247": {
+    "title": "FAA үндэсний хэмжээний нислэгийн хориг гаргалаа",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5": {
+    "title": "FAA нь 0119Z цагт Үндэсний хэмжээний нислэгийн зогсолтыг цуцалсан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://dfarq.homeip.net/what-happened-to-3com/": {
+    "title": "3Com-д юу тохиолдсон бэ?",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://orcasairband.com/": {
+    "title": "KORS-ийн бүх давтамжаар шууд агаарын холбоо. Канадын Викториа хотод ч мөн нислэгийг зогсоосон.",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026": {
+    "title": "FAA-ийн улс орон даяар нислэгийг зогсоосны улмаас Амтракийн захиалгын системд ноцтой асуудал үүсч байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.joshka.net/cell-borders/": {
+    "title": "Нүдний зай эзэлдэггүй терминалын хүрээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://open.m-vave.com/fm1-workbench": {
+    "title": "FM-1 ажлын ширээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/": {
+    "title": "Үүлнээс салахын тулд Coway агаар цэвэршүүлэгчээ урвуу инженерчлэх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.nature.com/articles/d41586-026-03638-3": {
+    "title": "Олсон зүйл: Үрэвсэл үүсгэхгүйгээр хөгшрөлтийг хурдасгадаг уураг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html": {
+    "title": "Украин хоёр долоо хоногийн дотор Оросын газрын тос боловсруулах хүчин чадлын 36%-ийг устгажээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/": {
+    "title": "Amazon-ын шинэ Kindle Colorsoft нь өндөр үнэтэй дээд зэргийн цахим уншигч юм",
+    "summary": "Хамгийн сүүлийн үеийн загвар нь өмнөх загвараасаа хөнгөн, нимгэн бөгөөд ирмэгээс ирмэг хүртэлх дэлгэцтэй. Гэхдээ хэрэв та аль хэдийн анхны үеийн Colorsoft-той бол шинэчлэх шалтгаан бага байна."
+  },
+  "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/": {
+    "title": "Женсен Хуангийн явах нь хиймэл оюун ухааны стартап санхүүжилтэд том цоорхой үүсгэж байна гэж венчур хөрөнгө оруулагчид болон үүсгэн байгуулагчид хэлж байна",
+    "summary": "Хуангийн удирдлага дор Nvidia компани хиймэл оюун ухааны стартапуудад хэдэн арван тэрбум доллар оруулсан. Тэрээр удирдлагагүй болсон тул үүсгэн байгуулагчид болон хөрөнгө оруулагчид бага хэмжээний хөрөнгө оруулалт, бага үнэлгээнд бэлдэж байна."
+  },
+  "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/": {
+    "title": "АНУ-ын засгийн газар \"онцгой нөхцөл байдлын улмаас\" АНУ-ын бүх нислэгийг зогсоолоо",
+    "summary": "FAA-ийн хэвлэлийн төлөөлөгч TechCrunch-д мэдэгдэхдээ \"АНУ-ын агаарын орон зайг удирдан зохицуулдаг олон агаарын замын хөдөлгөөний удирдлагын төвүүдэд нөлөөлсөн холбооны асуудлуудын дараа\" нислэгийг зогсоосон гэжээ."
+  },
+  "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/": {
+    "title": "Энэхүү залуу стартап компани хөвөгч мэдээллийн төвүүдийг далайн дулаанаар хангахыг хүсч байгаа бөгөөд хөрөнгө оруулагчид аль хэдийн нэгдсэн байна.",
+    "summary": "Drogue нь далайгаас дулааныг цуглуулж, хөвөгч хөлөг онгоц дээрх өгөгдлийн төвүүдийг эрчим хүчээр хангах болно. Эхний загвар нь хоёр жилийн дотор далай дээр хөвж, битүүдийг боловсруулж эхлэх ёстой."
+  },
+  "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/": {
+    "title": "Хиймэл оюун ухааны агент стартап LangChain-ийн үнэлгээ 3 тэрбум долларт хүрэв",
+    "summary": "LangChain одоо өөрийн загвар болон платформ хамааралгүй агент удирдлагын хэрэгсэл болох LangSmith-ийн 7,000 үйлчлүүлэгчтэй гэж мэдэгдэж байна."
+  },
+  "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/": {
+    "title": "Экспортод хориглогдсон Nvidia чипүүд нь Хятадын хамгийн хүчирхэг хиймэл оюун ухааны загваруудын цаана байгаа - өө, Женсен!",
+    "summary": "Шинэ судалгаагаар Хятадын хамгийн дэвшилтэт хиймэл оюун ухааны загваруудыг хориглосон Nvidia чипүүд дээр сургасан болохыг тогтоожээ."
+  },
+  "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/": {
+    "title": "ChatGPT-ийн шинэ Хэтэвч нь хиймэл оюун ухааны агентуудад таны өмнөөс худалдан авалт хийж, төлбөрөө төлөх боломжийг олгодог",
+    "summary": "ChatGPT Wallet нь хиймэл оюун ухааны агентуудад хэрэглэгчдийн өмнөөс худалдан авалт хийж, төлбөрөө төлөх боломжийг олгодог бөгөөд эхлээд АНУ-ын Pro захиалагчдад хязгаарлагдмал хүрээнд нэвтрүүлнэ."
+  },
+  "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+    "title": "Дэлгэрч буй Жэнсэн Хуангийн дуулиан: цаг хугацааны хуваарь",
+    "summary": "Женсен Хуан АНУ болон Хятад улс хамгийн дэвшилтэт хиймэл оюун ухааны дэд бүтцийг хөгжүүлэхээр өрсөлдөж буй үед үндэсний аюулгүй байдалд нөлөөлж болзошгүй харилцааны улмаас Nvidia компаниас огцорсон байна."
+  },
+  "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/": {
+    "title": "Хакерууд мэдээллийн зөрчлөөр хэдэн мянган жолоочийн жолооны үнэмлэхийн мэдээллийг хулгайлсныг Uber баталлаа",
+    "summary": "Зорчигч тээврийн аварга компани хиймэл оюун ухааны үүлэн технологийн компани Fireworks AI-ийн хадгалсан жолоочийн үнэмлэхийн мэдээллийг аюулгүй байдлын зөрчлийн үеэр хулгайлсан гэж мэдэгдсэн."
+  },
+  "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/": {
+    "title": "ElevenLabs-ийн шинэ аппликейшн нь багуудын уулзалтын тэмдэглэл хөтлөх болон зааварлах функцийг нэгтгэсэн болно",
+    "summary": "ElevenAI нь баг, аж ахуйн нэгжүүдэд зориулсан шинэ уулзалтын тэмдэглэл хөтлөх, заавар өгөх програм юм."
+  },
+  "https://www.theverge.com/news/1033489/faa-ground-stop": {
+    "title": "FAA улс даяар хэдэн цагийн турш хөөргөлтийг зогсоосон байсан хязгаарлалтыг цуцаллаа",
+    "summary": "АНУ-ын бүх нисэх онгоцны буудлуудаас нисэх онгоцны хөөрөлт баасан гарагт ихэнхдээ зогссон бөгөөд үүний дараа FAA \"онцгой нөхцөл байдал болон аюулгүй байдлын шалтгаанаар\" 15:44 цагт (ET) улсын хэмжээнд нислэгийг зогсоосон бөгөөд агаарт байгаа онгоцууд буухыг зөвшөөрнө. FAA 17:00 цагаас (ET) хойш \"Т..."
+  },
+  "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search": {
+    "title": "Amazon дэлхийн онлайн худалдааны өгөгдлийг индексжүүлэх төлөвлөгөөтэй",
+    "summary": "Reuters-ийн мэдээлснээр, Amazon нь интернэт дээр хаана ч зарагддаг бүх бүтээгдэхүүний, тэр ч байтугай Amazon-ийн худалдаалдаггүй бүтээгдэхүүний мэдээллийн сан байгуулах бөгөөд мэдээллийг өөрийн сайтаар дамжуулан хүртээмжтэй болгохоор төлөвлөж байна. \"Дэлхийн бүтээгдэхүүний график\" гэж нэрлэгдсэн энэ төсөл нь үүнийг багасгах зорилготой юм..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet": {
+    "title": "ChatGPT Wallet нь OpenAI-ийн Dots агентуудад таны төлөө худалдан авалт хийх боломжийг олгодог",
+    "summary": "Энэ оны эхээр Dots AI агентуудын платформоо нэвтрүүлсний дараа OpenAI агентуудад зориулсан хэтэвчийг нэвтрүүлж байна. ChatGPT Wallet нь өнөөдрөөс эхлэн АНУ-ын 18 ба түүнээс дээш насны, АНУ-ын төлбөрийн хаяг ашигладаг, \"АНУ-д олгосон шаардлага хангасан American Express, Ch...\"-ийг ашигладаг ChatGPT Pro-ийн захиалагчдад нэвтрэх болно."
+  },
+  "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale": {
+    "title": "CMF-ийн сүүний хайрцаг хэлбэртэй Bluetooth чанга яригч шинэ хамгийн хямд үнээр худалдаалагдаж байна",
+    "summary": "Bluetooth чанга яригчид ихэвчлэн уйтгартай, энгийн өнгөтэй хайрцагнууд байдаг ч энэ нь тийм биш юм! Nothing-ийн Хар Баасан гарагийн эрт дээр үеийн урамшууллын хүрээнд та сүүний хайрцаг хэлбэртэй өвөрмөц CMF Speaker S-ийг Amazon болон Nothing-оос ердөө 39 доллараар худалдаж авах боломжтой. Энэ бол 20 долларын хатуу хөнгөлөлт бөгөөд бидний олж харсан хамгийн хямд үнэ юм..."
+  },
+  "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale": {
+    "title": "Энд та GTA VI-ийн урьдчилсан захиалга дээрээ гарахын өмнө хэрхэн хэмнэлт хийж болохыг харуулсан байна",
+    "summary": "Хүлээлт өндөртэй GTA VI-ийн нээлт ирэх баасан гараг буюу 11-р сарын 19-нд болох гэж байна. Тоглоомын өөрийнх нь хөнгөлөлт хэсэг хугацаанд ховор байх ч таны дижитал хуулбараас хэдэн доллар хэмнэх ухаалаг арга бий. Бид Sony Pl-ийн бэлгийн картуудад хөнгөлөлт олсон..."
+  },
+  "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable": {
+    "title": "Та Keychron-ийн шинэ утасгүй хулганы трекболын байрлалыг тохируулж болно",
+    "summary": "Nape Pro нь Keychron-ын анхны трекбол төхөөрөмж бөгөөд CES 2026 үзэсгэлэнд танилцуулагдсан бөгөөд нимгэн, авсаархан загвартай тул гарны яг хажууд байрлуулах боломжтой. Харин тус компанийн шинэ T1 HE нь L... зэрэг компаниудаас аль хэдийн худалдаанд гарсан бусад трекбол хулганатай илүү төстэй харагдаж байна."
+  },
+  "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution": {
+    "title": "Женсен Хуан байгаль орчныг ч бас хайхрамжгүй хандсан",
+    "summary": "Үүсгэн байгуулагч Женсен Хуангийн удирдлага дор Nvidia компани хиймэл оюун ухааны хөгжлийн хөдөлгүүр болж, мөн технологийн салбарын хамгийн том байгаль орчны ачааллын нэг болсон. Түүний эрэлт ихтэй чипүүд нь ус, химийн бодис ихээр ашигладаг үйлдвэрүүдийн шинэ давалгааг өдөөж, асар их хэмжээний өгөгдлийн төвүүдийн доторх цахилгаан сүлжээг шавхсан..."
+  },
+  "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain": {
+    "title": "Camp Snap-ын ретро дижитал камкодерийн хамгийн жижиг хувилбар нь таны түлхүүрийн оосор дээр багтана",
+    "summary": "Өнгөрсөн долоо хоногт Camp Snap компани дэлгэцгүй CS-8 видео камерынхаа жижигрүүлсэн хувилбарыг гаргасан бөгөөд энэ нь анхны камерынхаа хэмжээнээс хагас дахин бага бөгөөд хүүхдүүдэд барихад хялбар байхаар зохион бүтээсэн жижиг бариултай. Гэвч компани техник хангамжаа багасгах ажлаа дуусгаагүй байсан нь тогтоогджээ. Camp Snap-ын шинэ CS-8 Micro…"
+  },
+  "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error": {
+    "title": "Шинэ Apple TV-д YouTube-ийн асуудал байна",
+    "summary": "Өнөөдөр цоо шинэ Apple TV 4k хүлээн авсан хүмүүс YouTube аппликейшнийг нээхэд л хачин алдааны мессежүүд гарч ирсэн байна. Эхний төхөөрөмжүүд ирэхэд аппликейшн эхэндээ зөвхөн QR кодтой хар дэлгэц болон \"YouTube одоогоор ... дээр ашиглах боломжгүй байна\" гэсэн алдааны мессежийг харуулж байв."
+  },
+  "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage": {
+    "title": "Microsoft-ын Outlook-ийн өргөн цар хүрээтэй ажиллахгүй байдал дууссан байж магадгүй юм",
+    "summary": "Дэлхий даяар сая сая хэрэглэгчдэд нөлөөлсөн бараг хоёр өдрийн тасалдалтай байсны дараа Microsoft Outlook болон 365 үйлчилгээ сэргэж байна. Баасан гарагийн өглөө зарим апп болон функцууд хэвийн бус байдлаар ажиллаж байсан ч зарим хүмүүс (Verge-ийн ажилтнууд орно) ...-д нэвтрэх боломжтой болсон гэж мэдээлсэн байна."
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOS03UmIwQTlJSjd1Ty1HQ1RoNVpyYW9VVGJHaW9pZ0h5SUsxOFJCZEZWRDJVNkx0MHpfRHhpV29wbTI2aXQ1UFZ1YkNaRG16VEV3SEF1RHlMN0tfb0N3YUYwTmxXVm83ZDlPeWN0ampyRDlfb0FVMHI5eF9KZmdxU1hKQ0J0S3NldTh3SWtibnhRbjA?oc=5": {
+    "title": "Клодын Дуэт агент нь бага зэрэг мэдрэлийн эмгэгтэй бөгөөд гайхалтай тустай - The Verge",
+    "summary": "Клодын Дуэт агент нь бага зэрэг мэдрэлийн эмгэгтэй бөгөөд гайхалтай тустай  The Verge"
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fT2ZHYjZGRUZIWlhDTGg3U3ZEa1VpOU5BV2gxeU9MMW9VWjZKTnlDdGNVbkUtWUxtbjlYdFNOYzRlb2dRODQ0OEhBLUNiYUYzcTZYS3hwbFlpVXdIbF9j?oc=5": {
+    "title": "Майкрософтын дэлхий дахины системийн догодол хоёр дахь өдрөө үргэлжилж байгаа тул Клод унаж байна - SNJ Today",
+    "summary": "Microsoft-ийн дэлхий дахины системийн догодол хоёр дахь өдрөө үргэлжилж байгаа тул Claude-ийн үйл ажиллагаа зогсонги боллоо  SNJ Today"
+  },
+  "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQkx5ME15eWN2eU90Z0J5VEpuU2ZLU042ZXZXOFFEMDg3TFduQWczZ0VDSnJWWW9SaU5vY2Y1VGJ5OTByV0FOblU1dUZnWXR6QUZyT09VZEFmZm9WYWx2LURIdTdmUWt2SElxdmFxd0tQY280YnloMTdEbWJXRkZUV1JoTDloOG9DNmFFSng0VlpwblhwMGoxM3ZnQU5hMEpHeE9uSHFPTm1EeGRuNXh6eV80LXJ1RThVenR2MmdZUG5aZmlqR0tXbFgzRzRKTUI3OUlnLWN2dWV6cTdfSkdYMHMyUVVSWjRCRkFlQS1oT29uVmliNmhVa3d0eXVGOWN6TVHSAYcCQVVfeXFMTUpJN3NmazhSb09VZlhmVFdGQWZGT2xoUHNBQjhiX29GR2JSekhULUkxR0dWeGE0am5xNnFvQzVieU9KZFVSTG9uVGdzMTk4Zm9oTEVnR0p3SGRGN3ZCaHFYTUxTa0tlNXh5WkozV01mLUNUdkxPcEQtWVNqb1RVMTRWN2VVYjR5VGRIWXZwSllBOFZHTlV1RVhDTEFCLXFhVjJPVF8yU3pockRhZWwtOVBXUEhMYUkyU1BUdTlJekc2X3NGTEdfdU9ITVVMYUN1bXFraVQ1Tm1DNFpCRXJMTGxURDZhX1hPbERLN0I3NWp6cFBTQ0MtT1JwbFJrZG85RHVaeWEwYjA?oc=5": {
+    "title": "Microsoft-ын системийн доголдол нь Anthropic болон OpenAI-ийн хиймэл оюун ухааны хэрэгслүүдэд нөлөөлсөн бөгөөд компаниудын төлөвийн хуудаснаас дэлгэрэнгүй мэдээллийг авна уу - The Times of India",
+    "summary": "Microsoft-ийн үйлчилгээний тасалдал нь Anthropic болон OpenAI-ийн хиймэл оюун ухааны хэрэгслүүдэд нөлөөлсөн бөгөөд компаниудын Статус хуудас нь дэлгэрэнгүй мэдээллийг өгч байна  The Times of India"
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUJFWkxNaUJ3X213cGpaemRjVjdjWFdXOXIwQ0dFWEtORHBpUE5nVGZBR3VSa1hfS3QtMUVJbnMwV1BZNER0RFVHYUluelhkb25iTXFmN1lFQ2QxWkF5eWNQYWJ4VDRKaDl2UkNFOXdkdC1qRnY1TGhmLWdCcjJrYU1Rang0dUVrZEtlRTZ1MmpQSU44ZVl3aFlCa1FhM1F4T082eVd2WTk1cFU?oc=5": {
+    "title": "Microsoft 365-ын ажиллагааны догодол нь Клоудын Outlook болон ажлын байрны интеграцлалд нөлөөлсөн - Gulf Business",
+    "summary": "Microsoft 365-ын ажиллагааны тасалдал нь Клоудын Outlook болон ажлын байрны интеграцчлалд нөлөөлсөн  Gulf Business"
+  },
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDBjX2hrQXlxUEV2Q3pZVUlzVUpPcTU1TFpiaGY4bEtualhpY2FWemdBQnlpclpESjlVSkxobHJ1NDJyZU9FZlJSQW9odU1zUmdvazJqUXV6YmxPYmRDc19HWnNBTDRwRHVGcWJLc1VGZDd4RWxHUTF0Z0lKd05vOA?oc=5": {
+    "title": "Антропик Клод унасан: Яагаад кодыг баталгаажуулах боломжгүй гэж хэлсэн бэ - Машабл",
+    "summary": "Антропик Клод унасан: Яагаад кодыг баталгаажуулах боломжгүй гэж хэлсэн бэ  Mashable"
+  },
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDBHMlltQjk2LW1rRlJFM1k0VWtWcnVjdDR5QUloaHpmbGZuQ0tvYXpPbE1JVV83THQ5UkV2NE1reUtwUmROcDdsdzNVNnlBSEdYcmFNaEtCV3VBamlBU2Npa2FQT2szT2phRHlNUlB2UDlNYjdrSnVYZUw5VnFxY0drRU4yRnVrS2xTV0h4bHJIWTdRdndtTUVkSXBpazl2dDhENnRyOVdzcjhIRncyOGZQd04yVEVlZTZnV3hjNWN6ZjdBRjNR?oc=5": {
+    "title": "Claude.ai болон Claude Code-д нэвтрэх боломжгүй болсон бол Microsoft 365 холбогч ажиллахгүй хэвээр байна - Startup Fortune",
+    "summary": "Claude.ai болон Claude Code-д нэвтрэх боломжгүй болсон бол Microsoft 365 холбогч ажиллахгүй хэвээр байна  Startup Fortune"
+  },
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1a2RPQjg2eW1LeDFyb2dsdEJDOHJTeWlsM3d5cks5UW52Q2h2UWlfLW1ncGxJcjI5YWZET0FMdXA3N3lHT2c4dEI1X3FFZHA2SEdxVGh0czd1YW0wbE83a0pHcHR6MzlhZmhWMFBjZzh6eC1iQmc?oc=5": {
+    "title": "Anthropic нь Claude-ийг 17 үйлдвэрлэлийн ур чадвартай үйлдвэрүүдэд оруулж ирлээ - Cryptopolitan",
+    "summary": "Anthropic нь Claude-ийг 17 үйлдвэрлэлийн ур чадвартай үйлдвэрүүдэд авчирч байна  Cryptopolitan"
+  },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEdvelpLM01FUEYxQWUtM0t6cUxCTE9YcE1mMmlxUUJLLUJnZ2JsOW1qalg3TjQxRnROaDdwQVZCR25TYkZRTlBjVmEwWXNlOWhBdW43S1o5WTRaN1N4dG5FOFhXeEhzNXd2eTNKeDJPZl9RUmJfdk9aZXU1Z1Nfc3kyY2pEdmIz?oc=5": {
+    "title": "Claude Meetings нь Anthropic-ийн хиймэл оюун ухааныг таны видео дуудлагад нэгтгэх боломжийг олгодог - The Decoder",
+    "summary": "Claude Meetings нь Anthropic-ийн хиймэл оюун ухааныг таны видео дуудлагад нэгтгэх боломжийг олгодог  The Decoder"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-14/faa-lifts-ground-stop-allowing-flights-to-resume-after-outage": {
+    "title": "FAA нислэгийн зогсолтыг цуцалж, системийн доголдлын дараа нислэгийг үргэлжлүүлэх боломжийг олгосон",
+    "summary": "Холбооны Нисэхийн Удирдлагын газраас мэдээлснээр, цахим холбооны системийн ажиллагаа доголдсоны улмаас АНУ даяар нислэгийн хөөрөлт зогссон тул улс даяар газрын тээврийн хөдөлгөөнийг зогсоосон тухай мэдэгдлийг вэбсайтаараа дамжуулан цуцалж, дөрвөн цагаас илүү хугацааны дараа нисэх онгоцны компаниуд үйл ажиллагаагаа сэргээх боломжтой болсон байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-14/nationwide-ground-stop-continues-no-indication-of-threat-more-mwfptr2i": {
+    "title": "Улс даяарх газрын тээврийн зогсолт үргэлжилж байна, аюулын шинж тэмдэг байхгүй, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 3:23"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-14/nvidia-s-jensen-huang-drama-spotlights-singapore-s-megaspeed-ex-md-alice-huang": {
+    "title": "Nvidia-гийн Жэнсэн Хуангийн драмын үйл явдал Сингапурын Мегаспид, хуучин захирал Элис Хуан нарыг онцолж байна",
+    "summary": "Женсен Хуангийн дуулиан Сингапуртай холбоотой."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-14/bloomberg-money-november-13th-2026-podcast": {
+    "title": "Bloomberg Money: 2026 оны 11-р сарын 13 (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-14/nationwide-ground-stop-continues-fbi-probes-outage-more": {
+    "title": "Улс даяарх газрын тээврийн зогсолт үргэлжилж, ХТБ-аас тасалтыг шалгаж байна, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 3:21"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-14/nook-turns-hong-kong-nostalgia-into-a-polished-dinner-on-the-peak": {
+    "title": "Nook нь Хонконгийн ностальгийг The Peak-ийн боловсронгуй оройн зоог болгон хувиргадаг",
+    "summary": "Бид хооллох газруудыг судалж, хаана хооллохыг танд мэдээлдэг — жижигхэн хоолны газраас эхлээд гурван Мишлен одтой газрууд хүртэл бүгдийг нь. Манай бүх шүүмжийг эндээс уншина уу."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-13/fbi-probes-mass-faa-outage-doesn-t-believe-it-was-cyberattack": {
+    "title": "Холбооны Мөрдөх Товчоо FAA-ийн олон тооны системийн доголдлыг шалгаж байгаа бөгөөд энэ нь кибер халдлага байсан гэдэгт итгэхгүй байна",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-13/bloomberg-businessweek-daily-jensen-s-nvidia-leave-podcast": {
+    "title": "Bloomberg Businessweek Daily: Женсений Nvidia-аас явах нь (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-13/bessent-hits-lutnick-on-nvidia-affair-evening-briefing-americas": {
+    "title": "Бессент Нвидиагийн хэрэг дээр Лютник рүү дайрлаа: Америкийн оройн мэдээ",
+    "summary": "Хоцрогдсон мэдээллээ аваарай."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-13/bloomberg-talks-mark-jacobson-podcast": {
+    "title": "Bloomberg Talks: Марк Жейкобсон (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.entrepreneur.com/building-a-business/your-success-might-be-creating-problems-you-cant-see-heres-what-to-ask-yourself": {
+    "title": "Таны амжилт таны анзаарч чадахгүй байгаа асуудлуудыг үүсгэж байж магадгүй. Энд өөрөөсөө асуух зүйлс байна.",
+    "summary": "Таны бизнес өсч магадгүй, гэхдээ энэ өсөлт танд үнэндээ хэр их зардал гаргаж байна вэ?"
+  },
+  "https://www.entrepreneur.com/business-news/this-popular-wearable-now-has-its-own-social-network-every-account-has-a-verified-heartbeat": {
+    "title": "Энэхүү алдартай зүүмэл төхөөрөмж одоо өөрийн гэсэн нийгмийн сүлжээтэй боллоо. Бүх бүртгэлд \"Баталгаажсан зүрхний цохилт\" байдаг.",
+    "summary": "Ботүүдийг энэ нийгмийн сүлжээнээс хориглосон."
+  },
+  "https://www.entrepreneur.com/business-news/tech/agentic-ai-governance-frameworks-questions": {
+    "title": "Агентлагийн хиймэл оюун ухааныг удирдах нь заавал төвөгтэй байх албагүй. Үүний ихэнх нь эдгээр 4 асуултаас шалтгаална.",
+    "summary": "Агентлагийн хиймэл оюун ухааны засаглалын тогтолцоо нь төвөгтэй мэт харагдаж болох ч бүгд танай бизнест ижил дөрвөн асуултыг тавьдаг."
+  },
+  "https://www.entrepreneur.com/business-news/tech-executives-tell-me-what-they-tell-no-one-else-and-i-think-the-audacity-got-silicon-valley-mostly-right": {
+    "title": "Технологийн удирдагчид надад өөр хэнд ч хэлдэггүй зүйлсээ хэлдэг бөгөөд би \"The Audacity\" цуврал нь Силикон хөндийг ихэнхдээ зөв дүрсэлсэн гэж боддог.",
+    "summary": "Хаалттай хаалганы цаана технологийн удирдагчдын хэлж буйг сонсож буй гүйцэтгэх коуч \"The Audacity\" хэрхэн Силикон хөндийг зөв ойлгож буй талаар санал бодлоо хуваалцлаа."
+  },
+  "https://www.entrepreneur.com/building-a-business/what-i-learned-spending-thousands-on-meta-ads-to-launch-a-new-product": {
+    "title": "Шинэ бүтээгдэхүүн гаргахын тулд Мета зар сурталчилгаанд мянга мянган доллар зарцуулснаас би юу сурсан бэ?",
+    "summary": "Би өмнө нь том багийн хамт сар бүр хэдэн арван сая долларын зар сурталчилгааны зардлыг хэмждэг байсан. Одоо би ихэнх ажлыг хиймэл оюун ухааны тусламжтайгаар ганцаараа хийдэг бөгөөд хиймэл оюун ухаан юу хийж чадахгүйг энд дурдъя."
+  },
+  "https://www.entrepreneur.com/building-a-business/this-nfl-quarterback-used-to-work-with-nasa-it-inspired-him-to-change-how-athletes-travel": {
+    "title": "Энэхүү NFL-ийн квотербек нь НАСА-тай хамтран ажилладаг байсан. Энэ нь түүнд тамирчдын аяллын хэв маягийг өөрчлөх урам зориг өгсөн.",
+    "summary": "\"Лайонс\" багийн квотербек, НАСА-гийн хуучин дагалдан ажилтан Жош Доббс мэргэжлийн тамирчдын нислэгийн аргыг шинэчлэхийг хүсэж байна."
+  },
+  "https://www.entrepreneur.com/business-news/the-top-10-best-skills-turning-into-side-hustles-make-money-fiverr-data": {
+    "title": "Fiverr-ийн мэдээлснээр 2026, 2027 онд хүмүүс нэмэлт ажил эрхлэн мөнгө олж буй шилдэг 10 ур чадвар",
+    "summary": "Та лого дизайн хийх эсвэл захиалгат вэбсайт хийх авьяастай юу? Fiverr дээр ур чадвараа борлуул."
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/two-sisters-discovered-a-gap-in-the-beauty-industry-leading-to-a-7-figure-beauty-franchise": {
+    "title": "15 жилийн өмнө гэр бүлийн баяр ёслол хоёр эгч дүүст гоо сайхны салбарт орхигдсон зүйлийг анзаарахад тусалсан. Энэ мөч хэрхэн 7 оронтой тооны бизнес эхлүүлснийг эндээс үзнэ үү.",
+    "summary": "Blushington-ийн хамтран гүйцэтгэх захирлууд Стефи, Ники Кохен нар бие даасан дэлгүүрээ хэрхэн өсөн нэмэгдэж буй франчайзинг болгосон талаараа хуваалцаж байна."
+  },
+  "https://www.entrepreneur.com/business-news/this-overlooked-career-is-the-first-step-to-a-200000-salary-tax-accounting": {
+    "title": "Энэхүү анзаарагдаагүй мэргэжил бол 200,000 долларын цалингийн эхний алхам юм",
+    "summary": "Энэ ажлын байранд авьяас чадварын асар их хомсдол тулгарч байгаа нь цалингийн өсөлтийг нэмэгдүүлж байна."
+  },
+  "https://www.entrepreneur.com/business-news/united-is-banning-ai-agents-from-booking-flights-but-heres-what-they-can-still-do": {
+    "title": "Юнайтед компани хиймэл оюун ухааны агентуудыг нислэгийн тийз захиалахыг хориглож байна — Гэхдээ тэд дараах зүйлсийг хийх боломжтой хэвээр байна",
+    "summary": "Аюулгүй байдал, хувийн нууцлалын асуудлыг үндэслэн Muse зэрэг хиймэл оюун ухааны ботуудыг ашиглахаас татгалзсан хамгийн сүүлийн агаарын тээврийн компани боллоо."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-14/cruise-ship-capsizes-after-tanker-crash-in-new-orleans-video": {
+    "title": "Круиз хөлөг онгоц Шинэ Орлеан хотод танкер онгоцтой мөргөлдсөний улмаас хоймордож живсэн байна",
+    "summary": "Баасан гарагт Нью-Орлеан хотод танкер хөлөгтэй мөргөлдсөний улмаас живсэн голын аялалын хөлөг онгоцны бүх зорчигч, багийн гишүүдийг бүртгэж, 32 хүнийг эмнэлэгт хүргэсэн боловч хэн нь ч ноцтой гэмтээгүй гэж хотын дарга Хелена Морено мэдэгдлээ. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video": {
+    "title": "Агаарын тээврийн холбооны асуудлаас болж АНУ-ын нислэгийг зогсоолоо",
+    "summary": "АНУ-ын эрх баригчид агаарын хөдөлгөөний удирдлагад нөлөөлсөн харилцаа холбооны асуудлаас болж улс даяар нислэгүүдийг зогсоосон байна. Майлс Миллер ЛаГуардиа нисэх онгоцны буудлаас мэдээлж байна. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-13-2026-video": {
+    "title": "Nvidia-гийн ТУЗ-ийн Гүйцэтгэх захирал Хант, Хувьцаанууд долоо хоногийг өндөр үзүүлэлтээр өндөрлүүлэв, Жижиглэн худалдаа анхаарлын төвд",
+    "summary": "Bloomberg телевиз танд Уолл Стрийтийн хаалтын хонх дуугарахаас өмнөх болон дараах сүүлчийн минут, секундуудын хамгийн сүүлийн үеийн мэдээ, шинжилгээг хүргэж байна. Өнөөдрийн зочид бол Франклин Темплтон хүрээлэнгийн зах зээлийн тэргүүлэх стратегийн ахлах мэргэжилтэн Крис Галипо, Першинг Скверын үүсгэн байгуулагч, гүйцэтгэх захирал Би..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/troubled-sherritt-misses-payment-as-liquidity-crisis-deepens": {
+    "title": "Хөрвөх чадварын хямрал улам гүнзгийрснээр Шерритт компани төлбөрөө төлж чадахгүй байна",
+    "summary": "\"Sherritt International Corp.\" компани барьцаалагдсан үнэт цаасны хүүний төлбөрөө төлж чадаагүй нь АНУ-ын хориг арга хэмжээнээс болж Куба дахь үйлдвэрлэлээ зогсооход хүргэсэн Канадын уул уурхайн компанийн мөнгөн хөрөнгийн хомсдолын хямралыг улам гүнзгийрүүллээ."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video": {
+    "title": "Кэрри Андервуд өөрийн шинэ эрүүл мэндийн брэнд HiNote-ийн талаар",
+    "summary": "Кэрри Андервуд болон HiNote-ийн Гүйцэтгэх захирал, үүсгэн байгуулагч Керриган Беренс нар эрүүл мэндийн брэндийн үүсэл, шинэ хөрөнгө оруулалтын дараа тэргүүлэх ундааны хольцын үйлдвэрлэлийг өргөжүүлэх төлөвлөгөөний талаар ярилцлаа. Тэд \"The Close\"-д Вонни Квинн, Бейли Липшульц нартай ярилцлаа (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video": {
+    "title": "Nvidia-гийн Удирдах зөвлөл Женсен Хуан-ыг дэмжсэнгүй: Рэндалл Петерсон",
+    "summary": "Лондоны Бизнесийн Сургуулийн Манлайллын Хүрээлэнгийн үүсгэн байгуулагч захирал Рэндалл Петерсон Nvidia-гийн удирдах зөвлөл компани болон Хуан хоёрыг хоёуланг нь бүтэлгүйтүүлсэн гэж үзэж байна. Тэрээр \"The Close\"-д Вонни Квинн, Бейли Липшульц нартай ярилцлаа. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video": {
+    "title": "Exemplar Luxury Group-ийн Гүйцэтгэх захирал компанийн хоёр дахь амьдралын талаар",
+    "summary": "Жоффрой ван Раемдонк Сакс дампуурлаас гарсаны дараа Экземпляр Люкшри Групп санхүүгийн хувьд илүү хүчирхэг болсон гэж мэдэгдлээ. Тэрээр үйлчлүүлэгчдийн үнэнч байдал, бүтэн үнээр борлуулалт хийх, дахин хөрөнгө оруулалтыг дэмжиж, брэндүүдтэй харилцааг бэхжүүлэх ашигтай өсөлтөөр уг зорилгод хүрэхийг онцоллоо. Жо..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video": {
+    "title": "Том дүгнэлт: Уур амьсгал нь загваруудын урьдчилан таамаглаж чадаагүй байдлаар өөрчлөгдөж байна",
+    "summary": "Уур амьсгалын өөрчлөлт нь эрдэмтдийн таамаглалаас хурдан явагдаж, гамшиг нь тэрбум тэрбум долларын хохирол учруулж байгаа тул COP31 нь ялгарлыг бууруулах шинэ зорилтуудыг тогтоохыг зорьж байна. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video": {
+    "title": "Жэфф Кюрри Хятадын улмаас зэсийн үнэ унах төлөвтэй байгаа гэж мэдэгдэв",
+    "summary": "Real Macro-ийн Гүйцэтгэх захирал, үүсгэн байгуулагч, Carlyle-ийн ахлах зөвлөх Жефф Кюрригийн хэлснээр алтны үнэ буурсан нь долларын нөөцийн хомсдолыг илтгэж байна. Тэрээр мөн \"The Close\" нэвтрүүлгийн хүрээнд Вонни Квинн, Бейли Липшульц нартай хийсэн ярилцлагадаа дэлхийн газрын тосны салбарын талаар ярилцсан байна. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/rent-the-runway-ceo-paige-thomas-on-her-company-vision-video": {
+    "title": "Rent the Runway компанийн Гүйцэтгэх захирал Пейж Томас компанийнхаа алсын харааны талаар",
+    "summary": "Rent the Runway компанийн Гүйцэтгэх захирал Пейж Томас хоёр сарын өмнө компанийн удирдлагыг гартаа авснаас хойш компанийн талаарх өөрийн төсөөллийн талаар, компанийн бизнесийн стратегийг хэрхэн боловсруулах төлөвлөгөө болон бусад зүйлийн талаар Ромейн Бостиктой ярилцлаа. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1": {
+    "title": "АНУ-ын нисэхийн зохицуулагч улс даяар нислэгийг зогсоолоо",
+    "summary": "Хоботын Агаарын Тээврийн Удирдах Газраас \"цахим холбооны системийн доголдлын\" улмаас нисэх буудлуудад хөөх үйл ажиллагааг зогсоох тушаал өгсөн байна."
+  },
+  "https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a?syn-25a6b1a6=1": {
+    "title": "Скотт Колом: Бүхээд хамгийн улаан мужийг байлдан дагуулсан Ардчилсан намын гишүүн",
+    "summary": "Өндөр ирц, вирус шиг тархсан сурталчилгаа нь түүнийг 1881 оноос хойш хар арьст сенаторгүй байсан маш консерватив мужид ялалт байгуулахад нь тусалсан юм."
+  },
+  "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1": {
+    "title": "Nvidia-гийн хөдөлгөөний дараа хиймэл оюун ухаанд итгэгчид байр сууриа хадгалж байна",
+    "summary": "Хөрөнгийн зах зээлийн өсөлтийн хүлээлттэй хөрөнгө оруулагчид эрсдэлийн төвлөрлийн талаарх санаа зовнилыг бараг үл тоомсорлож байна"
+  },
+  "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1": {
+    "title": "Женсен Хуан өөрийн 135 тэрбум долларын хувьцаагаа худалдах уу?",
+    "summary": "Nvidia-гийн хамтран үүсгэн байгуулагчийн хувьцаагаа зарах оролдлого нь хөрөнгө оруулагчдыг түгшээх боловч хууль эрх зүйн болон үнийн эрсдэлтэй байдаг."
+  },
+  "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1": {
+    "title": "Arm-ын захирал Рене Хаас Nvidia-гийн Гүйцэтгэх захирлын хайлтад оролцсон",
+    "summary": "Женсен Хуан харилцааны асуудлаас болж огцорсны дараа СофтБанк-ын эзэмшлийн Их Британийн хагас дамжуулагчийн бүлгийн тэргүүнийг сонгосон байна."
+  },
+  "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1": {
+    "title": "Бессент Мегаспидийг хар жагсаалтад оруулаагүйд Лютникийн худалдааны газрыг буруутгаж байна",
+    "summary": "АНУ-ын Сангийн сайдын мэдэгдэл нь Nvidia-гийн дуулианы улмаас Трампын засаг захиргааны дотоод хурцадмал байдлыг улам нэмэгдүүлэх эрсдэлтэй байна"
+  },
+  "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1": {
+    "title": "Албаны хүмүүсийн хэлснээр Трамп уулзалтаар Си Жиньпинээс Nvidia-гийн тагнуулын асуудлыг хөндөхгүй ажээ.",
+    "summary": "АНУ-ын Ерөнхийлөгч ирэх долоо хоногт Хятадын Ерөнхийлөгч, Оросын Владимир Путин нартай гурван талт уулзалт хийнэ"
+  },
+  "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1": {
+    "title": "Сэм Банкман-Фрайд Anthropic-ийн IPO-гоор бараг 40 тэрбум доллар олсон байх байсан",
+    "summary": "Шоронд хоригдсон крипто валютын магнат хиймэл оюун ухааны лабораторид эрт хөрөнгө оруулснаар олсон ашгаа алдлаа"
   }
 }
