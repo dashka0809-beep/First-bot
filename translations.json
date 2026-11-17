@@ -15286,5 +15286,317 @@
   "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss": {
     "title": "Ромын пап Лео Перу руу аялахдаа нисдэг тэрэгний жолооны суудал дээр суув",
     "summary": "Ромын пап Латин Америкийн аялан тоглолтынхоо сүүлийн өдрөөс өмнөх өдөр Куско хотод ирэхээсээ өмнө тэнгэрт гарсан."
+  },
+  "https://www.cs.cmu.edu/learn/": {
+    "title": "Карнеги Меллон их сургууль компьютер шинжлэх ухааны хичээлүүдийг YouTube дээр үнэгүй байршуулж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://xusheng.dev/posts/windows-coding-agent-telemetry/": {
+    "title": "Windows 11 нь таны ашигладаг кодчиллын хэрэгсэл, хөгжүүлэгчийн хэрэгслүүдийн талаарх мэдээллийг цуглуулж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.bugmenot.com/": {
+    "title": "BugMeNot хаагдсан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.antonio.cx/running-agents-with-lend": {
+    "title": "Бүртгэлийн мэдээллээ өгөхгүйгээр кодчиллын агентуудыг ажиллуулах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/": {
+    "title": "Optimizely нь халдлагад өртөж, Zoom, GitLab дээр хорлон сүйтгэх програм хангамж ажиллуулсан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://support.apple.com/en-us/149699": {
+    "title": "Хэрэв апп дискэнд бүрэн нэвтрэх эрх эсвэл систем болон аппын хамгаалалтыг хүчингүй болгохыг хүсвэл",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://opencode.ai/product/browse": {
+    "title": "OpenCode-ийг үзэх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://get.mem.ai/blog/mem-is-shutting-down": {
+    "title": "Mem унтарч байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry": {
+    "title": "Хими бол үнэндээ геометр юм",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://trmnl.com/blog/introducing-frame": {
+    "title": "Frame – 31.5\" өнгөт ePaper дэлгэц",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/": {
+    "title": "Кибер аюулгүй байдлын хиймэл оюун ухааны стартап компани болох Корма нь ойролцоогоор 3 сарын хугацаанд 1 тэрбум долларын үнэлгээнд хүрсэн байна.",
+    "summary": "Хиймэл оюун ухааны кибер аюулгүй байдлын стартап Corba компани бүтээгдэхүүнээ танилцуулснаас хойш гурван сарын дараа NEA-ийн удирдлаган дор 1 тэрбум доллараар үнэлэгдсэн A цувралаар 125 сая доллар босгожээ."
+  },
+  "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/": {
+    "title": "Кибер аварга Infoblox нь хакерууд \"компанийн мэдээлэл\"-д нэвтэрсний дараа аюулгүй байдлын үйл явдлыг баталлаа",
+    "summary": "Кибер аюулгүй байдал, автоматжуулалтын аварга компани нь зөрчлийн цар хүрээг ойлгохын тулд гадаадын мөрдөгчидтэй хамтран ажиллаж байгаагаа мэдэгдсэн байна."
+  },
+  "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/": {
+    "title": "Nvidia-гийн хариулах ёстой бүх асуултууд - гэхдээ магадгүй хариулахгүй байх",
+    "summary": "Nvidia-гийн түр гүйцэтгэх захирал, олон жилийн турш санхүүгийн захирлаар ажиллаж ирсэн Колетт Кресс ирэх мягмар гарагт тус компанийн гуравдугаар улирлын үр дүнгээ тайлагнах үед карьерынхаа хамгийн чухал өдрүүдийн нэгийг угтах гэж байна. Nvidia-гийн тулгараад буй хүндрэлийг харгалзан үзвэл, Nvidia-гийн хариулах ёстой олон асуулт байна."
+  },
+  "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/": {
+    "title": "Хиймэл оюун ухааны агентууд хувийн нууцлалын эрсдэлийг нэмэгдүүлж байгаа тул Apple шинэ Mac-ийн аюулгүй байдлын хяналтыг танилцууллаа",
+    "summary": "10-р сард хийсэн мэдэгдлийн дараа Apple компани хиймэл оюун ухааны агентууд болон бусад аппликейшнүүдийн үүсгэж буй эрсдлийг арилгах зорилгоор macOS 27.3-д нэвтрүүлэх шинэ зөвшөөрлийн хяналт, анхааруулга, ил тод байдлын функцуудын талаар дэлгэрэнгүй мэдээлэл өглөө."
+  },
+  "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/": {
+    "title": "Калифорни мужийн Ерөнхий прокурор OpenAI-г хууль бус төлөөлөгчийн үйл явдлын улмаас шүүхэд өгч байна",
+    "summary": "Калифорнийн шүүхийн хэрэг нь хиймэл оюун ухааны лабораторийг хууль бус үйл ажиллагааны төлөө хуулийн дагуу хариуцлага тооцох анхны оролдлогуудын нэг юм."
+  },
+  "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/": {
+    "title": "Uber-ийн мэдээлснээр хакерууд мэдээлэл алдагдсан үеэр ойролцоогоор 150,000 жолоочийн үнэмлэхийн мэдээллийг хулгайлсан байна.",
+    "summary": "Зорчигч тээврийн аварга компани хиймэл оюун ухааны үүлэн компанийн Fireworks AI-ийн хадгалсан жолоочийн үнэмлэхийн мэдээллийг аюулгүй байдлын зөрчлийн үеэр хулгайлсан гэж мэдэгдсэн."
+  },
+  "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/": {
+    "title": "Apple компани iPhone Duo-д 'нүүр царайгаар түгжээ тайлах' функцийг нэмсэн ч энэ нь Face ID биш юм.",
+    "summary": "Apple-ийн хамгийн сүүлийн үеийн iOS 27.3 хөгжүүлэгчийн бета хувилбар нь бусад сайжруулалтуудын хамт iPhone Duo-д зориулсан хязгаарлагдмал нүүр царайгаар түгжээг тайлах функцийг танилцуулж байна."
+  },
+  "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/": {
+    "title": "Трамп Nvidia-ийн ерөнхий захирал асан Жэнсэн Хуангийн Хятадын тагнуулч гэгдэх эмэгтэйтэй холбоо нь үндэсний аюулгүй байдалд заналхийлээгүй гэж мэдэгджээ",
+    "summary": "Трамп өөрийн засгийн газрын тагнуулын албаны ажилтнуудын дүгнэлттэй зөрчилдөж, тэд Алиса Хуангыг Хятадын тагнуул гэж дүгнэсэн гэж мэдээлсэн."
+  },
+  "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/": {
+    "title": "Арал бол утсаа ашиглахгүй байхыг тоглоом болгодог шинэ дэлгэцэн дээрх цагийн апп юм.",
+    "summary": "YC-ийн дэмжлэгтэй Island нь дэлгэцэн дээр өнгөрөөх цагийн зорилгыг фермерийн тоглоом болгон хувиргаж, хэрэглэгчид хязгаараа баримталж чадвал шинэ ургац, амьтан болон бусад зүйлээр урамшуулдаг."
+  },
+  "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/": {
+    "title": "Tesla компани Берлинд байрлах гига үйлдвэрээ 3 тэрбум еврогоор өргөтгөхөөр болж, Cybercab-д бүх хүчээ зориулах гэж байна",
+    "summary": "Тесла компани Берлиний гига үйлдвэрээ 3 тэрбум еврогоор өргөтгөн Европ тивд Кибертаксийн төлөвлөгөөгөө хэрэгжүүлж байна."
+  },
+  "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj": {
+    "title": "2022 оны GTA VI-ийн мэдээлэл алдагдсан хэргийн цаана байгаа хакер гэм буруугаа хүлээн зөвшөөрлөө",
+    "summary": "Их Британийн Хааны Прокурорын Газрын (CPS) мэдээлснээр, 2022 онд Grand Theft Auto VI тоглоомын 90 бичлэгийг цацаж, бусад томоохон компаниудыг хакердаж байсан Lapsus$ кибер гэмт хэргийн бүлгийн гишүүн Арион Куртаж даваа гарагт гэм буруугаа хүлээн зөвшөөрсөн байна. Одоо 21 настай Куртаж нь 8-р сарын дунд үеэр BT/EE-г хакердаж байсан..."
+  },
+  "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories": {
+    "title": "Технологийн удирдагчид Жэнсэн Хуангийн албан тушаалаас буух нь түүний эсрэг хуйвалдаан байсан гэдэгт итгэлтэй байна",
+    "summary": "Женсен Хуан 33 гаруй жилийн дараа Nvidia-аас гэнэт огцорсон нь технологийн салбарт хүчтэй цочрол өгсөн юм. Одоо нэр нөлөө бүхий хүмүүс Хуангыг буцааж томилохыг уриалж байгаа бөгөөд олон хүн Силикон хөндий даяар тархаж буй нэгэн онолыг дэмжиж байна: энэ бол..."
+  },
+  "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures": {
+    "title": "United Airlines-ийн системийн доголдлын улмаас том хэмжээний нислэгийн зогсолтоос хэдхэн хоногийн дараа нислэгийн үйл ажиллагаа тасалдсан байна",
+    "summary": "Агаарын хөдөлгөөний удирдлагын холбоо, радарын асуудлаас болж Холбооны Агаарын Тээврийн Удирдах Газар (FAA) улс даяар хөөх үйл ажиллагааг зогсоосноос хойш долоо хоногоос ч бага хугацааны дараа Юнайтед Эйрлайнс компанийн хөөх нислэгүүд цахилгаан тасарсанаас болж саатсан байна. 18:13 цагт (ET) Юнайтед агаарын тээврийн компани асуудал шийдэгдсэн гэж мэдэгдсэн: Өнөөдөр өглөө бид ..."
+  },
+  "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death": {
+    "title": "\"Get Huge\" кинонд эрэгтэйчүүдийн ертөнц нь найз нөхөдтэй болохын тулд энд ирсэн бөгөөд энэ нь үхлийн аюултай үр дагавартай байдаг.",
+    "summary": "Клавикуляр болон бусад эрэгтэйчүүдийн ертөнцийн стримэрүүд залуу залууст илүү тачаангуй болохын тулд нүүрнийхээ ясыг хугалах санааг танилцуулахаас өмнө химийн биохакингт чиглэсэн контентоор асар их дагагчтай болж байсан бүтээгчдийн ахмад үе байсан юм. Хэрэв ... байгаагүй бол"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit": {
+    "title": "Калифорни муж OpenAI-г хууль бус хиймэл оюун ухааны хакердах үйл явдлын улмаас шүүхэд өгч байна",
+    "summary": "Калифорни муж нь OpenAI-ийн хиймэл оюун ухааны агентууд туршилтын орчноосоо гарч, Hugging Face зэрэг бусад компаниудыг хакчилсны дараа уг компанид нэхэмжлэл гаргаж байна. Даваа гарагт гаргасан нэхэмжлэлд Ерөнхий прокурор Роб Бонта OpenAI-г \"аюултай про...\"-ыг санаатайгаар боловсруулж, хэрэглэгчийн аюулгүй байдлын хуулийг зөрчсөн гэж буруутгаж байна."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor": {
+    "title": "Сэм Алтман хүн бүр \"их хэмжээний RAM-тай байхыг\" хүсч байгаагаа хэллээ",
+    "summary": "OpenAI-ийн Гүйцэтгэх захирал Сэм Алтман хувийн компьютерийн RAM худалдан авалтын талаарх маргаантай тайлбараа дахин хэлж байна. \"Би тодорхой хэлмээр байна. Би хүмүүс их хэмжээний RAM-тай байхыг хүсэж байна. Миний бодлоор хүн бүр өөрийн компьютертээ зориулж их хэмжээний RAM худалдаж авах боломжтой байх ёстой\" гэж Альтман өнөөдөр хэлэв. \"Миний бодлоор гэртээ засвар хийх нь..."
+  },
+  "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals": {
+    "title": "Бидний дуртай PlayStation тоглоомуудын зарим нь Хар Баасан гарагийн хямдралаар их хэмжээгээр хямдарсан байна",
+    "summary": "Хар Баасан гараг ойртож байгаа бөгөөд зарим компаниуд том өдрийн өмнө хөнгөлөлтөө эхлүүлж байна. Хэрэв та PlayStation 5-ын дагалдах хэрэгсэл хайж байгаа бол бид Sony-ийн одоогийн урамшууллаас хамгийн дуртай контроллер, чихэвчнүүдээс заримыг нь цуглуулсан. Гэсэн хэдий ч хэрэв та..."
+  },
+  "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats": {
+    "title": "Том цөмийн эрчим хүчний компаниуд ардчилсан намынхан өгөгдлийн төвүүдийг зогсоох вий гэж санаа зовдоггүй.",
+    "summary": "Америкийн хамгийн том цөмийн цахилгаан станцын оператор болох Constellation Energy нь Ардчилсан намынхан өгөгдлийн төвийн хөгжлийг удаашруулна гэсэн Уолл Стрийтийн санаа зовж байгаатай санал нийлэхгүй байна. Өнгөрсөн долоо хоногт болсон компанийн гуравдугаар улирлын орлогын тайлангийн үеэр Гүйцэтгэх захирал Жо Домингес илүү тохиромжтой үг олдохгүй байгаа тул..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard": {
+    "title": "АНУ-ын өгөгдлийн төвүүд одоо дунд хэмжээний улсаас илүү их цахилгаан эрчим хүч хэрэглэж байна",
+    "summary": "АНУ-ын гипермасштабтай өгөгдлийн төвүүдийн цахилгаан эрчим хүчний хамгийн том эх үүсвэр нь одоо ч гэсэн нүүрс-ус төрөгчийн түлш хэвээр байгааг \"Nature Sustainability\" сэтгүүлд нийтлэгдсэн шинэ өгүүлэлд дурджээ. Тэд нийлээд олон улсаас илүү их цахилгаан эрчим хүч хэрэглэдэг бөгөөд үүний үр дүнд их хэмжээний хүлэмжийн хий ялгардаг..."
+  },
+  "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale": {
+    "title": "Apple Watch Series 12 нь Хар Баасан гарагийн өмнө урьд өмнөхөөсөө илүү хямд байна",
+    "summary": "Хэрэв та таван жилийн өмнө худалдаанд гарсан Apple Watch-ийг одоо хүртэл зүүж байгаа бол одоо шинэчлэх цаг болсон. Apple-ийн хамгийн сүүлийн үеийн ухаалаг цаг болох Wi-Fi болон GPS холболттой 42 мм-ийн Apple Watch Series 12 нь Amazon, Best Buy, Walmart-д бүх цаг үеийн хамгийн бага үнэ болох 329 доллар хүртэл буурч, ..."
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzRWX3A1OWVHMFhFZWZBVVpETWdkaklSZ0Z5STZKWW1iU1pabG9lWFJ0RDZzZDdtNXhqUUFwMVlMRTJOM0RMaEhxc2d5VEd1QVJOMUZzdy1sVHNGMXlIRTg1U1oxZy1iNVNBNmtIYzlCTjAzeHE2ZzZ2bFMwQi1mQVFYdlBRM3JXMVRUU0pkNWp5NzlQekE?oc=5": {
+    "title": "Microsoft-ын өгөгдлөөс харахад Claude нь Office-д Copilot-той өрсөлдөхдөө гацаж байна - The Information",
+    "summary": "Microsoft-ын өгөгдлөөс харахад Claude нь Office-ийн Copilot-ийн эсрэг зогсонги байдалд орж байна  The Information"
+  },
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlluMXIxaW5WNnczSmtqcW1GdmFsRVhUMldKQnFINmpsUUJCaWlydThINlk5MTBGM1FCbl9rWGk5ZXYySkVLQzA0SFh0N0syeXphN0x6OTN6SXhRTWZLWWV1TlR0OUN5VjdQYXpqU2tTTkRSeTVBSGl3YUl5ZDRkMHl5WWxNSUFadDN2cl9tV1dYRWstalc1Wl8xTF96bUM1cUVfemdQLTNPbkxETzVEYy1QVUZidFpmU0JEdkFR?oc=5": {
+    "title": "Anthropic нь хүн төрөлхтөнд учирч буй эрсдлийг хүлээн зөвшөөрч байна – гэхдээ түүний засаглал үнэхээр энэ ажлыг гүйцэтгэх чадвартай юу? | Нилс Пратли - The Guardian",
+    "summary": "Антропик компани хүн төрөлхтөнд учирч буй эрсдлийг хүлээн зөвшөөрч байна – гэхдээ түүний засаглал үнэхээр энэ ажлыг гүйцэтгэх чадвартай юу? | Нилс Пратли  The Guardian"
+  },
+  "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT0JBU3lhWTZqZ0ZSVmFkb3NBTUR5eWlCRVZMaXdwckRtRFhhMm92ZlVEakl0NGxaTHk1UEI0aTJXWFpxNHREQXFWTnMwOWFKMzBTRllsc19JSFNWSzdYN09CUXdqVWl1bGdPaXZFUXlSNEIta25iTnVKX2M4bjhWUDZnVGxCYzhNNkdnX2RNMUN3a05PamFKOE1mQnFPaHItWTNZOUQ1STlPVVd3LTZIMDM4YnNmT09UX1pFWHFpRW9YVk1iYjJzcThWNzFOYkU5c2NqaEEycWtzbUxldjB6WWlyRWNEai1Hb0lBUjlsNNIB9AFBVV95cUxNZ0R6aFl2anlnalFVc19xMXBYb1k3TVBDdDBlcDYxVE9BVGJmNnR2M1NzSEMxMTd0ZTA1QW9DNkMwY3lTazUzRndZWDhITDNIbHlRYUJULVJLWmc3aGlQdklnSUhJRXdIMng4WXJFLVllZWpSQ0lVZERVS1BZV2p2Snk2LXl2WnkwMkJ4TGEyZTJUUlVJYnFqREhSX0RvdzhtTlJ4UWRfNkVpWVNGdGdHNzVKbGhLUml4YVppR0hILUhzekcwdlhnLVlDcWVUamJndTBVelpuS2o2ek1ReUtBZG9TSjA5cnM2c1ZrUi1nZDVxU3g0?oc=5": {
+    "title": "Anthropic-ийн Claude Fable 5.2 нь аюулгүй байдлын цөөн тооны ажлыг хаадаг бол Mythos нь алдааг илрүүлэхэд илүү сайн болж байна - BleepingComputer",
+    "summary": "Anthropic-ийн Claude Fable 5.2 нь аюулгүй байдлын цөөн тооны ажлыг хаадаг бол Mythos нь алдааг илрүүлэхэд илүү сайн болж байна  BleepingComputer"
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXE1ZjNoNUZTemUwc2ZmcFg5TzZxTjVtT1ZfeVlBNEp6bTAzU3hOb0ZkZjZHVHZGQkNaOGRaZnhBeVhuNm1IRnlobUJ1SHZmWVhhLXNkNGgyM2pGd0dRaVFjMUpESktWN2RuallwMXZjb2hQVnhMNXZrRGVjdUZ6Vi1lX0Y2RlVaVU5zMVBzNXl1amFFM0RaOVdiS01PWkFySUc3dFRjcUpTelE?oc=5": {
+    "title": "Anthropic компани Claude Sheets-ийг нэвтрүүллээ. Microsoft-ын хувьцаанд асуудал үүсэв үү? - Yahoo Finance",
+    "summary": "Anthropic компани Claude Sheets-ийг нэвтрүүллээ. Microsoft-ын хувьцаа хүнд байдалд орсон уу?  Yahoo Finance"
+  },
+  "https://www.bloomberg.com/features/2026-where-to-invest-south-africa-rand/": {
+    "title": "Өмнөд Африкийн Рэнд: 1 сая ZAR-ыг хаана хөрөнгө оруулах вэ",
+    "summary": "Хүнд хэцүү арван жилийн дараа тус улсын бизнесийн салбарт өөрчлөлт гарч магадгүй байна. Гурван шинжээч үүнийг хэрхэн ашиглах талаар санал бодлоо хуваалцлаа."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-17/ai-jitters-weigh-on-asia-jpmorgan-tech-issue-resolved-more": {
+    "title": "Хиймэл оюун ухааныг эргэлзээ Азид нөлөөлж байна, JPMorgan-ийн технологийн асуудал шийдэгдлээ, Бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-17/bloomberg-daybreak-asia-investor-appetite-on-ai-podcast": {
+    "title": "Bloomberg Daybreak Asia: Хөрөнгө оруулагчдын хиймэл оюун ухаанд татагдах сонирхол (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-17/asia-equities-decline-jpmorgan-resolves-tech-issue-more": {
+    "title": "Азийн хөрөнгийн үнэ унаж, JPMorgan технологийн асуудлыг шийдвэрлэж, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-17/asia-equities-decline-jp-morgan-resolves-tech-issue-more": {
+    "title": "Азийн хувьцаа буурч, JP Morgan техникийн асуудлаа шийдэж, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-17/markets-brace-for-nvidia-earnings-united-outage-resolved-more": {
+    "title": "Зах зээл Nvidia-ийн орлогыг хүлээж байна, United-ийн системийн доголдлыг арилгасан, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-17/asia-stocks-track-losses-united-airlines-flights-resume-more": {
+    "title": "Азийн хөрөнгийн зах зээл уналтаа үргэлжлүүлж байна, Юнайтед Эйрлайнс нислэгийн үйлчилгээгээ сэргээж байна, Бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/australia-backpacker-visa-holders-face-more-regional-work": {
+    "title": "Австралийн \"Үүргэвчтэй аялагч\"-ийн виз эзэмшигчид илүү олон бүс нутгийн ажилтай тулгарч байна",
+    "summary": "Австралийн ажил хийх зорилготой аялагчид визнийхээ хоёр дахь жилд хамрагдахын тулд бүс нутгийн бүсэд илүү удаан хугацаагаар ажиллах шаардлагатай болно, учир нь засгийн газар цагаачлалыг багасгахыг том хотуудаас гадуурх аж ахуйн нэгжүүдийн хөдөлмөрийн хэрэгцээтэй тэнцвэржүүлэхийг эрмэлзэж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-17/united-resolves-outage-equities-sink-ahead-of-nvidia-earnings": {
+    "title": "Юнайтед агаарын тээврийн үйлчилгээний тасалдал арилаж, Nvidia-гийн орлогын тайлан гарахын өмнө хувьцааны үнэ унав",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-17/quebecor-and-pierre-karl-peladeau-try-to-buy-rival-telus": {
+    "title": "Квебекор ба Пьер Карл Пеладо өрсөлдөгч Телусыг худалдаж авахыг оролдож байна",
+    "summary": "Давуу тал: Маклемийн оронд томилох уралдаан эхэлж байна"
+  },
+  "https://www.entrepreneur.com/building-a-business/ive-spent-the-past-year-analyzing-why-ai-recommends-some-products-over-others": {
+    "title": "Би өнгөрсөн жил хиймэл оюун ухаан яагаад зарим бүтээгдэхүүнийг бусдаас илүүд үзэж байгааг шинжилсээр ирлээ. Баярын худалдааны тоглолтыг ялах арга энд байна.",
+    "summary": "Go Social-ийн үүсгэн байгуулагч Кортни Сандора брэндүүдэд хиймэл оюун ухааны хайлтын хүрээнд өрсөлдөхөд нь тусалдаг."
+  },
+  "https://www.entrepreneur.com/building-a-business/i-eliminated-busywork-from-my-schedule-so-why-was-i-still-running-out-of-time": {
+    "title": "Би хуваарьтаа шаардлагагүй ажлыг хассан. Тэгвэл яагаад би одоо ч цаг завгүй байгаа юм бэ?",
+    "summary": "Заримдаа та хэр их зохион байгуулалттай байсан ч амьдрал өөрөө болж, танд хийх зүйл хэтэрхий их байдаг. Үүнийг хэрхэн даван туулахыг эндээс үзнэ үү."
+  },
+  "https://www.entrepreneur.com/business-news/tech/the-1-skill-ai-will-never-master-no-matter-how-advanced-it-gets": {
+    "title": "Хиймэл оюун ухаан хэчнээн хөгжсөн ч хэзээ ч эзэмшихгүй 1 ур чадвар",
+    "summary": "Хиймэл оюун ухаан илүү ихийг хийх тусам бид түүний хязгаарыг мэдэх хэрэгтэй."
+  },
+  "https://www.entrepreneur.com/business-news/pepsi-is-quietly-testing-a-dirty-soda-startup": {
+    "title": "Пепси \"Бохир сода\"-ны стартапыг чимээгүйгээр туршиж байна. Энд тэд Z үеийнхэн юунд үнэхээр цангаж байгааг судалж байгааг харуулж байна.",
+    "summary": "Пепсигийн \"бохир\" соданы шугам нь түр худалдааны цэгээр эхэлсэн. Одоо шинэ сиропууд, хүргэлтийн гал тогоо, өөрийн гэсэн дэлгүүрүүдийг туршиж байна."
+  },
+  "https://www.entrepreneur.com/business-news/he-started-in-a-call-center-now-he-is-ceo-of-the-same-61-billion-company-how-he-got-promoted": {
+    "title": "Тэрээр колл төвөөс 61 тэрбум долларын компанийн Гүйцэтгэх захирал болтлоо дэвшсэн. Тэр хэрхэн хурдан дэвшиж чадсаныг эндээс үзнэ үү.",
+    "summary": "Энэхүү гүйцэтгэх захирлын туулсан зам нь карьерын шатаар өгсөх хүсэлтэй хүн бүрт сургамж болно."
+  },
+  "https://www.entrepreneur.com/building-a-business/the-ai-driven-agency-apocalypse-has-arrived-heres-how-to-survive-it": {
+    "title": "Хиймэл оюун ухаанаар удирддаг агентлагийн апокалипсис ирлээ. Үүнийг даван туулах арга энд байна.",
+    "summary": "Хиймэл оюун ухаан бүх салбарт нөлөөлж, шинэ бизнес эрхлэх нь улам хэцүү болж байгаа тул үйлчлүүлэгчдээ хадгалж чадсан агентлагууд л үлдэх болно."
+  },
+  "https://www.entrepreneur.com/building-a-business/how-high-growth-brands-can-win-the-ai-search-race": {
+    "title": "Өсөн нэмэгдэж буй брэндүүд хиймэл оюун ухааны хайлтын уралдаанд тогтсон өрсөлдөгчдөөсөө яагаад давуу талтай байдаг вэ?",
+    "summary": "Өндөр өсөлттэй брэндүүд том өрсөлдөгчдөөсөө давуу байдал олж авахын тулд AEO-г яагаад, хэрхэн ашиглаж болохыг эндээс үзнэ үү."
+  },
+  "https://www.entrepreneur.com/business-news/your-business-is-losing-money-on-ai-you-dont-control-heres-why": {
+    "title": "Таны бизнес таны хяналтаас гадуур байгаа хиймэл оюун ухаанд мөнгө алдаж байна — Яагаад гэдгийг эндээс үзнэ үү.",
+    "summary": "Хиймэл оюун ухааны чимээгүй шинэчлэлт бүр таны ажлын урсгалыг тасалдуулж, та үүнийг засварлахаар үйлчилгээ үзүүлэгчдээ 85% -ийн нэмэлт төлбөр төлдөг."
+  },
+  "https://www.entrepreneur.com/buying-a-franchise/he-became-a-chick-fil-a-franchise-operator-at-age-26-now-he-runs-two-of-its-highest-grossing-restaurants": {
+    "title": "Тэр 26 настайдаа \"Chick-fil-A\"-ийн франчайзын оператор болсон. Одоо тэрээр хамгийн их орлоготой хоёр рестораныг удирддаг.",
+    "summary": "Тэрээр Балтиморт анхны бизнесээ эхлүүлэхэд 10,000 доллар зарцуулсан бөгөөд дараа нь Бруклин руу нүүсэн."
+  },
+  "https://www.entrepreneur.com/business-news/amazon-reportedly-has-an-ambitious-secret-plan-to-ensure-that-you-never-shop-anywhere-else": {
+    "title": "Амазон таныг өөр хаана ч худалдан авалт хийхгүй байхыг баталгаажуулах зорилготой ихээхэн хүсэл эрмэлзэлтэй нууц төлөвлөгөөтэй гэж мэдээлсэн байна.",
+    "summary": "Санал болгож буй санаачилга нь худалдан авагчдад Amazon-оос гарах шалтгааныг багасгах болно."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback": {
+    "title": "Шинэ Зеландын доллар өсөлт, үр өгөөжийн зөрүүний асуудлаас болж зургаан жилийн доод цэгтээ хүрэв",
+    "summary": "Шинэ Зеландын доллар нь дотоодын инфляцийн хүлээлт буурч, АНУ-ын хүүгийн зөрүү өргөжиж байгаагийн улмаас 2020 оноос хойш хамгийн доод түвшинд хүрсэн байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates": {
+    "title": "Азийн хөрөнгийн биржийн хувьцааны борлуулалт дөрөв дэх өдрөө үргэлжилж, газрын тосны үнэ буурлаа: Зах зээлийн тойм",
+    "summary": "АНУ Хятадын дэвшилтэт хиймэл оюун ухааны чип, серверүүдийг ашиглах боломжийг хязгаарлах арга хэмжээ авч байгаа тул Азийн хөрөнгийн зах зээл унаж, Nvidia Corp.-ийн өндөр эрсдэлтэй орлогын тайлан гарахын өмнөх болгоомжлол нэмэгдлээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17": {
+    "title": "11-р сарын 17-ны газрын тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, шинжилгээ",
+    "summary": "Нийлүүлэлт нь эрэлтээс давж байгаагийн шинж тэмдэг илэрч, АНУ-ын дэд ерөнхийлөгч Ж.Д.Вэнс Иранд удаан үргэлжлэх дайнаас зайлсхийхийг хүсч байгаагаа илэрхийлснээр газрын тосны үнэ буурчээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access": {
+    "title": "АНУ-ын чипний хязгаарлалт лаборатори, гиперскалеруудад нөлөөлснөөр Хятадын хиймэл оюун ухааны хувьцаа унаж байна",
+    "summary": "АНУ дэвшилтэт чипүүдэд нэвтрэх боломжийг цаашид хязгаарлах арга хэмжээ авсны дараа Хятадын хиймэл оюун ухааны хувьцаанууд мягмар гарагт унасан бөгөөд хамгийн их хохирол амссан нь тус улсын хамгийн том гиперскалер болон хиймэл оюун ухааны загвар хөгжүүлэгчид байв."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/barclays-says-forced-retail-liquidation-behind-taiwan-stock-rout": {
+    "title": "Барклайс банк Тайванийн хөрөнгийн зах зээрийн уналтын шалтгаан нь албадан худалдаалах болсон гэж мэдэгдэв",
+    "summary": "Barclays Plc-ийн мэдээлснээр, жижиглэнгийн хөрөнгө оруулагчдын албадан худалдаа нь даваа гарагт Тайванийн хувьцааны огцом уналтын гол шалтгаан болсон бөгөөд энэ чиг хандлага улам өргөжиж, зах зээлд дарамт учруулж болзошгүй байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video": {
+    "title": "АНУ чипний хязгаарлалтыг бэлтгэж байхад Хятадын технологийн удирдагчид уулзаж байна",
+    "summary": "Хятадын бизнес, технологийн удирдагчид АТЭС-ын Гүйцэтгэх захирлуудын дээд хэмжээний уулзалтын өмнө Шэньжэнь хотод цуглаж байна. АНУ-ын Худалдааны яам алсын зайн хандалтын нүх сүвүүдийг хаахын тулд Зүүн Өмнөд Ази болон Бразилд байрлах өгөгдлийн төвүүдэд дэвшилтэт чип борлуулахыг зөвшөөрөх шаардлагыг нэмсэнтэй зэрэгцэн хэлэлцээрүүд өрнөж байна. (Эх сурвалж…"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/mitsui-co-said-to-back-j-oil-mills-in-battle-over-kadoya": {
+    "title": "Мицуи энд Ко. нь Кадоягийн төлөөх тэмцэлд Ж-Ойл Миллсийг дэмжинэ гэж мэдэгдлээ",
+    "summary": "Энэ асуудлыг сайн мэддэг хүмүүсийн хэлж буйгаар, \"Kadoya Sesame Mills Inc.\"-ийн хувьцаа эзэмшигч \"Mitsui & Co.\" компани нь \"J-Oil Mills Inc.\"-ийн Японы сезамын үрийн тос борлуулагчийг худалдан авах саналыг дэмжсэн бөгөөд энэ нь тус компанийн хяналтыг эзэмших гурван талт тэмцэлд санал болгогчийн байр суурийг бэхжүүлэх боломжтой ажээ."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks": {
+    "title": "Дэлхийн сангууд Энэтхэгийн Мэдээллийн Технологийн хувьцаанд хөрөнгө оруулалтаа болгоомжтойгоор нэмэгдүүлж байна",
+    "summary": "Гадаадын зөвхөн урт хугацааны сангууд хэдэн сарын болгоомжлолын дараа аажмаар өртөх байдлаа нэмж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2": {
+    "title": "Шинэ Зеландын инфляцийн хүлээлт 2%-иас дээш хэвээр байна",
+    "summary": "Шинэ Зеландын урт хугацааны инфляцийн хүлээлт дөрөв дэх улиралд буурч, түлшний үнийн өсөлтийн шинэ давлагаа эдийн засагт нөлөөлөхгүй байгаагийн шинж тэмдэг нэмэгдсэн байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/foreign-funds-bought-most-china-bonds-since-may-on-haven-appeal": {
+    "title": "Гадаадын сангууд аюулгүй хөрөнгө оруулалтын эрэлтээр болзож, тавдугаар сараас хойш Хятадын үнэт цаасны ихэнхийг худалдаж авсан байна.",
+    "summary": "Дэлхийн хөрөнгө оруулагчид өнгөрсөн сард Хятадын дотоодын засгийн газрын үнэт цаасыг өнгөрсөн оны 5-р сараас хойш хамгийн хурдацтайгаар нэмэгдүүлсэн нь дэлхийн зах зээлийн хямралаас харьцангуй тусгаарлагдсан юанийн өртэй холбоотой гадаадын сонирхол нэмэгдэж байгааг онцолж байна."
+  },
+  "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1": {
+    "title": "Nasdaq 100 индекс хиймэл оюун ухааны худалдааны хувьд чухал долоо хоногийн эхэнд 2.7%-иар унав",
+    "summary": "Nvidia-гийн хувьцаа шинээр борлуулалтын даралттай тулгарч байгаа тул АНУ-ын чип үйлдвэрлэгчдийн хувьцаа унаж байна"
+  },
+  "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1": {
+    "title": "Nvidia-гийн удирдах зөвлөл Жэнсэн Хуан-ыг гүйцэтгэх захирлаар дахин томилохыг авч үзэхгүй байна",
+    "summary": "Сингапурт төвтэй үйлчлүүлэгчийн гүйцэтгэх захиралтай гэрлэлтийн гадуур харилцаа тогтоосны дараа чип үйлдвэрлэгчийн хамтран үүсгэн байгуулагч ажлаасаа гарсан байна."
+  },
+  "https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1": {
+    "title": "Бүх дэлхий бол урт Америк",
+    "summary": "Тэр удахгүй өөрийн гаж донгийнхоо төлөө үнэ төлөх байх"
+  },
+  "https://www.ft.com/content/f87fc05f-6689-4051-9d6b-40754315355f?syn-25a6b1a6=1": {
+    "title": "Яагаад Путин, Трамп, Си нар шинэ \"том гурав\" байж чадахгүй вэ",
+    "summary": "АНУ, Хятад, Оросын удирдагчид хүсэж байсан ч дэлхийг өөрсдийн хооронд хувааж чадахгүй"
+  },
+  "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1": {
+    "title": "OpenAI Калифорни мужаас 80 гаруй \"хяналтаа алдсан\" хэрэгээр шүүхэд өгөгдсөн",
+    "summary": "Мужийн ерөнхий прокурор хууль бус хиймэл оюун ухааны загваруудын хакердах нь \"өсөлтийг аюулгүй байдлаас илүү чухалчилдаг дотоод соёлын урьдчилан таамаглаж болох үр дүн\" гэж мэдэгджээ."
+  },
+  "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1": {
+    "title": "Украин дронгийн хамгийн олон удаагийн довтолгоогоор Крымийн гүүрийг цохилоо",
+    "summary": "Оросын Батлан хамгаалах яамнаас мэдээлснээр, өнгөрсөн 24 цагийн хугацаанд дайн эхэлснээс хойш хамгийн олон тооны нисгэгчгүй онгоцыг устгасан эсвэл барьж авсан байна."
+  },
+  "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1": {
+    "title": "Оросын хамгийн баян эмэгтэйг Европын Холбооны хориг арга хэмжээнд орууллаа",
+    "summary": "Украйн дахь дайны улмаас Европын Холбооны хамгийн сүүлийн үеийн хориг арга хэмжээний хүрээнд улсын хамгийн том онлайн жижиглэн худалдаачин Wildberries-ийн үүсгэн байгуулагч нь хориг арга хэмжээнд өртсөн."
+  },
+  "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1": {
+    "title": "Орос улс АНУ, Хятадтай хамтран гурван талт дээд хэмжээний уулзалтаас \"хамтарсан мэдэгдэл\" гаргахыг зорьж байна",
+    "summary": "Дональд Трамп, Си Жиньпин, Владимир Путин нарын пүрэв гарагийн урьд өмнө байгаагүй уулзалт олон улсын анхаарлыг ихэд татлаа."
+  },
+  "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1": {
+    "title": "Chevron компани АНУ-ын булангийн бүсэд Blackstone-ийн дэмжлэгтэй газрын тос үйлдвэрлэгч компанитай 5 тэрбум долларын гэрээ байгуулахад ойртлоо",
+    "summary": "Томоохон газрын тосны компани гүний усан дахь газрын тосны олборлолтоо өргөжүүлж, Бикон Офшор Энержи газрын тосны ордыг худалдан авах тендерт өрсөлдөгчдөөсөө түрүүлж байна."
+  },
+  "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories": {
+    "title": "Би 40 гарсан. Би нөхөр, хүүхдээ ашиг хүртэгчээр нэрлэхийн төлөө тэтгэврээ багасгахыг зөвшөөрөх ёстой юу?",
+    "summary": "“Хэрэв би нөхрөөсөө өмнө нас барвал тэрээр миний сарын тэтгэмжийн 50%-66%-тай тэнцэх насан туршийн тэтгэвэр авах болно.”"
+  },
+  "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories": {
+    "title": "\"Юнайтед Эйрлайнс\" компани даваа гарагт нислэгийг хойшлуулсан системийн доголдлыг арилгалаа",
+    "summary": "Цахилгаан тасарсан нь FAA-ийн нислэгийг зогсоосны улмаас улс даяар агаарын тээврийн үйлчилгээ тасалдсанаас ердөө хэдхэн хоногийн дараа тохиосон юм."
+  },
+  "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories": {
+    "title": "Стэнли Дракенмиллер эдгээр чипний хувьцааг хаяж, SpaceX болон Palantir-ийн хувьцааг худалдаж авсан байна",
+    "summary": "Дракенмиллерийн гэр бүлийн оффис гуравдугаар улиралд AMD болон Sandisk-ийн хувьцаагаа зарсан."
+  },
+  "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories": {
+    "title": "Amazon-ын Хар Баасан гарагийн хямдрал танд үнэхээр мөнгө хэмнэж өгдөг үү? Шинэ тайлан эргэлзээ төрүүлж байна.",
+    "summary": "Сүүлийн хоёр жилийн хугацаанд Амазоны Хар Баасан гарагийн хямдралын бараг гуравны нэг нь \"огт хэмнэлт гаргаагүй\" гэж нэгэн тайланд дурджээ. Жижиглэн худалдаачин үүнийг эсэргүүцэж байна."
+  },
+  "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories": {
+    "title": "Миний нөхөр 64 насандаа аз жаргалтайгаар тэтгэвэрт гарсан бөгөөд би ажилласаар байх ёстой гэж боддог. Тэр шударга хандаж байна уу?",
+    "summary": "“Би ядарсан байна. Миний сэрүүлэг өглөөний 6 цагт дуугардаг бөгөөд би 50 минутын замын түгжрэлтэй тулгардаг.”"
   }
 }
