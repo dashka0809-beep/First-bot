@@ -16002,5 +16002,333 @@
   "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall": {
     "title": "Anthropic-ийн IPO нь SK Hynix-ийн магнат компанийн хувьцааны үнийг 3 тэрбум доллараар нэмэгдүүллээ",
     "summary": "Anthropic PBC-ийн анхны олон нийтийн хувьцааны гайхалтай санал нь тэрбумтан Чей Тай-воны эзэнт гүрэнд олон тэрбум долларын орлого авчирч, Өмнөд Солонгосын хамгийн том гар утасны оператор SK Telecom Co.-ийн хиймэл оюун ухааны стартап компанид хийсэн эрт үеийн хөрөнгө оруулалтыг үр дүнтэй болгосон юм."
+  },
+  "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/": {
+    "title": "Anthropic-ийн Nasdaq-д анх удаа гарсан нь",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://git-aarvin.github.io/mei/": {
+    "title": "Gemini 4 Neon бол Models Engineering Index-ийн шинэ #1 юм",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/": {
+    "title": "Гуравхан өвчтөнд вирус тарьснаар ходоодны хорт хавдар зогссон",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/openssl/openssl/pull/33652": {
+    "title": "OpenSSL: EVP_EncodeBlock()-д багтаамжаас хэтрэлт (CVE-2026-121481, CVSS 9.8)",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.anthropic.com/research/claude-black-hole-physics": {
+    "title": "Клод хар нүхний физикийн хоёр шийдэгдээгүй асуудлыг шийдэв",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/": {
+    "title": "Бараг бүх зүйлийг CAD-д хэрхэн хийх вэ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.harrison.page/garage-door-spam/": {
+    "title": "Гаражийн хаалганы спам",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21": {
+    "title": "Synology-ийн аюулгүй байдлын зөвлөмж",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://regexr.com/": {
+    "title": "RegExr: түр хугацаанд офлайн байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine": {
+    "title": "98% слот машин: Төлбөртэй сурталчилгаа хэрхэн татварын орлого болсон бэ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/": {
+    "title": "Apple компани таны Mac-ийг ажиллуулах өөрийн гэсэн хиймэл оюун ухааны төхөөрөмж боловсруулж магадгүй юм",
+    "summary": "iPhone үйлдвэрлэгч нь Meta Muse, Instinct, Claude, OpenAI Dots зэрэгтэй өрсөлдөх чадвартай агентуудыг бүтээж байгаа бололтой."
+  },
+  "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/": {
+    "title": "Антропикийн 7 үүсгэн байгуулагч нь анхдагч олон нийтийн хувьцаагаа гаргаснаар бараг 2 тэрбум доллар олсон нь дээд амжилт боллоо",
+    "summary": "Нэгж хувьцааны үнэ 83 доллар болж өссөн IPO үнээр Anthropic-ийн долоон үүсгэн байгуулагч тус бүр 280 сая доллар олсон бол компани бараг 105 тэрбум доллар олсон байна."
+  },
+  "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/": {
+    "title": "Антропик өрсөлдөгч нь компаниуд (ихэнхдээ) үнэтэй загваруудыг алгасаж болно гэж хэлдэг",
+    "summary": "Anthropic олон нийтэд нээлттэй болсон өдөр Fireworks AI-ийн үүсгэн байгуулагч нь нээлттэй эхийн загваруудыг илүү хямд хувилбар гэж үзэж, тус компанид зарим үйлчлүүлэгчдийн итгэлийг алдах шалтгаан болсон зөрчлүүдийн талаар ярьсан."
+  },
+  "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/": {
+    "title": "Элон Маск SpaceX компани гар утсанд дохио хүрэхгүй бүсийг арилгах төлөвлөгөөтэй гэж мэдэгдлээ",
+    "summary": "SpaceX компанийн гүйцэтгэх захирал Илон Маск тус компани нь гар утсанд илүү сайн хүрэлцэх чадалтай, дохиогүй бүсийг арилгах боломжтой жижиг дээврийн цамхаг загварыг боловсруулж дууссан гэж мэдэгдлээ."
+  },
+  "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/": {
+    "title": "Та Mac-ийн дүрсүүд дээрээ хиймэл оюун ухааныг хэрхэн ашиглаж байгааг шууд харахыг хүсэж байна уу? Энэхүү ухаалаг шинэ аппликэйшн танд боломж олгоно",
+    "summary": "IconSwapper нь таны Mac-ийн апп дүрсүүдийг бодит цагийн өгөгдөл, хөдөлгөөнт дүрс, тоглоомын шинж чанартай тохируулгуудаар амьдруулж, таны ширээний компьютерийг илүү хөгжилтэй болгоно."
+  },
+  "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/": {
+    "title": "Meta-гийн шинэ Muse Charm төхөөрөмж 300 доллар байж магадгүй",
+    "summary": "Meta компани The Information-ийн мэдээллийг үгүйсгээгүй бөгөөд зөвхөн \"удахгүй гарах хиймэл оюун ухааны зүүгээр зүүх төхөөрөмжийнхөө талаар удахгүй илүү ихийг хуваалцах болно\" гэж мэдэгдсэн байна."
+  },
+  "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/": {
+    "title": "Эдгээр технологийн саатал нь Y2K, AI агент маягийн болж байна",
+    "summary": "Агаарын тээврийн компанийн захиалгын систем, банкны платформ, бүтээмжийн платформд саяхан гарсан ажиллагааны доголдлууд үнэхээр санамсаргүй тохиолдол мөн үү? Кибер аюулгүй байдлын мэргэжилтнүүдийн хэлж байгаагаар үнэндээ илүү гүнзгий зүйл болж байгаа бололтой."
+  },
+  "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/": {
+    "title": "Uber нь 10 хүртэлх насны хүүхдүүдэд зориулсан унааны үйлчилгээг туршиж байгаа бөгөөд жолооч нарт нэмэлт төлбөр олгоно",
+    "summary": "Uber шинэ хөтөлбөрөө АНУ-ын гурван хотод туршиж байна."
+  },
+  "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+    "title": "Дэлгэрч буй Женсен Хуангийн дуулиан: цаг хугацааны хуваарь",
+    "summary": "Женсен Хуан нь АНУ болон Хятад улсууд хамгийн дэвшилтэт хиймэл оюун ухааны дэд бүтцийг хөгжүүлэхийн төлөө өрсөлдөж буй үед үндэсний аюулгүй байдалд нөлөөлж болзошгүй харилцааны улмаас Nvidia компаниас огцорсон байна."
+  },
+  "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/": {
+    "title": "Anthropic-ийн IPO нь 156 тэрбум долларыг хандивлах боломжтой",
+    "summary": "Хувьцааны үнэ 95 доллар байхад Frontier Lab-ийн Нийтийн Тэтгэмжийн Сан, ажилчдын хандив, компанийн хандивын нийт дүн 156 тэрбум долларт хүрсэн."
+  },
+  "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing": {
+    "title": "Apple компани өөрийн хиймэл оюун ухааны агент бүтээхээр инженерүүдийг ажилд авч байна",
+    "summary": "Apple өөрийн хиймэл оюун ухааны агент дээр ажиллаж байгаа бөгөөд энэ нь таны төлөө вэбээр аялах, аппликэйшнүүдийн хооронд ажиллах, код бичих, үйлчилгээ рүү залгах зэрэг олон төрлийн ажлыг гүйцэтгэх боломжтой. Энэ нь Bloomberg-ийн олж харсан ажлын зарын дагуу бөгөөд Apple компани багийг удирдах инженер хайж байгаа гэж дурдсан байна..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings": {
+    "title": "Nvidia-гийн сүүлийн үеийн хувьцааны хэлбэлзлийн товч түүх",
+    "summary": "\"Бид үүнийг даван туулна\" гэж Nvidia-гийн түр үүрэг гүйцэтгэгч гүйцэтгэх захирал Колетт Кресс мягмар гарагийн орой хүнд байдалд орсон чип үйлдвэрлэгч компанийн гуравдугаар улирлын орлогын тайлангийн уулзалтыг хаахдаа хэлэв. Пүрэв гарагийн байдлаар тус компанийн хувьцааны үнэ нэг хувьцаанд ойролцоогоор 150 доллар байсан нь түүхэн дээд үзүүлэлтээс бараг 40 хувиар буурсан үзүүлэлт юм..."
+  },
+  "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app": {
+    "title": "Meta одоо Quest VR толгойн чихэвчээр 3D кино худалдаалж байна",
+    "summary": "Meta компани өнөөдөр мэдэгдсэнээр, одоо 150 гаруй 3D киног санал болгож байгаа бөгөөд та эдгээрийг худалдаж авах эсвэл түрээслэж, Quest 3 болон 3S толгойн төхөөрөмжүүд дээрээ VR-ээр үзэх боломжтой. Кинонууд нь Meta-гийн телевизийн аппликэйшн дээр байх бөгөөд \"Аватар\", \"Хүн-аалз: Гэрээс хол\", \"Жюрассик ертөнц: Дахин төрөлт\", \"Бурханлаг: Явахын төлөө...\" зэрэг кинонууд багтана."
+  },
+  "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price": {
+    "title": "Meta-гийн Muse Charm-ын үнэ 300 доллар байж магадгүй",
+    "summary": "The Information-ийн мэдээлснээр, Мета компани Muse AI агенттайгаа чатлах боломжийг олгодог дэлгэцтэй жижиг төхөөрөмж болох Muse Charm-ыг 300 доллараар үнэлэхээр төлөвлөж байна. Гүйцэтгэх захирал Марк Цукерберг энэ оны эхээр уг төхөөрөмжийг танилцуулж, компани нь Charm-ыг \"баярын өмнө\" хүргэхээр төлөвлөж байгаагаа мэдэгдсэн..."
+  },
+  "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats": {
+    "title": "Google нь хиймэл оюун ухааны чатуудыг шууд нүүр хуудаснаа байрлуулж байна",
+    "summary": "Google нь AI хайлтыг багтаахын тулд нүүр хуудсаа шинэчилж байна. Google-ийн бүтээгдэхүүний дэд ерөнхийлөгч Робби Стейн X дээрх бичлэгээрээ та одоо нугалж болох хажуугийн самбарыг нээж, хиймэл оюун ухааны чатуудаа үзэж, үргэлжлүүлэх боломжтой болсныг харуулж байна. Стейнгийн хуваалцсан GIF-ээс харахад та хажуугийн самбарыг нээж болох юм шиг байна..."
+  },
+  "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming": {
+    "title": "FCC шоронгуудад гар утасны дохиог хаахыг зөвшөөрсөн дүрэмд ногоон гэрэл асаалаа",
+    "summary": "Хоригдлуудын гар утсыг саатуулахыг муж улс болон орон нутгийн шоронгуудад зөвшөөрөх тухай Холбооны Харилцаа Холбооны Комиссын санал нэгтэйгээр батлагдлаа. Пүрэв гарагийн мэдэгдэлд FCC нь энэ дүрэм нь шоронгоос гэмт хэрэг үйлдэхэд ашиглагддаг \"хууль бусаар оруулсан гар утсуудын урсгалыг\" бууруулахад тусална гэж үзэж байна. Дохио хаагч нь ерөнхийдөө..."
+  },
+  "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale": {
+    "title": "Sony-ийн WH-1000XM5 нь Хар Баасан гарагт урьд өмнө байгаагүй хямд үнэтэй байна",
+    "summary": "Миний үед \"Doorbuster\" хямдрал зөвхөн биет жижиглэн худалдааны дэлгүүрүүдэд байдаг байсан. Харин одоо та дэлгүүрээс эсвэл онлайнаар худалдан авалт хийхээс үл хамааран Хар Баасан гарагийн өмнө хэт хямд үнээр худалдан авах боломжтой. Онцлох нэг нь өмнөх үеийн Sony WH-1000XM5 дуу чимээг бууруулах чихэвч бөгөөд энэ нь..."
+  },
+  "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply": {
+    "title": "Та одоо хүлээлгийн жагсаалтад оролгүйгээр Steam Machine худалдаж авах боломжтой боллоо",
+    "summary": "Valve өнөөдөр Steam Machine-ийн бэлэн байдлын талаар зарим шинэчлэлтүүдийг зарласан бөгөөд үүнд та яг одоо худалдаж авахыг хүсвэл сайн мэдээ, RAMaggedon-ийн улмаас ирээдүйн нийлүүлэлтийн талаарх боломжит муу мэдээ багтсан болно. Сайн мэдээ: Та одоо хүлээлгийн жагсаалтад оролгүйгээр 512ГБ-ын Steam Machine худалдаж авах боломжтой боллоо. Анхны…"
+  },
+  "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads": {
+    "title": "Зарим бүтээгчид Instagram-ын шинэ хамтын ажиллагааны хөтөлбөрийг эргэлзээтэй гэж үзэж байна",
+    "summary": "Олон жилийн турш инфлюенсерүүд олон нийтийн сүлжээнд дагагчидтайгаа партнер линкүүдийг хэрхэн хуваалцах талаар шийдэл олж ирсэн. Инстаграм болон Амазоны хоорондох шинэ интеграцийг энэ сарын эхээр зарласан бөгөөд энэ нь инфлюенсерүүдэд партнер хөтөлбөрөөс орлого олохыг хөнгөвчлөх арга зам юм..."
+  },
+  "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale": {
+    "title": "Sonos одоо чанга яригч, саундбар дээр 30 хувь хүртэл хөнгөлөлт үзүүлж байна",
+    "summary": "Sonos-ын чанга яригч, саундбар нь тийм ч хямд биш ч аз болоход тус компанийн Хар Баасан гарагийн хямдрал аль хэдийн эхэлсэн тул 11-р сарын 30-ныг хүртэл бүх зүйлийг худалдаж авахад арай хялбар болгож байна. Хамгийн онцлох зүйл бол та Sonos-оос Arc Ultra саундбарыг шинээр буурсан $849 ($250 хөнгөлөлттэй) үнээр худалдаж авах боломжтой..."
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZUGhIZlEzczZ3OTFxcjBiRFJLUDhrZjhGM1hKRHdQWnYzV05NQUh0Y19Nb2d6WHlQNWR6UkZmWEp0YlE4endwZXJTdVNwUmN3LXQxUU5MaTFaQldqZkZNZjFHZWNiZFN6LV9UdQ?oc=5": {
+    "title": "Claude Fable 5.2 нь хар нүхний физикийн хоёр нээлттэй асуудлыг шийддэг - Антропик",
+    "summary": "Claude Fable 5.2 нь хар нүхний физикийн хоёр нээлттэй асуудлыг шийддэг  Антропик"
+  },
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmZFa1ZOTDhfMFRudnVZYXZXY0lZZnRqd3ZZa3laeFhva2dZQXNTZXlyRWtBQnozM2xrcFFhOThweGVVa0MwTEVsek81QmpVSklzdUtKMVY3MEtoczBmS1pfVXhkVS1LdlVza2h1c1ZfcW91NFZvcXpyMEZVY3N6UDJqRk1zZ0xaVzVkRy0tX3FDLU9wMFZxT01kZktkNzBZU3ZieFh5TGo4YVhPdEd2cWtlSDNndEg1bnZ0QjdxMWRjRWExRXNXeGVSc0lHbndMUHJpdGh1aEJmdw?oc=5": {
+    "title": "Anthropic бол зүгээр л чатбот биш. Клод-ын ард байгаа компани хэрхэн мөнгө олдог тухай - Investopedia",
+    "summary": "Антропик бол зүгээр л чатбот биш юм. Клод-ын ард байгаа компани хэрхэн мөнгө олдог вэ  Investopedia"
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXdWYUhMUkhOenJvZlB5dmhuTzUzcUVqR0FGWW5iYXRQS21LZDVIbzNOVTNqUWVkVnhKc0V1SEhBYWR1MjRNXzZWRVpKQTBDQWdVbUdhcnBUbUFKRThBMjA4MVE3T1pnd19rM2YyQTlpNDZBSVdHQnVaR2pub2UtVFR4dVBycmp6YnlUakpfbkZoWUFzelh2bzdPR2ZrOWxRbzRyeEJsR3ZSUGRXTEE?oc=5": {
+    "title": "Клодын хэрэглэгчид Антропик компанид хөрөнгө оруулах сонирхолтой байгаа гэж Анн Берри хэллээ - Bloomberg.com",
+    "summary": "Клодын хэрэглэгчид Антропик-д хөрөнгө оруулахыг тэсэн ядан хүлээж байна гэж Анн Берри хэлэв  Bloomberg.com"
+  },
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xWGI3OUZZWTFpZ2pjVkZ2QzVkVDdBQ2I4b1lGTUxfT20wbkNNN3gxeTlwQmRLb2ZyTXZYelRtX2ZORkhCaG1BcjlPd3lpVThJUmVwZmcyOVhjWm5ZeEZjZjhoc2R1Y2w0YjB2Q05UaUVqNnM?oc=5": {
+    "title": "Клод олон хүний хувьд ажиллахаа больсон — бидний мэдэж байгаа бүхэн энд байна - TechRadar",
+    "summary": "Клод олон хүний хувьд ажиллахаа больсон — бидний мэдэх бүх зүйл энд байна  TechRadar"
+  },
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0hvWDBvSHdERDJGMkR5SG9lWnd3SGRzYmV3bXhQNW53MGFHRUFnODZXa2hCLVEyaXNZUlJfblYyakVkdEF0TnJwQVZBQlhVa2JXanMyTEtvQlFwS3lMZFhiSTZnMTJocEszRDRrN3E0SG5uNkN4Zkg4UjRzWFJ6a2lGRQ?oc=5": {
+    "title": "Anthropic-ийн IPO: Claude-ийн бүтээгч Nasdaq-ийн түүхэн дебютээр 111.50 доллараар нээлтээ хийлээ - TechRepublic",
+    "summary": "Anthropic-ийн IPO: Claude-ийн бүтээгч Nasdaq-ийн түүхэн дебютээр 111.50 доллараар нээлтээ хийлээ  TechRepublic"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-20/anthropic-s-record-debut-california-investigates-nvidia-more": {
+    "title": "Антропикийн түүхэн дэх анхны амжилт, Калифорни мужийн Nvidia-гийн мөрдөн байцаалт, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-20/anthropic-strong-trading-debut-california-subpoenas-nvidia": {
+    "title": "Антропикийн хүчтэй худалдааны дебют, Калифорни мужаас Nvidia-д дуудах хуудас ирүүлэв",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-20/bloomberg-businessweek-daily-apple-to-build-ai-agent-podcast": {
+    "title": "Bloomberg Businessweek Daily: Apple компани хиймэл оюун ухааны агент бүтээхээр боллоо (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-19/anthropic-trading-debut-california-probes-nvidia-more": {
+    "title": "Anthropic-ийн хувьцааны анхны арилжаа, Калифорни мужийн Nvidia-д тавих шалгалт, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-19/stock-movers-anthropic-gap-intuit-podcast": {
+    "title": "Хувьцааны хөдөлгөөн: Anthropic, Gap, Intuit (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-19/bloomberg-businessweek-daily-anthropic-ipo-podcast": {
+    "title": "Bloomberg Businessweek Daily: Anthropic-ийн IPO (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-ai-firm-s-debut-fails-to-save-wall-street-s-ai-hype": {
+    "title": "Антропик IPO: Хиймэл оюун ухааны компанийн анхны гараа Уолл Стрийтийн хиймэл оюун ухааны хөөсийг аварч чадсангүй",
+    "summary": "Хоцрогдсон зүйлээ гүйцээрэй."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-19/anthropic-s-strong-debut-apple-working-on-ai-agent-more": {
+    "title": "Anthropic-ийн хүчтэй эхлэл, Apple-ийн хиймэл оюун ухааны агент дээр ажиллаж буй байдал, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-founders-lock-up-restrictions-and-future-ai-trade": {
+    "title": "Anthropic-ийн үүсгэн байгуулагчдын хязгаарлалтын хязгаарлалт ба ирээдүйн хиймэл оюун ухааны худалдаа",
+    "summary": "Хиймэл оюун ухааны аварга компанийн хувьцаа өнөөдөр үдээс хойш 97.17 доллараар хаагдсан нь анхны олон нийтийн хувьцаа гаргалтын үнээс 17%-иар өндөр байна."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-19/carney-wireless-comments-stoke-speculation-about-telus-merger-approval": {
+    "title": "Карни Вайрлессийн тайлбар нь Телусын нэгдэл батлагдах талаарх таамаглалыг өдөөж байна",
+    "summary": "Нэмэлт: Антропик IPO-ийн дээд амжилтыг эвдэв"
+  },
+  "https://davidngo1562.substack.com/p/its-not-about-the-money-until-it": {
+    "title": "Эрүүл мэндийн салбарын стартап компанийн зах зээлд нийцэх байдлыг үнэлэхэд яагаад өөр дүрэм журам байдаг вэ?",
+    "summary": "Нийтлэлийн URL: https://davidngo1562.substack.com/p/its-not-about-the-money-until-it Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50562742 Оноо: 4 # Сэтгэгдэл: 0"
+  },
+  "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611": {
+    "title": "Пало Альто Нетворкс AI-стартап Applied Compute-ийг 4.5 тэрбум доллараар худалдаж авах гэж байна",
+    "summary": "Нийтлэлийн URL: https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611 Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50557586 Оноо: 1 # Сэтгэгдэл: 1"
+  },
+  "https://www.entrepreneur.com/building-a-business/i-used-to-counteroffer-my-best-employees-with-more-money-now-i-rely-on-these-3-strategies": {
+    "title": "Би хамгийн сайн ажилтнууддаа илүү их мөнгө санал болгодог байсан. Одоо би эдгээр 3 стратегид найдаж байна.",
+    "summary": "Цалингийн нэмэгдэл, хувьцаа нь өндөр үр дүнтэй ажилтныг гарахыг хойшлуулах боломжтой боловч илүү ухаалаг цалин хөлсний бүтэц нь тэднийг урт хугацаанд ажиллуулах боломжтой."
+  },
+  "https://www.entrepreneur.com/building-a-business/grow-your-business/i-never-saw-my-teams-daily-work-as-content-it-turned-out-to-be-a-powerful-marketing-tool": {
+    "title": "Би багийнхаа өдөр тутмын ажлыг хэзээ ч контент гэж хардаггүй байсан. Энэ нь хүчирхэг маркетингийн хэрэгсэл болох нь тогтоогдсон.",
+    "summary": "Таны өдөр тутмын ажил бол танай бизнесийн өгүүлэх хамгийн сонирхолтой түүх байж магадгүй юм."
+  },
+  "https://www.entrepreneur.com/building-a-business/seo-isnt-over-but-google-is-losing-its-monopoly-heres-how-to-adapt": {
+    "title": "SEO дуусаагүй ч Google монополь байдлаа алдаж байна. Энд дасан зохицох арга байна.",
+    "summary": "Уламжлалт хайлтаас хиймэл оюун ухаанаар ажилладаг хайлтад шилжих нь дижитал маркетингийн ирээдүйг өөрчилж байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/how-the-race-to-control-product-recommendations-is-changing-the-creator-economy": {
+    "title": "Бүтээгдэхүүний зөвлөмжийг хянах уралдаан бүтээгчийн эдийн засгийг хэрхэн өөрчилж байна вэ",
+    "summary": "Reddit-ийн шинэ зар сурталчилгааны туршилт нь илүү том өөрчлөлтийг харуулж байна: Платформууд бүтээгчид, олон нийт, хиймэл оюун ухааны нээлт, худалдан авалтыг холбож, үйлчлүүлэгч худалдан авахаас өмнө шийдвэрт нөлөөлж байна."
+  },
+  "https://www.entrepreneur.com/leadership/if-your-business-cant-run-without-you-you-have-a-bigger-problem-than-you-think": {
+    "title": "Хэрэв таны бизнес таны оролцоогүйгээр үйл ажиллагаагаа явуулж чадахгүй бол таны бодож байгаагаас илүү том асуудалтай байна гэсэн үг.",
+    "summary": "Орлуулшгүй байх нь амжилт мэт санагдаж болох ч энэ нь танай компанийн өсөлтийг чимээгүйхэн хязгаарлаж болно."
+  },
+  "https://www.entrepreneur.com/business-news/ive-been-a-cfo-a-cpa-a-franchisee-and-a-ceo-here-are-the-credentials-that-get-you-hired-now": {
+    "title": "Би Санхүүгийн захирал, Мэргэшсэн Нягтлан Бодогч, Франчайзинг эзэмшигч, Гүйцэтгэх захирал байсан — Энд таныг одоо ажилд авах итгэмжлэлүүд байна",
+    "summary": "Би олон янзын ажлын байранд ажиллаж байсан ч мэргэжлийн үнэмлэхүүд таныг ажил тус бүрээс дагаж явдаг. Таныг ажилд авах итгэмжлэлийг шалгаарай."
+  },
+  "https://www.entrepreneur.com/business-news/ma-isnt-just-for-big-companies-heres-how-startups-can-do-it-with-no-cash": {
+    "title": "Гагцхүү том компаниуд л нэгдэл, худалдан авалт хийдэггүй. Энд стартапууд хэрхэн мөнгөгүйгээр үүнийг хийж болохыг харуулсан байна.",
+    "summary": "Ихэнх бизнес эрхлэгчид бизнесээ өргөжүүлэх өөр нэг арга зам байдгийг мэддэггүй: нэгдэл, худалдан авалтаар."
+  },
+  "https://www.entrepreneur.com/business-news/more-than-20000-small-businesses-use-his-technology-heres-his-data-driven-advice-and-specific-ai-tools": {
+    "title": "20,000 гаруй жижиг бизнес түүний технологийг ашигладаг. Энд түүний өгөгдөлд суурилсан зөвлөгөө - болон хиймэл оюун ухааны товчлолууд - $1 их наяд долларын баярын улирлыг ашиглах талаар байна.",
+    "summary": "Quilt Software-ийн үүсгэн байгуулагч, гүйцэтгэх захирал Эндрю Стерн амжилтад хүрэх стратегийг дэлгэлээ."
+  },
+  "https://www.entrepreneur.com/business-news/anthropics-81-billion-ipo-is-the-biggest-ever-heres-whos-getting-rich-and-who-missed-out": {
+    "title": "Anthropic-ийн 81 тэрбум долларын IPO нь бүх цаг үеийн хамгийн том нь юм — Хэн баяжиж, хэн хоцорч байгааг эндээс харж болно",
+    "summary": "Алдартай хиймэл оюун ухааны чатбот Клодын ард байгаа компани одоо 2 их наяд долларын үнэтэй олон нийтийн компани болжээ. Бүгд баяртай байгаагүй."
+  },
+  "https://www.entrepreneur.com/business-news/i-built-an-ai-chatbot-for-0-heres-the-exact-stack": {
+    "title": "Би 0 доллараар хиймэл оюун ухааны чатбот бүтээсэн. Энд яг тэр стэк байна.",
+    "summary": "Бодит, үйлдвэрлэлийн түвшний хиймэл оюун ухааны чатбот гаргахад танд мөнгө хэрэггүй. Та аль үнэгүй түвшингүүдийг хослуулах ёстойг мэдэх хэрэгтэй. Энд яг тодорхой хэрэгслийн цуглуулга байна."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-20/rising-bond-yields-may-pose-a-challenge-to-nifty-s-sharp-rebound": {
+    "title": "Бодын үнийн өсөлт нь Нифтигийн огцом сэргэлтэд сорилт учруулж болзошгүй",
+    "summary": "Нифти нь 10-р сарын эхнээс хойш бараг 15%-иар өсч, үнэлгээг өсгөсөн."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff": {
+    "title": "Холт-Бенкерийн хатуу бодлого, хиймэл оюун ухааны хувьцааны борлуулалтаас болж алтны үнэ гуравдугаар сараас хойш хамгийн муу долоо хоногоо өнгөрүүлэхээр байна",
+    "summary": "Алтны үнэ тав дахь өдрөө унаж, гуравдугаас хойшхи хамгийн том долоо хоногийн уналтыг үзүүлж байна. Учир нь Холбооны Нөөцийн Санг хүүний ханшийн өсөлтийг нэмэгдүүлэхээр шийдсэн бөгөөд хиймэл оюун ухааны хувьцааны уналт хөрөнгө оруулагчдыг алдагдлаа нөхөхийн тулд алт борлуулахад хүргэж байна."
+  },
+  "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings": {
+    "title": "Anthropic (ANT) компанийн Nasdaq дээрх анхны олон нийтийн хувьцаа гаргалт (IPO) нь хиймэл оюун ухааны айдас, сэрэмжлүүлгийг давж гарсан",
+    "summary": "Хиймэл оюун ухааны шинэ санаачилгатай лаборатори нь жижиглэнгийн болон институцийн хөрөнгө оруулагчдын зүгээс өөрийн хувьцаанд урьд өмнө байгаагүй эрэлттэй тулгарсан."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/frasers-cfo-unleashes-on-accent-as-australian-bid-turns-personal": {
+    "title": "Австралийн тендер хувийн шинжтэй болсноор Фрейзерсийн Санхүүгийн захирал Акцентэд хатуу хандлаа",
+    "summary": "Frasers Group Plc-ийн Австралийн Accent Group Ltd-ийг эзэмших оролдлого нь Frasers-ийн санхүүгийн захирал Мельбурнд болсон жижиглэнгийн худалдааны компанийн жил бүрийн хуралдаанд очиж, тус компанийг үр дүн муутай ажилласан гэж олон нийтэд илээр буруутгаж, тэргүүнийг нь огцрохыг шаардсанаар хувийн асуудал болж хувирсан юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates": {
+    "title": "Хиймэл оюун ухааны худалдаа доголдож, үнэт цаасны үнэ өсөхөд хувьцааны үнэ унав: Зах зээлийн тойм",
+    "summary": "Энэ оны эхээр хиймэл оюун ухааны худалдаа өсөлтийн дараа огцом унаж, хөрөнгө оруулагчдыг Сангийн үнэт цаас, доллар зэрэг аюулгүй хөрөнгө рүү чиглүүлснээр дэлхийн хөрөнгийн зах зээл сүүлийн гурван жилийн хугацаанд хамгийн удаан хугацаанд уналтад орсон байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors": {
+    "title": "Anthropic-ийн IPO-ийн Австралийн хэсэг нь ойролцоогоор 10 дахин захиалга авсан гэж мэдэгджээ",
+    "summary": "Энэ асуудлыг сайн мэдэх нэгэн хүний хэлснээр, Anthropic PBC нь АНУ-ын түүхэн дээд амжилт тогтоосон анхны олон нийтийн хувьцаагаа гаргах үйл ажиллагааны Австралийн хэсэгт эцсийн хуваарилалтаас ойролцоогоор 10 дахин их захиалга авсан байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/us-sour-crude-s-war-premium-vanishes-as-supply-surges": {
+    "title": "Газрын тосны нийлүүлэлт нэмэгдэхийн хэрээр АНУ-ын хүхэртэй түүхий нефтийн дайны нэмэгдэл үнэ алга болж байна",
+    "summary": "Венесуэл, Канад, Ойрхи Дорнодоос түүхий нефтийн нийлүүлэлт огцом нэмэгдсэний улмаас газрын тос боловсруулах үйлдвэрүүдэд сонгох боломжтой хангалттай хэмжээний баррель байгаа тул АНУ-ын хүхэрт нефтийн үнэ унасан байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/australian-pension-funds-confront-their-latest-rival-ai-agents": {
+    "title": "Австралийн тэтгэврийн сангууд хамгийн сүүлийн өрсөлдөгчтэйгөө тулгарч байна: Хиймэл оюун ухааны агентууд",
+    "summary": "Австралийн шилдэг тэтгэврийн сангууд ашигтай тэтгэврийн зах зээл дээр өрсөлдөөний шинэ эх үүсвэр болох бие даасан хиймэл оюун ухааны агентуудын тоо нэмэгдэж болзошгүй асуудалтай тулгарч байгаа бөгөөд энэ нь ноцтой бэрхшээлүүдийг бий болгож байна гэж удирдах албан тушаалтнууд хэлж байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/trilateral-talks-yield-few-concrete-results": {
+    "title": "Гурамсан хэлэлцээрээс тодорхой үр дүн цөөн гарсан",
+    "summary": "АНУ, Хятад, Оросын удирдагчид Шэньжэнь хотод болсон АТЭХ-ны дээд хэмжээний уулзалтын үеэр уулзаж, эрх мэдлийн динамик бүрэн илэрхийлэгдсэн юм. Ерөнхийлөгч Дональд Трамп, Ши Жиньпин, Владимир Путин нар дэлхийн түлшний нийлүүлэлтийг нэмэгдүүлэхээ амлаж, Украйнаас эхлээд ... хүртэлх асуудлуудыг хэлэлцлээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/rba-seeks-to-manage-inflation-jobs-tradeoffs-board-member-says": {
+    "title": "RBA инфляцийг удирдаж, ажлын байрны тэнцвэрийг хангахыг эрмэлзэж байна гэж Удирдах зөвлөлийн гишүүн хэлэв",
+    "summary": "Австралийн төв банкны хүү тогтоох зөвлөлийн гишүүн Рене Фрай-МакКиббин хэлэхдээ, Австралийн төв банк мөнгөний бодлогын хүрээнд инфляц болон ажлын байранд хэр их ач холбогдол өгөх талаарх хүндрэлтэй тэнцвэрийг өөрийн эрх мэдлийн хүрээнд шаардлагатайгаар зохицуулахыг оролдож байна гэжээ."
+  },
+  "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1": {
+    "title": "Anthropic-ийн хувьцаа Уолл Стрит дээр түүхэн өндөр үнээр бүртгүүлсний дараа 17%-иар өслөө",
+    "summary": "Дарио Амодейн удирддаг хиймэл оюун ухааны бүлэг олон нийтийн санал болгох үнийг нэмэгдүүлж 81 тэрбум доллар босголоо"
+  },
+  "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1": {
+    "title": "Anthropic-ийн үнэ цэнийн түлхүүр",
+    "summary": "Хиймэл оюун ухааны компани IPO-ийн дараа бүрэн хэмжээний аж ахуйн нэгжийн технологийн платформ болох шаардлагатай"
+  },
+  "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e": {
+    "title": "Антропик бол \"заавал эзэмших ёстой\" зүйл юм",
+    "summary": "Энэ сайн уу?"
+  },
+  "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1": {
+    "title": "АНУ-ын компаниуд хөдөлмөрийн хүчний хомсдолын хямралыг бууруулахын тулд роботууд руу шилжиж байна",
+    "summary": "Зарим хүмүүсийн хэлж байгаагаар үйлдвэрлэлийн салбар хүндрэлтэй байгаа тул улс орныг олон улсын хэмжээнд өрсөлдөх чадвартай болгоход автоматжуулалтын хурд хангалттай хурдан биш байна."
+  },
+  "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1": {
+    "title": "Си, Трамп, Путины уулзалт болон барууны дараах ертөнцийн мандалт",
+    "summary": "Шэньжэнь хотод бэлгэдлийн утга учир нь гол зүйл байсан"
+  },
+  "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57?syn-25a6b1a6=1": {
+    "title": "ХИ-ийн \"шилжүүлэлтийн\" аюул",
+    "summary": "Бүр Силикон хөндийн хамгийн их урам зоригтой капиталистуудын зарим нь ч гэсэн технологи хэр хол, хурдан хөгжиж байгааг хараад цочирддог."
+  },
+  "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1": {
+    "title": "АНУ Nvidia болон AMD чипсийг Хятадын компаниудад худалдахыг зөвшөөрлөө",
+    "summary": "Пентагон зарим бүлгэмүүд Ардын Чөлөөлөх Армитай холбоотой гэж үзэж байна"
+  },
+  "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1": {
+    "title": "AMD-ийн хувьцаа Хятадтай холбоотой богино хугацааны борлуулалтын тайлангийн дараа унав",
+    "summary": "Nvidia-гийн дуулианы дараа Hunterbrook-ийн гаргасан анхааруулгын дараа чип үйлдвэрлэгчийн хувьцааны үнэ 11%-иар унасан байна."
+  },
+  "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1": {
+    "title": "Си, Трамп, Путин нар \"хувьсгалт\" уулзалтыг сайшаан угтлаа",
+    "summary": "Дэлхийн гурван том цөмийн хүчин цөмийн зэвсэг дэлгэрүүлэхээс урьдчилан сэргийлэх талаар яриа хэлэлцээр хийхээр тохиролцлоо"
+  },
+  "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1": {
+    "title": "Австралийн Ерөнхий сайд Ши Жиньпинтэй төмрийн хүдрийн хурцадмал байдал нүүрлэж буй үед уулзана",
+    "summary": "Ерөнхий сайд Энтони Албаниз баасан гарагт Хятадын ерөнхийлөгчтэй хоёр талын уулзалт хийнэ"
+  },
+  "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories": {
+    "title": "Би зах зээлийн уналтаас айж байна. Би тэтгэврийн хуримтлалынхаа 1 сая доллараас 400,000 доллараа тэтгэврийн даатгалд хийх үү?",
+    "summary": "“Бидэнд 450,000 долларын үнэтэй байшин бий. Бидний нийт жилийн орлого 125,000 доллар.”"
+  },
+  "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories": {
+    "title": "Миний эхнэр гэр бүлийнхээ Нью-Йорк руу явах зардлыг гаргаж байгаа бөгөөд энэ нь бидний хэмнэлтийг шавхаж байна. Би түүнийг болихыг хүсэх үү?",
+    "summary": "“Зочид буудлын өрөөний үнэ нэг шөнөдөө 400 доллар хүртэл үнэтэй байж болно.”"
+  },
+  "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories": {
+    "title": "Anthropic-ийн \"хор шар холилдсон\" IPO-ийн дараа юу хүлээж байгааг эндээс харж болно",
+    "summary": "Жижиглэнгийн хөрөнгө оруулагчид ирсэн ч Anthropic компани одоогоор технологийн салбарт өргөн хүрээний өсөлт үзүүлэхэд амжилт гаргаагүй байна."
+  },
+  "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories": {
+    "title": "Эдгээр нь л Пүрэв гарагт хөрөнгийн зах зээл унасан үед өссөн цорын ганц хувьцаанууд байсан юм.",
+    "summary": "S&P 500-ын бүх 11 салбар буурсан бөгөөд үүнээс 10 нь 1%-иас илүү хувиар буурсан ч кибер аюулгүй байдлын хувьцаанууд энэ сулралаас ангид байсан юм."
+  },
+  "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories": {
+    "title": "Intuit-ийн таагүй төлөв байдал нь Уолл Стрийтийн програм хангамжийн компаниудын талаарх түгшүүрийг улам нэмэгдүүлж байна",
+    "summary": "TurboTax-ийн үйлдвэрлэгч Intuit компани хөрөнгө оруулагчдад хуучны програм хангамжийн компаниудын талаар санаа зовох шинэ шалтгаан өгч байна."
   }
 }
