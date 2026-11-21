@@ -16330,5 +16330,309 @@
   "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories": {
     "title": "Intuit-ийн таагүй төлөв байдал нь Уолл Стрийтийн програм хангамжийн компаниудын талаарх түгшүүрийг улам нэмэгдүүлж байна",
     "summary": "TurboTax-ийн үйлдвэрлэгч Intuit компани хөрөнгө оруулагчдад хуучны програм хангамжийн компаниудын талаар санаа зовох шинэ шалтгаан өгч байна."
+  },
+  "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/": {
+    "title": "Яаралтай мэдэгдэл: Алессандро Масулло GRH",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://thinkingmachines.ai/news/inkling-2-mini/": {
+    "title": "Inkling 2 Mini",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://alpo.ge/remark.pdf": {
+    "title": "Левент Альпёге Ерөнхийлсөн Риманны таамаглалыг [pdf] баталсан гэж мэдэгдэв",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://ninlive.com/": {
+    "title": "NINLIVE: Nine Inch Nails-ийн шууд тоглолтын архив",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://manidoraisamy.com/developer-to-architect.html": {
+    "title": "Бид хөгжүүлэгчдийг мэдэгдэлгүйгээр архитекторуудад дэвшүүлсэн",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/": {
+    "title": "Хүчлэлгүй Навье-Стоксийн гаж үзэгдэл ба Ерөнхийлсөн Римангийн таамаглал",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://valkey.io/blog/from-skiplist-to-b+tree/": {
+    "title": "Valkey нь скиплистийг устгаж, эрэмбэлсэн багцын нэмэлт зардлыг 43% хүртэл бууруулдаг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://arxiv.org/abs/2611.21885": {
+    "title": "Хэлний загварууд өөрсдийн жинг дахин бичиж чадна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid": {
+    "title": "Сэр Брайан Мэй Хера астероидод шинэ хэмжээс нэмж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.masteringemacs.org/article/announcing-dreamcoder": {
+    "title": "DreamCoder: Mastering Emacs-ийн зохиогчийн кодчиллын хэрэгсэл ба IDE",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/": {
+    "title": "Мэргэжилтнүүд анхааруулж байна: Одоо хиймэл оюун ухааны салбарт бараг бүх хүн урхинд орох эрсдэлтэй байна",
+    "summary": "Технологийн мэргэжилтнүүд дэлхийн бүхий л салбарыг хөгжүүлэх боломжтой технологийг бүтээж байна — гэхдээ тэд зүрх сэтгэлээ хамгаалж чадах уу? Энэ бол зөгийн балны савнууд ашигладаг эмзэг цэг юм."
+  },
+  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
+    "title": "Даниел Эк хиймэл оюун ухааны судлаачийн цөмийн нэгдэл эрчим хүчний стартапыг дэмжиж байна. Тэд юу бүтээж байгааг эндээс үзнэ үү.",
+    "summary": "Spotify-ийн үүсгэн байгуулагч Даниэл Эк нь хиймэл оюун ухааны судлаачийн үүсгэн байгуулсан цөмийн нэгдэл эрчим хүчний стартап болох Europa Fusion-ыг дэмжиж байна. Энэ бол стартапын бүтээж буй зүйл юм."
+  },
+  "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/": {
+    "title": "Хиймэл оюун ухаан 167 жилийн настай Риманны таамаглалыг шийдсэн гэж мэдэгдсэн бөгөөд хүн ч бас шийдсэн байна.",
+    "summary": "Математикчид хиймэл оюун ухаанаар удирдсан хамгийн сүүлийн үеийн үр дүнд гайхаж байна — мөн өрсөлдөхүйц хүний шийдэл ч бас бий."
+  },
+  "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/": {
+    "title": "Хэт халуун чулуулгийн геотермаль нь мэдээллийн төвийн эрчим хүчний асуудлыг шийдэж чадна",
+    "summary": "Шинэ геотермаль стартапууд өнөөгийн тэргүүлэгчдийг гүйцэж, бараг хаана ч байсан тераватт цахилгаан эрчим хүчээр хангах боломжтой гэдэгт итгэлтэй байна."
+  },
+  "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/": {
+    "title": "Чипс сансрын орчинд тэсвэрлэж чадна — тэдний санхүүжилт ч гэсэн тэсвэрлэж чадах уу?",
+    "summary": "Зээлдүүлэгчид SpaceX-ийг барьцаагаа сансарт нисгэхийг хүсэхгүй байна. Энэ нь сансрын өгөгдлийн төвүүдэд ерөнхийдөө юу гэсэн үг вэ?"
+  },
+  "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/": {
+    "title": "Bending Spoons компани Mailchimp-ийг 3.68 тэрбум доллараар худалдаж авлаа",
+    "summary": "Intuit компани 2021 онд тус компанийг ойролцоогоор 12 тэрбум доллараар худалдаж авсан тул Bending Spoons компани нэлээд хямд үнээр худалдаж авч байгаа бололтой."
+  },
+  "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/": {
+    "title": "Цагдаа, прокурор, технологийн аварга компаниудын ашигладаг транскрипцийн компани үйлчлүүлэгчдийн мэдээллийг онлайнаар ил болгосон байна.",
+    "summary": "Онцгой: Аюулгүй байдлын энгийн алдаанаас болж цагдаагийн ярилцлагын тэмдэглэл, биеийн камерын бичлэгүүд нууц үггүй үүлэн сервер дээр ил болсон."
+  },
+  "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/": {
+    "title": "Таны гэрийн оффисыг илүү ухаалаг болгож чадах хиймэл оюун ухаанаар ажилладаг зургаан төхөөрөмж",
+    "summary": "Тэмдэглэл хөтлөгчөөс эхлээд вэб камер хүртэл ажлын талбараа сайжруулах хиймэл оюун ухаанаар ажилладаг зургаан төхөөрөмжийг энд танилцуулж байна."
+  },
+  "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/": {
+    "title": "Женсен Хуангийн ажлаас гарахын цаана айдас дээр суурилсан гэгдэх удирдлагын хэв маягийн талаарх асуултууд байна",
+    "summary": "Илон Маск Nvidia-гийн ажилчид ажлаас нь халсан Женсен Хуангийг \"хайрладаг\" гэж хэлэхдээ хэтрүүлсэн байж магадгүй."
+  },
+  "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/": {
+    "title": "Калифорнийн Ерөнхий прокурор Хуангийн Хятадтай холбоотой байдлаас болж Nvidia-д дуудах хуудас хүргүүллээ",
+    "summary": "\"Nvidia болон түүний хуучин гүйцэтгэх захирлын үйл ажиллагаа нь тус компани хөрөнгө оруулагчдыг төөрөгдүүлж болзошгүй арга замуудын талаар тод улаан дохио өгч байна\" гэж Калифорнийн Ерөнхий прокурор Роб Бонта хэлэв."
+  },
+  "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement": {
+    "title": "YouTube нь олон нийтийн сүлжээний донтолтын нэхэмжлэлийг 3 тэрбум доллараар шийдвэрлэхээр бэлтгэж байгаа аж.",
+    "summary": "Блумбергийн мэдээлснээр, YouTube нь \"донтдог загвар\"- нь хүүхдүүдэд хор хохирол учруулсан гэх нэхэмжлэлийг шийдвэрлэхийн тулд мянга мянган сургуулийн дүүрэгт 3 тэрбум доллар төлөхөөр бэлтгэж байна. Эх сурвалжуудын мэдээлснээр YouTube \"зарчмын хувьд\" хэлэлцээрт хүрсэн бөгөөд уг хэлэлцээрт шинэ аюулгүй байдлын арга хэмжээ ч багтах ажээ..."
+  },
+  "https://www.theverge.com/games/1036279/gta-vi-sales": {
+    "title": "Rockstar-ын мэдээлснээр GTA VI нь нээлтээ хийсэн эхний өдрөө 3.79 тэрбум долларын орлого олсон байна.",
+    "summary": "GTA VI нь борлуулалтынхаа эхний өдөрт 3.79 тэрбум доллар олж, Rockstar Games-ийн мэдэгдсэнээр \"ямар ч хэвлэл мэдээллийн хэрэгслээр зугаа цэнгэлийн шинэ дээд амжилт тогтоосон\" байна. Мөн уг тоглоом 32.5 сая урьдчилсан захиалгын хувьцаа борлуулсан байна. \"Бид Rockstar-ын шинэ бүлгийг эхлүүлж байгаадаа маш их талархаж байна..."
+  },
+  "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale": {
+    "title": "Eufy-ийн Omni C28 нь Хар Баасан гарагийн өмнө 53 хувийн хөнгөлөлттэй",
+    "summary": "Талархлын баярыг зохион байгуулах нь хөгжилтэй байж болох ч дараа нь цэвэрлэх нь ямар байх вэ? Тийм ч биш. Eufy-ийн Omni C28 робот тоос сорогч / шүүрэгч хосолсон төхөөрөмж танд туслах болно. Мөн Хар Баасан гарагийн эрт хямдралын ачаар та үүнийг Amazon, Best Buy-аас эсвэл шууд... 379.99 долларын шинэ хямд үнээр (анхны үнээсээ 420 доллараар хямдарсан) худалдаж авах боломжтой."
+  },
+  "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax": {
+    "title": "Трамп хиймэл оюун ухааны өгөгдлийн төвүүдийг АНУ-аас гаргахыг \"асар их татвар\"-аар сүрдүүлж байна",
+    "summary": "АНУ-ын Ерөнхийлөгч Дональд Трамп АНУ-аас гадуур өгөгдлийн төвүүд барьж буй компаниудаас \"асар их татвар\" авах болно гэж амласан бөгөөд улс орон даяар мужууд, хотууд өгөгдлийн төв барих шинэ өргөдлүүдэд хязгаарлалт тогтоож байна. \"Бид компаниудаа өгөгдлийн төвүүдийг бариулахыг зөвшөөрөхгүй..."
+  },
+  "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale": {
+    "title": "Одоо Switch 2-ынхаа санах ойн багтаамжийг нэмэгдүүлэх нь ердийн үеэс бага зардлаар боломжтой",
+    "summary": "Nintendo Switch 2-ын 256 ГБ багтаамжтай дотоод санах ойг microSD картаар нэмэгдүүлэх нь Nintendo-ийн анхны консолтой харьцуулахад илүү үнэтэй байдаг. Учир нь microSD Express картууд нь таны гэрт байж болох бусад картуудтай физик хувьд адилхан ч унших, бичих хурд нь илүү өндөр байдаг. Баярлалаа..."
+  },
+  "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down": {
+    "title": "Google ирэх жил ухаалаг чанга яригч дээрх Google Assistant-ыг унтраах гэж байгаагаа мэдэгдлээ",
+    "summary": "Google компани ухаалаг гэрийн програм хангамждаа зарим нэг чухал өөрчлөлтүүдийг хийж байгаагаа зарлаж байна. Ирэх жилээс эхлэн тус компани Nest аппликейшнийг хааж, Google Home аппликейшнийг ашиглах бөгөөд ухаалаг гэрийн төхөөрөмжүүд дээрээ Google Assistant-ыг ашиглахаа болино. Nest аппликейшнийг 2027 оны 1-р сарын 25-нд хаана..."
+  },
+  "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026": {
+    "title": "Энд Хар Баасан гарагийн өмнө сонгох нь үнэхээр зүйтэй Apple-ийн хямдралууд байна",
+    "summary": "Шинэ AirPods эсвэл хамгийн сүүлийн үеийн Apple Watch нь гайхалтай баярын бэлэг болж чадна, гэхдээ тэдгээр нь таны төсөвт нэлээд том цохилт өгч магадгүй юм. Энэ нь ялангуяа энэ жил үнэн юм. Учир нь техник хангамжийн үнэ өссөний улмаас MacBook болон Apple-ийн бусад төхөөрөмжүүд улам үнэтэй болсон. Аз болоход, Bla…"
+  },
+  "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth": {
+    "title": "Teenage Engineering-ийн анхны CD тоглуулагч нь эргэлдэх дискийг харуулна",
+    "summary": "Teenage Engineering компани шинэ EP/BC-1-ээ \"сонгодог CD тоглуулагчийн орчин үеийн хувилбар\" гэж тодорхойлж танилцууллаа. Энэхүү төхөөрөмж нь эргэлдэх дискийг тагны доор эсвэл гулсаж гарах тавиурын дотор нуухын оронд ил гаргасан хавтгай загвартай. Компанийн мэдэгдсэнээр EP/BC-1 бол анхны..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": {
+    "title": "Антропик математикч Клодын тусламжтайгаар нэр хүндтэй Мянганы шагналын асуудлыг шийдсэн гэж мэдэгдэв",
+    "summary": "Антропик математикч Левент Алпёге нь Клоудын тусламжтайгаар математикийн хамгийн хэцүү асуудлуудын нэг болох Риманны таамаглалыг баталж, дэлхийн шилдэг математикчдын олон арван жилийн турш шийдэж чадаагүй оньсыг тайлсан гэж мэдэгджээ. Хэрэв батлагдвал энэ нь..."
+  },
+  "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview": {
+    "title": "Бойс Нойз 7LLVSION-д урам зориг авахын тулд клуб (болон Италийн нэр танигдаагүй синтезатор) руу ханддаг",
+    "summary": "Хэрэв та Алекс Ридхагийн (буюу Бойс Нойзын) Nine Inch Nails хамтлагтай хамтран ажилласан нь түүний шинэ цомог 7LLVSION-д хэрхэн нөлөөлсөн бэ гэж гайхаж байгаа бол хариулт нь энгийн: Нөлөөлөөгүй. Энэ нь Ридха Трент Резнор, Аттикус Росс нарын виртуоз продюсеруудын багтаас юу ч сураагүй гэсэн үг биш, гэхдээ ихэнх..."
+  },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWN0cGwxa2RJY0tiMk5sdjNWeHZzbXhfbEVGamdHaDdaT3diaWhpdlBYd2dzQThqVXpKZlg2VjZWOWlYNUlwS2NPRjBtbjEwXzYzTVVsUktBcmtfbXBqYkJ4OEh1cFJNSWdjb3hLUWlOT29zd1hYV1B3VFhnTGVwTDVvN2kwaHF5XzRycTNEM2JkNHVPQmFTZ3dyNVdWMG01em5BYk1OT1lWZw?oc=5": {
+    "title": "Антропик математикч Риманны таамаглалыг шийдвэрлэхийн тулд хиймэл оюун ухааныг ашигласан гэж мэдэгдэв - Business Insider",
+    "summary": "Антропикийн математикч хиймэл оюун ухааныг ашиглан Риманны таамаглалыг шийдсэн гэж мэдэгджээ  Business InsiderАнтропикийн математикч хиймэл оюун ухаан математикийн хамгийн алдартай асуудлыг шийдсэн гэж мэдэгджээ  WSJАнтропикийн судлаач өөрөө болон Клод 1859 онд анх дэвшүүлсэн Риманны таамаглалыг баталсан гэж мэдэгджээ  Phys.orgАнтропикийн ма…"
+  },
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUF2VXNsQk8tUm92Nl93c0EtU1hDeERodW01ZktmcWdhRTF3UzI0UWxlaWlNdGVkOW4zeVdsdUxwRTFpMmJJenBpQXVQY1J6UzNGUE5lMmpfYUdfSUNuVDNtbWZDQTRMblJla3I0TFhYdVJJdlNkbnVrdjNPMXNSNWdPMk9nbGtvS3pjVFNzVXJZZkZ0Z3h0N2wxZlU2WGVneGsydkNIUkc1dVkt?oc=5": {
+    "title": "\"Бид үхэхийг хүсэхгүй байна\": Жагсагчид анхны олон нийтийн хувьцаа гаргасны дараа Клодын бүтээгч Антропикийг шүүмжилж байна - Барронс",
+    "summary": "\"Бид үхэхийг хүсэхгүй байна\": Эхний олон нийтийн хувьцаа гаргасны дараа эсэргүүцэгчид Claude-ийн бүтээгч Anthropic-ийг шүүмжилж байна  Barron's"
+  },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5": {
+    "title": "Эх сурвалжийн мэдээлснээр, Антропикийн Том Браун Трампын хүүхдүүдийн хөрөнгө оруулалтын дансанд хандив өгөхөөр төлөвлөж байна - Ройтерс",
+    "summary": "Эх сурвалжийн мэдээлснээр, Антропикийн Том Браун Трампын хүүхдүүдийн хөрөнгө оруулалтын дансанд хандив өгөхөөр төлөвлөж байна  Reuters"
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYVdGdzl2am5CT1o3QlFFV2duR2dJZzNpbjlrYWg2cU4tVHJwZ0I4WWhaVmd3ZHQ0cTVyRklGcHprTlk0UFEzenE2T2ZNZ1pvNXdKbDBySkFDXzA5cktobkRxaTcxdkZzWGtfXzVzLXZqeEhnSDk5VEROWGRsNzQ?oc=5": {
+    "title": "Хиймэл оюун ухааны талаарх санаа зовнил нэмэгдэхийн хэрээр хувьцааны үнэ буурч байна - Нью-Йорк Таймс",
+    "summary": "Хиймэл оюун ухааны талаарх санаа зовнил нэмэгдэхийн хэрээр хувьцааны үнэ буурч байна  The New York Times"
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlRWTmU1NlRGMjRnb2JGWUVrSTk4V3dTRWgyb2hlSXF6Y0FtVi1tREhvSUFPby1IVkphYVlXdGtpR2pvYmltRnpaUkI3RFBMeG05aExMWUs4Yi1rb05oTlBvNWpRUFhSNWc2NlRER205T1QzZU5PbVcwaTJEU1hpM1M2ZDFtd2RNamMtS2trTGtjWThBTXZ3MFJ6bEYxTTdxMmExQ1cwRXVTYk9OOENzTA?oc=5": {
+    "title": "Anthropic-ийн анхны олон нийтийн хувьцаа гаргалтын хямрал Уолл Стрийтийн хиймэл оюун ухааны 4 их наяд долларын уналтыг хязгаарлав - WSJ",
+    "summary": "Anthropic-ийн IPO-ийн үймээн самуун Уолл Стрийт дээрх 4 их наяд долларын хиймэл оюун ухааны уналтыг зогсоолоо  WSJ"
+  },
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWd2VzBFUVRkbWFBSDdCTkZMUERPYzZnQV9TMmI1MEtRYl91OW5NNGg2aFBNRnJxX1NSeEJqT2E3LWlFdk1KTGJHU0JmNmdWdmdUQkxXVUxmSU0za05sQnFrcW1KaVNpbmFXNGs0LWxiOTZXUVBnOFlPVEhrSGhRSkVsN1Z6YlBKMHYwODBlXzFoZFU4WHZVd2lHZ2FjZWZ0TnA5SHVkNHZVRGZFcUZNSVJSZ0t5RzB5eDQtT0NHTzFEdnBBcHAxd2Y1ejM4ajZfM0E?oc=5": {
+    "title": "Anthropic-ийн 81 тэрбум долларын IPO-гоос хамгийн их баяжсан хүмүүс энд байна - Fortune",
+    "summary": "Anthropic-ийн 81 тэрбум долларын IPO-гоос хамгийн их баяжсан хүмүүс энд байна  Fortune"
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE90YWJYMjBRbTlBb2JWM2hUektMRU45aWpYTGFweEdwYnpKbnUxZW5ZZmpRZldwOE1DTkNJNW03RmlXRXJ2eHpkam42WVdjSkVKSnhQTXVqZVpnaUFQdWlwQTVWZnRma3dYYUlqajRzdHlVQ1FxRVBIN2YwQ0hBMTTSAYQBQVVfeXFMT3NHN0pIT3ZMVktfX1pJRE5GV1JqUFcyQmhtSnczMjhLY2NNUXYyYUJIT3BtQ0JUeW5oLTBMenpSN0VVcVN1S245OHAxd29FMFdMZjY4ektWMW15Q29vMVhfRkh0TExJdS16OVdrOG1BbHN6cV9vWVpNZEdHa1RfNk5tUVZs?oc=5": {
+    "title": "Яагаад Антропикийн эхний өдрийн үнэлгээ энэ зах зээлд удаан тогтохгүй байсан бэ - CNBC",
+    "summary": "Яагаад Anthropic-ийн эхний өдрийн үнэлгээ энэ зах зээлд удаан тогтохгүй байсан бэ  CNBC"
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1JHbkFlQm5mcHJFMmFVZzhqRnpfMkxwTUtwS0F0OTZicDN0VDNfdnoxVlBLcTViVXNDa2o1ZW4yVkpsd1daOFlQMXdZdjVWYzlkWnFVRHRhanJFRUlXNXBLd0E1Y1NlRlhieWR6V2hzSkkzTkZueE1HT24tOC1ZbHpUZHEzdnVfc3NPdFl3ZWtjMVpLVDdhd2F6VzRCTUJCTEdXMWFGNEJWS0k?oc=5": {
+    "title": "Антропик компанийн хувьцаа хурц өсөлтийн дараа 8%-иар унав - Yahoo Finance",
+    "summary": "Anthropic-ийн хувьцаа хурц өсөлтийн дараа 8%-иар унав  Yahoo Finance"
+  },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5": {
+    "title": "Anthropic компани хиймэл оюун ухааны худалдааны уналтыг зогсоож чадахгүй байгаа тул Nvidia-ийн хувьцаа унаж байна - Axios",
+    "summary": "Anthropic компани хиймэл оюун ухааны худалдааны уналтыг зогсоож чадахгүй байгаа тул Nvidia-ийн хувьцаа унаж байна  Axios"
+  },
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE5raTRzek5uVS1BOXFSRVd0YWN0MGpFSFM3TXY0UGVDNzJsNVExZjg3dnY2V3REUlpSWUxYUU1BQUFzdHJRVDJSNWdzREFwT0dUUHpXeWZDVUEwSnVBUnZBaFBUNVRNSG10WDU4UWVMUGlsT0ZmUW9Gbmp3?oc=5": {
+    "title": "Яаралтай мэдээ: Anthropic-ийн хувьцаа унаж, хиймэл оюун ухааны хувьцаанууд 5 сарын хугацаанд 50%-иас илүүгээр унасан байна. - Маркус хиймэл оюун ухааны талаар | Substack",
+    "summary": "Яаралтай мэдээ: Anthropic-ийн хувьцаа унаж байгаа бөгөөд хиймэл оюун ухааны хувьцаанууд 5 сарын хугацаанд 50%-иас илүүгээр унасан байна.  Маркус хиймэл оюун ухааны талаар | Substack"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/s-p-and-dow-in-correction-nasdaq-down-5-2-on-friday-more": {
+    "title": "S&P болон Dow индексүүд уналтад орж, Nasdaq индекс Баасан гарагт 5.2%-иар буурсан байна.",
+    "summary": "Эх сурвалж: Bloomberg, 6:22"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/bloomberg-law-win-for-transgender-service-members-podcast": {
+    "title": "Bloomberg Law: Трансжендер цэргийн алба хаагчдын ялалт (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 32:33"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/stocks-close-lower-on-ai-selloff-anthropic-gives-up-gains-more": {
+    "title": "Хиймэл оюун ухааны хувьцаа борлуулалтаас болж хувьцааны ханш буурч, Anthropic-ийн өсөлт зогсож, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 6:30"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-21/trump-xi-and-putin-raise-stakes-for-smaller-powers-like-singapore": {
+    "title": "Трамп, Си, Путин нар Сингапур зэрэг жижиг гүрнүүдийн эрсдлийг нэмэгдүүлж байна",
+    "summary": "АСЕАН болон АТЭХ-ын дээд хэмжээний уулзалтуудын дипломат эв найрамдлын цаана жижиг, дунд орнуудад тийм ч таатай бус мессеж байлаа."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/s-p-dow-in-correction-nasdaq-negative-more": {
+    "title": "S&P, Dow-ийн засвар, Nasdaq сөрөг, Бусад",
+    "summary": "Эх сурвалж: Bloomberg, 5:48"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/balance-of-power-trump-s-xi-putin-ties-draw-pushback-podcast": {
+    "title": "Эрх мэдлийн тэнцвэр: Трампын Ши, Путинтэй холбоо нь эсэргүүцэлтэй тулгарч байна (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 32:35"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-20/stock-movers-anthropic-nvidia-unitedhealth-group-podcast": {
+    "title": "Хувьцааны хөдөлгөөн: Anthropic, Nvidia, UnitedHealth Group (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 3:39"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-20/stocks-close-lower-on-ai-selloff-anthropic-gives-up-gains-more": {
+    "title": "Хиймэл оюун ухааны худалдааны үнэ буурч, Anthropic-ийн үнэ өсөлтөө алдаж, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 5:15"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-20/markets-anthropic-plummet-on-ai-fear-evening-briefing-americas": {
+    "title": "Хиймэл оюун ухааны айдасны улмаас зах зээл, Антропик компани унаж байна: Америкийн оройн мэдээ",
+    "summary": "Хоцрогдсон мэдээллээ аваарай."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/the-mark-walter-probe-is-reverberating-through-insurance-sports-and-ai": {
+    "title": "Марк Уолтерийн мөрдөн байцаалт даатгал, спорт, хиймэл оюун ухааны салбарт нөлөөлж байна",
+    "summary": "Боломжит хуурамч шошготой 20 тэрбум гаруй долларын үнэтэй даатгалын зээлийг шалгах ажиллагаа даатгалын салбар болон хиймэл оюун ухааны эдийн засагт нөлөөлж байна."
+  },
+  "https://www.michelebologna.net/2026/zsh-startup-count-processes/": {
+    "title": "Zsh-ийн эхлэх хугацааг багасгах: мөрийг биш, процессыг тоолох",
+    "summary": "Нийтлэлийн URL: https://www.michelebologna.net/2026/zsh-startup-count-processes/ Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50581760 Оноо: 3 # Сэтгэгдэл: 0"
+  },
+  "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/": {
+    "title": "16 настай хүү хиймэл оюун ухааны пуужингийн стартап компани байгуулжээ. Тэрээр \"Алуултын өртөг\"-ийг зорилго болгож байна",
+    "summary": "Нийтлэлийн URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50575429 Оноо: 5 # Сэтгэгдэл: 1"
+  },
+  "https://maccus.fr/en/us-investors-european-startups/": {
+    "title": "АНУ-ын хөрөнгө оруулагчид одоо Европын C цувралын стартап раундуудад мөнгөний 52%-ийг оруулж байна.",
+    "summary": "Нийтлэлийн URL: https://maccus.fr/en/us-investors-european-startups/ Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50573465 Оноо: 2 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/building-a-business/he-started-a-company-in-his-nyu-dorm-room-34-years-later-it-brings-in-more-than-1-billion-a-year": {
+    "title": "Тэрээр Нью-Йоркийн их сургуулийн оюутны байрны өрөөндөө компани байгуулсан. 34 жилийн дараа энэ компани жилд 1 тэрбум гаруй долларын орлого олдог болсон.",
+    "summary": "Тэрбумтан Фил Шоу нь гучин гаруй жилийн хугацаанд хөгжсөн орчуулгын компанийн хамтран үүсгэн байгуулагч, гүйцэтгэх захирал юм."
+  },
+  "https://www.entrepreneur.com/building-a-business/how-to-harness-the-power-of-human-interaction-to-win-customers-over-this-holiday-season": {
+    "title": "Энэхүү баярын улиралд үйлчлүүлэгчдийг татахын тулд хүний харилцааны хүчийг хэрхэн ашиглах вэ",
+    "summary": "Энэ баярын өдрүүдээр та хэрэглэгчдийг жинхэнэ хүний харилцаагаар хэрхэн татах боломжтойг эндээс үзнэ үү."
+  },
+  "https://www.entrepreneur.com/leadership/linkedin-algorithm-results-mistakes": {
+    "title": "LinkedIn-ээс хүссэн үр дүндээ хүрэхгүй байна уу? Алгоритмыг буруутгахыг зогсоож, эдгээр 3 алдааг засаарай.",
+    "summary": "Үүсгэн байгуулагчид үр дүнд хүрээгүйгээ ихэвчлэн LinkedIn-ийн алгоритмд буруутгадаг. Энэ гурван алдаа бол жинхэнэ асуудал юм."
+  },
+  "https://www.entrepreneur.com/building-a-business/the-5-little-habits-that-made-a-bigger-difference-in-my-business-than-i-expected": {
+    "title": "Миний бизнест хүлээж байснаас илүү том өөрчлөлтийг авчирсан 5 жижиг зуршил",
+    "summary": "Өсөлт үргэлж том стратегиас үүсдэггүй. Энд миний бизнест хүлээж байснаас илүү их нөлөө үзүүлсэн жижиг зуршлуудыг дурдлаа."
+  },
+  "https://www.entrepreneur.com/building-a-business/your-business-is-busy-but-is-it-actually-growing-ask-these-4-questions-to-find-out": {
+    "title": "Таны бизнес завгүй байна. Гэхдээ энэ нь үнэхээр өсч байна уу? Үүнийг мэдэхийн тулд эдгээр 4 асуултыг асуугаарай.",
+    "summary": "Жилийн сүүлчийн улирал бол таны бизнест юу үнэхээр ашиг олж байгааг мэдэх хамгийн тохиромжтой цаг юм."
+  },
+  "https://www.entrepreneur.com/building-a-business/why-the-startup-playbook-changes-when-your-customer-is-a-large-institution": {
+    "title": "Таны үйлчлүүлэгч том байгууллага байх үед стартап бизнесийн гарын авлага яагаад өөрчлөгддөг вэ?",
+    "summary": "Эрүүл мэндийн салбар зэрэг зохицуулалттай зах зээл дээр ажилладаг бүтээгдэхүүн байхад хангалтгүй — стартапууд өргөтгөхөөс өмнө хэн төлөх, хэрхэн нэвтрүүлэх, юуг батлахыг тодорхойлох ёстой."
+  },
+  "https://www.entrepreneur.com/building-a-business/i-didnt-have-a-tv-at-home-so-i-built-a-computer-at-age-13-to-compensate-aivc": {
+    "title": "Манай гэрт телевизор байгаагүй — Тиймээс би 13 настайдаа түүнийг нөхөхийн тулд компьютер угсарсан. Одоо миний стартап 1 тэрбум долларын үнэ цэнийг нээх замдаа орсон.",
+    "summary": "Р.К. Вилленброк бага наснаасаа л гэр бүлийнхээ \"технологийн босогч\" байсан."
+  },
+  "https://www.entrepreneur.com/business-news/cases-of-gta-flu-are-suddenly-spiking-nationwide-is-it-costing-businesses-1-billion": {
+    "title": "\"GTA томуу\"-ын тохиолдлууд улс орон даяар гэнэт нэмэгдэж байна. Энэ нь бизнес эрхлэгчдэд 1 тэрбум долларын зардал гаргаж байна уу?",
+    "summary": "Grand Theft Auto VI-ийн ачаар амралт авах хүсэлт 32%-иар нэмэгдсэн тул Z үеийн ажилчид супер тархагчид бололтой."
+  },
+  "https://www.entrepreneur.com/building-a-business/how-i-turned-professional-relationships-into-a-business-growth-strategy": {
+    "title": "Би мэргэжлийн харилцааг бизнесийн өсөлтийн стратеги болгосон нь",
+    "summary": "1,800 гаруй салбартай франчайзын сүлжээг удирдах нь хамгийн хүчтэй бизнесийн боломжууд нь ихэвчлэн борлуулалтын яриа өрнөхөөс хамаагүй өмнө эхэлдэг гэдгийг надад ойлгуулсан."
+  },
+  "https://www.entrepreneur.com/business-news/comparing-franchises-make-sure-ai-is-working-for-you-not-against-you": {
+    "title": "Франчайзыг харьцуулж байна уу? Хиймэл оюун ухаан таны эсрэг биш, таны төлөө ажиллаж байгаа эсэхийг шалгаарай",
+    "summary": "Хиймэл оюун ухаан нь франчайзын судалгааны дунд үе шатанд хэрэгтэй хэрэгсэл боловч эхэнд эсвэл төгсгөлд нь ТИЙМ БИШ юм. Үүний шалтгаан нь энд байна."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video": {
+    "title": "J&J Snack Foods компанийн Гүйцэтгэх захирал 4-р улирлын үр дүн, хэрэглэгчдийн сэтгэл ханамжийн талаар",
+    "summary": "J&J Snack Foods компанийн Гүйцэтгэх захирал Дэн Фахнер компанийн үйл ажиллагаа амжилттай жилээс хойш сайжирч байгаа бөгөөд Аполло төслийн 25 сая доллараас илүү тогтвортой хэмнэлтийг дурдаж байна. Хоёр дахь үе шат болох \"Аполло 2\"-оор 2027 он гэхэд түгээлт, үйлдвэрлэлийн сайжруулалтаар дахин 5 сая доллар олох төлөвтэй байна..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment": {
+    "title": "Эл Сальвадорын цэргүүд аврах ажиллагаанд оролцож байгаад Гайтид болсон дэлбэрэлтээр амиа алджээ",
+    "summary": "Ерөнхийлөгч Найб Букеле сураггүй болсон цэргүүдийг хайхын тулд Карибын тэнгисийн арлын улсад олон тооны цэрэг байрлуулах тушаал өгснөөс хэдэн долоо хоногийн дараа Сальвадорын хоёр цэрэг тэдний ажиллаж байсан газарт дэлбэрэлт болсны улмаас Гайтид амиа алджээ."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video": {
+    "title": "\"Үргэлж бэлэн мөнгөтэй бай\": Ричардс",
+    "summary": "CVC Marathon-ы удирдах түнш, тэргүүн Брюс Ричардс \"Bloomberg Money\"-д Скарлет Фу, Том Кийн нартай хамт оролцож байна. Тэд Ричардсын карьерынхаа туршид хүлээн авсан хамгийн дуртай хөрөнгө оруулалтын зөвлөгөөний талаар ярилцдаг. Ричардс оюун ухаанд нийцэхгүй зах зээлүүдийн талаар анхааруулж, мөн тэрээр хөшүүргийн арга хэрэглэхийг дэмждэггүй гэдгээ хэлсэн..."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels": {
+    "title": "ХИ-ийн худалдаа суларч эхэлснээр IPO-ийн өсөлт буурч, Anthropic-ийн хувьцаа 8.5% унав",
+    "summary": "Anthropic PBC-ийн хувьцаа баасан гарагт анхны өдрийн өсөлтийнхөө нэг хэсгийг алдаж, хиймэл оюун ухааны лаборатори түүхэн дэх хамгийн том анхны олон нийтийн санал болгосны дараа хөрөнгө оруулагчдын итгэлийг шалгалаа."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video": {
+    "title": "Трамп Хуан \"ихээхэн уучлалт гуйгаад\" Nvidia-д эргэн ирэх ёстой гэж хэлэв",
+    "summary": "Ерөнхийлөгч Трамп Женсен Хуангаас ихээхэн уучлалт гуйж, Nvidia-гийн Гүйцэтгэх захирлаар эргэн ирэхийг хүссэн ч энэ нь маш бага магадлалтай хэвээр байна. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video": {
+    "title": "Хөрөнгө оруулагчид технологийн салбараас татгалзаж байгаа тул S&P, Dow-ийн индекс буурч байна",
+    "summary": "Баасан гарагт АНУ-ын хөрөнгийн зах зээл унахад чип үйлдвэрлэгчид голлон нөлөөлсөн бөгөөд S&P 500 болон Доу Жонсын аж үйлдвэрийн индекс уналтын бүсэд хаагдсан байна. Кармен Рейнике мэдээлж байна. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/masters-in-business-with-david-eichhorn-video": {
+    "title": "Зээлийн эрсдэлийг тохируулах: Дэвид Эйхорны Бизнесийн магистр",
+    "summary": "Барри NISA Investment Advisors-ийн Гүйцэтгэх захирал, Хөрөнгө оруулалтын стратегийн газрын дарга Дэвид Эйхорнтой ярилцлаа. Тэд түүний JPMorgan-д тооцооны мэргэжилтнээр ажиллаж байсан эхний өдрүүдийн талаар ярилцаж, дараа нь тэрээр Сент-Луис хот руу буцаж ирээд NISA-д ажилласан тухайгаа ярьсан. Тэд мөн хувийн зээлийн зах зээлийн эрсдэл, ашиг тусын талаар ярилцаж байна..."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video": {
+    "title": "SEC-ийн шалгалт хиймэл оюун ухааны зах зээлийн борлуулалтыг бууруулсаар байгаа тул Nvidia-ийн үнэ унаж байна | Хаалтын хонх",
+    "summary": "АНУ-ын зах зээлийн хаалтын талаар Bloomberg Television, Bloomberg Radio, YouTube дээр Ромейн Бостик, Кэрол Массар, Тим Стеновец нарын хамт бүрэн хэмжээний платформ хоорондын мэдээлэл. (Эх сурвалж: Bloomberg)"
+  },
+  "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1": {
+    "title": "АНУ-ын технологийн салбарын хувьцаанууд Ковид-19-ийн хямралаас хойших хамгийн муу долоо хоногт баавгайн зах зээлд орлоо",
+    "summary": "Хиймэл оюун ухаанд зарцуулах зардлын өсөлтийн талаарх айдас Уолл Стрийтийг эзэмдэж, Anthropic болон Nvidia-ийн хувьцаа унаж байна"
+  },
+  "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1": {
+    "title": "Nvidia компани АНУ-ын зохицуулагчийн нягтлан бодох бүртгэлийн шалгалтад орж байна",
+    "summary": "Үнэт цаасны болон биржийн комиссын шалгалт нь Жэнсэн Хуангийн огцролтын дараа чип үйлдвэрлэгч компанийн тулгарч буй хүндрэлийг нэмэгдүүлж байна."
+  },
+  "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1": {
+    "title": "Anthropic-ийн түүхэн IPO-ийн дотор",
+    "summary": "Даруухан компани олон нийтийн зах зээлийн гэрэлд өөрийн онцгой соёлоо хадгалж чадах уу?"
+  },
+  "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e": {
+    "title": "АНУ-ын цэргийн хүчин хүчдэл нэмэгдэж байгааг анхааруулж байгаа тул Трамп Иран руу шинэ цохилт өгөх талаар бодож байна",
+    "summary": "Албаны хүмүүсийн хэлж буйгаар, мөргөлдөөн шинэ он хүртэл үргэлжилбэл тодорхойгүй хугацаагаар цэрэг байрлуулах, төсвийн боломжит таналт нь бэлэн байдлыг сулруулах эрсдэлтэй ажээ."
+  },
+  "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1": {
+    "title": "Зах зээл дэх хиймэл оюун ухааны халууралт буурч байна",
+    "summary": "АНУ-ын хувьцаанууд хорин жилийн хугацаанд хамгийн муу жилийн нэг болох гэж байгаа тул хөрөнгө оруулагчдын хувьд энэ технологийн ид шид алга болох магадлалтай."
   }
 }
