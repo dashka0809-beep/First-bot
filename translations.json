@@ -16634,5 +16634,185 @@
   "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1": {
     "title": "Зах зээл дэх хиймэл оюун ухааны халууралт буурч байна",
     "summary": "АНУ-ын хувьцаанууд хорин жилийн хугацаанд хамгийн муу жилийн нэг болох гэж байгаа тул хөрөнгө оруулагчдын хувьд энэ технологийн ид шид алга болох магадлалтай."
+  },
+  "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib": {
+    "title": "Новшны хорт хавдрыг эмчлэх эм нь \"хэдэн арван жилийн доторх хамгийн том нээлт\" гэж магтагджээ.",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/": {
+    "title": "Риманны таамаглалыг Lean-ээр баталгаажуулах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/ShinMegamiBoson/lookatmyquant": {
+    "title": "5.4 ГБ санах ойтой Inkling-2-Mini",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria": {
+    "title": "Бразилын татварын газар татварын тооцоолуураа GitHub дээр MIT-ийн хүрээнд нээлттэй эх сурвалж болгосон",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really": {
+    "title": "Хар тугалганы азидын овоолгыг дэлбүүлэх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/sebaandrada-cell/PcapAnalyzer": {
+    "title": "PcapAnalyzer – 27 асуудал илрүүлэгчтэй өөрийн сервер дээр ажилладаг pcap анализатор",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body": {
+    "title": "Биеийг чинь удирдахад оюун ухааныг чинь ажиллуулах",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.tymscar.com/posts/studiodisplayethernet/": {
+    "title": "Миний монитор татаж авах хурдыг минь 75%-иар бууруулж байсан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://linebender.org/blog/next-100-guis/": {
+    "title": "Дараагийн 100 Rust GUI-д зориулсан зөвлөгөө",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.pandex.io": {
+    "title": "Pandex – MCP-ээр дамжуулан хиймэл оюун ухааны агентуудад зориулсан албан ёсны Европын хууль",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
+    "title": "Хиймэл оюун ухааны хяналтын \"оршин тогтнох аюул\"-тай тулгарч байгаа тул Signal гар утасны дэлгэцийн агшинг хязгаарлаж байна",
+    "summary": "Signal нь Android болон iOS аппликейшн дээрх хэрэглэгчдийн дэлгэцийн агшин авах боломжийг хязгаарлаж байна."
+  },
+  "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/": {
+    "title": "Хоёр Nvidia-гийн түүх",
+    "summary": "Бид Nvidia-гийн тухай хоёр өөр дүр зургийг олж авсан — тус компанийн хамгийн сүүлийн орлогын тайлан болон Жэнсэн Хуангийн эргэн ирэхийг чангаар уриалж буй технологийн удирдагчид."
+  },
+  "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/": {
+    "title": "Трамп ХТБ-ын мэдээллийн сан хакердсан гэх мэдээлэл \"сайн зүйл биш\" гэж хэлэв",
+    "summary": "ФБХ Үндэсний гэмт хэргийн мэдээллийн төвийг хакердсан хэргийг шалгаж байгаа гэсэн мэдээлэл байна."
+  },
+  "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/": {
+    "title": "Энд таны мессежүүдэд байж болох шилдэг хиймэл оюун ухааны агентууд байна",
+    "summary": "Бид ерөнхий туслахуудаас эхлээд гэр бүл, аялал, ажилд зориулагдсан агентууд хүртэл таны мессеж дотор байж чадах хамгийн онцлох хиймэл оюун ухааны агентуудын жагсаалтыг гаргасан."
+  },
+  "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/": {
+    "title": "Таны царайны хиймэл оюун ухааны хувилбарыг энэ микродрамын стартап компанид худалдах нь Холливудын ирээдүй мөн үү?",
+    "summary": "Жүжигчин нэгэн Хятадад аль хэдийн алдартай болсон чиг хандлагын дагуу нүүрээ микродрамын стартап компанид лицензээр олгожээ. Хэрэв энэ нь Холливудад ч гэсэн чиг хандлага болбол урт хугацааны үр дагаврын талаар мэргэжилтнүүд эргэлзэж байна."
+  },
+  "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/": {
+    "title": "Аляска, танай дараагийн захирагч бол Википедиагийн нэгэн мэдлэгчин",
+    "summary": "Аляскийн сонгогдсон захирагч Жонатан Крейсс-Томкинс Википедиад 13,000 гаруй удаа засвар хийсэн байна."
+  },
+  "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/": {
+    "title": "Энэтхэгийн стартап компани Apple-ийг харилцагчдыг хуваалцах функцийн асуудлаар шүүхэд өгч байна",
+    "summary": "АНУ-ын стартап компани 162 сая ам.долларын нөхөн төлбөр шаардаж, Энэтхэг рүү iPhone болон Apple Watch импортлоход нөлөөлөх хориглолтын тушаал гаргахыг хүсч байна."
+  },
+  "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label": {
+    "title": "Амазон мөн ачааны шошгоны асуудлаар Нью-Йорк хотын зөвлөлд гомдол гаргаж байна",
+    "summary": "Амазон нь Нью-Йорк хотын Зөвлөл болон Хүргэлтийн хамгаалалтын тухай хуулийн эсрэг тэмцэлдээ ямар ч арга хэрэглэхээс буцахгүй байна. Тус компани одоо ачаа бараанууд дээр Хотын Зөвлөл Amazon-ын аль ч захиалгад 5 доллар хүртэл нэмж магадгүй гэсэн шошго нааж байна. Хүргэлтийн хамгаалалтын тухай хууль нь үр дүнтэйгээр хориглох юм..."
+  },
+  "https://www.theverge.com/tech/1039554/un-regulations-killer-robots": {
+    "title": "НҮБ \"алуурчин роботууд\"-ыг зохицуулах дүрмийн талаар тохиролцож чадахгүй байна",
+    "summary": "Энэ долоо хоногт Женевт хуралдаж буй НҮБ-ын дипломатуудын хэлэлцэх асуудлын нэг нь бие даасан зэвсэг буюу \"алуурчин роботууд\"-ыг ашиглахтай холбоотой дүрмийг боловсруулах явдал байв. Эцэст нь төлөөлөгчид ихэнхдээ үр дүнгүй байсан уулзалтуудыг орхин \"хувилбаруудыг хэлэлцэж эхлэхээр\" тохиролцсон..."
+  },
+  "https://www.theverge.com/tech/1039543/fbi-usda-hacked": {
+    "title": "Холбооны мөрдөх товчоо болон АНУ-ын ХХААЯ-ыг хакердсан гэсэн мэдээлэл байна",
+    "summary": "Баасан гарагт АНУ-ын Хөдөө аж ахайн яам (USDA) болон Холбооны Мөрдөх Товчоо (FBI)-г хакердсан гэсэн мэдээлэл гарсан. Холбооны Мөрдөх Товчоог хакердсан тухай мэдээлэлд CNN энэ нь сүүлийн хэдэн сарын хугацаанд тус байгууллагад хийгдсэн ийм төрлийн хоёр дахь халдлага бөгөөд энэ удаад Үндэсний гэмт хэргийн мэдээллийн төв (NCIC)-ийг онилсон гэж тэмдэглэв..."
+  },
+  "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview": {
+    "title": "Линда Белчерийн дуу хоолойг гаргадаг Жон Робертс зүгээр л нэг ажлаа дуусгаж чадсандаа баяртай байна.",
+    "summary": "Та Жон Робертсыг \"Бобын Бургер\"-ийн Линда Белчерийн дуу хоолойгоор хамгийн сайн мэдэх байх. Энэ шоу дөнгөж 16 дахь улирлаа дуусгасан бөгөөд удахгүй удааширч байгаа шинж тэмдэг харагдахгүй байна. Энэ шоу нь инээд хөөр, өндөр чанартай үг тоглоом, үнэнийг хэлэхэд эрүүл саруул зугаа цэнгэлийн найдвартай эх сурвалж хэвээр байна. Инээдмийн кино бол зүгээр л..."
+  },
+  "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale": {
+    "title": "Amazon-ын анхны дижитал зурагны жааз Блэк Фрайдейн үеэр 50 хувь хүртэл хямдарч байна",
+    "summary": "Amazon компани анхны дижитал зурагны жаазныхаа талаар сарын өмнө л зарласан боловч Хар Баасан гарагийн худалдаанд аль хэдийнээ их хэмжээний хөнгөлөлттэй болж байна. Та одоогоор Alexa Photo Frame-ийг Amazon болон Best Buy-аас 114 доллараас (115 долларын хөнгөлөлттэй) худалдаж авах боломжтой бөгөөд энэ нь ... хэн бүхэнд зориулсан гайхалтай баярын бэлэг болно."
+  },
+  "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure": {
+    "title": "Антропик аюулгүй байдлыг нэн тэргүүнд тавих боломжтой юу?",
+    "summary": "Өнөөдөр би The Verge-ийн хиймэл оюун ухааны ахлах сурвалжлагч Хайден Филдтэй хиймэл оюун ухааныг бодит амьдрал дээр хэрхэн ашиглах тухай цувралын гурав дахь бөгөөд сүүлчийн ангийн хүрээнд Anthropic-ийн анхдагч олон нийтийн хувьцаа гаргалтын талаар ярилцаж байна. Клодын ард байгаа хиймэл оюун ухааны лаборатори өнгөрсөн пүрэв гарагт Nasdaq-д олон нийтэд нээлттэй болсон. Тоо баримтууд нь асар их боловч тийм ч чухал биш..."
+  },
+  "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale": {
+    "title": "Дуудлага хүлээн авахад зориулсан манай чихэвч одоог хүртэлх хамгийн хямд үнээрээ худалдаалагдаж байна.",
+    "summary": "Хэрэв та шинэ чихэвч хайж байгаа бол Soundcore Liberty 5 Pro чихэвч одоогоор Amazon, Best Buy, Walmart-д 129.99 доллараар хямдралтай худалдаалагдаж байна. Энэ бол Anker-ийн маш сайн утасгүй чихэвчний хамгийн хямд үнэ бөгөөд энэ нь ихэвчлэн 169.99 доллараар худалдаалагддаг бөгөөд дөрвөн өнгөөр (хар…"
+  },
+  "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai": {
+    "title": "Chess.com-ийн дараагийн алхам бол мажонгоос эхлээд судоку хүртэлх сонгодог тоглоомуудын шинэ төв юм.",
+    "summary": "Chess.com нь шатарнаас хамаагүй илүү том болох бэлтгэлтэй байна. Энэ оны эхээр мөрийтэй тоглоомгүй покерын сайт болох Гамбит-ыг нээсний дараа компани одоо дахин 10 тоглоом нэмж байна: нардан, шатар, го, хартс, мажонг, шоги, судоку, солитер, сянци, Скраббл-ын өөр хувилбар болох үг.…"
+  },
+  "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review": {
+    "title": "Xiaomi 18 Pro нь хоёр дэлгэц нь нэгээс илүү биш гэдгийг баталж байна",
+    "summary": "Xiaomi өнгөрсөн жилийн 17 Pro загвараараа тэргүүлэх утаснууддаа хоёр дахь дэлгэцийг нэвтрүүлсэн боловч тэдгээрийг Хятадаас гадуур гаргаагүй. Энэ нь шинэ 18 Pro болон Pro Max нь утасны ар талд байрлах дэлгэц одоо өмнөхөөсөө илүү хэрэгтэй эсэхийг мэдэх анхны боломж минь гэсэн үг юм […]"
+  },
+  "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer": {
+    "title": "Оны тоглоом эцэст нь ирлээ",
+    "summary": "Сайн уу, найзууд аа! Дэлхий дээрх хамгийн шилдэг, Verge-ийн хамгийн шилдэг зүйлсийн гарын авлага болох Installer No. 153-т тавтай морилно уу. (Хэрэв та энд шинээр ирсэн бол тавтай морилно уу, GTA-аас холдож энд ирсэнд баярлалаа, мөн та Installer-ийн эх хуудсаас бүх хуучин дугааруудыг уншиж болно.) Энэ долоо хоногт би..."
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5": {
+    "title": "Хоёр бүлэг математикчийн Клод математикийн бодлогыг батлахад тусалсан гэх мэдэгдлийг баталгаажууллаа - The Guardian",
+    "summary": "Хоёр бүлэг математикчийн Клод математикийн бодлогыг батлахад тусалсан гэх мэдэгдлийг баталгаажууллаа  The Guardian"
+  },
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVZLMmVVWDlKV1hlN1c4MGNyRU1lbS1zSm8zUUYxWVdHZnYzTDRRcjBHejIxdld5NnJyVHl0TlVKeDBRQTdsY2c1dU41ekpyX1V4c1dGMjZiVWtZWGU2elNxdU5Nb1J5N2dubk5ZSXVlQ2hyU3JiNGVrb1l1MDl3SDNiN3BPOXlWeEs2dk9SSFAwT1NheGl3MEphYS0wQ0FpZ3FZ?oc=5": {
+    "title": "Антропик математикч хиймэл оюун ухаан алдартай математикийн бодлогыг шийдвэрлэхэд тусалсан гэж хэлэв - USA Today",
+    "summary": "Антропик математикч хиймэл оюун ухаан алдартай математикийн бодлогыг шийдвэрлэхэд тусалсан гэж хэлэв  USA Today"
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ?oc=5": {
+    "title": "Антропик математикч Клодын тусламжтайгаар Риманны таамаглалыг баталсан гэж мэдэгдэв - The Independent",
+    "summary": "Антропик математикч Клод  -ын тусламжтайгаар Риманны таамаглалыг баталсан гэж мэдэгдэв The Independent"
+  },
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5": {
+    "title": "Anthropic-ийн инженер Claude Code-ийн талаарх анхааруулга нь технологийн ажиллагааны доголдлууд яагаад улам дордож болохыг тайлбарлаж байна - Yahoo Finance",
+    "summary": "Claude Code-ийн талаар Антропик инженерийн гаргасан анхааруулга нь технологийн ажиллагааны доголдлууд яагаад хамаагүй дордох боломжтойг тайлбарлаж байна  Yahoo Finance"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2MxQ3F4S2labHVnaVJQX3NSSzhRLUZ1dHVtX3Y1QjV4NHo4SHpjR0F0UnNCLWdNSTBvZktIVmFnYjlVSU1mS2J3OE1jU20wd21pNC0zT0ktUjIxS0tVOTF4V0xSNjAtNVBWdmVLYXZ1Rk1sUmVINDdXZmRQa3g1eWxLY3VmWFRrZmJqUVp0MkxqaEtjY0tYR2hsbndkTDA?oc=5": {
+    "title": "Клод хэрхэн Anthropic-ийн 2 их наяд долларын ботын хаан болсон тухай - The Times",
+    "summary": "Клод хэрхэн Anthropic-ийн 2 их наяд долларын ботын хаан болсон  The Times"
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY21SVjJ1dmp5ZUxsODBFOWVQNEMzTXY3bENXOWozNHlZRGJ4c1BpZXhkLU9vNDNZc3BkcmFFeXd3MnJodXBxbDd3WmJBdGZLeHkwcG9kbDVwRC1NaFZYNEV1cy1mRUsybVdDNDFPSnpjdmtXMklaSzV3bzZJd2hOaHdaZ21qeVh2VktYZ2c1UmFNTy16bGV6UW5iVHdOaUN0MzdxcFVIMFFjY1U?oc=5": {
+    "title": "Антропик: Клод-д донтсон ертөнцийн гайхалтай боломжийн үнэлгээ - Seeking Alpha",
+    "summary": "Антропик: Клод-д донтсон ертөнцийн гайхалтай бодит үнэлгээ  Seeking Alpha"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFYyRUlvbW1yTEZPeUgySEpXOVdSd3VVckpCWjA2SjAzVFFOVXJSNDZoNlpjbDllZ3RyVm1lMzlYOWhwUlZnWEZiTk83aUl5ZjJnX2dieklpa1Rici05bXh5b2tVRFhTMUt2Nnoxek52cTVaNm04VGtVMHFPUm91WkI2QXNaUmNTSHczZ21PZTg0UDJyLXJiTVgzdGxTT03SAaQBQVVfeXFMUENUOFpodzlGTmk1ZTF4RklCQXZVS2NaUU5wZnR0bktucVlVUXRxWVF3c3h2cDdhNUJjVnAzQTctakdFSU53Zk91RHVRNTdNS3FTOHZHM3NzWUNwMGthYTRnQmtqY0N4T1Y3VU9NLU1vNGJUaEliSnZBeXp0MV9ac1c3X1lmQUlIYlZDX0NNR3FLX2RoV1EtcGVuaWdJaEpSSkRHMG0?oc=5": {
+    "title": "Эрдэмтдийн хэлж буйгаар Клод нь Anthropic-ийн хөрөнгийн зах зээлд бүртгэгдсэнээс ердөө нэг өдрийн дараа математикийн хамгийн алдартай бодлогыг шийдсэн байна - Daily Mail",
+    "summary": "Эрдэмтэн хэлэхдээ, Клод нь Антропикийн түүхэн хөрөнгийн биржийн жагсаалтад орсноос ердөө нэг өдрийн дараа математикийн хамгийн алдартай бодлогыг шийдсэн гэжээ.  Daily Mail"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-22/mexican-cartel-boss-arrested-crowdstrike-eyes-zscaler-more": {
+    "title": "Мексикийн картелийн дарга баривчлагдлаа, CrowdStrike Zscaler-ийг сонирхож байна, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 5:40"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-22/mexican-cartel-boss-arrest-ai-fears-tank-stocks-more": {
+    "title": "Мексикийн картелийн дарга баривчлагдсан, хиймэл оюун ухаанаас болж хувьцааны үнэ унахаас айж байна, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 5:23"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/mexican-cartel-boss-arrest-us-stocks-tank-amid-ai-fears-more": {
+    "title": "Мексикийн картелийн дарга баривчлагдлаа, хиймэл оюун ухааны айдасны улмаас АНУ-ын хөрөнгийн үнэ унаж байна, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 5:27"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/ai-fears-tank-stocks-mexican-cartel-boss-arrested-more": {
+    "title": "Хиймэл оюун ухаан танкны хувьцаанаас айж байна, Мексикийн картелийн дарга баривчлагдлаа, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 6:04"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/us-stocks-tank-amid-ai-fears-mexican-cartel-boss-arrest-more": {
+    "title": "Хиймэл оюун ухааны айдас, Мексикийн картелийн даргыг баривчилсан зэрэг шалтгаанаар АНУ-ын хувьцаа унав",
+    "summary": "Эх сурвалж: Bloomberg, 5:12"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/ai-trade-rattles-wall-street-mexican-cartel-boss-arrest-more": {
+    "title": "Хиймэл оюун ухааны арилжаа Уолл Стритийг цочирдуулж, Мексикийн картелийн дарга баривчлагдаж, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/trump-threatens-tremendous-tax-on-data-centers-russia-attacks": {
+    "title": "Трамп өгөгдлийн төвүүдэд \"Асар их татвар\" ногсоно гэж сүрдүүлж, Орос улс довтолж байна",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-21/europe-s-wary-creditors-start-to-fret-about-modulaire": {
+    "title": "Европын болгоомжтой зээлдүүлэгчид Модулаирын талаар санаа зовж эхэллээ",
+    "summary": "4 тэрбум еврогийн өр нь Брукфилдийн дэмжлэгийг шалгана"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/ai-trade-rattles-wall-street-mexico-cartel-arrest-more": {
+    "title": "Хиймэл оюун ухааны арилжаа Уолл Стритийг цочирдуулж, Мексикийн картель баривчлагдаж, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-21/bloomberg-this-weekend-ai-s-big-week-podcast": {
+    "title": "Bloomberg This Weekend: Хиймэл оюун ухааны том долоо хоног (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 40:26"
+  },
+  "https://www.entrepreneur.com/business-news/this-is-the-reason-your-ai-tools-actually-remember-anything": {
+    "title": "Энэ бол таны хиймэл оюун ухааны хэрэгслүүд үнэндээ юу ч санадаггүй шалтгаан юм.",
+    "summary": "Эдгээр нь миний ажлыг жигд, үр дүнтэй, зөв мэдлэгийг хадгалахын тулд ашигласан хоёр хиймэл оюун ухааны хэрэгсэл юм."
   }
 }
