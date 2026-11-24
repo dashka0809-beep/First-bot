@@ -17130,5 +17130,329 @@
   "https://www.who.int/news/item/15-09-2020-who-s-three-messages-for-unga75": {
     "title": "НҮБ-ын Ерөнхий Ассамблейн 75 дугаар чуулганд зориулсан ДЭМБ-ын гурван мессеж",
     "summary": "Дэлхий нийт НҮБ-ын Ерөнхий Ассамблейн (НҮБЕА) 75 дугаар чуулганы урьд өмнө байгаагүй виртуал хуралдаанд нэгдэн оролцож байгаа энэ үед ДЭМБ-аас гурван мессежийг хүргэж байна."
+  },
+  "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html": {
+    "title": "Nvidia Жэнсен Хуангыг дахин Гүйцэтгэх захирлаар томиллоо",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://stalw.art/blog/microsoft-exchange-replacement/": {
+    "title": "Stalwart нь одоо Microsoft Exchange-ийн оронд ашиглагдах боллоо",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://ladybird.org/posts/alpha/": {
+    "title": "Ladybird одоо альфа хувилбарт байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://salvageyarddrone.wordpress.com/": {
+    "title": "Хог хаягдлын талбайн дроны зураг",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.daniel-baumann.ch/posts/20261122-1.html": {
+    "title": "Iperf/iperf3-ыг шинэчлэх ба fireperf-ийг нэвтрүүлэх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/": {
+    "title": "Ухаалаг бус телевизийг хангалттай ухаалаг болгох",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.bored.com/": {
+    "title": "Bored.com: Уйдсан үедээ үзэх хөгжилтэй, сонирхолтой, сайхан вэбсайтууд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/zed-industries/gpui": {
+    "title": "GPUI өөрийн репозиторитой болох гэж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/": {
+    "title": "Хамгийн шилдэг харанхуй материйн нэр дэвшигчийг хайх",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://twitter.com/ylecun/status/2124550037912920090": {
+    "title": "\"Дарио аюулыг хэтрүүлж дүрэмжүүлж байгаа тул OSS загварууд хууль бус болж, тэрээр хяналтаа хадгалж үлдэнэ\"",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/": {
+    "title": "Figma-гийн ажилтан тус компани түүнийг хүчирхийлэгчидтэй нүүр тулгарахыг албадав гэж мэдэгдэн, шүүхэд өгчээ",
+    "summary": "Figma болон түүний Гүйцэтгэх захирал нь бэлгийн хүчирхийлэл, гадуурхал гаргасан гэсэн үндэслэлээр одоогийн нэгэн ажилтнаас шүүхэд өгөгдсөн байна."
+  },
+  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/": {
+    "title": "Anthropic нь Claude Ship-ийг нэвтрүүлж, хиймэл оюун ухааны агентуудад кодын өөрчлөлтийг шалгах, засах, батлах боломжийг олгож байна",
+    "summary": "Хиймэл оюун ухаанаар үүсгэгдсэн код хуримтлагдах тусам Anthropic-ийн шинэ хөгжүүлэгчийн хэрэгслүүд нь агентуудад өдөр тутмын зөвшөөрлийг шийдвэрлэх боломжийг олгосноор өөр нэг саад бэрхшээлийг арилгахыг зорьж байна."
+  },
+  "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/": {
+    "title": "Супертейк нь хиймэл оюун ухааны агентуудад таны зах зээлийн урьдчилсан таамгийг хувьцааны багц болгох боломжийг олгохын тулд 20 сая доллар босгосон.",
+    "summary": "Та зах зээл хаашаа чиглэж байгааг мэдэж байна гэж бодож байна уу? Супертейк гэдэг стартап нь танд өөрөө хувьцаа сонгох шаардлагагүйгээр өөрийн санаагаа мөнгөөр дэмжих боломжийг олгодог."
+  },
+  "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/": {
+    "title": "Женсен Хуан скандалын дунд Nvidia-д эргэн томилогдсонд Илон Маск болон бусад хүмүүс баярлаж байна",
+    "summary": "\"Алдааг зассан\" гэж Илон Маск нэмж хэлэв."
+  },
+  "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/": {
+    "title": "Женсен Хуангийн дуулианы төвд байгаа Мегаспид компани АНУ-ын хар жагсаалтад орох бололтой.",
+    "summary": "Өмнө нь Элис Хуангийн удирдлага дор байсан Мегаспийд компани нь АНУ-ын компаниуд холбооны засгийн газраас тусгай зөвшөөрөл аваагүй тохиолдолд тэдэнтэй бизнес хийх эрхгүй болно."
+  },
+  "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/": {
+    "title": "Nvidia-гийн ажилчид Женсен Хуангыг компанийн төв байранд ирэхэд нь баатар мэт угтан авлаа",
+    "summary": "\"Би хоёр дахь удаагаа илүү сайн Гүйцэтгэх захирал болох гэж байна\" гэж Хуан ажилтнууддаа хэлжээ."
+  },
+  "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/": {
+    "title": "\"Гайхалтай,\" \"Хариуцлагагүй,\" \"Өө\": Женсен Хуангийн Nvidia-д эргэн ирснийг улс төрчид ийнхүү дүгнэж байна",
+    "summary": "Женсен Хуан ажлаас нь халсан хоёр долоо хоногийн дараа Nvidia-гийн удирдлагад эргэн ирсэнд улс төрийн хүрээний хоёр талынхан уурлаж, сэтгэл түгшиж, гайхаж байгаа бололтой."
+  },
+  "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/": {
+    "title": "Google Search-ийн хиймэл оюун ухааны горим нь одоо илүү хувийн болгосон хариултуудыг авахын тулд Drive болон Wallet-ыг ашиглах боломжтой боллоо",
+    "summary": "Google нь Drive, Wallet, Gemini аппликейшн дээр AI горимд Хувийн оюун ухааныг нэвтрүүлснээр өөрийн экосистемд аль хэдийн байгаа хэрэглэгчийн өгөгдлийн баялагийг ашиглаж байна."
+  },
+  "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/": {
+    "title": "Женсен Хуан Nvidia-гийн Гүйцэтгэх захирлаар дахин томилогдсоны дараа ирэх долоо хоногт Сенатэд мэдүүлэг өгөхөөр төлөвлөж байна",
+    "summary": "Хятадын тагнуулын сэжигтэн эмэгтэйтэй холбоотой хэргийн талаар Хуан-ыг мэдүүлэг өгөхөөр дуудахыг хоёр намын гишүүд шаардсаны дараа энэхүү нээлттэй сонсгол болж байна."
+  },
+  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/": {
+    "title": "Amazon компани Trainium чипээ худалдахад бэлтгэж байхдаа Decart-ын хиймэл оюун ухааны оновчлолын технологийг 7.5 тэрбум доллараар худалдаж авлаа.",
+    "summary": "Amazon компани Decart-ын хиймэл оюун ухааны оновчлолын технологийг болон судалгааны багийг 7.5 тэрбум ам.долларын гэрээгээр худалдаж авч байна."
+  },
+  "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative": {
+    "title": "Google-ийн өөр хувилбар болох Kagi нь имэйл үйлчилгээг нэвтрүүлж байна",
+    "summary": "Google Search-ийн төлбөртэй хувилбар болон Chrome-ийн өрсөлдөгч өөрийн Orion хөтчийг аль хэдийн санал болгож буй Kagi нь Google-ийн өөр нэг үйлчилгээ болох Gmail-ийг өрсөлдөгчөөр сонгож байна. Өнөөдөр Kagi нь \"тандалтгүй, зар сурталчилгаагүй, нээлттэй стандарттай, мөн..."
+  },
+  "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released": {
+    "title": "GTA VI-ийн эхний мэдээллийг алдагдуулсан хакер шийтгүүлж, суллагдлаа",
+    "summary": "Өнгөрсөн долоо хоногт Grand Theft Auto VI-ийн хөгжүүлэгч Rockstar Games болон Uber, Revolut зэрэг бусад компаниудыг хакердсандаа буруугаа хүлээн зөвшөөрсөн Арион Куртажийг долоон жилийн хорих ялаар шийтгэсэн ч түүнийг хяналтын дор сулласан тухай BBC мэдээлж байна. Рокстарт хакердсаны дараа Куртаж ...-ийн 90 видеог алдагдуулсан."
+  },
+  "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026": {
+    "title": "The Verge-ийн 2026 оны баярын бэлгийн гарын авлага",
+    "summary": "Бэлэг өгөх гэдэг нь зөвхөн тодорхой зардлын хязгаарт багтаан ямар нэгэн зүйл худалдаж авах тухай биш юм. Энэ бол хайрын илэрхийлэл, хэн нэгнийг та үнэхээр сайн мэддэгээ харуулах арга юм. Гэхдээ энэ нь та бүхнийг өөрөө хийх ёстой гэсэн үг биш юм. Заримдаа танд зөв чиглэлд түлхэлт хэрэгтэй байдаг..."
+  },
+  "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing": {
+    "title": "Олон жилийн дараах анхны шинэ хөтөч хөдөлгүүр болох Ladybird одоо туршиж үзэх боломжтой боллоо",
+    "summary": "Эхнээс нь бүтээсэн хөдөлгүүртэй бие даасан вэб хөтөч Ladybird эцэст нь туршилтад бэлэн боллоо. Даваа гарагт Ladybird хөтөчийн хөгжүүлэгч Андреас Клинг дөрвөн гаруй жилийн хөгжүүлэлтийн дараа уг хөтчийг macOS болон Linux дээр альфа хувилбараар гаргаж байгаагаа зарлав. Энэхүү хувилбар нь..."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated": {
+    "title": "Трамп Жэнсэн Хуангийн эрсдэлтэй эргэн ирэлтийг зохион байгуулсан",
+    "summary": "Нвидиагийн удирдах зөвлөл Жэнсэн Хуангийн Хятадын тагнуулч эмэгтэйтэй хайр сэтгэлийн холбоотой байсан гэх мэдээллийн дараа түүнийг Гүйцэтгэх захирлын албан тушаалаас нь огцруулах шийдвэрийг хүлээн зөвшөөрсний дараа АНУ-ын Ерөнхийлөгч Дональд Трамп ч гэсэн шинэ нөхцөл байдалд дасан зохицож байгаа бололтой. Мэдээ гарсанаас удалгүй Стивен А. Смитийн радио нэвтрүүлэгт оролцож,…"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang": {
+    "title": "Элит шийтгэлгүй байдалд тавтай морилно уу, Женсен Хуан",
+    "summary": "Би Женсен Хуан-д чин сэтгэлээсээ баяр хүргэх ёстой байх. Хуан дахин Nvidia-гийн Гүйцэтгэх захирал болсон нь Ерөнхийлөгч Дональд Трамп, Дэд Ерөнхийлөгч Ж.Д. Ванс хоёроос бусад бүх хүнийг гайхшруулсан бөгөөд тэд үүнийг биелүүлэхэд анхаарсан юм. Одоо, юуны талаар ямар нэгэн үндсэн боловсролтой байсан бидний хувьд..."
+  },
+  "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit": {
+    "title": "Хиймэл оюун ухааны өгөгдлийн төвүүд НҮБ-ын уур амьсгалын эмх замбараагүй хэлэлцээнд дахин саад учруулж байна",
+    "summary": "Цэвэр эрчим хүчний хувьсгал нь эрчим хүчний их хэмжээний хэрэгцээтэй өгөгдлийн төвүүдийн тоо нэмэгдэж буйтай зэрэгцэн дэлхийн эдийн засгийн бүх салбарыг цахилгаанжуулахаас шалтгаална. Энэ бол дэлхийн өнцөг булан бүрээс ирсэн төлөөлөгчид НҮБ-ын уур амьсгалын COP31 гэгддэг бага хурлын үеэр тулгарсан сорилт бөгөөд энэ нь эмх замбараагүй байдалд орсон..."
+  },
+  "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv": {
+    "title": "Apple компани \"Тед Лассо\"-г 5-р улиралд нь шинэчилж байна",
+    "summary": "Apple-ийн хамгийн том шоунуудын нэг нь дор хаяж дахиад нэг улирал үргэлжлэх боллоо. Стриминг үйлчилгээ үзүүлэгч компани өнөөдөр \"Тед Лассо\" цувралыг Apple TV-ээр тавдугаар улиралд нь сунгасан тухайгаа зарлалаа. Үүнийг тус компани \"дөрөвдүгээр улирлын нээлт нь дээд амжилт тогтоосон\" гэж нэрлэж байна. Одоогоор ...-ийн талаар ямар ч дэлгэрэнгүй мэдээлэл байхгүй байна."
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5": {
+    "title": "Anthropic компани Claude Ship-ийг нэвтрүүлж, хиймэл оюун ухааны агентуудад кодын өөрчлөлтийг шалгах, засах, батлах боломжийг олгож байна - TechCrunch",
+    "summary": "Anthropic нь Claude Ship-ийг нэвтрүүлж, хиймэл оюун ухааны агентуудад кодын өөрчлөлтийг шалгах, засах, батлах боломжийг олгож байна  TechCrunch"
+  },
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVG1KWnZ3U0RzWUpsWUplSWlGLXBqaDNmOURyZjE0NW1qblJCa2cwSDh3cDNnY1hGZ3MxNGVreFVCWjlsTldla2NFdmhzczU0bzJHdndGUXVwV3VSTzNyVFVzbk9XQWljdzhWMkZZQmpTQzc1eFphb0xOcHpvQXZzbzFPWE9kQ1otOHfSAYoBQVVfeXFMTVRtSlp2d1NEc1lKbFlKZUlpRi1wamgzZjlEcmYxNDVtam5SQmtnMEg4d3AzZ2NYRmdzMTRla3hVQlo5bE5XZWtjRXZoc3M1NG8yR3Z3RlF1cFd1Uk8zclRVc25PV0FpY3c4VjJGWUJqU0M3NXhaYW9MTnB6b0F2c28xT1hPZENaLTh3?oc=5": {
+    "title": "Anthropic нь GitHub Pull Request Review болон засваруудын хувьд Claude Ship-ийг нэвтрүүллээ - MarkTechPost",
+    "summary": "Anthropic компани GitHub Pull Request Review болон засваруудыг хийх зориулалттай Claude Ship-ийг нэвтрүүллээ  MarkTechPost"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUW42Q3gySjYzdURoTHRGX0FaQ28yT1NUa0lETl9yVnNfT3h5OTdSOGpabm1wZVFaT1FJdUtKS1B4N1c4UFNzUXNlZHJGeU9oZmZBU2k0R2tScGhFNkNiTW82T0lhTnRRX3dwb0stQnZzaGNyeC1Mb012WlhZdWtwaEJIdTFDUUtUMC04eldWaDVJM1Z0MlFWeE9EaTZ2UTA?oc=5": {
+    "title": "Claude AI одоо өөрөө татах хүсэлтийг шалгаж, засварыг хүргэх боломжтой боллоо - The Verge",
+    "summary": "Claude AI одоо өөрөө татах хүсэлтийг шалгаж, засварыг хүргэх боломжтой боллоо  The Verge"
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5": {
+    "title": "Антропик математикч математикийн хамгийн алдартай бодлогыг шийдсэн гэж мэдэгдэв - Нью-Йорк Таймс",
+    "summary": "Антропикийн математикч математикийн хамгийн алдартай бодлогыг шийдсэн гэж мэдэгджээ  The New York TimesХоёр бүлэг математикчийн Клод математикийн бодлогыг шийдэхэд тусалсан гэх мэдэгдлийг баталгаажуулжээ  The GuardianАнтропикийн ажилтан хиймэл оюун ухааны тусламжтайгаар математикийн бодлогуудын Ариун Граалийг шийдсэн гэж мэдэгджээ…"
+  },
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbl9IUERYVW10YjMtX3JFc2tIc0s4amRhNWdsaWZWaTZOeTloN3dIdFM0YTg5b2pJNWVfdXR0Q1djeG5CMl9RRTVDMXM0TW4wOTZLckpYTGh1UGlTOTd3QlFlcUd6NE1IcmxQclBkUFF3emRSOXhoTUNvMDBSYVdYTmt5NDNRTDNnWnhXbjVpZ3Yxc2haY3JqWEVScHFFcjVzUFFiMURVd21zY19aS25BbU16TnVhRHZxN0gwUDB0WUZ2RFpZQXZsdmFGOA?oc=5": {
+    "title": "Япон компаниудын Anthropic Claude-ийн хэрэглээ 1 жилийн хугацаанд 10 дахин нэмэгдсэн - Nikkei Asia",
+    "summary": "Япон компаниудын Anthropic Claude-ийн хэрэглээ 1 жилийн дотор 10 дахин нэмэгдсэн  Nikkei Asia"
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE81UkNkV1FqUGFLWWU4NEp1R000MjhvVkppcTQ3UXRKMFh3d2hXbmpaUVoyT2t4SkFqNEMyNFRBcXRhLVYyX0o5eHRFQ180NUFrWnZkRzJKckVCRVFyYzA1MTFjX2RxdDNnY3VJQ3Rwdmp0VW5QVnRxVWNacHVMdw?oc=5": {
+    "title": "Антропик компани хиймэл оюун ухаан өвчнийг ялан дийлж, үүний зэрэгцээ их хэмжээний орлого олоход тусална гэж бодож байна - CBS News",
+    "summary": "Антропик компани хиймэл оюун ухаан өвчнийг ялах, үүний зэрэгцээ их хэмжээний мөнгө олоход тусална гэж бодож байна  CBS News"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-24/trump-push-brings-huang-back-nvidia-fuels-equity-surge-more": {
+    "title": "Трампын шахалт Хуангийг буцааж авчирч, Nvidia-гийн хувьцаа өсөлт авч, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-24/huang-back-after-trump-push-nvidia-sparks-tech-rally-more": {
+    "title": "Трампын шахалттай холбоотой Хуангийн эргэн ирэлт, Nvidia-гийн технологийн өсөлт, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-24/huang-returns-after-trump-push-nvidia-fuels-stock-rally-more": {
+    "title": "Трампын шахалттай холбоотойгоор Хуан буцаж ирэв, Nvidia-гийн хувьцааны өсөлт эрчимжив, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-24/bloomberg-daybreak-asia-nvidia-rehires-huang-podcast": {
+    "title": "Bloomberg Daybreak Asia: Nvidia Хуан-ыг дахин ажилд авлаа (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-24/nvidia-brings-huang-back-tech-shares-rally-on-return-more": {
+    "title": "Nvidia Хуангийг буцааж авчирлаа, Технологийн хувьцаанууд эргэн ирэлтээр өсөлттэй байна, Бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-24/nvidia-reinstates-huang-tech-rebounds-on-ceo-return-more": {
+    "title": "Nvidia компани Хуан-ыг эргүүлэн томилж, Гүйцэтгэх захирлын эргэн ирэлтээр технологийн салбар сэргэж байна. Бусад мэдээ.",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-23/huang-back-as-nvidia-ceo-equities-roar-back-on-return-more": {
+    "title": "Хуан Nvidia-гийн Гүйцэтгэх захирлаар эргэн ирлээ, Хувьцаа эргэн ирэхэд өсөлттэй байна, Бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-23/stock-movers-nvda-hpe-zm-podcast": {
+    "title": "Хувьцааны хөдөлгөөн: NVDA, HPE, ZM (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 4:18"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-23/trump-gets-jensen-huang-his-job-back-evening-briefing-americas": {
+    "title": "Трамп Женсен Хуангийн ажлыг нь буцааж өгч байна: Америкийн оройн мэдээ",
+    "summary": "Хоцрогдсон зүйлээ гүйцээрэй."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-23/bloomberg-businessweek-daily-huang-s-nvidia-return-podcast": {
+    "title": "Bloomberg Businessweek Daily: Хуангийн Nvidia-д эргэн ирэлт (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi": {
+    "title": "Amazon компани Израилийн хиймэл оюун ухааны стартап Decart компанитай 7.5 тэрбум долларын гэрээ байгууллаа",
+    "summary": "Нийтлэлийн URL: https://www.calcalistech.com/ctechnews/article/g0mtcg4mi Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50613229 Оноо: 8 # Сэтгэгдэл: 1"
+  },
+  "https://tusharsrivastava.github.io/infiverse/": {
+    "title": "HN-ийг харуулах: Сард нэг их наяд долларын эхний стартап энд байна (пароди)",
+    "summary": "Нийтлэлийн URL: https://tusharsrivastava.github.io/infiverse/ Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50610486 Оноо: 4 # Сэтгэгдэл: 3"
+  },
+  "https://www.entrepreneur.com/business-news/the-10-best-gifts-for-entrepreneurs-to-buy-during-black-friday-week": {
+    "title": "Хар Баасан гарагийн долоо хоногт бизнес эрхлэгчдийн худалдаж авах хамгийн сайн 10 бэлэг",
+    "summary": "Таны амьдралд байгаа бизнес эрхлэгчид болон жижиг бизнесийн эзэддээ юу бэлэглэхээ мэдэхгүй зовж байна уу? Энд хариулт байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/an-seo-experts-3-tactics-for-getting-your-business-found-beyond-google": {
+    "title": "Таны бизнесийг Google-ээс гадна олж авах SEO мэргэжилтний 3 арга тактик",
+    "summary": "Таны бизнесийг хиймэл оюун ухааны хайлт, LinkedIn болон брэндийн дурдалтаар Google-ээс гадна олж авахад туслах гурван практик стратегийг олж мэдээрэй."
+  },
+  "https://www.entrepreneur.com/leadership/as-ai-takes-on-more-work-a-leaders-responsibility-only-grows-heres-why": {
+    "title": "Хиймэл оюун ухаан илүү их ажил хийх тусам удирдагчийн хариуцлага улам нэмэгдэнэ. Яагаад гэвэл.",
+    "summary": "Өөрчлөлтийн хурд улам хурдацтай болж, хиймэл оюун ухаан нь бизнесийн үйл ажиллагааг өөрчилж байна. Гэхдээ зарим зүйлийг машинд даалгаж болохгүй."
+  },
+  "https://www.entrepreneur.com/leadership/5-powerful-lessons-leaders-can-learn-from-people-who-pay-it-forward": {
+    "title": "Бусдад тусалдаг хүмүүсээс удирдагчид суралцаж болох 5 хүчирхэг хичээл",
+    "summary": "Хүмүүст хөрөнгө оруулалт хийх урт хугацааны үнэ цэнийг тооцоолох таван удирдагчийн хичээл."
+  },
+  "https://www.entrepreneur.com/business-news/tech/ai-is-accelerating-software-development-but-businesses-need-a-better-way-to-measure-the-quality-of-what-they-ship": {
+    "title": "Хиймэл оюун ухаан нь програм хангамжийн хөгжлийг хурдасгаж байна — Гэхдээ бизнес эрхлэгчид өөрсдийн нийлүүлж буй зүйлийн чанарыг хэмжих илүү сайн арга зам хэрэгтэй байна",
+    "summary": "Хиймэл оюун ухааны тусламжтай хөгжүүлэлт нь хэмжүүрийн самбаруудыг найдвартай бус болгосон."
+  },
+  "https://www.entrepreneur.com/building-a-business/i-stayed-on-a-private-island-in-fiji-it-pulls-off-a-top-travel-trend-with-a-luxury-twist-kokomo": {
+    "title": "Би Фижи дэх хувийн арал дээр байрлав. Энэ нь тансаг зэрэглэлийн өнгө аястай аяллын шилдэг чиг хандлагыг бий болгож байна—Эндээс ямар ч зочлох үйлчилгээний бизнес суралцах зүйл байна.",
+    "summary": "Кокомо Хувийн Арал нь зочдод гэртээ харьсан хойноо ч удаан хугацаанд мөрөөдөхүйц тусгайлан зохион бүтээсэн туршлагыг санал болгодог."
+  },
+  "https://www.entrepreneur.com/business-news/he-retired-at-50-at-70-hes-working-7-days-a-week-on-his-biggest-idea-yet": {
+    "title": "Тэр 50 насандаа тэтгэвэрт гарсан. 70 настайдаа тэрээр одоог хүртэлх хамгийн том санаагаа боловсруулахын тулд долоо хоногийн 7 өдөр ажиллаж байна.",
+    "summary": "Питер Кастлман тэтгэвэртээ гольф тоглож өнгөрөөж болох байсан ч үүний оронд тэрээр хиймэл оюун ухаанаар ажилладаг хүнсний ил тод байдлын платформ болох WISEcode-ийг бүтээсэн."
+  },
+  "https://www.entrepreneur.com/business-news/the-best-publicity-isnt-a-headline-heres-what-built-my-business-instead": {
+    "title": "Хамгийн сайн сурталчилгаа бол гарчиг биш. Харин миний бизнесийг бүтээсэн зүйл бол энэ юм.",
+    "summary": "Би LinkedIn-ээр олон хүсэлт авдаг ч зүгээр л холбогдохын тулд холбогддоггүй. Анхааралтай бичсэн захидал болон 15 минутын яриа миний бизнест хэвлэл мэдээллийн хэрэгслээр гарсан ямар ч мэдээллээс илүү их нөлөө үзүүлсэн."
+  },
+  "https://www.entrepreneur.com/business-news/he-used-to-sell-cat-prints-on-etsy-now-his-dungeon-crawler-carl-book-series-has-sold-20-million-copies-its-insane": {
+    "title": "Тэрээр өмнө нь Etsy дээр муурны зураг худалдаалдаг байсан. Одоо түүний \"Dungeon Crawler Carl\" номын цуврал 20 сая хувь борлогдсон байна: \"Энэ бол галзуу юм\"",
+    "summary": "Энэхүү 52 настай аавын бүтээл хэрхэн үнэгүй онлайн цувралаас хэвлэлийн аварга болсон тухай."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates": {
+    "title": "Сингапур, Хятад улсууд аж ахуйн нэгжүүдэд анхаарлаа хандуулж юанийн харилцаагаа бэхжүүлж байна",
+    "summary": "Сингапур, Хятадын төв банкууд тус хот-улсад санхүүгийн байгууллагууд юанийн санхүүжилтэд нэвтрэх боломжийг өргөжүүлж, компанийн үйл ажиллагааны илүү өргөн хүрээг санхүүжүүлэхэд туслах бөгөөд энэ нь тус валютыг олон улсад ашиглахыг дэмжих өөр нэг алхам болно."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/india-s-banking-cash-turns-to-deficit-for-first-time-since-june": {
+    "title": "Энэтхэгийн банкны бэлэн мөнгө зургадугаар сараас хойш анх удаа алдагдалтай боллоо",
+    "summary": "Энэтхэгийн банкны системийн эргэлтийн хөрөнгө ойролцоогоор таван сарын хугацаанд анх удаа алдагдалд орсон нь сүүлийн үеийн татварын урсгал нь зээлдүүлэгчдээс бэлэн мөнгө татсантай холбоотой юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates": {
+    "title": "Хуангийн эргэн ирэлт хиймэл оюун ухааны худалдааг өсгөснөөр Азийн хувьцаанууд өсөв: Зах зээлийн тойм",
+    "summary": "Женсен Хуан Nvidia Corp.-ийг дахин удирдахаар ирснээр хиймэл оюун ухааны салбарын хувьцаанууд өсөлттэй болж, өнгөрсөн долоо хоногийн уналтаас хойш бүс нутгийн томоохон чип үйлдвэрлэгчдийн хувьцаанууд өсөлттэй болсноор Азийн хувьцаанууд долоодугаар сараас хойш хамгийн их өсөлттэй боллоо."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally": {
+    "title": "Nvidia компани Хуан-ыг дахин ажилд авсны дараа алтны үнэ өсөлтөө хадгалж байна",
+    "summary": "Женсен Хуан Nvidia Corp.-ийн удирдлагад гэнэтийн эргэн ирснээр даваа гарагт өсөлттэй байсан алтны үнэ өсөлтөө хадгалж, хиймэл оюун ухааны салбарт хийгдэх хөрөнгө оруулалтын хүлээлтийг сэргээж, зах зээлүүдийн өсөлтийг өдөөв."
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video": {
+    "title": "Хуангийн эргэн ирэлт хиймэл оюун ухааны худалдааг өсгөснөөр Азийн хувьцаанууд өсөлттэй байна",
+    "summary": "\"Bloomberg: Азийн худалдаа\" нь Азид арилжааны өдөр эхлэх үед урагшлахын тулд танд мэдэх шаардлагатай бүх зүйлийг хүргэж байна. Блумберг телевиз Сидней, Сингапураас Хайди Страуд-Ваттс, Аврил Хон нарын хамт шууд дамжуулж, мэдээллийн эх сурвалжууд болон салбарын тэргүүлэгчдээс томоохон... талаар ойлголт, дүн шинжилгээ авч байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/ev-surge-helps-europe-auto-sales-gains-to-nine-month-run": {
+    "title": "Цахилгаан тээврийн хэрэгслийн өсөлт нь Европын автомашины борлуулалтын өсөлтийг есөн сарын хугацаанд дэмжлээ",
+    "summary": "Европын автомашины борлуулалт 10-р сард дараалан ес дэх сардаа өссөн бөгөөд цахилгаан тээврийн хэрэгслийн эрэлт нэмэгдсэн нь шатахууны үнэ дээд хэмжээнд хүрсэн, өрхийн төсөвт дарамт учруулж буй зах зээлийг тогтвортой байлгахад тусалсан байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal": {
+    "title": "Темасек-ийн дэмжлэгтэй M1, Стархаб Сингапурын харилцаа холбооны салбарт нэгдэв",
+    "summary": "Хөрөнгийн менежер Keppel Ltd. нь M1 Ltd.-ийг Starhub Ltd.-тэй бүх хувьцааны гэрээгээр нэгтгэхээр тохиролцсон нь улсын хөрөнгө оруулагч Temasek Holdings Pte.-ийн дэмжлэгтэй Сингапурын хоёр томоохон харилцаа холбооны операторыг нэгтгэж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns": {
+    "title": "Газрын тосны үнэ буурч инфляцийн асуудал багассан тул Засгийн газрын үнэт цаасны үнэ өслөө",
+    "summary": "Газрын тосны үнэ буурч инфляцийн талаарх санаа зовнил багассан тул АНУ-ын Засгийн газрын үнэт цаасны үнэ өсч, Женсен Хуан Nvidia Corp.-д эргэн ирсэн өдөр хөрөнгө оруулагчдын эрсдэлтэй хөрөнгийн сонирхол сэргэсэн нь анхаарал татсан үйл явдал боллоо."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade": {
+    "title": "Хуангийн эргэн ирэлт нь Азийн хиймэл оюун ухааны худалдааны хязгаарлалтын галзууралтыг өдөөж байна",
+    "summary": "М.﻿А.﻿И-ийн Азийн худалдаа мягмар гарагт эргэн ирсэн бөгөөд Тайвань﻿аас Куала Лумпур хүртэлх чип үйлдвэрлэгчид болон өгөгдлийн төвүүдийн үнэ өсч, Жэнсэн Хуангийн Nvidia компанид эргэн ирснээр М.﻿А.﻿И-ийн өсөлтийн тогтвортой байдлын талаарх хэдэн долоо хоногийн эргэлзээнд автсан салбарт худалдан авалтын урам зориг төрүүлсэн юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013": {
+    "title": "Токиогийн төвийн хэсгийн хуучин орон сууцны үнэ 2013 оноос хойш анх удаа буурлаа",
+    "summary": "Токиогийн төвийн хэсгийн ашигласан орон сууцны үнэ 13 гаруй жилийн дараа анх удаа өмнөх жилээс буурч, хүүний ханш өндөр, нөөц хэт их байгаатай холбоотойгоор зах зээл хөргөх шинж тэмдэг илэрч байна."
+  },
+  "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1": {
+    "title": "Албан тушаалаас нь огцруулсан технологийн компанийн захирлыг буцааж авахыг Трампаас шаардсан \"дайны өрөө\"-ний дотор",
+    "summary": "Силикон хөндийн аварга компаниуд АНУ-ын ерөнхийлөгч болон Ж.Д.Вэнсийг хиймэл оюун ухааны салбарт чухал гэж үзсэн тэрбумтан технологийн удирдагчийг аврахад оролцуулсан байна."
+  },
+  "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1": {
+    "title": "Хуан буцаж ирсний дараа Трамп Nvidia-ийн хувьцаанаас 15 сая доллар хүртэл олсон байна.",
+    "summary": "АНУ-ын ерөнхийлөгчийн хамгийн сүүлийн үеийн мэдээллээр эзэмшиж болох хамгийн их хэмжээний чип үйлдвэрлэгч компанийн хувьцааны үнэ 30%-иар өссөнөөс олсон ашиг"
+  },
+  "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1": {
+    "title": "Хуан Nvidia компанидаа эргэн ирэхэд АНУ-ын хууль тогтоогчид түүнийг илүү нягт шалгахаа амлаж байна",
+    "summary": "Ардчилсан намын болон Бүгд найрамдах намын гишүүд технологийн компанийн гүйцэтгэх захирал олон нийтийн өмнө мэдүүлэг өгөх ёстой гэж шаардаж байна"
+  },
+  "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1": {
+    "title": "Тагнуулчид Томоохон Технологийн компаниудыг онилж байна",
+    "summary": "Хиймэл оюун ухааны бүлгүүд одоо геополитикийн төвд байна. Зарим нь бэлэн биш байна"
+  },
+  "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1": {
+    "title": "Их Британи Украйны төлөө хуурамч C4 тэсрэх бодис худалдаж авсан",
+    "summary": "Их Британийн тэргүүлэх худалдан авалтын нэгж нь цэргийн C4-ийн үндсэн орц болох RDX-ийг илрүүлэх боломжгүй хэдэн тонн хуванцар тэсрэх бодисыг АНУ-ын цагдаагийн алба хаагчид цагийн ажилд авсан."
+  },
+  "https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057?syn-25a6b1a6=1": {
+    "title": "Та юу бодож байна вэ? Хэн асууж байгаагаас шалтгаална",
+    "summary": "Хэрэв ярилцлагыг хиймэл оюун ухаан явуулж байгаа бол бид асуултуудад өөрөөр хариулж магатай."
+  },
+  "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33?syn-25a6b1a6=1": {
+    "title": "Пентагон Украин руу \"Патриот\" пуужингийн хүргэлтийг хойшлууллаа",
+    "summary": "АНУ-ын Батлан хамгаалахын сайд Пит Хегсет Киевт зориулсан 60 Patriot тасагч пуужинг, түүний дотор Европын зэвсэгийн нөөцөөс гаргах зөвшөөрөлдөө одоо болтол гарын үсэг зурсангүй."
+  },
+  "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1": {
+    "title": "Сингапур бол АНУ-ын чипний нууц гарц биш гэж Ерөнхий сайд хэлэв",
+    "summary": "Лоренс Вонг хот-улс нь компаниудад экспортын хяналтыг тойрч гарах замаар хууль зөрчихөд нь зөвшөөрөхгүй гэдгээ амлаж байна"
+  },
+  "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1": {
+    "title": "Женсен Хуангийн эргэн ирсний дараа Азийн технологийн хувьцаанууд өсөлттэй байна",
+    "summary": "Nvidia-гийн захирлыг дахин томилсноор бүс нутгийн зах зээлүүд Уолл Стритийг дагаж өсч байна"
+  },
+  "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1": {
+    "title": "OpenAI-ийн инженер хэдэн арван уулзалтын бичлэгтэй байсан гэж АНУ-ын прокурорууд мэдэгджээ",
+    "summary": "Саудын иргэн нь мөн нууц баримт бичгүүдийг зураг авсан гэж мэдээлсэн байна."
+  },
+  "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories": {
+    "title": "Би 58 жил гэрлэсэн. Энэ бол \"түүний\" ба \"түүний\" мөнгө биш, \"манай\" мөнгө. Яагаад ийм олон хосууд санхүүгээ тусдаа байлгадаг юм бол?",
+    "summary": "“Миний эхнэр 1970 онд гэрийн гадна ажиллахаа больсон.”"
+  },
+  "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories": {
+    "title": "HPE саяхан өөрийн бүх цаг үеийн хамгийн хүчтэй өсөлтөө зарласан ч түүний хувьцаа унаж байна",
+    "summary": "HPE компани хиймэл оюун ухааны эрэлт их байгаатай холбогдуулан даваа гарагт санхүүгийн урьдчилсан төлөвөө сайжруулсан."
+  },
+  "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories": {
+    "title": "S&P 500-д нэмэгдсэн хамгийн сүүлийн компани бол вирус шиг тарж буй зайрмагны машины үйлдвэрлэгч юм.",
+    "summary": "SharkNinja нь AES-ийн оронд S&P 500-д элсэх болно."
+  },
+  "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories": {
+    "title": "Nvidia-гийн хувьцаа дахин өсч байна. Хиймэл оюун ухааны өсөлтийг дагахаас өмнө юу мэдэх хэрэгтэй вэ.",
+    "summary": "Женсен Хуангийн Nvidia-д эргэн ирсэн нь хиймэл оюун ухааны салбарт хэрэгтэй байсан сайн мэдээ байсан ч хөрөнгө оруулагчид илүү их хэлбэлзэлд бэлтгэх хэрэгтэй."
+  },
+  "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories": {
+    "title": "Женсен Хуангийн эргэн ирэлт хиймэл оюун ухааны урам зоригийг сэргээж, АНУ-ын хөрөнгийн зах зээл нэг жил гаруйн хугацаанд хамгийн сайн өдрөө өнгөрүүллээ.",
+    "summary": "Женсен Хуан Nvidia-гийн Гүйцэтгэх захирлаар эргэн ирснээр хиймэл оюун ухааны салбарт итгэх итгэлийг сэргээхэд тусалж, даваа гарагт АНУ-ын хөрөнгийн зах зээлд асар их өсөлт авчирлаа."
+  },
+  "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories": {
+    "title": "Хиймэл оюун ухааны худалдааны хагарал дунд аюулгүй бооцоо гэж үзэгддэг хэрэглээний хувьцаанууд даваа гарагт S&P 500-ын хамгийн их алдагдалтай хувьцаануудын нэг байв.",
+    "summary": "Nvidia-гийн хувьцааны үнэ өсөж байгаатай зэрэгцэн Kroger болон Tyson Foods-ийн хувьцааны үнэ унаж байна."
   }
 }
