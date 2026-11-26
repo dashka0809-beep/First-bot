@@ -17762,5 +17762,309 @@
   "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1": {
     "title": "Хиймэл оюун ухааны айдас эргэн ирснээр Азийн зах зээл уналтад орлоо",
     "summary": "Уолл Стрийтийн Женсен Хуангийн өсөлт намжсаны дараа Токио, Сөүлийн технологийн хувьцаанууд унав"
+  },
+  "https://1password.com/blog/update-on-nov-2026-security-incident": {
+    "title": "1Password-ийн аюулгүй байдлын үйл явдал",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://scottaaronson.blog/?p=10379": {
+    "title": "Бурхан минь, Бурхан минь, Бурхан минь, Бурхан минь: Одоо болж буй зүйлийн цар хүрээ",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://github.com/lsernau/grh-lean": {
+    "title": "Anthropic-ийн GRH Lean баталгаажуулалтын хамаагүй богино хувилбар",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://news.ycombinator.com/item?id=50649864": {
+    "title": "HN-д хэлээрэй: Дахиад олон тооны Асуух HN-үүд",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://bjin.github.io/go-codegolf-benchmark/#leaderboard": {
+    "title": "GPT-6.2 Astra нь Google-ийн код гольфын дээд амжилтыг эвдэж чадсан анхны загвар юм.",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.openwall.com/lists/oss-security/2026/11/25/9": {
+    "title": "Ubuntu-ийн аюулгүй байдлын хариу өгөх хугацаа удаан",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features": {
+    "title": "Нью-Йорк Таймс сонин гэрэл зурагчдад Photoshop-ийг хиймэл оюун ухааны функцээр шинэчлэхгүй байхыг анхааруулж байна",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts": {
+    "title": "Home Depot-ийн ус хадгалах цөөрөмд сноркел хийсэн залуугаас асуух хэдэн асуулт",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work": {
+    "title": "Хүрдэн тооны машин хэрхэн ажилладаг байсан бэ?",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://aresluna.org/ui-style-guides/": {
+    "title": "Хадгалагдсан UI хэв маягийн гарын авлагуудын цуглуулга",
+    "summary": "Сэтгэгдлүүд"
+  },
+  "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/": {
+    "title": "S&P нь Nvidia-гийн зээлжих зэрэглэлийг засаглал болон \"гол хүн\"-ийн эрсдэлээс шалтгаалан бууруулахыг авч үзэж байна",
+    "summary": "Зээлжих зэрэглэлийн агентлаг Nvidia-ийн зээлжих зэрэглэлийг дөрөв дэх хамгийн өндөр зэрэглэл болох AA- болгон бууруулж магадгүй юм."
+  },
+  "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/": {
+    "title": "FCC SpaceX-ийн хиймэл оюун ухааны өгөгдлийн төвүүдийг сансарт байрлуулах төлөвлөгөөг баталлаа",
+    "summary": "FCC нь шинжлэх ухааны судалгаанд учирч болзошгүй аюул заналхийлэл зэрэг эсэргүүцэгчдийн гаргасан зарим гол асуудлыг үгүйсгэсэн бөгөөд учир нь тус агентлаг тэдгээрийг өөрийн зохицуулалтын эрх мэдлээс гадуур гэж үзсэн юм."
+  },
+  "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/": {
+    "title": "OpenAI-ийн мэдэгдсэнээр, ChatGPT-ийг ихээр ашигладаг хэрэглэгчид Chat болон Work-ийг нэгтгэснээр хязгаарлалтад илүү хурдан орох магадлалтай.",
+    "summary": "OpenAI нь ChatGPT-ийн чат болон ажлын туршлагуудыг нэгтгэж, нэгдсэн хэрэглээний тоолуур нэвтрүүлэх болно."
+  },
+  "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/": {
+    "title": "Женсен Хуан Nvidia-гийн ёс зүйн дүрмийг зөрчсөн бөгөөд түүний ажилчид үүнийг мартахгүй байж магадгүй юм.",
+    "summary": "Ихэнх зан үйлийн дүрэм нь аж ахуйн нэгжийн соёлыг тусгасан байдаг. Nvidia-гийн хувьд энэ нь үр дагавартай байж болно."
+  },
+  "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/": {
+    "title": "Цуцлагдсан Tesla Cybertruck нь Америкт хамгийн хурдан борлуулалттай ашигласан ачааны машин юм",
+    "summary": "Тесла Сайбертрак нь өнгөрсөн сард хамгийн хурдан борлуулалттай ашигласан ачааны машин байсан бөгөөд ерөнхий ачааны машины 65.5 хоногтой харьцуулахад зах зээл дээр дунджаар ердөө 39.1 хоног байсан."
+  },
+  "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/": {
+    "title": "Антропикийн Дарио Амодей хиймэл оюун ухаанд хүний хяналтыг шилжүүлэх тухай буруутгалыг \"утгагүй\" гэж нэрлэж байна",
+    "summary": "Anthropic-ийн Гүйцэтгэх захирал Дарио Амодей нь тэргүүлэх хиймэл оюун ухааны компаниуд өөрсдийн судалгаа, загвар боловсруулалтыг улам бүр автоматжуулж байхад хүний үйл хэргийг хиймэл оюун ухаанд шилжүүлэхийг дэмждэг гэсэн өрсөлдөгчдийнхөө буруутгалыг эсэргүүцэж байна."
+  },
+  "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/": {
+    "title": "1Password-ийн мэдээлснээр хакерууд дотоод системд нь нэвтэрсэн боловч хэрэглэгчдийн нууц үгүүд аюулгүй байгаа ажээ.",
+    "summary": "Нууц үгийн менежерийн үйлдвэрлэгч мэдэгдэхдээ, халдлага үйлдэгч нь ажилтны ажлын дансанд нэвтэрч, үйлчлүүлэгчдийн талаархи зарим мэдээллийг авсан гэжээ."
+  },
+  "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/": {
+    "title": "Энэхүү Зул сарын баяраар хүүхэддээ хиймэл оюун ухааны тоглоом худалдаж авахыг хүсэж байна уу? Нью-Йоркт биш",
+    "summary": "Common Sense Media-гийн шинэ судалгаагаар зохисгүй контентод өртөх, сэтгэл хөдлөлийн хөгжилд учирч болзошгүй эрсдэл зэрэг аюулгүй байдлын ноцтой зөрчлүүд илэрсэн тул Нью-Йорк хот хиймэл оюун ухааны чатбот тоглоомуудыг таван жилийн хугацаагаар хориглосон байна."
+  },
+  "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/": {
+    "title": "ХЗЯ нь кибер аюулгүй байдлын хуучин удирдагчийг хакеруудад нууцаар мөнгө төлж,ansomware-ын хохирогчдыг залилсан гэж буруутгаж байна",
+    "summary": "АНУ-ын прокурорууд уг хуучин удирдлагыг хакеруудад мөнгө төлж, хохирогчдоос илүү их мөнгө нэхэж, үлдэгдлийг нь өөртөө үлдээж, ransomware-ын хохирогчдыг залилсан гэж буруутгасан байна."
+  },
+  "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/": {
+    "title": "Character.AI-ийн хэрэглэгчдийн хувийн чатуудыг дуудлага худалдаанд гаргах төлөвлөгөөг мужийн ерөнхий прокурорууд эсэргүүцэв",
+    "summary": "Санал болгож буй Character.ai-ийн дампуурлын худалдаанд 2.1 сая нь насанд хүрээгүй хүмүүсийнх байх 21 сая гаруй АНУ-ын дансны нууц хувийн мэдээлэл багтаж байгааг мужийн ерөнхий прокурорууд мэдэгдсэн байна."
+  },
+  "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras": {
+    "title": "Одоо Google-ийн Танил царай хиймэл оюун ухааны функц Walmart-ын 35 долларын ухаалаг гэрийн камер дээр ч ажилладаг боллоо",
+    "summary": "Walmart-ын хямд үнэтэй ухаалаг гэрийн камерууд одоо Google-ийн танил царай таних функцийг ашиглан танай гэрийн эргэн тойронд байгаа хүмүүсийг таньж чадна. Google Home-ийн шинэ шинэчлэлт нь $35 үнэтэй Onn гадна камерын залгуур болон $77 үнэтэй Onn прожектор камерт танил царайг таних дэмжлэгийг нэмж байна..."
+  },
+  "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc": {
+    "title": "Amazon компани эргүүлэн татах тухай мэдэгдлийг илүү ихээр боловсруулахаас зайлсхийх сүүлийн оролдлогоо алдлаа",
+    "summary": "Амазон АНУ-ын Хэрэглээний барааны аюулгүй байдлын комисстой (CPSC) хийсэн хууль эрх зүйн маргаанаасаа хожигдсоны улмаас 400,000 гаруй аюултай бүтээгдэхүүнээ эргүүлэн татах үүрэгтэй боллоо. Мэриленд мужийн АНУ-ын Дүүргийн шүүх CPSC-ийн талд шийдвэр гаргасан бөгөөд CPSC нь Амазоныг ...-ийн түгээгч гэж үзсэн."
+  },
+  "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent": {
+    "title": "Google-ийн захиалгат хиймэл оюун ухааны видео тэжээлийн патент нь зугаа цэнгэлийн ирээдүйг бүрхэгээр дүрсэлж байна",
+    "summary": "Өнгөрсөн жил Google компани My Channel гэдэг системд патент мэдүүлсэн бөгөөд уг систем нь компани хэрэглэгчдийнхээ талаар мэддэг мэдээлэлд үндэслэн хувийн тохируулгатай, хиймэл оюун ухаанаар үүсгэсэн видео, сурталчилгаагаар дүүрэн фийдийг үүсгэх зориулалттай юм. Уг патентыг хүлээн аваагүй ч харамсалтай нь Google..."
+  },
+  "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026": {
+    "title": "Аялагчдад зориулсан The Verge-ийн 2026 оны баярын бэлгийн гарын авлага",
+    "summary": "Хүн бүрийн амьдралд ийм аялагч байдаг. Тэр хүн 14 цагийн галт тэрэгний аялалд гэртээ байгаа мэт санагддаг бол номхон амралтын өдөр буйдан дээр суухаас илүү таатай байдаг. Тэд олон хэлээр ярьдаг, ямаа шиг ходоодтой, хаа явсан газар нь найз нөхөдтэй болдог. Тэр хүн таны сүнслэг хань байсан ч, таны дургүй хүрдэг хүн байсан ч..."
+  },
+  "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages": {
+    "title": "WhatsApp-ын шинэ хуваарьт мессежүүд нь танд илгээх зөв цагийг сонгох боломжийг олгоно",
+    "summary": "WhatsApp-ийн 3 тэрбум хэрэглэгч хувийн харилцаа, бүлгийн чатын аль алинд нь урьдчилан мессеж хуваарьлах боломжтой болж байгаа бөгөөд энэ нь Meta-ийн хэлснээр хамгийн их хүсэлт гаргасан функцуудын нэг юм. Ихэнх мессеж илгээх платформууд үүнийг маш удаан хугацааны турш ашиглаж ирсэн боловч одоо энэ нь Wha дээр байна..."
+  },
+  "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant": {
+    "title": "Айова мужид армийн хяналттай дэлбэрэлтийн дараа агаарт хар тугалга \"байхгүй\" гэж АНУ-ын Байгаль орчны газраас мэдээллээ",
+    "summary": "АНУ-ын арми өнөөдөр Айова мужийн Мидлтаун хотын Айова армийн сум үйлдвэрлэх үйлдвэрт (IAAAP) 9,700 гаруй фунт хар тугалганы азидыг хяналттайгаар дэлбэлсэн нь гал асаагч, тэсрэх бөмбөгний тагт хэрэглэдэг материалын нөөцийн санамсаргүй дэлбэрэлтийг урьдчилан сэргийлэх шаардлагатай байсан гэж мэдэгдлээ."
+  },
+  "https://www.theverge.com/tech/1042409/1password-data-breach-leak": {
+    "title": "1Password-ийн зөрчлөөр хэрэглэгчдийн нэр, имэйл хаяг алдагдсан боловч нууц үг алдагдсангүй",
+    "summary": "1Password-ийн мэдээлснээр хакер нь тэдний арын системийн нэвтрэх эрхийг олж авснаар хэрэглэгчдийн нэр, имэйл хаягийг хулгайлсан байна. Зөрчил нь үйлчлүүлэгчдийн хадгалах газарт хадгалагдаж байсан нууц үг эсвэл бусад мэдээллийг илрүүлээгүй ч хэрэглэгчдийг фишинг халдлагын эрсдэлд оруулж болзошгүй гэж уг зөрчлийг илчилсэн нийтлэлд дурдсан байна..."
+  },
+  "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale": {
+    "title": "Fairphone 6 Plus нь модулийн бүтэцтэй, засварлах боломжтой бөгөөд одоо 100 доллараар хямдарч байна",
+    "summary": "Ихэнх ухаалаг гар утаснаас ялгаатай нь Fairphone 6 Plus нь гэртээ засварлах зориулалттай бөгөөд амархан солигдох эд ангиуд нь түүний ашиглалтын хугацааг ирээдүйд уртасгахад тусална. Энэ нь дундаж үнийн цэгийг зөвтгөхөд илүү хялбар болгодог, ялангуяа одоо үнэ нь 552.49 долларын шинэ доод түвшинд хүрсэн тул (ойролцоогоор…"
+  },
+  "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow": {
+    "title": "Нью-Йорк дахь хамгийн ганцаардмал пептидийн үдэшлэг",
+    "summary": "Энэ бол \"Optimizer\" бөгөөд Verge-ийн ахлах шүүмжлэгч Виктория Сонгоос илгээсэн долоо хоног тутмын мэдээллийн товхимол бөгөөд таны амьдралыг өөрчлөх болно гэж амлаж буй хамгийн сүүлийн үеийн төхөөрөмж, шийдлүүдийг дэлгэрэнгүй тайлбарлаж, хэлэлцдэг. Optimizer-т энд бүртгүүлнэ үү. Намрын бороотой оройн цагаар Челси Ма-д байрлах туршилтын урлагийн газар..."
+  },
+  "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": {
+    "title": "FCC нь SpaceX-ийн сансарт 1 сая хүртэлх мэдээллийн төвийн хиймэл дагуулыг байрлуулах төлөвлөгөөг баталлаа",
+    "summary": "Лхагва гарагийн мэдэгдэлдээ Холбооны Харилцаа Холбооны Комисс (FCC) Илон Маскын эзэмшлийн компанийн \"Starmind\" санаачилгын хүрээнд SpaceX компанид хиймэл оюун ухааны чиптэй 1 сая хүртэл хиймэл дагуулыг ажиллуулах зөвшөөрөл олгосноо мэдэгдлээ. Google зэрэг бусад хэд хэдэн компани мөн хиймэл оюун ухааны өгөгдлийн төвүүдийг сансарт байрлуулах санааг хэрэгжүүлж байна..."
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak95N3VGUTZral9OeUxMdTFPTmE5TWJ2VThkMmFOWDU4YzhGNDJYSEdFNHhyS1daTl9kVXB5S3hoMXpjdXhWM3Z6UzFydzBRWEYxYlE4QjJ0U2VDUGlGOERKdkcweDBUSlVSX2hvZEtnUExFU1owdC1MbUFUVF9CTnB1OGNRazFHTlg2bEFmQzhKSjlSVUFEemhpNjVNVWxVSDRGQW4xR0ZfQU1FLWZlNU5NTUZRT2J1MnJLU1otYXlTUQ?oc=5": {
+    "title": "Anthropic нь Claude-ийн үүсгэсэн ширээний аппликейшнүүдээр уламжлалт ширээний аппликейшнүүдийг устгахыг оролдож байна - SiliconANGLE",
+    "summary": "Anthropic нь Claude-ийн бүтээсэн ширээний аппликейшнүүдээр уламжлалт ширээний аппликейшнүүдийг устгахыг оролдож байна  SiliconANGLE"
+  },
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUJxLW9ZUWtVc0pTOVo1N3NOOExIUU5SQXJmQ2tsMEJOek4zdmFjWHFLM25FWW1scWRSaThpYkFhSjBaYVRYUmFzWFUwcW8tck1hellEMDRvTGN4TFlLemFCZ1FLellGRDZhSlFHWU1zUXQtdmw5SWI5UmlEcTJRVUpISENrMHVZZExSalJSLVBMMTdONk9yeGtB?oc=5": {
+    "title": "Антропикийн Клод гаралтыг програм хангамж болгон суулгаж болно - WSJ",
+    "summary": "Anthropic-ийн Claude Output-ыг програм хангамж болгон суулгаж болно  WSJ"
+  },
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ORnM2QXFuaDQ5RFo4ZldrWHJOWG9XTnR1a0tIc1FPa3JhN20tUWJNbGtWUWlSakdMTVMzYTFZeXg3QUJyaDJyNUduY1B3MVRhRWNwUm5CaXNhbXJiajVpbnNQNGhVdw?oc=5": {
+    "title": "Anthropic-ийн Claude Ship нь хиймэл оюун ухааны кодын агентуудын үүсгэсэн татах хүсэлтийн саадыг арилгана - The New Stack",
+    "summary": "Anthropic-ийн Claude Ship нь хиймэл оюун ухааны код бичигч агентуудын үүсгэсэн татах хүсэлтийн саадыг арилгана  The New Stack"
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3ZodFhQOUxtRVlOZjVrOXdVU3c5V0Z2QU1NVXQ2RFhaUllvcEtYa2x2X0s2QmVicWRzbmhxSG5wVmQ5WmlwNHdTZUVBTW9pb0R1TVoxT0pIbjJaYWkxUjBXbDRJLUJnVXp5UDNFZkhQc3FHNkU5LUtXSlpHV0t2NzVKSzJSdm12Z2JDNXpCZWo?oc=5": {
+    "title": "Хиймэл оюун ухааны аюулгүй байдлын төлөөлөгчид Anthropic-ийн талаар сөрөг хандлагатай байна - The Information",
+    "summary": "Хиймэл оюун ухааны аюулгүй байдлын төлөөлөгчид Anthropic-ийн талаар сөрөг хандлагатай байна  The Information"
+  },
+  "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc1hFcE5MWURoX29EZXNEXzBaU1A4RC1VZGlzUHBBWTUwdXJGSUQyTzh0Rm9NU09qN3lxS2pvdVBlN1JxdjBzY3E3ZFZEMUN1aVhlR3NuWWlEWE5ncEdxV3A3Wl9zeFhEQWZfcXdua3puSkp3MkpkaGl6S3N6UzFLMGZna3JabWgwUFp5N3pFaWlkbDlXWXdGQzdTZWk5XzFUMktnOEFVSnk4aVpETEZXUGEzci1kb19hd0NOMHdJS01MLV9CRENMWWVXMHc2LUd1RktsWUdRRF8zc0xkaDZ1aENsUDlpcGFaSmdF?oc=5": {
+    "title": "Антропик компани Клоуд хиймэл оюун ухаан эртний математикийн бодлогыг шийдсэн гэж мэдэгдсэн ч бичгийн нотолгоо нь 250,000 хуудас хог шүү - The Register",
+    "summary": "Антропик компани Клоуд хиймэл оюун ухаан нь эртний математикийн бодлогыг шийдсэн гэж мэдэгдсэн боловч бичгээр баталсан нотолгоо нь 250,000 хуудас хог  The Register"
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmhSTTlBS1NQRjBhTm9pZ0NndVg0RlFDcjBPU05qN0FieGI5R0hYVUR1VWEwejVnaG8yVEc1LTVsTnctYmZSRWlMWkd1Y2FHNVVXUC1nSnJsUTd6Y1ZrdlBRQy1Fdlk1ZDlUTTRBM2JwdE9HRHhSZjR0VUtnMUtsQWlaNDk3dWNZTnVQTg?oc=5": {
+    "title": "Эрт үеийн үр дүн: Anthropic нь Claude Opus 5.6-г A/B туршиж байна - TestingCatalog AI Мэдээ",
+    "summary": "Эрт үеийн үр дүн: Anthropic нь Claude Opus 5.6-г A/B туршиж байна  TestingCatalog AI Мэдээ"
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWprSmNQa2c3ckpWZTA3eU50VklIMnRaaDFWeHA4N2RlVlo3WjhVYkt0dXJ2aGllSDFSVUxfeG1kd2VlS0Iwel9VZTNLYkdaSGZVc2VTaWxXbDBFS3NpNHd5RnlQMDRqckxOTHlpYUllcFpLWExnb0ZzUXJGYTZ2OHlwSnZ1M2p3VEo1RlUybFdPQQ?oc=5": {
+    "title": "Anthropic-ийн Claude одоо таны ажлын урсгалыг ширээний аппликейшн болгож чадна. Эндээс хэрхэн эхлэхийг үзнэ үү - Inc.com",
+    "summary": "Anthropic-ийн Claude одоо таны ажлын урсгалыг ширээний аппликейшн болгож чадна. Эхлэх арга  Inc.com"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-26/macy-s-parade-pushed-to-saturday-us-unveils-new-tariffs-more": {
+    "title": "Мэйсигийн парадыг Бямба гараг руу хойшлууллаа, АНУ шинэ тарифуудыг зарлалаа, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/viettel-singtel-building-subsea-cable-for-data-hungry-vietnam": {
+    "title": "Viettel, Singtel компаниуд өгөгдлийн хэрэгцээ ихтэй Вьетнамын төлөө далайн ёроолын кабель татаж байна",
+    "summary": "Вьетнамын интернетийн зурвасын өргөнийн эрэлт хэрэгцээ хурдацтай өсөж буйтай холбогдуулан Виеттел Групп болон Сингапур Телекоммьюникейшнс компанийн удирдсан консорциум Хо Ши Мин хотод далайн ёроолын кабелийн системийг барьж эхэлж байна."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-26/bloomberg-daybreak-asia-dip-buyers-stabilize-ai-trade-podcast": {
+    "title": "Bloomberg Daybreak Asia: Уналтын үед худалдан авагчид хиймэл оюун ухааны худалдааг тогтворжуулж байна (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/starbucks-korea-sees-profit-return-after-tank-day-backlash": {
+    "title": "\"Танкын өдөр\"-ийн эсэргүүцлийн дараа \"Старбакс Кореа\" ашиг орлогоо нөхөн олж авлаа",
+    "summary": "Старбакс Кореа нь энэ оны эхээр анх удаагаа алдагдалтай ажиллахад нөлөөлсөн маргаантай \"Танкын өдөр\"-ийн сурталчилгааны улмаас үүссэн олон нийттэй харилцах харилцааны хямралаас сэргэх шинж тэмдэг илэрч байгаа тул дөрөв дэх улиралд ашигтай ажиллана гэж мэдэгдлээ."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-26/bloomberg-australia-jensen-huang-and-the-ai-trade-podcast": {
+    "title": "Bloomberg Австрали: Жэнсэн Хуан ба хиймэл оюун ухааны худалдаа (Подкаст)",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-26/macy-s-parade-postponed-us-reveals-new-tariffs-more": {
+    "title": "Мэйсигийн парад хойшлогдлоо, АНУ шинэ тарифуудыг зарлалаа, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-26/macy-s-postpones-thanksgiving-parade-new-us-tariffs-more": {
+    "title": "Macy's Талархлын баярын парадыг хойшлууллаа, АНУ-ын шинэ татвар, бусад",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-26/macy-s-parade-delayed-by-weather-us-announces-new-tariffs-more": {
+    "title": "Цаг агаарын нөхцөл байдлаас шалтгаалан Мэйсисийн парад хойшилсон, АНУ шинэ тарифаа зарласан, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-26/hong-kong-fire-survivors-remember-the-disaster-one-year-later": {
+    "title": "Хонконгийн галаас амьд үлдсэн хүмүүс нэг жилийн дараа гамшгийг санаж байна",
+    "summary": "Аюулт галын хохирогчдын амьдрал, нэг жилийн дараа."
+  },
+  "https://www.bloomberg.com/news/audio/2026-11-26/weather-delays-macy-s-parade-us-reveals-new-tariffs-more": {
+    "title": "Цаг агаарын нөхцөл байдлаас шалтгаалан Мэйсисийн парад хойшилж, АНУ шинэ тарифт мэдээлэл хийж, бусад мэдээ",
+    "summary": "Эх сурвалж: Bloomberg, 0:00"
+  },
+  "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/": {
+    "title": "Аймшигт стартап нэрийн урлаг",
+    "summary": "Нийтлэлийн URL: https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/ Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50643687 Оноо: 4 # Сэтгэгдэл: 0"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events": {
+    "title": "xAI-ийн үүсгэн байгуулагчид ирээдүйн үйл явдлыг урьдчилан таамаглах шинэ хиймэл оюун ухааны стартапыг танилцууллаа",
+    "summary": "Нийтлэлийн URL: https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50641332 Оноо: 4 # Сэтгэгдэл: 3"
+  },
+  "https://inside.java/2025/01/28/jvm-start-up/": {
+    "title": "JVM эхлэх талаар дэлгэрэнгүй мэдээлэл",
+    "summary": "Нийтлэлийн URL: https://inside.java/2025/01/28/jvm-start-up/ Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50641193 Оноо: 1 # Сэтгэгдэл: 0"
+  },
+  "https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup": {
+    "title": "Инженерүүд бүртгэлийн дэвтэр үүсгэхдээ стартап алдаа гаргахгүй",
+    "summary": "Нийтлэлийн URL: https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup Сэтгэгдлийн URL: https://news.ycombinator.com/item?id=50641015 Оноо: 4 # Сэтгэгдэл: 0"
+  },
+  "https://www.entrepreneur.com/business-news/stop-using-ai-as-an-excuse-for-layoffs-heres-how-to-use-ai-to-retain-talent-instead": {
+    "title": "Хиймэл оюун ухааныг ажилтнуудыг ажлаас халах шалтгаан болгохоо зогсоо. Үүний оронд авьяаслаг хүнийг хадгалахын тулд хиймэл оюун ухааныг хэрхэн ашиглахыг эндээс үзнэ үү.",
+    "summary": "Багаа багасгах бус, чадавхийг нь нэмэгдүүлэхийн тулд хиймэл оюун ухааныг хэрхэн ашиглах вэ."
+  },
+  "https://www.entrepreneur.com/business-news/hurt-by-inflation-here-are-13-real-world-ways-to-cut-costs-in-your-business": {
+    "title": "Инфляци таныг хохироож байна уу? Энд таны бизнесийн зардлыг бууруулах бодит 13 арга байна",
+    "summary": "Инфляци өндөр хэвээр байгаа тул эдгээр энгийн арга хэмжээ нь таны бизнесийн зардлыг бууруулах боловч таны үйл ажиллагааг удаашруулахгүй."
+  },
+  "https://www.entrepreneur.com/business-news/top-10-best-office-gadgets-on-sale-for-black-friday": {
+    "title": "Хар Баасан гарагийн хямдралаар худалдаалагдаж буй шилдэг 10 оффисын хэрэгсэл",
+    "summary": "Aura дижитал зурагны жаазнуудаас эхлээд Pocket AI дуу хураагч хүртэл эдгээр нь Хар Баасан гарагийн хямдралтай гайхалтай оффисын хэрэгслүүд юм."
+  },
+  "https://www.entrepreneur.com/building-a-business/i-paid-my-team-a-bonus-for-doing-more-and-the-work-got-worse-heres-what-it-taught-me": {
+    "title": "Би багтаа илүү их ажил хийсний төлөө урамшуулал өгсөн — тэгсэн чинь ажлын чанар улам муудсан. Энэ нь надад юу заасан бэ гэвэл.",
+    "summary": "Би багтаа видеоны зорилтод хүрсний төлөө мөнгөн урамшуулал олгосон. Гомдол нэмэгдэж, цуцлалт 13%-д хүрсэн. Энд өгөгдлөөс харагдсан зүйлс болон үүнийг зассан зүйлсийг харуулж байна."
+  },
+  "https://www.entrepreneur.com/building-a-business/your-plan-for-next-year-could-be-in-trouble-before-it-even-begins-unless-you-ask-the-right-question": {
+    "title": "Зөв асуулт асуухгүй бол таны ирэх жилийн төлөвлөгөө эхлэхээсээ өмнө асуудалтай тулгарч магадгүй юм.",
+    "summary": "Энэ жилийн дуусаагүй ажил нь удирдагчдаас эрэмбэлэхийг шаарддаг шинэ тэргүүлэх чиглэлүүдийн дунд оролгүйгээр ирэх жилийн хүний нөөц, төсвийг зарцуулдаг."
+  },
+  "https://www.entrepreneur.com/building-a-business/a-finished-project-could-still-be-costing-your-business-heres-where-to-look": {
+    "title": "Дууссан төсөл танай бизнест одоо ч зардал гаргаж байж магадгүй. Хаанаас харахыг эндээс үзнэ үү.",
+    "summary": "Төслийг амжилттай дуусгасан гэдэг нь ажил дууссан гэсэн үг биш юм. Яагаад гэвэл."
+  },
+  "https://www.entrepreneur.com/business-news/eva-longoria-best-advice-for-entrepreneurs-this-small-business-saturday": {
+    "title": "Ева Лонгориа \"Санаагаа бодит зүйл болгоход юу хэрэгтэйг\" мэднэ. Энэхүү Жижиг Бизнесийн Бямба гарагт түүний бизнес эрхлэгчдэд өгөх хамгийн сайн зөвлөгөө энд байна.",
+    "summary": "Жүжигчин, бизнес эрхлэгч, хөрөнгө оруулагч бүсгүй жижиг бизнесийн эздийн ар талд яагаад зогсож байгаагаа хуваалцаж, тусламж хүссэн үүсгэн байгуулагчдад өгдөг зөвлөгөөгөө хуваалцлаа."
+  },
+  "https://www.entrepreneur.com/business-news/tech/a-4-question-test-for-deciding-where-ai-belongs-in-your-business": {
+    "title": "Танай бизнест хиймэл оюун ухаан хаана байхыг шийдэх 4 асуултын тест",
+    "summary": "Бүх бизнес хиймэл оюун ухааныг нэвтрүүлж байна. Үүнийг хамгийн сайн ашигладаг бизнесүүд бол үүнийг хаана ашиглах, хэрхэн туршихыг мэддэг бизнесүүд юм."
+  },
+  "https://www.entrepreneur.com/business-news/tech/elon-musk-is-building-the-future-we-saw-in-the-movies-so-whos-imagining-the-technology-of-tomorrow": {
+    "title": "Элон Маск бидний киноноос харсан ирээдүйг бүтээж байна. Тэгвэл маргаашийн технологийг хэн төсөөлж байна вэ?",
+    "summary": "Өмнөх үеийнхэн зөвхөн мөрөөдөж л байсан хэрэгслүүдээр зэвсэглэсэн шинэ үеийн бизнес эрхлэгчид бий болж байна."
+  },
+  "https://www.entrepreneur.com/business-news/amazon-tech-leaders-famous-morning-routine-starts-at-4-a-m-with-ai-agent": {
+    "title": "Энэхүү Amazon-ын Технологийн удирдагч өглөөний 4 цагийн \"алдартай\" өглөөний дэглэмтэй. Энэ нь хиймэл оюун ухааны агентээс эхэлдэг.",
+    "summary": "Amazon Web Services-ийн хиймэл оюун ухаан, технологийн ахлах мэргэжилтэн бэлтгэлээ хангах ажлыг хялбаршуулахын тулд хиймэл оюун ухааны агентийг хэрхэн ашигладгийг эндээс үзнэ үү."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/dubai-bank-merger-to-create-159-billion-islamic-lending-giant": {
+    "title": "Дубай 159 тэрбум долларын Исламын банкны аварга байгуулах гэрээ байгууллаа",
+    "summary": "Дубай Исламын Банк PJSC нь нийт хувьцааны гэрээгээр Эмиратс Исламын Банк PJSC-ийг худалдаж авч байгаа бөгөөд энэ нь нийт хөрөнгийн хэмжээ нь ойролцоогоор 159 тэрбум доллартай тэнцэх дэлхийн хамгийн том Исламын банкны бүлгүүдийн нэгийг байгуулах юм."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million": {
+    "title": "Адани компанийн салбарууд дор хаяж 220 сая доллар босгохын тулд олон нийтийн бондыг борлуулахыг төлөвлөж байна",
+    "summary": "Энэтхэгийн тэрбумтан Гаутам Аданигийн хяналтад байдаг хоёр компани олон нийтийн бондыг борлуулан дор хаяж 20 тэрбум рупи (220 сая доллар) босгохыг хүсэж байгаа нь тус улсын дотоодын олон нийтийн өрийн зах зээлийг өсгөх болно гэж энэ асуудлыг мэдэх хүмүүс хэлж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging": {
+    "title": "Японы амь насны даатгалын компаниуд хамгаалалтын хэмжээг урьд өмнө байгаагүй бага түвшинд хүргэснээр иенийн эсрэг тэмцлийг улам хүндрүүлж байна",
+    "summary": "Японы хамгийн том амь насны даатгалын компаниуд санхүүгийн жилийн эхний хагаст валютын хамгаалалтаа урьд өмнө байгаагүй бага түвшинд хүртэл бууруулсны дараа Японы иенийг бэхжүүлэх зорилготой нэгдсэн хүчин чармайлт нь ноцтой саад бэрхшээлтэй тулгарч байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26": {
+    "title": "11-р сарын 26-ны газрын тосны зах зээлийн хамгийн сүүлийн үеийн мэдээ, шинжилгээ",
+    "summary": "Ойрхи Дорнодод дайны ажиллагаа үргэлжилсээр байгаа нь тус бүс нутгийн түүхий нефтийн экспортыг сэргээхэд саад учруулж болзошгүй тул нефтийн үнэ хоёр өдрийн турш өсөлттэй байлаа."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade": {
+    "title": "Хиймэл оюун ухааны хувьцааны уналт нь нэгэн цагт найдвартай байсан Кэрри трейдийг унагаж байна",
+    "summary": "2026 оны Уолл Стритийн хамгийн найдвартай бооцооны нэг нь өөрийн баталгаатай байдлаа алдаж эхэлж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates": {
+    "title": "Тайвань, Солонгосын технологийн салбарын өсөлтөөр Азийн хөрөнгийн зах зээл өсч байна: Зах зээлийн тойм",
+    "summary": "Хиймэл оюун ухааны худалдааны талаарх эргэлзээний улмаас Сангийн үнэт цааснууд руу шилжсэний дараа Уолл Стрийт дээр сүүлийн үеийн сэргэлт нь зах зээлд тодорхой тогтвортой байдлыг авчирсан тул Азийн хувьцаанууд өсчээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals": {
+    "title": "Металлуудын үнийн хэлбэлзэл нэмэгдэж байгаатай холбоотойгоор зэсийн үнэ энэ жилийн хамгийн доод түвшнээсээ өсч байна",
+    "summary": "Зэсний үнэ 11 сарын доод түвшнээс 3%-иас илүүгээр өсч, хиймэл оюун ухааны өсөлт болон үүнтэй холбоотой аж үйлдвэрийн металлын эрэлтийн тогтвортой байдлын талаар эргэлзээ үргэлжилж байсан ч технологийн хувьцааны өсөлтийг дагасан байна."
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-26/rupee-hits-8-month-high-as-india-november-stock-inflows-reach-14-7-billion": {
+    "title": "Энэтхэгийн 11-р сарын хөрөнгийн шилжилт 14.7 тэрбум долларт хүрснээр рупи сүүлийн 8 сарын дээд түвшинд хүрэв: INR",
+    "summary": "ANZ Банкны бүлэг нь рупийн ханш долларын эсрэг 90-91 хүртэл цаашид өсөх боломжтой гэж үзэж байна."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation": {
+    "title": "Японы Банкны хатуу бодлого баримталдаг гишүүн инфляцын улмаас хүүг хурдан өсгөх хүсэлтэй байна",
+    "summary": "Японы Банкны бодлогын зөвлөлийн хатуу байр суурьтай гишүүн Японы Банкны үндсэн хүүг өсгөх ажлыг эртнээс эхлүүлэхийг уриалж, ирэх сард хүүг нэмэгдүүлэх зах зээлийн хүлээлтийг дэмжжээ."
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/kk-mart-starts-112-million-ipo-delayed-by-malaysia-socks-row": {
+    "title": "KK Mart-ын 112 сая долларын IPO Малайзын оймсны маргаанаас болж хойшиллоо",
+    "summary": "Анхны олон нийтийн хувьцаагаа гаргах оролдлого нь шашны маргаанаас болж хойшилсон Малайзын хүнсний дэлгүүрийн сүлжээ болох KK Mart Retail Bhd. нь улс орон даяар хэдэн зуун салбар нэмэхээр бэлтгэж байх үедээ 462 сая рингит (112 сая доллар)-ын хувьцаа борлуулах гэж байна."
+  },
+  "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679": {
+    "title": "Хиймэл оюун ухааны эрсдэлийн талаарх АНУ-ын тогтворгүй арилжааны дараа Азийн хөрөнгийн зах зээл өсөлттэй байна",
+    "summary": "Энэ сард хиймэл оюун ухааны өсөлт тогтвортой байж чадах эсэхэд эргэлзэж байгаагаас болж технологийн хувьцаанууд унасан байна."
+  },
+  "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa": {
+    "title": "Солонгосын банк хиймэл оюун ухааны чипний өсөлтийн үед хүүний ханшийг нэмэгдүүллээ",
+    "summary": "Энэ жилийн гурав дахь улирлын өсөлтөөр үндсэн хүү 3.25 хувьд хүрэв"
+  },
+  "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d": {
+    "title": "\"Anflopic\" нь OpenAI-ийн IPO-ийн хэтийн төлөвт муугаар нөлөөлнө",
+    "summary": "Claude-ийн бүтээгч нь жагсаалтаа дээд хязгаарт хүргэснээр өөрийгөө дагахад хэцүү болгосон."
+  },
+  "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1": {
+    "title": "МакКинсигийн хуучин түнш 500 тэрбум долларын хөрөнгө удирдагчийг хэрхэн эргүүлэн инженерчилсэн бэ",
+    "summary": "Абу Дабигийн Mubadala Capital-ийн дэмжлэгтэйгээр Corient нь өндөр хөрөнгөтэй үйлчлүүлэгчдэд үйлчилдэг 57 компанийг худалдаж авсан бөгөөд цаашид ч илүү ихийг хайж байна."
+  },
+  "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1": {
+    "title": "Хатагтай Такаичи ба хатагтай Ватанабэ: Японы ирэх санхүүгийн мөргөлдөөн",
+    "summary": "Хэвийн байдал тогтох нь өрхүүдийг зөвхөн өгөөж хайхад хүргээд зогсохгүй, тэдэнд зах зээлийг гайхшруулах хурдацтай өсөн нэмэгдэж буй хүчийг өгсөн."
   }
 }
